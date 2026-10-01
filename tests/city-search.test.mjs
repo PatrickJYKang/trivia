@@ -23,3 +23,25 @@ test('accent, local names, country qualification and ambiguous names',()=>{
  assert.deepEqual(searchCities(index,'x'),[]);
  assert.deepEqual(searchCities(index,'zzzzzzzzzzzzz'),[]);
 });
+
+test('hard mode has a broad searchable deck with valid framing and no districts',async()=>{
+ const {createHardCities}=await import('../dist/hard-cities.js');
+ const hard=createHardCities(rows);
+ assert.ok(hard.length>5000);
+ assert.ok(new Set(hard.map(c=>c.country)).size>150);
+ assert.equal(new Set(hard.map(c=>c.id)).size,hard.length);
+ const raw=new Map(rows.map(r=>[r[0],r]));
+ const searchable=new Set(index.map(c=>c.id));
+ const standard=new Set(cities.map(c=>c.id));
+ assert.ok(hard.filter(c=>!standard.has(c.id)).length>5000);
+ for(const c of hard){
+   assert.ok(searchable.has(c.id));
+   assert.ok(raw.get(c.id)[4]>=100000);
+   assert.notEqual(raw.get(c.id)[8],'PPLX');
+   assert.ok(c.zoom>=9&&c.zoom<=12.5&&Number.isFinite(c.zoom));
+   assert.ok(Math.abs(c.center[0])<=180&&Math.abs(c.center[1])<=85);
+ }
+ const samples=createHardCities([[1,'A','US','',100000,[],0,10,'PPL'],[2,'B','US','',100000,[],60,10,'PPL'],[3,'District','US','',100000,[],0,10,'PPLX'],[4,'Town','US','',99999,[],0,10,'PPL']]);
+ assert.equal(samples.length,2);
+ assert.ok(samples[1].zoom<samples[0].zoom);
+});

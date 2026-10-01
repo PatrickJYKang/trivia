@@ -9,7 +9,7 @@ rows = []
 with zipfile.ZipFile(sys.argv[1]) as archive:
     for line in archive.read('cities15000.txt').decode().splitlines():
         f = line.split('\t')
-        rows.append([int(f[0]), f[1], f[8], admin.get(f[8]+'.'+f[10], ''), int(f[14]), list(dict.fromkeys([f[2], *f[3].split(',')])), float(f[4]), float(f[5])])
+        rows.append([int(f[0]), f[1], f[8], admin.get(f[8]+'.'+f[10], ''), int(f[14]), list(dict.fromkeys([f[2], *f[3].split(',')])), float(f[4]), float(f[5]), f[7]])
 rows.sort(key=lambda r: -r[4])
 out = Path(__file__).resolve().parents[1] / 'dist/city-database.json'
 out.write_text(json.dumps(rows, ensure_ascii=False, separators=(',', ':')))
