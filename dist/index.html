@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trivia — City Guess</title>
+<meta name="description" content="Guess the city from its roads, map, and satellite imagery. A collection of trivia games by Patrick.">
+<link rel="icon" href="https://raw.githubusercontent.com/PatrickJYKang/sports-event-rarity/main/assets/favicon.png">
+<link rel="stylesheet" href="vendor/maplibre-gl.css"><link rel="stylesheet" href="style.css">
+<script defer src="vendor/maplibre-gl.js"></script><script type="module" src="app.js"></script>
+</head>
+<body>
+<header class="site-header"><a class="wordmark" href="./">trivia<span> / </span></a><span class="header-note">Patrick’s game collection</span></header>
+<main>
+<nav class="game-nav" aria-label="Games"><a href="./" aria-current="page"><span class="game-number">01</span> City Guess</a></nav>
+<section class="game" aria-labelledby="game-title">
+<div class="game-heading"><div><p class="eyebrow">GEOGRAPHY</p><h1 id="game-title">City Guess</h1></div><div class="stats"><div><span>Round</span><strong id="round">01</strong></div><div><span>Score</span><strong id="score">0</strong></div></div></div>
+<div class="stage-bar" aria-label="Clue levels"><button class="stage active" data-stage="0" aria-pressed="true"><span class="step">1</span><span>Major roads</span><small>3 pts</small></button><button class="stage" data-stage="1" disabled aria-pressed="false"><span class="step">2</span><span>Map</span><small>2 pts</small></button><button class="stage" data-stage="2" disabled aria-pressed="false"><span class="step">3</span><span>Satellite</span><small>1 pt</small></button></div>
+<div class="map-wrap"><div id="map" role="img" aria-label="Major roads of a mystery city"></div><div class="north" aria-hidden="true">N<span>↑</span></div><div id="map-status" class="map-status" role="status"><span>Loading map…</span><button id="retry" hidden>Retry</button></div><span class="map-caption" id="map-caption">MAJOR ROADS ONLY</span></div>
+<div class="attribution" id="attribution">© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors · © <a href="https://carto.com/attributions" target="_blank" rel="noreferrer">CARTO</a></div>
+<div class="play-area"><div class="prompt-line"><label for="guess" id="prompt">Which city is this?</label><span id="points">3 points available</span></div>
+<form id="guess-form"><input id="guess" name="city" placeholder="Enter a city…" aria-label="City name" autocomplete="off" spellcheck="false" required maxlength="100" disabled><button class="primary" id="submit" disabled>Guess <span aria-hidden="true">↵</span></button></form>
+<div class="below-form"><p id="feedback" role="status">One guess per level. Reveal more if you need it.</p><button class="text-button" id="reveal" disabled>Reveal map</button></div>
+<div id="result" hidden><div><h2 id="answer"></h2><p id="result-detail"></p></div><button class="primary" id="next">Next city</button></div></div>
+</section>
+<footer><span>Roads → Map → Satellite</span><span>No labels. Just the city.</span></footer>
+</main>
+</body></html>
