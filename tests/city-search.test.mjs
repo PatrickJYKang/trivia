@@ -7,6 +7,8 @@ const rows=JSON.parse(readFileSync(new URL('../dist/city-database.json',import.m
 const index=createIndex(rows,cities);
 test('large database includes every playable city and its aliases',()=>{
  assert.ok(index.length>25000);
+ assert.equal(cities.length,100);
+ assert.equal(new Set(cities.map(c=>c.id)).size,100);
  for(const city of cities){
    const record=rows.find(r=>r[0]===city.id);assert.ok(record,city.name);
    assert.ok(Math.abs(record[6]-city.center[1])<.5,city.name);
@@ -27,16 +29,18 @@ test('accent, local names, country qualification and ambiguous names',()=>{
 test('hard mode has a broad searchable deck with valid framing and no districts',async()=>{
  const {createHardCities}=await import('../dist/hard-cities.js');
  const hard=createHardCities(rows);
- assert.ok(hard.length>5000);
+ assert.equal(hard.length,1000);
+ assert.deepEqual(createHardCities([...rows].reverse()).map(c=>c.id),hard.map(c=>c.id));
  assert.ok(new Set(hard.map(c=>c.country)).size>150);
  assert.equal(new Set(hard.map(c=>c.id)).size,hard.length);
  const raw=new Map(rows.map(r=>[r[0],r]));
  const searchable=new Set(index.map(c=>c.id));
  const standard=new Set(cities.map(c=>c.id));
- assert.ok(hard.filter(c=>!standard.has(c.id)).length>5000);
+ assert.equal(hard.filter(c=>!standard.has(c.id)).length,900);
+ for(const c of cities)assert.ok(hard.some(h=>h.id===c.id));
  for(const c of hard){
    assert.ok(searchable.has(c.id));
-   assert.ok(raw.get(c.id)[4]>=100000);
+   assert.ok(standard.has(c.id)||raw.get(c.id)[4]>=100000);
    assert.notEqual(raw.get(c.id)[8],'PPLX');
    assert.ok(c.zoom>=9&&c.zoom<=12.5&&Number.isFinite(c.zoom));
    assert.ok(Math.abs(c.center[0])<=180&&Math.abs(c.center[1])<=85);
