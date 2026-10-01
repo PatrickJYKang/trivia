@@ -1,3 +1,4 @@
+const geonameIds = [2988507, 2643743, 5128581, 1850147, 3128760, 3169070, 2759794, 5391959, 4887398, 4140963, 3530597, 3435910, 3451190, 3448439, 360630, 3369157, 745044, 292223, 1275339, 1609350, 1880252, 1835848, 2147714, 2158177, 2950159, 3117735, 1816670, 5368361, 6167865, 3164603];
 export const cities = [
 ['Paris','France',2.3522,48.8566,10.5,[]],
 ['London','United Kingdom',-.1276,51.5072,10.4,[]],
@@ -29,4 +30,4 @@ export const cities = [
 ['Los Angeles','United States',-118.2437,34.0522,10.2,['la']],
 ['Toronto','Canada',-79.3832,43.6532,10.4,[]],
 ['Venice','Italy',12.3155,45.4408,11.1,['venezia']]
-].map(([name,country,lng,lat,zoom,aliases])=>({name,country,center:[lng,lat],zoom,aliases}));
+].map(([name,country,lng,lat,zoom,aliases],i)=>({id:geonameIds[i],name,country,center:[lng,lat],zoom,aliases}));

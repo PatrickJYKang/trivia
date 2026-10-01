@@ -18,10 +18,10 @@
 <div class="map-wrap"><div id="map" role="img" aria-label="Major roads of a mystery city"></div><div class="north" aria-hidden="true">N<span>↑</span></div><div id="map-status" class="map-status" role="status"><span>Loading map…</span><button id="retry" hidden>Retry</button></div><span class="map-caption" id="map-caption">MAJOR ROADS ONLY</span></div>
 <div class="attribution" id="attribution">© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors · © <a href="https://carto.com/attributions" target="_blank" rel="noreferrer">CARTO</a></div>
 <div class="play-area"><div class="prompt-line"><label for="guess" id="prompt">Which city is this?</label><span id="points">3 points available</span></div>
-<form id="guess-form"><input id="guess" name="city" placeholder="Enter a city…" aria-label="City name" autocomplete="off" spellcheck="false" required maxlength="100" disabled><button class="primary" id="submit" disabled>Guess <span aria-hidden="true">↵</span></button></form>
-<div class="below-form"><p id="feedback" role="status">One guess per level. Reveal more if you need it.</p><button class="text-button" id="reveal" disabled>Reveal map</button></div>
+<form id="guess-form"><div class="city-search"><input id="guess" name="city" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="city-options" aria-describedby="search-status" placeholder="Search cities…" aria-label="City name" autocomplete="off" spellcheck="false" required maxlength="150" disabled><ul id="city-options" role="listbox" aria-label="Cities" hidden></ul><span id="search-status" class="sr-only" role="status"></span></div><button class="primary" id="submit" disabled>Guess <span aria-hidden="true">↵</span></button></form>
+<div class="below-form"><p id="feedback" role="status">Find a city. Earlier guesses earn more points.</p><button class="text-button" id="reveal" disabled>Reveal map</button></div>
 <div id="result" hidden><div><h2 id="answer"></h2><p id="result-detail"></p></div><button class="primary" id="next">Next city</button></div></div>
 </section>
-<footer><span>Roads → Map → Satellite</span><span>No labels. Just the city.</span></footer>
+<footer><span>Roads → Map → Satellite</span><span>City search: <a href="https://www.geonames.org/" target="_blank" rel="noreferrer">GeoNames</a> · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">CC BY 4.0</a></span></footer>
 </main>
 </body></html>
