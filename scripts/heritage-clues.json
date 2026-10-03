@@ -1,0 +1,9069 @@
+{
+  "1": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "2": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "3": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "4": {
+    "continent": "North America",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "8": {
+    "continent": "Africa",
+    "criteria": [
+      "x"
+    ]
+  },
+  "9": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "10": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "12": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "13": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "15": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "17": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "18": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "19": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "20": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "21": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "22": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "23": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "24": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "25": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "26": {
+    "continent": "Africa",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "27": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "28": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "29": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "30": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "31": {
+    "continent": "Europe",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "32": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "33": {
+    "continent": "Europe",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "34": {
+    "continent": "Africa",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "35": {
+    "continent": "Africa",
+    "criteria": [
+      "v"
+    ]
+  },
+  "36": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "37": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "38": {
+    "continent": "Africa",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "39": {
+    "continent": "Africa",
+    "criteria": [
+      "iv",
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "42": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "43": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "44": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "45": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "55": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "58": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "59": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "63": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "viii",
+      "x"
+    ]
+  },
+  "64": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "iii",
+      "iv",
+      "ix",
+      "x"
+    ]
+  },
+  "65": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "71": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "72": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "75": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "76": {
+    "continent": "North America",
+    "criteria": [
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "78": {
+    "continent": "North America",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "79": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "80": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "81": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "83": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "84": {
+    "continent": "Europe",
+    "criteria": [
+      "i"
+    ]
+  },
+  "85": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "86": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "87": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "88": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "89": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "v"
+    ]
+  },
+  "90": {
+    "continent": "Africa",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "91": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "93": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "94": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "95": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "96": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "97": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "98": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix"
+    ]
+  },
+  "99": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv",
+      "vii"
+    ]
+  },
+  "100": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii",
+      "x"
+    ]
+  },
+  "102": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "111": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "113": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "114": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "115": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "v"
+    ]
+  },
+  "116": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "119": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "120": {
+    "continent": "Asia",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "121": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "124": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "125": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "129": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "130": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "131": {
+    "continent": "Europe",
+    "criteria": [
+      "i"
+    ]
+  },
+  "132": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "134": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "135": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "136": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "137": {
+    "continent": "Africa",
+    "criteria": [
+      "x"
+    ]
+  },
+  "138": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "139": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "140": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "143": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "144": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "145": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "147": {
+    "continent": "Oceania",
+    "criteria": [
+      "i",
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "148": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "149": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "150": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "x"
+    ]
+  },
+  "151": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "153": {
+    "continent": "Africa",
+    "criteria": [
+      "x"
+    ]
+  },
+  "154": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "155": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "156": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "157": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "158": {
+    "continent": "North America",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "159": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "160": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "162": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "163": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "164": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "165": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "166": {
+    "continent": "Oceania",
+    "criteria": [
+      "i"
+    ]
+  },
+  "167": {
+    "continent": "Oceania",
+    "criteria": [
+      "iii",
+      "viii"
+    ]
+  },
+  "168": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "169": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "170": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "171": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "173": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "174": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "175": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "179": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii",
+      "vii",
+      "viii"
+    ]
+  },
+  "180": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "181": {
+    "continent": "Oceania",
+    "criteria": [
+      "iii",
+      "iv",
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "183": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "184": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "185": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "186": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "187": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "188": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "189": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "190": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "191": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "192": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "193": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "194": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "195": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "196": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "198": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "199": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "200": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "201": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "202": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "203": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "204": {
+    "continent": "North America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "205": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "206": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "208": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "211": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "216": {
+    "continent": "Europe",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "217": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "219": {
+    "continent": "Europe",
+    "criteria": [
+      "x"
+    ]
+  },
+  "225": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix"
+    ]
+  },
+  "227": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "228": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "229": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "230": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "231": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "232": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "233": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "234": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "239": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "240": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "241": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "242": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "243": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "244": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "246": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "247": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "249": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "250": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "251": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "252": {
+    "continent": "Asia",
+    "criteria": [
+      "i"
+    ]
+  },
+  "255": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "256": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "258": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii",
+      "x"
+    ]
+  },
+  "259": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "260": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "261": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "262": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "263": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "264": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "265": {
+    "continent": "Europe",
+    "criteria": [
+      "i"
+    ]
+  },
+  "266": {
+    "continent": "North America",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "267": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "268": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "269": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "271": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "272": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "273": {
+    "continent": "South America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "274": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iii",
+      "vii",
+      "ix"
+    ]
+  },
+  "275": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "276": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "277": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "278": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "280": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "284": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "285": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "286": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "287": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "288": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "289": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "292": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "293": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "294": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "295": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "299": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "300": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "302": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "303": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "304": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "306": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "307": {
+    "continent": "North America",
+    "criteria": [
+      "i"
+    ]
+  },
+  "308": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "309": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "310": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "311": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "312": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "313": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "314": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "316": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "318": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "320": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "321": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "322": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "323": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "326": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "327": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "330": {
+    "continent": "South America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "331": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "332": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "333": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "334": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "335": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "337": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "338": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "340": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "344": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "345": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "347": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "348": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "351": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "352": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "353": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "354": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "355": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "356": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "357": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "v",
+      "vii"
+    ]
+  },
+  "358": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "359": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "361": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "362": {
+    "continent": "Africa",
+    "criteria": [
+      "v"
+    ]
+  },
+  "364": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "365": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "366": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "367": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "368": {
+    "continent": "Oceania",
+    "criteria": [
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "369": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "370": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "371": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "372": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "373": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "374": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "377": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "378": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "379": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "380": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "381": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "383": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "384": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "385": {
+    "continent": "Asia",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "387": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v",
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "389": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "390": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "392": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "393": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "394": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "395": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "398": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "400": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "401": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "402": {
+    "continent": "South America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "403": {
+    "continent": "Africa",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "404": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "405": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "407": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "409": {
+    "continent": "Oceania",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "410": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "411": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "412": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "414": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "415": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "416": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "417": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv",
+      "ix",
+      "x"
+    ]
+  },
+  "419": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "420": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "421": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "422": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "425": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "426": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "428": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "429": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "430": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "433": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "434": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "437": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v",
+      "vii"
+    ]
+  },
+  "438": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "439": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "440": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "441": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "442": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "444": {
+    "continent": "Africa",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "445": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "447": {
+    "continent": "Oceania",
+    "criteria": [
+      "v",
+      "vii",
+      "viii"
+    ]
+  },
+  "448": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "449": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "450": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "451": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "452": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "454": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv",
+      "v",
+      "vii"
+    ]
+  },
+  "455": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv",
+      "v",
+      "vii"
+    ]
+  },
+  "456": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "460": {
+    "continent": "North America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "474": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "475": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "476": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "479": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "481": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "482": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "483": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "484": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "485": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "vii"
+    ]
+  },
+  "486": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "487": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "488": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "491": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "492": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "493": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "494": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "495": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "496": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "498": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "499": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "500": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "502": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "505": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "506": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "509": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "511": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "514": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "515": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "516": {
+    "continent": "Africa",
+    "criteria": [
+      "v",
+      "vii"
+    ]
+  },
+  "517": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "518": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "522": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "524": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "526": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "527": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "529": {
+    "continent": "South America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "530": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "532": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "534": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "535": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "537": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "540": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "541": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "543": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "544": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv",
+      "v"
+    ]
+  },
+  "545": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "546": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "547": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "vii",
+      "x"
+    ]
+  },
+  "548": {
+    "continent": "South America",
+    "criteria": [
+      "iii",
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "549": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "550": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "551": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "554": {
+    "continent": "North America",
+    "criteria": [
+      "x"
+    ]
+  },
+  "555": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "556": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "557": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "558": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "559": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "560": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "561": {
+    "continent": "Asia",
+    "criteria": [
+      "i"
+    ]
+  },
+  "564": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "565": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "566": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "567": {
+    "continent": "South America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "569": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "570": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "573": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "574": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "575": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "576": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "577": {
+    "continent": "Subantarctic islands",
+    "criteria": [
+      "viii",
+      "ix"
+    ]
+  },
+  "578": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "579": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "582": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "583": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "584": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "585": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "586": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "588": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "590": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "591": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "592": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "593": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "595": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "596": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "597": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "598": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "599": {
+    "continent": "Africa",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "600": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "601": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "602": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "603": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "604": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "606": {
+    "continent": "South America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "608": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "609": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "611": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "613": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "614": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "616": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "617": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "618": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "620": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "621": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "622": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "623": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "624": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "625": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "629": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "630": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix"
+    ]
+  },
+  "631": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "632": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "633": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "634": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "635": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "637": {
+    "continent": "Asia",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "638": {
+    "continent": "Asia",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "640": {
+    "continent": "Asia",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "642": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "648": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "652": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "653": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "657": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "658": {
+    "continent": "South America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "659": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "660": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "661": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "662": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "663": {
+    "continent": "Asia",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "664": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "665": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "666": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "668": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "669": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "670": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "672": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "675": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "676": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "677": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "678": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "682": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "684": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "685": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "686": {
+    "continent": "North America",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "687": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "688": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "689": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "690": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "692": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "695": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "696": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "697": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "698": {
+    "continent": "Oceania",
+    "criteria": [
+      "viii",
+      "ix"
+    ]
+  },
+  "699": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "700": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "701": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "702": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "703": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "704": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "705": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "707": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "708": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "709": {
+    "continent": "Asia",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "710": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "711": {
+    "continent": "South America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "712": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "714": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "715": {
+    "continent": "Oceania",
+    "criteria": [
+      "i",
+      "iii",
+      "v"
+    ]
+  },
+  "717": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "718": {
+    "continent": "Africa",
+    "criteria": [
+      "x"
+    ]
+  },
+  "719": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "720": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "721": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "722": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "723": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "724": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "725": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "726": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "728": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "729": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "730": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "731": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "732": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "733": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "734": {
+    "continent": "Asia",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "736": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "737": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "738": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "739": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "740": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "741": {
+    "continent": "North America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "742": {
+    "continent": "South America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "743": {
+    "continent": "South America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "744": {
+    "continent": "South America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "747": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "749": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "750": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "751": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "753": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "754": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "755": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "757": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "758": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "759": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "761": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "762": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "763": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "764": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "765": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "766": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "768": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "769": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "770": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "772": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "773": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v",
+      "vii",
+      "viii"
+    ]
+  },
+  "774": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v",
+      "vii",
+      "viii",
+      "ix"
+    ]
+  },
+  "775": {
+    "continent": "Asia",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "776": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "777": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "778": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "779": {
+    "continent": "Asia",
+    "criteria": [
+      "iv",
+      "x"
+    ]
+  },
+  "780": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "781": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "782": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "783": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "784": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "785": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "786": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "787": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "788": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "789": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "791": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "792": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "793": {
+    "continent": "Africa",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "794": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "795": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "797": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "798": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "800": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "801": {
+    "continent": "Africa",
+    "criteria": [
+      "viii",
+      "x"
+    ]
+  },
+  "803": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "804": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "805": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "806": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "809": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "810": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "811": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "812": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "813": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "814": {
+    "continent": "North America",
+    "criteria": [
+      "viii",
+      "x"
+    ]
+  },
+  "815": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "816": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "817": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "818": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "819": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "820": {
+    "continent": "North America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "821": {
+    "continent": "South America",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "822": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "823": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "824": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "825": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "826": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "827": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "828": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "829": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "830": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "831": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "832": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "833": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "835": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "836": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "837": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "839": {
+    "continent": "North America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "840": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "841": {
+    "continent": "North America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "842": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "846": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "847": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "848": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "849": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "850": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "852": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "853": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "854": {
+    "continent": "Oceania",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "855": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "856": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "857": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "859": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "860": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "861": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "862": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "863": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "865": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "866": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "867": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "868": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "870": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "871": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "872": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "873": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "874": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "875": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "876": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "877": {
+    "continent": "Oceania",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "880": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "881": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "883": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "884": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "885": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "886": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "887": {
+    "continent": "Oceania",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "889": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "890": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "892": {
+    "continent": "South America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "893": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "895": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "896": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "897": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "898": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "899": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "900": {
+    "continent": "Europe",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "901": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "902": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "904": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "905": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "906": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "907": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "908": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "910": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "911": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "vii",
+      "x"
+    ]
+  },
+  "912": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "913": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "914": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "915": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "916": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "917": {
+    "continent": "Oceania",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "922": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "925": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "927": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "928": {
+    "continent": "North America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "929": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "930": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "931": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "932": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "933": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "934": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "936": {
+    "continent": "South America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "937": {
+    "continent": "South America",
+    "criteria": [
+      "x"
+    ]
+  },
+  "938": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "939": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "940": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "941": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "942": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "943": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "944": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "945": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "946": {
+    "continent": "Europe",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "948": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "949": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "950": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "951": {
+    "continent": "Asia",
+    "criteria": [
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "954": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "955": {
+    "continent": "Asia",
+    "criteria": [
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "956": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "958": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "959": {
+    "continent": "South America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "960": {
+    "continent": "Asia",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "963": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "965": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "966": {
+    "continent": "South America",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "967": {
+    "continent": "South America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "968": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "970": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "971": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "972": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "973": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "974": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "975": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "976": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "977": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "978": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "980": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "981": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "982": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "983": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "984": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "985": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii",
+      "vii",
+      "x"
+    ]
+  },
+  "986": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "987": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "988": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "989": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "990": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "993": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "994": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "995": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "996": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "998": {
+    "continent": "South America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "999": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1000": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1001": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1002": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1003": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii"
+    ]
+  },
+  "1004": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1005": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1006": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "1007": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1008": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1009": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1010": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1011": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1012": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1013": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "1014": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1016": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1017": {
+    "continent": "South America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1018": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1021": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1022": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "1023": {
+    "continent": "Europe",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1024": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "1025": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1026": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1027": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "1028": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1029": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1030": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1031": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1033": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1035": {
+    "continent": "South America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1037": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix"
+    ]
+  },
+  "1039": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1040": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1042": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "1044": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1046": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1052": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1053": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1054": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1055": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1056": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1058": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1060": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1061": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "ix",
+      "x"
+    ]
+  },
+  "1063": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1066": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "1067": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1068": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1070": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1073": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1076": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1077": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1078": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1079": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1081": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1083": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "1084": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1087": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1090": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1091": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1093": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1094": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1096": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1097": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1099": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1100": {
+    "continent": "South America",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1101": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1102": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1103": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "1106": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1107": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1108": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1110": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1111": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1112": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1113": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1114": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1115": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1116": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "1117": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1118": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1121": {
+    "continent": "South America",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1127": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1130": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1131": {
+    "continent": "Oceania",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1133": {
+    "continent": "Europe",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "1134": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1135": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1136": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "1137": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1138": {
+    "continent": "North America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1139": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1140": {
+    "continent": "Africa",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1141": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1142": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1143": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1145": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1147": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv",
+      "ix",
+      "x"
+    ]
+  },
+  "1149": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1152": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1153": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1155": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1158": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "1160": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1161": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1162": {
+    "continent": "Africa",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1165": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1167": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1170": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1174": {
+    "continent": "South America",
+    "criteria": [
+      "iii",
+      "ix",
+      "x"
+    ]
+  },
+  "1178": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1179": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1181": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1182": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1183": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1185": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1186": {
+    "continent": "Africa",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1187": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1188": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1189": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1192": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1193": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1194": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1195": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1196": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1199": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1200": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1201": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1202": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1203": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1207": {
+    "continent": "Asia",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1208": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1209": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "1211": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1213": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1214": {
+    "continent": "South America",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1215": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1216": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "1217": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "1220": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1221": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1222": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1223": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1224": {
+    "continent": "Asia",
+    "criteria": [
+      "i"
+    ]
+  },
+  "1225": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1226": {
+    "continent": "Africa",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1227": {
+    "continent": "Africa",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "1229": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1230": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1231": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1234": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "1236": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1237": {
+    "continent": "Europe",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1239": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1240": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "1242": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1243": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1245": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1246": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "1248": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1250": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1252": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1253": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1255": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1256": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1257": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1258": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1259": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1260": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1262": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1263": {
+    "continent": "Africa",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1264": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1265": {
+    "continent": "Africa",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "1267": {
+    "continent": "Europe",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "1268": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1269": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1270": {
+    "continent": "North America",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "1272": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1273": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1274": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1276": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1277": {
+    "continent": "Asia",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1278": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1279": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1280": {
+    "continent": "Oceania",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1282": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1283": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1285": {
+    "continent": "North America",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1287": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1290": {
+    "continent": "North America",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "1292": {
+    "continent": "Asia",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "1293": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1295": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1298": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "1299": {
+    "continent": "Asia",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1302": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1303": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1305": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1306": {
+    "continent": "Oceania",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1308": {
+    "continent": "South America",
+    "criteria": [
+      "v",
+      "x"
+    ]
+  },
+  "1310": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1312": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1313": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1314": {
+    "continent": "Europe",
+    "criteria": [
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "1315": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "v"
+    ]
+  },
+  "1317": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "1318": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1319": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1321": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "1322": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1324": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1325": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "1326": {
+    "continent": "Oceania",
+    "criteria": [
+      "iii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "1328": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1329": {
+    "continent": "Asia",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "1330": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1333": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1334": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1335": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1336": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1337": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "1338": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1339": {
+    "continent": "Oceania",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1342": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1343": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1344": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1345": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1346": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1348": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1349": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1351": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1352": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1356": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "x"
+    ]
+  },
+  "1358": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1359": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1360": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1361": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1362": {
+    "continent": "Asia",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "1363": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "1364": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1366": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1367": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1368": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1369": {
+    "continent": "Oceania",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "1370": {
+    "continent": "Asia",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1371": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv",
+      "v"
+    ]
+  },
+  "1372": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1375": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1376": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1377": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v",
+      "vii"
+    ]
+  },
+  "1379": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1380": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1382": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1386": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v",
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1387": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1388": {
+    "continent": "Asia",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1389": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1390": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1393": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1396": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1397": {
+    "continent": "Asia",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1398": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1399": {
+    "continent": "Oceania",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1400": {
+    "continent": "Africa",
+    "criteria": [
+      "vii"
+    ]
+  },
+  "1401": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1402": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1403": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1404": {
+    "continent": "North America",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1405": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1406": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1407": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1410": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "viii",
+      "x"
+    ]
+  },
+  "1411": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "1412": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1413": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1414": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "1415": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "ix"
+    ]
+  },
+  "1416": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1418": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1422": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1423": {
+    "continent": "Asia",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1424": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1425": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1426": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1427": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1430": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "viii",
+      "ix",
+      "x"
+    ]
+  },
+  "1431": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1432": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1433": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1434": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1435": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1437": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1438": {
+    "continent": "Asia",
+    "criteria": [
+      "v",
+      "vii",
+      "viii"
+    ]
+  },
+  "1439": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1440": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1441": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1442": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "1443": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "1444": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1446": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1447": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1448": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1449": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1450": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1452": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1453": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1455": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1456": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1457": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1459": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1461": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1463": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1464": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1465": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1466": {
+    "continent": "North America",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1467": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1468": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1469": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1470": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "1471": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1472": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1473": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii"
+    ]
+  },
+  "1474": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1475": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "vii",
+      "ix"
+    ]
+  },
+  "1477": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1478": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1480": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1481": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v",
+      "ix",
+      "x"
+    ]
+  },
+  "1483": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1484": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1485": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1486": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1487": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1488": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1490": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1492": {
+    "continent": "Asia",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "1493": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1495": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1496": {
+    "continent": "North America",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1497": {
+    "continent": "North America",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1498": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1499": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1500": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1501": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "1502": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1503": {
+    "continent": "Oceania",
+    "criteria": [
+      "i",
+      "iii",
+      "iv"
+    ]
+  },
+  "1504": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1505": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1506": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1507": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1508": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1509": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1510": {
+    "continent": "North America",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1511": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1513": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "vii",
+      "x"
+    ]
+  },
+  "1517": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1518": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1519": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1523": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1525": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1526": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "1527": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1528": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1529": {
+    "continent": "Oceania",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1532": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1533": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1534": {
+    "continent": "North America",
+    "criteria": [
+      "iv",
+      "x"
+    ]
+  },
+  "1535": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1536": {
+    "continent": "North America",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1537": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1538": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1539": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1540": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "x"
+    ]
+  },
+  "1541": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1542": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1544": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1545": {
+    "continent": "Africa",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1548": {
+    "continent": "South America",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "1549": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "1550": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1551": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "1552": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1553": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1555": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1557": {
+    "continent": "North America",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1558": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1559": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1560": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1561": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1562": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1563": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1564": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1565": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1568": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "1569": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1570": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1571": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1572": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1573": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1574": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1575": {
+    "continent": "Africa",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1577": {
+    "continent": "Oceania",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1578": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1580": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1581": {
+    "continent": "Europe",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "1582": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1584": {
+    "continent": "Asia",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "1585": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1586": {
+    "continent": "Africa",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "1587": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1588": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1589": {
+    "continent": "Europe",
+    "criteria": [
+      "iv",
+      "v"
+    ]
+  },
+  "1590": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1591": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1592": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1593": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1594": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1595": {
+    "continent": "North America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1597": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1599": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1602": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1603": {
+    "continent": "Subantarctic islands",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1604": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1605": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1606": {
+    "continent": "Asia",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1608": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1610": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1611": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1612": {
+    "continent": "South America",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1613": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1614": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1616": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1618": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1619": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1620": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1621": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1622": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1623": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1624": {
+    "continent": "South America",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1625": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1627": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1631": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1632": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1633": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1634": {
+    "continent": "South America",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1635": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1636": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1638": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1640": {
+    "continent": "Africa",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1641": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1642": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "vii"
+    ]
+  },
+  "1643": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1645": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1647": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1648": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1650": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1653": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1654": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1656": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1657": {
+    "continent": "North America",
+    "criteria": [
+      "viii",
+      "x"
+    ]
+  },
+  "1658": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1660": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1661": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1662": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1663": {
+    "continent": "North America",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1665": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1666": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1667": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1668": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1669": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1670": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "ii",
+      "iv"
+    ]
+  },
+  "1671": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1673": {
+    "continent": "Europe",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1675": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "v"
+    ]
+  },
+  "1676": {
+    "continent": "Africa",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "1678": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1680": {
+    "continent": "South America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1681": {
+    "continent": "South America",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "1683": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1685": {
+    "continent": "Asia",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "1686": {
+    "continent": "North America",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1687": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1688": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1689": {
+    "continent": "North America",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1692": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1693": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1694": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1695": {
+    "continent": "Europe",
+    "criteria": [
+      "v"
+    ]
+  },
+  "1696": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "v"
+    ]
+  },
+  "1697": {
+    "continent": "Africa",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1698": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1699": {
+    "continent": "Asia",
+    "criteria": [
+      "vii",
+      "ix"
+    ]
+  },
+  "1700": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1702": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1703": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1704": {
+    "continent": "North America",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1705": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1707": {
+    "continent": "North America",
+    "criteria": [
+      "iii",
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1708": {
+    "continent": "Europe",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1709": {
+    "continent": "Oceania",
+    "criteria": [
+      "i",
+      "iii",
+      "v"
+    ]
+  },
+  "1711": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1712": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "v"
+    ]
+  },
+  "1713": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1714": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1715": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1716": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1718": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1719": {
+    "continent": "Europe",
+    "criteria": [
+      "x"
+    ]
+  },
+  "1720": {
+    "continent": "Africa",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1721": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1722": {
+    "continent": "Europe",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "1723": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv",
+      "v"
+    ]
+  },
+  "1724": {
+    "continent": "Asia",
+    "criteria": [
+      "ix"
+    ]
+  },
+  "1725": {
+    "continent": "Europe",
+    "criteria": [
+      "i",
+      "iv"
+    ]
+  },
+  "1726": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1728": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1730": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1731": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1732": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1733": {
+    "continent": "Europe",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1734": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1735": {
+    "continent": "Asia",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1736": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1739": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1740": {
+    "continent": "Asia",
+    "criteria": [
+      "i",
+      "iii"
+    ]
+  },
+  "1742": {
+    "continent": "Asia",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1743": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1744": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1745": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1746": {
+    "continent": "Africa",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1747": {
+    "continent": "South America",
+    "criteria": [
+      "vii",
+      "viii"
+    ]
+  },
+  "1748": {
+    "continent": "Asia",
+    "criteria": [
+      "vi"
+    ]
+  },
+  "1749": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1750": {
+    "continent": "Africa",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1751": {
+    "continent": "North America",
+    "criteria": [
+      "ix",
+      "x"
+    ]
+  },
+  "1752": {
+    "continent": "Europe",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1755": {
+    "continent": "Europe",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1757": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1758": {
+    "continent": "Europe",
+    "criteria": [
+      "viii"
+    ]
+  },
+  "1759": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1760": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii"
+    ]
+  },
+  "1761": {
+    "continent": "Asia",
+    "criteria": [
+      "ii"
+    ]
+  },
+  "1762": {
+    "continent": "Europe",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1765": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iii",
+      "iv"
+    ]
+  },
+  "1766": {
+    "continent": "Asia",
+    "criteria": [
+      "iv"
+    ]
+  },
+  "1768": {
+    "continent": "Africa",
+    "criteria": [
+      "iii",
+      "iv"
+    ]
+  },
+  "1769": {
+    "continent": "Africa",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1770": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1774": {
+    "continent": "South America",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  },
+  "1808": {
+    "continent": "Africa",
+    "criteria": [
+      "vii",
+      "ix",
+      "x"
+    ]
+  },
+  "1809": {
+    "continent": "Asia",
+    "criteria": [
+      "iii"
+    ]
+  },
+  "1810": {
+    "continent": "Asia",
+    "criteria": [
+      "ii",
+      "iv"
+    ]
+  }
+}

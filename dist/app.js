@@ -1,3 +1,4 @@
+import {recordGuess,renderGuessHistory,visibleHistory} from './guess-history.js';
 import {cities} from './cities.js';
 import {createHardCities} from './hard-cities.js';
 import {createIndex, attachCitySearch, searchCities} from './city-search.js';
@@ -14,11 +15,12 @@ if(hardMode){
 
 const osm='© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors · © <a href="https://carto.com/attributions" target="_blank" rel="noreferrer">CARTO</a>';
 const esri='Imagery © <a href="https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9" target="_blank" rel="noreferrer">Esri</a>, Maxar, Earthstar Geographics & the GIS User Community';
-let deck=[],city,round=0,score=0,level=0,view=0,done=false,ready=false,map,styles,loadTimer,loadFailed=false,practice=false,citySearch,cityIndex=[];
+let deck=[],city,round=0,score=0,level=0,view=0,done=false,ready=false,map,styles,loadTimer,loadFailed=false,practice=false,citySearch,cityIndex=[],guessHistory=[];
 function shuffle(){deck=[...cityPool];for(let i=deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}if(deck.at(-1)===city) [deck[0],deck[deck.length-1]]=[deck.at(-1),deck[0]];}
 function availablePoints(){return practice?0:3-level;}
-function state(){return {mode:hardMode?'hard':'standard',poolSize:cityPool.length,round,score,availablePoints:availablePoints(),practice,level:level+1,view:view+1,done,ready,...(done?{answer:city.name}:{}),message:$('feedback').textContent};}
+function state(){return {mode:hardMode?'hard':'standard',poolSize:cityPool.length,round,score,history:visibleHistory(guessHistory,3),availablePoints:availablePoints(),practice,level:level+1,view:view+1,done,ready,...(done?{answer:city.name}:{}),message:$('feedback').textContent};}
 function render(){
+renderGuessHistory($('guess-history'),guessHistory,3);
 $('round').textContent=String(round).padStart(2,'0');$('score').textContent=score;
 document.querySelectorAll('.stage').forEach((b,i)=>{b.disabled=!ready || (!done&&i>level);b.classList.toggle('active',i===view);b.setAttribute('aria-pressed',String(i===view));});
 document.querySelector('[data-stage="2"] small').textContent=practice?'0 pts':'1 pt';
@@ -38,14 +40,14 @@ if(!map){map=new maplibregl.Map({container:'map',style:styles[n],center:city.cen
 else{map.jumpTo({center:city.center,zoom});map.setStyle(styles[n],{diff:false});}
 render();
 }
-function nextCity(){if(done===false&&round>0)return state();if(!deck.length)shuffle();city=deck.pop();round++;level=0;view=0;done=false;practice=false;citySearch?.clear();$('feedback').textContent='Find a city. Earlier guesses earn more points.';showMap(0);return state();}
+function nextCity(){if(done===false&&round>0)return state();if(!deck.length)shuffle();city=deck.pop();round++;level=0;view=0;done=false;practice=false;guessHistory=[];citySearch?.clear();$('feedback').textContent='Find a city. Earlier guesses earn more points.';showMap(0);return state();}
 function finish(won){done=true;citySearch.close();const points=availablePoints();if(won)score+=points;$('answer').textContent=city.name;$('result-detail').textContent=`${[city.region,city.country].filter(Boolean).join(', ')} · ${won?`Correct. +${points} ${points===1?'point':'points'}`:'No points this round'}`;render();$('next').focus();}
 function reveal(){if(done||!ready)throw Error('Wait for the map to load.');if(level<2){level++;showMap(level);}else finish(false);return state();}
 function guess(id){
  if(done||!ready)throw Error('Wait for an active round.');
  const chosen=cityIndex.find(c=>c.id===id);if(!chosen)throw Error('Select a city from the database.');
  if(chosen.id===city.id)finish(true);
- else {citySearch.clear();if(level===2){practice=true;$('feedback').textContent='Not quite. Keep guessing for 0 points, or give up.';render();$('guess').focus();}else{level++;$('feedback').textContent='Not quite. Try the next clue.';showMap(level);}}
+ else {guessHistory.push(recordGuess(chosen,city));citySearch.clear();if(level===2){practice=true;$('feedback').textContent='Not quite. Keep guessing for 0 points, or give up.';render();$('guess').focus();}else{level++;$('feedback').textContent='Not quite. Try the next clue.';showMap(level);}}
  return state();
 }
 $('guess-form').addEventListener('submit',e=>{e.preventDefault();if(citySearch?.selected)guess(citySearch.selected.id);});

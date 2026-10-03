@@ -45,6 +45,7 @@ OVERRIDES = {
 def clean(value):
     return ' '.join(html.unescape(re.sub(r'<[^>]+>', ' ', value or '')).split())
 rows=json.loads(Path(sys.argv[1]).read_text())
+clues=json.loads((ROOT/'scripts/heritage-clues.json').read_text())
 result=[]
 missing=[]
 for row in rows:
@@ -65,6 +66,7 @@ for row in rows:
     override=OVERRIDES.get(id,{})
     site={'id':id,'name':clean(row['name_en']),'country':', '.join(row['states_names']), 'category':row['category'],'year':row['date_inscribed'],'center':[coord['lon'],coord['lat']],'zoom':round(zoom,2),'components':count,'easy':id in EASY,'aliases':list(dict.fromkeys(x for x in aliases+override.get('aliases',[]) if x))}
     site.update({k:v for k,v in override.items() if k!='aliases'})
+    site.update(clues[str(id)])
     result.append(site)
 assert len(EASY)==100 and len(set(EASY))==100
 assert sum(x['easy'] for x in result)==100

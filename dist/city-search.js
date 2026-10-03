@@ -2,10 +2,10 @@ export const normalize = value => value.normalize('NFD').replace(/\p{M}/gu, '').
 export function createIndex(rows, gameCities = []) {
   const countries = new Intl.DisplayNames(['en'], {type: 'region'});
   const extras = new Map(gameCities.map(c => [c.id, [c.name, ...c.aliases]]));
-  return rows.map(([id, name, code, region, population, aliases]) => {
+  return rows.map(([id, name, code, region, population, aliases, lat, lng]) => {
     const country = countries.of(code) || code;
     const names = [...new Set([name, ...aliases, ...(extras.get(id) || [])].map(normalize))];
-    return {id, name, country, region, population, names, primary: normalize(name), context: normalize(`${region} ${country} ${code}`)};
+    return {id, name, country, region, population, center: [lng, lat], names, primary: normalize(name), context: normalize(`${region} ${country} ${code}`)};
   });
 }
 export function searchCities(index, query, limit = 8) {
