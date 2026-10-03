@@ -1,9 +1,11 @@
+import {cityRegions,readCityVariant,cityVariantUrl,createRegionalCities} from './city-regions.js';
 import {recordGuess,renderGuessHistory,visibleHistory} from './guess-history.js';
 import {cities} from './cities.js';
 import {createHardCities} from './hard-cities.js';
 import {createIndex, attachCitySearch, searchCities} from './city-search.js';
 const $=id=>document.getElementById(id);
-const hardMode = new URLSearchParams(location.search).get('mode') === 'hard';
+const {region:regionKey,hard:hardMode}=readCityVariant(location.search);
+const regional=regionKey?cityRegions[regionKey]:null;
 let cityPool = cities;
 if(hardMode){
  const title='City Guess (hard)';
@@ -13,12 +15,24 @@ if(hardMode){
  $('mode-switch').setAttribute('aria-label','Back to standard City Guess');
 }
 
+if(regional){
+ document.title=`Trivia — City Guess (${regional.label})`;
+ $('current-game').href=cityVariantUrl(regionKey);
+ $('mode-switch').textContent='Worldwide';$('mode-switch').href='./';
+ $('mode-switch').setAttribute('aria-label','Back to worldwide City Guess');
+ $('region-note').textContent=regional.note;$('region-note').hidden=!regional.note;
+}
+const variants=[['world','Worldwide · 100 cities'],['hard','Worldwide (hard) · 1,000 cities'],...Object.entries(cityRegions).map(([key,r])=>[key,`${r.label} · ${r.ids.length} cities`])];
+$('city-variant').replaceChildren(...variants.map(([value,label])=>{const option=document.createElement('option');option.value=value;option.textContent=label;return option;}));
+$('city-variant').value=regionKey||(hardMode?'hard':'world');
+$('city-variant').addEventListener('change',e=>{location.href=cityVariantUrl(e.target.value);});
+
 const osm='© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors · © <a href="https://carto.com/attributions" target="_blank" rel="noreferrer">CARTO</a>';
 const esri='Imagery © <a href="https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9" target="_blank" rel="noreferrer">Esri</a>, Maxar, Earthstar Geographics & the GIS User Community';
 let deck=[],city,round=0,score=0,level=0,view=0,done=false,ready=false,map,styles,loadTimer,loadFailed=false,practice=false,citySearch,cityIndex=[],guessHistory=[];
 function shuffle(){deck=[...cityPool];for(let i=deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}if(deck.at(-1)===city) [deck[0],deck[deck.length-1]]=[deck.at(-1),deck[0]];}
 function availablePoints(){return practice?0:3-level;}
-function state(){return {mode:hardMode?'hard':'standard',poolSize:cityPool.length,round,score,history:visibleHistory(guessHistory,3),availablePoints:availablePoints(),practice,level:level+1,view:view+1,done,ready,...(done?{answer:city.name}:{}),message:$('feedback').textContent};}
+function state(){return {mode:regional?'regional':hardMode?'hard':'standard',region:regionKey,regionLabel:regional?.label??null,poolSize:cityPool.length,round,score,history:visibleHistory(guessHistory,3),availablePoints:availablePoints(),practice,level:level+1,view:view+1,done,ready,...(done?{answer:city.name}:{}),message:$('feedback').textContent};}
 function render(){
 renderGuessHistory($('guess-history'),guessHistory,3);
 $('round').textContent=String(round).padStart(2,'0');$('score').textContent=score;
@@ -56,7 +70,7 @@ document.querySelectorAll('.stage').forEach((b,i)=>b.addEventListener('click',()
 $('retry').addEventListener('click',()=>{if(styles)showMap(view);else init();});
 new ResizeObserver(()=>{if(map&&city){map.resize();map.jumpTo({zoom:city.zoom+Math.log2(Math.min($('map').clientWidth/900,1))});}}).observe($('map'));
 async function init(){try{
-if(!citySearch){const data=await fetch('./city-database.json');if(!data.ok)throw Error('City search unavailable');const rows=await data.json();cityIndex=createIndex(rows,cities);if(hardMode){cityPool=createHardCities(rows);if(!cityPool.length)throw Error('No hard-mode cities available');}document.querySelector('.eyebrow').textContent=`GEOGRAPHY · ${cityPool.length.toLocaleString('en')} CITIES`;citySearch=attachCitySearch(cityIndex,{input:$('guess'),list:$('city-options'),status:$('search-status'),onSelect:render,onChange:render});}
+if(!citySearch){const data=await fetch('./city-database.json');if(!data.ok)throw Error('City search unavailable');const rows=await data.json();cityIndex=createIndex(rows,cities);if(regional)cityPool=createRegionalCities(rows,regionKey);else if(hardMode){cityPool=createHardCities(rows);if(!cityPool.length)throw Error('No hard-mode cities available');}document.querySelector('.eyebrow').textContent=`GEOGRAPHY · ${cityPool.length.toLocaleString('en')} CITIES`;citySearch=attachCitySearch(cityIndex,{input:$('guess'),list:$('city-options'),status:$('search-status'),onSelect:render,onChange:render});}
 const response=await fetch('./map-style.json');if(!response.ok)throw Error('Map style unavailable');const full=await response.json();
 full.layers=full.layers.filter(l=>l.type!=='symbol');delete full.sprite;delete full.glyphs;
 styles=[{version:8,sources:full.sources,layers:[{id:'background',type:'background',paint:{'background-color':'#202529'}},{id:'major-roads',type:'line',source:'carto','source-layer':'transportation',filter:['in','class','motorway','trunk','primary','secondary'],layout:{'line-cap':'round','line-join':'round'},paint:{'line-color':'#d8dee2','line-opacity':.9,'line-width':['interpolate',['linear'],['zoom'],8,.55,11,1.35,14,3]}}]},full,{version:8,sources:{satellite:{type:'raster',tiles:['https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'],tileSize:256,maxzoom:19}},layers:[{id:'satellite',type:'raster',source:'satellite'}]}];nextCity();

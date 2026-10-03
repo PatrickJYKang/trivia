@@ -47,3 +47,23 @@ Refresh the source with the JSON export at `https://data.unesco.org/api/explore/
 UNESCO criteria are read from the official export's `criteria_txt`. When empty (17 entries in this snapshot), the generator extracts explicit criterion labels from UNESCO's description/justification. Short criterion summaries are based on https://whc.unesco.org/en/criteria/. Continent hints refer to the pictured location, using Natural Earth country geometries (public domain) with geographic overrides for transcontinental countries, overseas territories and Polynesia/Hawaii. Offshore coordinates use nearest mapped land. Two offshore properties (Heard and McDonald Islands; French Austral Lands and Seas) use 'Subantarctic islands' instead of assigning them an artificial continent. These are conventional geographic groupings, not UNESCO's administrative regions.
 
 To regenerate clue metadata, download `ne_110m_admin_0_countries.geojson` from https://github.com/nvkelso/natural-earth-vector/tree/master/geojson and run `python3 scripts/build-heritage-clues.py /path/to/unesco-export.json /path/to/countries.geojson`, then rebuild the heritage database. Review continent assignments when adding entries; the lookup is saved in `scripts/heritage-clues.json`. This derived lookup retains the UNESCO data license, CC BY-SA 4.0.
+
+## Regional City Guess
+
+The **Version** selector includes worldwide standard/hard and nine curated regional decks. Each selection has a bookmarkable `?region=…` URL and starts a new score session. Regional rounds use the same roads → map → satellite clues, 3/2/1 scoring, unlimited zero-point guesses, and cumulative direction/distance history that unlocks after three wrong guesses. The answer search remains worldwide.
+
+| Region | Cities | URL parameter |
+| --- | ---: | --- |
+| US + Canada | 55 | `region=us-canada` |
+| Western/Central Europe | 55 | `region=western-central-europe` |
+| Rest of Europe | 35 | `region=rest-of-europe` |
+| Russia | 35 | `region=russia` |
+| UK | 35 | `region=uk` |
+| India | 35 | `region=india` |
+| East Asia | 65 | `region=east-asia` |
+| Africa | 35 | `region=africa` |
+| South America | 35 | `region=south-america` |
+
+Western/Central Europe includes France, Iberia, Italy, Germany, Benelux, Switzerland, Austria, Poland, Czechia, Slovakia and Hungary. Rest of Europe covers selected Nordic, Baltic, Irish, Eastern European and Balkan cities, with UK and Russia separated into their own decks. East Asia is the broad game grouping requested here: China, Japan, both Koreas, Taiwan, Mongolia, Hong Kong, Macau and Southeast Asia. The regional decks contain 385 unique cities, with geographic variety rather than a strict population ranking. The UK selection spans England, Scotland, Wales and Northern Ireland.
+
+Selections are named, commented GeoNames IDs in `dist/city-regions.js`; they use the existing search database and preserve curated worldwide map crops where available. Other crops use the same population/latitude formula as worldwide hard mode. A valid regional URL takes precedence over a simultaneous `mode=hard`; an unknown region falls back to a worldwide mode. Tests validate sizes, identities, map framing, searchability, country membership, coverage and URL handling.
