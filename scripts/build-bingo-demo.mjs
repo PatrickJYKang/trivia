@@ -16,10 +16,10 @@ const cards=cardTemplates.map((template,n)=>{
  function match(cell,seen){for(const city of pool){if(seen.has(city.id)||!categories[template.categories[cell]].test(city))continue;seen.add(city.id);if(!owner.has(city.id)||match(owner.get(city.id),seen)){owner.set(city.id,cell);assigned[cell]=city;return true;}}return false;}
  for(let i=0;i<16;i++)if(!match(i,new Set()))throw Error(`Unsolvable card ${n+1}`);
  const selected=new Set(assigned.map(c=>c.id));
- const extras=pool.filter(c=>!selected.has(c.id)&&template.categories.some(key=>categories[key].test(c))).slice(0,16);
+ const extras=pool.filter(c=>!selected.has(c.id)&&template.categories.some(key=>categories[key].test(c))).slice(0,26);
  const deck=shuffled([...assigned,...extras].map(c=>c.id),879+n*47);
  return {...template,deck};
 });
 const used=new Set(cards.flatMap(c=>c.deck));
 fs.writeFileSync(new URL('../dist/bingo-data.json',import.meta.url),JSON.stringify({source:'GeoNames cities15000, snapshot 2026-10-01',license:'CC BY 4.0',cards,cities:cities.filter(c=>used.has(c.id))},null,2)+'\n');
-console.log(`5 fixed cards, 32 cities per card, ${used.size} distinct cities`);
+console.log(`5 fixed cards, 42 cities per card, ${used.size} distinct cities`);

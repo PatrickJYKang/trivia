@@ -17,22 +17,20 @@ function start(n){
  active=n;game=new BingoGame(data.cards[n],data.cities);buttons=[];
  history.replaceState(null,'',`bingo.html?card=${n+1}`);document.title=`Trivia — City Bingo · Card ${n+1}`;
  $('card-label').textContent=`DEMO · CARD ${n+1} OF 5`;$('card-name').textContent=game.card.name;$('demo-position').textContent=`${n+1} / 5`;
- $('bingo-feedback').textContent='Place this city in one matching square.';
  $('bingo-board').replaceChildren();$('category-details').replaceChildren();
  game.card.categories.forEach((key,i)=>{const def=categories[key],button=document.createElement('button');button.className='bingo-square';button.title=def.detail;button.dataset.cell=i;for(const name of ['square-category','square-city','square-check']){const span=document.createElement('span');span.className=name;if(name==='square-category')span.textContent=def.label;button.append(span);}button.addEventListener('click',()=>play('place',i));$('bingo-board').append(button);buttons.push(button);const term=document.createElement('dt'),detail=document.createElement('dd');term.textContent=def.label;detail.textContent=def.detail;$('category-details').append(term,detail);});
  $('restart').disabled=false;$('next-card').disabled=false;render();return state();
 }
 function play(action,cell){
- if(!game||game.done)return state();const before=game.lines.length;const result=action==='place'?game.place(cell):action==='skip'?game.skip():game.wildcard();
+ if(!game||game.done)return state();const result=action==='place'?game.place(cell):action==='skip'?game.skip():game.wildcard();
  if(result.type==='ignored')return state();
- const feedback=result.type==='placed'?`${result.city.name} placed in ${categories[game.card.categories[result.cell]].label}.`:result.type==='miss'?`${result.city.name} doesn’t match ${categories[game.card.categories[result.cell]].label}.${result.skipped?` Penalty: ${result.skipped.name} skipped.`:''}`:result.type==='skip'?`${result.city.name} skipped.`:`Wildcard: ${result.city.name} filled ${result.cells.length} ${result.cells.length===1?'square':'squares'}.`;
- render();$('bingo-feedback').textContent=feedback+(game.lines.length>before?' Bingo!':'');
+ render();
  // Keep keyboard play moving after the pressed square becomes disabled.
  if(game.done)$('next-card').focus();else if(document.activeElement?.disabled)(buttons.find(b=>!b.disabled)||$('skip')).focus();
  return state();
 }
 $('skip').addEventListener('click',()=>play('skip'));$('wildcard').addEventListener('click',()=>play('wildcard'));$('restart').addEventListener('click',()=>start(active));$('next-card').addEventListener('click',()=>start((active+1)%data.cards.length));$('retry').addEventListener('click',init);
-async function init(){try{$('retry').hidden=true;const response=await fetch('./bingo-data.json');if(!response.ok)throw Error('Unavailable');data=await response.json();if(data.cards.length!==5)throw Error('Invalid cards');start(active);}catch{$('current-city').textContent='Unable to load cities';$('bingo-feedback').textContent='Try loading the demo again.';$('retry').hidden=false;}}
+async function init(){try{$('retry').hidden=true;const response=await fetch('./bingo-data.json');if(!response.ok)throw Error('Unavailable');data=await response.json();if(data.cards.length!==5)throw Error('Invalid cards');start(active);}catch{$('current-city').textContent='Unable to load cities';$('retry').hidden=false;}}
 init();
 if(document.modelContext?.registerTool){const lifecycle=new AbortController();window.addEventListener('pagehide',()=>lifecycle.abort(),{once:true});const schema={type:'object',properties:{},additionalProperties:false};
  const tools=[{name:'read_city_bingo',description:'Read the current city, bingo categories and filled squares.',inputSchema:schema,annotations:{readOnlyHint:true},execute:state},{name:'place_bingo_city',description:'Place the current city in a category cell numbered 1–16. A wrong choice skips the next city.',inputSchema:{type:'object',properties:{cell:{type:'integer',minimum:1,maximum:16}},required:['cell'],additionalProperties:false},execute:({cell})=>play('place',cell-1)},{name:'skip_bingo_city',description:'Skip the current city without a penalty.',inputSchema:schema,execute:()=>play('skip')},{name:'use_bingo_wildcard',description:'Once per card, fill all matching empty categories with the current city.',inputSchema:schema,execute:()=>play('wildcard')},{name:'next_bingo_card',description:'Start the next of five fixed demo cards, wrapping after card five.',inputSchema:schema,execute:()=>{if(!data)throw Error('Wait for the game to load.');return start((active+1)%5);}}];for(const tool of tools){try{Promise.resolve(document.modelContext.registerTool({...tool,annotations:{readOnlyHint:false,...tool.annotations}},{signal:lifecycle.signal})).catch(()=>{});}catch{}}}
