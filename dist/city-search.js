@@ -20,7 +20,7 @@ export function searchCities(index, query, limit = 8) {
   }
   return results.sort((a,b) => a.rank-b.rank || b.city.population-a.city.population).slice(0,limit).map(r=>r.city);
 }
-export function attachCitySearch(index, {input, list, status, onSelect, onChange}) {
+export function attachCitySearch(index, {input, list, status, onSelect, onChange, noun = 'city', plural = 'cities'}) {
   let results = [], active = -1, selected = null;
   const label = c => `${c.name}, ${c.region ? c.region + ', ' : ''}${c.country}`;
   function close() {list.hidden = true;input.setAttribute('aria-expanded','false');input.removeAttribute('aria-activedescendant');active = -1;}
@@ -28,19 +28,19 @@ export function attachCitySearch(index, {input, list, status, onSelect, onChange
   function highlight() { [...list.children].forEach((el,i)=>el.setAttribute('aria-selected',String(i===active)));if(active>=0){input.setAttribute('aria-activedescendant',list.children[active].id);list.children[active].scrollIntoView({block:'nearest'});}else input.removeAttribute('aria-activedescendant'); }
   function update() {
     results=searchCities(index,input.value);active=-1;list.replaceChildren();input.removeAttribute('aria-activedescendant');
-    if(input.value.trim().length<2){close();status.textContent='Type at least two letters to search cities.';return;}
+    if(input.value.trim().length<2){close();status.textContent=`Type at least two letters to search ${plural}.`;return;}
     list.hidden=false;input.setAttribute('aria-expanded','true');
-    if(!results.length){const empty=document.createElement('li');empty.className='search-empty';empty.textContent='No cities found. Try another spelling.';empty.setAttribute('role','presentation');list.append(empty);}
+    if(!results.length){const empty=document.createElement('li');empty.className='search-empty';empty.textContent=`No ${plural} found. Try another spelling.`;empty.setAttribute('role','presentation');list.append(empty);}
     results.forEach((city,i)=>{const option=document.createElement('li');option.id=`city-option-${city.id}`;option.setAttribute('role','option');option.setAttribute('aria-selected','false');const name=document.createElement('strong');name.textContent=city.name;const context=document.createElement('span');context.textContent=[city.region,city.country].filter(Boolean).join(', ');option.append(name,context);option.addEventListener('pointerdown',e=>e.preventDefault());option.addEventListener('click',()=>select(city));list.append(option);});
-    status.textContent=results.length?`${results.length} suggestions. Use arrow keys to choose a city.`:'No cities found.';
+    status.textContent=results.length?`${results.length} suggestions. Use arrow keys to choose a ${noun}.`:`No ${plural} found.`;
   }
   input.addEventListener('input',()=>{selected=null;onChange();update();});
   input.addEventListener('focus',()=>{if(!selected)update();});
   input.addEventListener('keydown',e=>{
     if(e.isComposing)return;
     if(e.key==='Escape'){close();return;}
-    if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();if(list.hidden)update();if(results.length){active=(active+(e.key==='ArrowDown'?1:-1)+results.length)%results.length;highlight();}}
-    if(e.key==='Enter'&&!list.hidden){e.preventDefault();if(active>=0)select(results[active]);else if(results.length===1)select(results[0]);else status.textContent='Choose a city from the suggestions first.';}
+    if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();if(list.hidden)update();if(results.length){active=active<0?(e.key==='ArrowDown'?0:results.length-1):(active+(e.key==='ArrowDown'?1:-1)+results.length)%results.length;highlight();}}
+    if(e.key==='Enter'&&!list.hidden){e.preventDefault();if(active>=0)select(results[active]);else if(results.length===1)select(results[0]);else status.textContent=`Choose a ${noun} from the suggestions first.`;}
     if(e.key==='Tab')close();
   });
   input.addEventListener('blur',()=>setTimeout(close,150));
