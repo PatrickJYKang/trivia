@@ -10,8 +10,18 @@ export function createCompassPools(rows){
 }
 export function shuffled(values,random=Math.random){const deck=[...values];for(let i=deck.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}return deck;}
 const separation=(a,b)=>Math.min(Math.abs(a-b),360-Math.abs(a-b));
+// Straight-line direction on a single north-up Mercator world map. Keep the
+// full longitude difference: never wrap at the date line or route over a pole.
+// Physical distances still use great circles, independently of diagram arrows.
+export function mapBearing(from,to){
+ const radians=Math.PI/180;
+ const northing=latitude=>Math.log(Math.tan(Math.PI/4+latitude*radians/2));
+ const dx=(to[0]-from[0])*radians,dy=northing(to[1])-northing(from[1]);
+ if(dx===0&&dy===0)return null;
+ return (Math.atan2(dx,dy)/radians+360)%360;
+}
 export function clueCandidates(target,pool){
- const candidates=pool.filter(c=>c.id!==target.id).map(city=>({...city,...directionTo(target.center,city.center)})).filter(c=>c.bearing!==null&&c.distanceKm>=350&&c.distanceKm<18500).sort((a,b)=>a.distanceKm-b.distanceKm||a.id-b.id);
+ const candidates=pool.filter(c=>c.id!==target.id).map(city=>({...city,distanceKm:directionTo(target.center,city.center).distanceKm,bearing:mapBearing(target.center,city.center)})).filter(c=>c.bearing!==null&&c.distanceKm>=350&&c.distanceKm<18500).sort((a,b)=>a.distanceKm-b.distanceKm||a.id-b.id);
  const fifth=Math.ceil(candidates.length/5);
  return candidates.map((city,i)=>({...city,difficultyTier:city.difficultyRank<=100?'easy':city.difficultyRank>=500?'hard':'middle',distanceTier:i<fifth?'close':i>=candidates.length-fifth?'far':'middle'}));
 }

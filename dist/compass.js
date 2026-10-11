@@ -7,7 +7,7 @@ function svgNode(tag,attrs={},text){const node=document.createElementNS(NS,tag);
 function diagram(){
  if(!game)return;const svg=$('compass'),layout=clueLayout(game.clues,compact),{width,height,cx,cy,radius}=layout;
  svg.replaceChildren();svg.setAttribute('viewBox',`0 0 ${width} ${height}`);svg.classList.toggle('compact',compact);
- svg.append(svgNode('title',{id:'diagram-title'},'Five bearings from the mystery city'),svgNode('desc',{id:'diagram-description'},`North is up. ${game.clues.map(c=>`${c.name}, ${c.country}: ${Math.round(c.bearing)} degrees clockwise from north`).join('. ')}. Arrow lengths do not indicate distance.`));
+ svg.append(svgNode('title',{id:'diagram-title'},'Five bearings from the mystery city'),svgNode('desc',{id:'diagram-description'},`Straight-line directions from the centre on a north-up world map, without edge wrapping. ${game.clues.map(c=>`${c.name}, ${c.country}: ${Math.round(c.bearing)} degrees clockwise from north`).join('. ')}. Arrow lengths do not indicate distance.`));
  const defs=svgNode('defs'),marker=svgNode('marker',{id:'arrow',viewBox:'0 0 10 10',refX:9,refY:5,markerWidth:7,markerHeight:7,orient:'auto-start-reverse'});marker.append(svgNode('path',{d:'M 0 0 L 10 5 L 0 10 z',fill:'#2853dd'}));defs.append(marker);svg.append(defs);
  svg.append(svgNode('circle',{cx,cy,r:radius,fill:'none',stroke:'#dce3ec','stroke-dasharray':'4 7'}),svgNode('path',{d:`M ${cx} ${cy-radius-24} V ${cy+radius+24} M ${cx-radius-24} ${cy} H ${cx+radius+24}`,stroke:'#e3e8ee',fill:'none'}),svgNode('text',{x:cx,y:34,'text-anchor':'middle',fill:'#77828d','font-family':'monospace','font-size':compact?25:19},'N ↑'));
  for(const clue of layout.entries){
