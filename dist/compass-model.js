@@ -1,11 +1,9 @@
 import {createHardCities} from './hard-cities.js';
 import {directionTo} from './guess-history.js';
-const features=new Set(['PPL','PPLA','PPLA2','PPLA3','PPLA4','PPLA5','PPLC','PPLG']);
 export function createCompassPools(rows){
- const countries=new Intl.DisplayNames(['en'],{type:'region'}),byId=new Map(rows.map(r=>[r[0],r]));
+ const byId=new Map(rows.map(r=>[r[0],r]));
  const targets=createHardCities(rows).map(c=>({...c,code:byId.get(c.id)[2]}));
- const clues=rows.filter(r=>features.has(r[8])&&r[4]>=100000&&Number.isFinite(r[6])&&Number.isFinite(r[7])&&Math.abs(r[6])<85).map(([id,name,code,region,population,aliases,lat,lng])=>({id,name,code,country:countries.of(code)||code,region,center:[lng,lat]}));
- return {targets,clues};
+ return {targets,clues:[...targets]};
 }
 export function shuffled(values,random=Math.random){const deck=[...values];for(let i=deck.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}return deck;}
 const separation=(a,b)=>Math.min(Math.abs(a-b),360-Math.abs(a-b));

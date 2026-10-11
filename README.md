@@ -80,7 +80,7 @@ The category mix uses country, continent, capital status, latitude/longitude, ci
 
 ## City Compass
 
-Open `compass.html`, the fourth game in the navigation. Guess the mystery city at the centre using five arrows toward named cities. Answers use the 1,000-city worldwide hard pool, shuffled without repeats until exhausted. Clues are freshly generated each round from over 5,000 cities with at least 100,000 residents, excluding districts. Sampling mixes two regional and three distant cities when available, balances countries, and favours varied directions. There is no daily schedule or fixed set of puzzles.
+Open `compass.html`, the fourth game in the navigation. Guess the mystery city at the centre using five arrows toward named cities. Answers use the 1,000-city worldwide hard pool, shuffled without repeats until exhausted. Clues are freshly generated each round from the same 1,000-city pool, keeping both answers and reference cities within a geographically broad set of major cities. Sampling mixes two regional and three distant cities when available, balances countries, and favours varied directions. There is no daily schedule or fixed set of puzzles.
 
 Arrows show initial great-circle bearings **from the mystery city to each reference city**, with north up. Their equal lengths do not indicate distance. Thin connecting lines keep labels readable without changing the blue arrows' bearings. Search the full city database, keep guessing without a limit, or choose Give up to reveal the answer. Duplicate guesses do not increase the count. Next city resets the round and generates new clues; there is no score or timer.
 
