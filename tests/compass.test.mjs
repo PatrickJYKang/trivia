@@ -5,6 +5,25 @@ import {createCompassPools,chooseClues,clueLayout,CompassRound,shuffled} from '.
 import {directionTo} from '../dist/guess-history.js';
 const rows=JSON.parse(fs.readFileSync(new URL('../dist/city-database.json',import.meta.url))),pools=createCompassPools(rows);
 function random(seed){return ()=>{seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296;};}
+test('difficulty ranks follow population and stay stable when source rows are reordered',()=>{
+ const population=new Map(rows.map(r=>[r[0],r[4]]));
+ const expected=[...pools.targets].sort((a,b)=>population.get(b.id)-population.get(a.id)||a.id-b.id);
+ assert.deepEqual(pools.clues.map(c=>[c.id,c.difficultyRank]),expected.map((c,i)=>[c.id,i+1]));
+ assert.deepEqual(createCompassPools([...rows].reverse()).clues,pools.clues);
+});
+test('every answer always gets 1–2 top-100 clues and 1–2 rank-500–1000 clues',()=>{
+ const mixes=new Set();
+ for(const target of pools.targets)for(const seed of [1,17,99]){
+  const clues=chooseClues(target,pools.clues,random(target.id+seed));
+  const easy=clues.filter(c=>c.difficultyRank<=100).length,hard=clues.filter(c=>c.difficultyRank>=500).length;
+  assert.ok(easy>=1&&easy<=2,`${target.name}: ${easy} easy clues`);
+  assert.ok(hard>=1&&hard<=2,`${target.name}: ${hard} hard clues`);
+  assert.equal(clues.length,5);assert.equal(new Set(clues.map(c=>c.id)).size,5);
+  assert.ok(clues.every(c=>c.id!==target.id));
+  mixes.add(`${easy}/${hard}`);
+ }
+ assert.equal(mixes.size,4,'both tier counts vary between one and two');
+});
 test('broad answer and reference pools with no districts or invalid coordinates',()=>{assert.equal(pools.targets.length,1000);assert.equal(pools.clues.length,1000);assert.deepEqual(new Set(pools.clues.map(c=>c.id)),new Set(pools.targets.map(c=>c.id)));assert.ok(new Set(pools.targets.map(c=>c.code)).size>150);assert.equal(new Set(pools.clues.map(c=>c.id)).size,pools.clues.length);const raw=new Map(rows.map(r=>[r[0],r]));for(const c of pools.clues){assert.ok(c.center.every(Number.isFinite));assert.notEqual(raw.get(c.id)[8],'PPLX');}});
 test('random rounds have exactly five distinct references, correct outward bearings and mixed distances',()=>{
  let varied=0;for(const target of shuffled(pools.targets,random(11)).slice(0,80)){const clues=chooseClues(target,pools.clues,random(target.id));assert.equal(clues.length,5);assert.equal(new Set(clues.map(c=>c.id)).size,5);assert.ok(clues.every(c=>c.id!==target.id));for(const c of clues){const expected=directionTo(target.center,c.center);assert.equal(c.bearing,expected.bearing);assert.ok(c.distanceKm>=350&&c.distanceKm<18500);}assert.ok(clues.some(c=>c.distanceKm>=5000));if(new Set(clues.map(c=>c.code)).size>=4)varied++;if(pools.clues.some(c=>c.id!==target.id&&directionTo(target.center,c.center).distanceKm>=350&&directionTo(target.center,c.center).distanceKm<=4000))assert.ok(clues.some(c=>c.distanceKm<=4000));}

@@ -3,16 +3,24 @@ import {directionTo} from './guess-history.js';
 export function createCompassPools(rows){
  const byId=new Map(rows.map(r=>[r[0],r]));
  const targets=createHardCities(rows).map(c=>({...c,code:byId.get(c.id)[2]}));
- return {targets,clues:[...targets]};
+ // Rank within this game's pool by GeoNames population, with stable ID ties.
+ const ranked=[...targets].sort((a,b)=>byId.get(b.id)[4]-byId.get(a.id)[4]||a.id-b.id);
+ const clues=ranked.map((city,i)=>({...city,difficultyRank:i+1}));
+ return {targets,clues};
 }
 export function shuffled(values,random=Math.random){const deck=[...values];for(let i=deck.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}return deck;}
 const separation=(a,b)=>Math.min(Math.abs(a-b),360-Math.abs(a-b));
 export function chooseClues(target,pool,random=Math.random){
  const candidates=pool.filter(c=>c.id!==target.id).map(city=>({...city,...directionTo(target.center,city.center)})).filter(c=>c.bearing!==null&&c.distanceKm>=350&&c.distanceKm<18500);
- const nearby=candidates.filter(c=>c.distanceKm<=4000),faraway=candidates.filter(c=>c.distanceKm>=5000),chosen=[];
+ const tiers={easy:candidates.filter(c=>c.difficultyRank<=100),middle:candidates.filter(c=>c.difficultyRank>100&&c.difficultyRank<500),hard:candidates.filter(c=>c.difficultyRank>=500)},chosen=[];
+ const easyCount=1+Math.floor(random()*2),hardCount=1+Math.floor(random()*2);
+ const slots=shuffled([...Array(easyCount).fill('easy'),...Array(hardCount).fill('hard'),...Array(5-easyCount-hardCount).fill('middle')],random);
+ // Difficulty quotas are strict; distance preferences never cross a tier.
  // Country-balanced sampling avoids letting populous countries dominate the clues.
- for(const band of [nearby,faraway,nearby,faraway,faraway]){
-  const available=(band.some(c=>!chosen.some(s=>s.id===c.id))?band:candidates).filter(c=>!chosen.some(s=>s.id===c.id));
+ for(const [i,tier] of slots.entries()){
+  const remaining=tiers[tier].filter(c=>!chosen.some(s=>s.id===c.id));
+  const band=remaining.filter(c=>(i===0||i===2)?c.distanceKm<=4000:c.distanceKm>=5000);
+  const available=band.length?band:remaining;
   const groups=new Map();for(const c of available){if(!groups.has(c.code))groups.set(c.code,[]);groups.get(c.code).push(c);}
   const countryPools=[...groups.values()];if(!countryPools.length)throw Error('Not enough reference cities');
   let best,bestScore=-Infinity;
