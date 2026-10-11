@@ -18,7 +18,7 @@ test('flat-map directions preserve cardinal directions without date-line wrappin
  assert.ok(Math.abs(mapBearing([0,0],[90,66.51326044311186])-45)<1e-8);
 });
 test('Qingyang screenshot regression: Colombia and Guinea-Bissau point southwest',()=>{
- const target=pools.targets.find(c=>c.name==='Qingyang');
+ const target=pools.clues.find(c=>c.name==='Qingyang');
  const candidates=clueCandidates(target,pools.clues);
  for(const name of ['Barranquilla','Bissau','Dhaka']){
   const city=candidates.find(c=>c.name===name);
@@ -61,7 +61,7 @@ test('all 16 independent difficulty/distance quotas work for every answer',()=>{
  assert.equal(pairings.size,9,'all difficulty/distance combinations appear');
  assert.deepEqual(closeEasyCounts,new Set([0,1,2]),'two close clues can be both easy, mixed, or neither easy');
 });
-test('broad answer and reference pools with no districts or invalid coordinates',()=>{assert.equal(pools.targets.length,1000);assert.equal(pools.clues.length,1000);assert.deepEqual(new Set(pools.clues.map(c=>c.id)),new Set(pools.targets.map(c=>c.id)));assert.ok(new Set(pools.targets.map(c=>c.code)).size>150);assert.equal(new Set(pools.clues.map(c=>c.id)).size,pools.clues.length);const raw=new Map(rows.map(r=>[r[0],r]));for(const c of pools.clues){assert.ok(c.center.every(Number.isFinite));assert.notEqual(raw.get(c.id)[8],'PPLX');}});
+test('broad answer and reference pools with no districts or invalid coordinates',()=>{assert.equal(pools.targets.length,200);assert.deepEqual(pools.targets,pools.clues.slice(0,200));assert.equal(pools.clues.length,1000);assert.ok(pools.targets.every(c=>c.difficultyRank<=200));assert.ok(new Set(pools.clues.map(c=>c.code)).size>150);assert.equal(new Set(pools.clues.map(c=>c.id)).size,pools.clues.length);const raw=new Map(rows.map(r=>[r[0],r]));for(const c of pools.clues){assert.ok(c.center.every(Number.isFinite));assert.notEqual(raw.get(c.id)[8],'PPLX');}});
 test('random rounds have exactly five distinct references, correct outward bearings and mixed distances',()=>{
  let varied=0;for(const target of shuffled(pools.targets,random(11)).slice(0,80)){const clues=chooseClues(target,pools.clues,random(target.id));assert.equal(clues.length,5);assert.equal(new Set(clues.map(c=>c.id)).size,5);assert.ok(clues.every(c=>c.id!==target.id));for(const c of clues){const expected=directionTo(target.center,c.center);assert.equal(c.distanceKm,expected.distanceKm);assert.equal(c.bearing,mapBearing(target.center,c.center));const east=Math.sin(c.bearing*Math.PI/180),north=Math.cos(c.bearing*Math.PI/180);if(c.center[0]!==target.center[0])assert.equal(Math.sign(east),Math.sign(c.center[0]-target.center[0]));if(c.center[1]!==target.center[1])assert.equal(Math.sign(north),Math.sign(c.center[1]-target.center[1]));assert.ok(c.distanceKm>=350&&c.distanceKm<18500);}assert.ok(clues.some(c=>c.distanceKm>=5000));if(new Set(clues.map(c=>c.code)).size>=4)varied++;assert.ok(clues.some(c=>c.distanceTier==='close'));assert.ok(clues.some(c=>c.distanceTier==='far'));}
  assert.ok(varied>=70,`${varied}/80 rounds had four or more countries`);

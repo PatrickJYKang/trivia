@@ -3,10 +3,10 @@ import {directionTo} from './guess-history.js';
 import {rankByNotability} from './compass-notability.js';
 export function createCompassPools(rows){
  const byId=new Map(rows.map(r=>[r[0],r]));
- const targets=createHardCities(rows).map(c=>({...c,code:byId.get(c.id)[2]}));
- const ranked=rankByNotability(targets,byId);
+ const pool=createHardCities(rows).map(c=>({...c,code:byId.get(c.id)[2]}));
+ const ranked=rankByNotability(pool,byId);
  const clues=ranked.map((city,i)=>({...city,difficultyRank:i+1}));
- return {targets,clues};
+ return {targets:clues.slice(0,200),clues};
 }
 export function shuffled(values,random=Math.random){const deck=[...values];for(let i=deck.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}return deck;}
 const separation=(a,b)=>Math.min(Math.abs(a-b),360-Math.abs(a-b));
