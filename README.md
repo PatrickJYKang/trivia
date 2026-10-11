@@ -1,6 +1,6 @@
 # Trivia
 
-A static, responsive collection of trivia widgets. The first widget is City Guess.
+A static, responsive collection of geography trivia widgets.
 
 Serve `dist` with any static HTTP server. No build step or API key is required.
 
@@ -77,3 +77,11 @@ Place the displayed city in one matching empty category. Correct placements cons
 The category mix uses country, continent, capital status, latitude/longitude, city-name prefixes and population bands. GeoNames snapshot populations are city-record estimates, not metropolitan populations; they may reflect different census years. Capital status follows the PPLC feature code (Delhi and New Delhi remain separate records). Continents use GeoNames countryInfo, with Russia split at 60°E for these demo selections. Country categories use the recorded country code. English/displayed names determine initial-letter categories. All data derives from GeoNames under CC BY 4.0; no player data, branding or assets from the football reference are copied.
 
 `dist/bingo-data.json` contains all five fixed decks and their 179 distinct city records. `dist/bingo-model.js` defines category predicates, card templates and game transitions. `scripts/build-bingo-demo.mjs /path/to/countryInfo.txt` can regenerate the demo from the existing city database and curated city selections. It uses seeded shuffles and bipartite matching to guarantee a full solution for every card without a wildcard; runtime never regenerates the cards. Run `node --test tests/*.test.mjs` for solvability, penalties, skips, wildcard, exhaustion and regional data checks. Feature-detected WebMCP tools expose the same read/place/skip/wildcard/next actions.
+
+## City Compass
+
+Open `compass.html`, the fourth game in the navigation. Guess the mystery city at the centre using five arrows toward named cities. Answers use the 1,000-city worldwide hard pool, shuffled without repeats until exhausted. Clues are freshly generated each round from over 5,000 cities with at least 100,000 residents, excluding districts. Sampling mixes two regional and three distant cities when available, balances countries, and favours varied directions. There is no daily schedule or fixed set of puzzles.
+
+Arrows show initial great-circle bearings **from the mystery city to each reference city**, with north up. Their equal lengths do not indicate distance. Thin connecting lines keep labels readable without changing the blue arrows' bearings. Search the full city database, keep guessing without a limit, or choose Give up to reveal the answer. Duplicate guesses do not increase the count. Next city resets the round and generates new clues; there is no score or timer.
+
+`dist/compass-model.js` owns city selection, clue sampling, diagram layout and round transitions. `node --test tests/*.test.mjs` checks pool breadth, distinct references, outward bearings, geographic variety, label spacing, unlimited guesses and completion. Browser checks cover search, duplicate guesses, reveal, correct answers, round resets and mobile layout. GeoNames data and attribution follow the city search license above. Optional WebMCP tools expose the same read/search/guess/give-up/next actions; native WebMCP validation was unavailable in the local test browser.
