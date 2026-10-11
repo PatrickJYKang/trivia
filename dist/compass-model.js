@@ -1,26 +1,51 @@
 import {createHardCities} from './hard-cities.js';
 import {directionTo} from './guess-history.js';
+import {rankByNotability} from './compass-notability.js';
 export function createCompassPools(rows){
  const byId=new Map(rows.map(r=>[r[0],r]));
  const targets=createHardCities(rows).map(c=>({...c,code:byId.get(c.id)[2]}));
- // Rank within this game's pool by GeoNames population, with stable ID ties.
- const ranked=[...targets].sort((a,b)=>byId.get(b.id)[4]-byId.get(a.id)[4]||a.id-b.id);
+ const ranked=rankByNotability(targets,byId);
  const clues=ranked.map((city,i)=>({...city,difficultyRank:i+1}));
  return {targets,clues};
 }
 export function shuffled(values,random=Math.random){const deck=[...values];for(let i=deck.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}return deck;}
 const separation=(a,b)=>Math.min(Math.abs(a-b),360-Math.abs(a-b));
+export function clueCandidates(target,pool){
+ const candidates=pool.filter(c=>c.id!==target.id).map(city=>({...city,...directionTo(target.center,city.center)})).filter(c=>c.bearing!==null&&c.distanceKm>=350&&c.distanceKm<18500).sort((a,b)=>a.distanceKm-b.distanceKm||a.id-b.id);
+ const fifth=Math.ceil(candidates.length/5);
+ return candidates.map((city,i)=>({...city,difficultyTier:city.difficultyRank<=100?'easy':city.difficultyRank>=500?'hard':'middle',distanceTier:i<fifth?'close':i>=candidates.length-fifth?'far':'middle'}));
+}
+const tierSlots=(first,last,a,b)=>[...Array(a).fill(first),...Array(b).fill(last),...Array(5-a-b).fill('middle')];
+
+// Match independently drawn difficulty and distance quotas. Backtracking only
+// changes their pairing, never relaxes either quota or pins easy clues nearby.
+function pairSlots(difficulty,distances,cells,random){
+ const used=new Map(),pairs=[];
+ function visit(i,remaining){
+  if(i===difficulty.length)return true;
+  for(const distance of shuffled([...new Set(remaining)],random)){
+   const key=`${difficulty[i]}/${distance}`,count=used.get(key)||0;
+   if(count>=(cells.get(key)?.length||0))continue;
+   used.set(key,count+1);pairs.push(key);
+   const next=[...remaining];next.splice(next.indexOf(distance),1);
+   if(visit(i+1,next))return true;
+   used.set(key,count);pairs.pop();
+  }
+  return false;
+ }
+ if(!visit(0,distances))throw Error('Unable to match clue quotas.');
+ return pairs;
+}
 export function chooseClues(target,pool,random=Math.random){
- const candidates=pool.filter(c=>c.id!==target.id).map(city=>({...city,...directionTo(target.center,city.center)})).filter(c=>c.bearing!==null&&c.distanceKm>=350&&c.distanceKm<18500);
- const tiers={easy:candidates.filter(c=>c.difficultyRank<=100),middle:candidates.filter(c=>c.difficultyRank>100&&c.difficultyRank<500),hard:candidates.filter(c=>c.difficultyRank>=500)},chosen=[];
- const easyCount=1+Math.floor(random()*2),hardCount=1+Math.floor(random()*2);
- const slots=shuffled([...Array(easyCount).fill('easy'),...Array(hardCount).fill('hard'),...Array(5-easyCount-hardCount).fill('middle')],random);
- // Difficulty quotas are strict; distance preferences never cross a tier.
- // Country-balanced sampling avoids letting populous countries dominate the clues.
- for(const [i,tier] of slots.entries()){
-  const remaining=tiers[tier].filter(c=>!chosen.some(s=>s.id===c.id));
-  const band=remaining.filter(c=>(i===0||i===2)?c.distanceKm<=4000:c.distanceKm>=5000);
-  const available=band.length?band:remaining;
+ const candidates=clueCandidates(target,pool),cells=new Map(),chosen=[];
+ for(const city of candidates){const key=`${city.difficultyTier}/${city.distanceTier}`;if(!cells.has(key))cells.set(key,[]);cells.get(key).push(city);}
+ const easyCount=1+Math.floor(random()*2),hardCount=1+Math.floor(random()*2),closeCount=1+Math.floor(random()*2),farCount=1+Math.floor(random()*2);
+ const difficulty=shuffled(tierSlots('easy','hard',easyCount,hardCount),random);
+ const distances=tierSlots('close','far',closeCount,farCount);
+ const slots=pairSlots(difficulty,distances,cells,random);
+ // Country and bearing variety are optimized inside each matched cell.
+ for(const key of slots){
+  const available=cells.get(key).filter(c=>!chosen.some(s=>s.id===c.id));
   const groups=new Map();for(const c of available){if(!groups.has(c.code))groups.set(c.code,[]);groups.get(c.code).push(c);}
   const countryPools=[...groups.values()];if(!countryPools.length)throw Error('Not enough reference cities');
   let best,bestScore=-Infinity;
