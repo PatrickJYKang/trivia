@@ -10,7 +10,7 @@ const entries=data.cities;
 const index=createIndex(database,entries),rawById=new Map(database.map(row=>[row[0],row]));
 
 test('researched histories have valid city identities, chronological periods and source links',()=>{
-  assert.ok(entries.length>=40,'substantial starting collection');
+  assert.equal(entries.length,100,'100 city histories');
   assert.equal(new Set(entries.map(c=>c.id)).size,entries.length);
   const signatures=new Set();
   for(const city of entries){
@@ -30,7 +30,7 @@ test('researched histories have valid city identities, chronological periods and
       }
     }
     assert.equal(city.periods.at(-1).end,null,city.name);
-    const signature=JSON.stringify(city.periods);
+    const signature=JSON.stringify(city.periods.map(p=>({dates:formatPeriod(p),control:p.label})));
     assert.ok(!signatures.has(signature),`${city.name}: indistinguishable timeline`);signatures.add(signature);
     assert.ok(searchCities(index,city.name,50).some(c=>c.id===city.id),`${city.name}: searchable`);
     for(const alias of city.aliases)assert.ok(searchCities(index,alias,50).some(c=>c.id===city.id),`${city.name}: alias ${alias}`);
@@ -109,4 +109,13 @@ test('wrong guesses reveal one owner, with manual reveals, full history on compl
   assert.equal(game.snapshot().canReveal,false);
   game.next();game.guess(game.current);
   assert.equal(game.snapshot().periods.length,game.current.periods.length);
+});
+
+
+test('history pool includes substantial Asian and American coverage',()=>{
+  const asianCodes=new Set(['CN','TW','KR','JP','VN','MM','MY','ID','TL','IN','PK','BD','YE','OM','HK','MO','SG','LK']);
+  const americanCodes=new Set(['US','CA','MX','DO','PR','SR','BR','CU']);
+  const countIn=codes=>entries.filter(city=>codes.has(rawById.get(city.id)[2])).length;
+  assert.ok(countIn(asianCodes)>=30,'at least 30 Asian cities');
+  assert.ok(countIn(americanCodes)>=15,'at least 15 American cities');
 });

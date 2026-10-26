@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "scope": "Selected major periods of political control; names that disclose the answer are generalized. Notes and linked sources explain local scope, approximation and omitted interruptions.",
   "cities": [
     {
@@ -3684,6 +3684,2508 @@
         }
       ],
       "country": "United States"
+    },
+    {
+      "name": "Qingdao",
+      "id": 1797929,
+      "country": "China",
+      "aliases": [
+        "Tsingtao"
+      ],
+      "periods": [
+        {
+          "start": 1891,
+          "end": 1897,
+          "label": "Qing dynasty"
+        },
+        {
+          "start": 1897,
+          "end": 1914,
+          "label": "German Empire (leased territory)",
+          "detail": "German occupation in 1897; formal lease from 1898."
+        },
+        {
+          "start": 1914,
+          "end": 1922,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1922,
+          "end": 1938,
+          "label": "Republic of China"
+        },
+        {
+          "start": 1938,
+          "end": 1945,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1949,
+          "label": "Republic of China"
+        },
+        {
+          "start": 1949,
+          "end": null,
+          "label": "People’s Republic of China",
+          "detail": "Communist forces took the city in June; the PRC was proclaimed in October."
+        }
+      ],
+      "note": "The selected timeline begins with the Qing government's establishment of a local defence administration. Germany occupied Qingdao in November 1897, before the March 1898 lease. China recovered administration in December 1922. Postwar US naval presence did not replace Chinese sovereignty.",
+      "sources": [
+        {
+          "title": "Qingdao Yearbook — historical chronology",
+          "url": "https://shandong-chorography.org/database/d2/section/11/article/13/"
+        },
+        {
+          "title": "Qingdao — history",
+          "url": "https://en.wikipedia.org/wiki/Qingdao"
+        }
+      ]
+    },
+    {
+      "name": "Dalian",
+      "id": 1814087,
+      "country": "China",
+      "aliases": [
+        "Dalny",
+        "Dairen"
+      ],
+      "periods": [
+        {
+          "start": 1898,
+          "end": 1905,
+          "label": "Russian Empire (leased territory)"
+        },
+        {
+          "start": 1905,
+          "end": 1945,
+          "label": "Japanese Empire (leased territory)"
+        },
+        {
+          "start": 1945,
+          "end": 1950,
+          "label": "Soviet military control",
+          "detail": "Local Chinese Communist administration operated under Soviet military authority."
+        },
+        {
+          "start": 1950,
+          "end": 1955,
+          "label": "PRC (Soviet presence)",
+          "detail": "People’s Republic of China (Soviet presence)"
+        },
+        {
+          "start": 1955,
+          "end": null,
+          "label": "People’s Republic of China"
+        }
+      ],
+      "note": "This follows the historic Dalian urban core, not every settlement within today's municipality. Soviet forces arrived in August 1945. Civil administration passed to the PRC in 1950, while Soviet troops remained in the wider port area until 1955; their departure was not the start of Chinese civil rule.",
+      "sources": [
+        {
+          "title": "Dalian — Russian, Japanese and Soviet periods",
+          "url": "https://en.wikipedia.org/wiki/Dalian"
+        }
+      ]
+    },
+    {
+      "name": "Harbin",
+      "id": 2037013,
+      "country": "China",
+      "aliases": [
+        "Haerbin"
+      ],
+      "periods": [
+        {
+          "start": 1932,
+          "end": 1945,
+          "label": "Manchukuo (Japanese puppet state)"
+        },
+        {
+          "start": 1945,
+          "end": 1946,
+          "label": "Soviet occupation"
+        },
+        {
+          "start": 1946,
+          "end": 1949,
+          "label": "Chinese Communist administration"
+        },
+        {
+          "start": 1949,
+          "end": null,
+          "label": "People’s Republic of China"
+        }
+      ],
+      "note": "The selected timeline starts in 1932. Earlier Russian railway administration was an enclave arrangement, not simple Russian sovereignty over the whole city. Soviet troops entered in August 1945 and withdrew in April 1946; Communist municipal government followed before the PRC was founded in 1949.",
+      "sources": [
+        {
+          "title": "Harbin — Japanese occupation and postwar history",
+          "url": "https://en.wikipedia.org/wiki/Harbin"
+        }
+      ]
+    },
+    {
+      "name": "Taipei",
+      "id": 1668341,
+      "country": "Taiwan",
+      "aliases": [
+        "Taipeh"
+      ],
+      "periods": [
+        {
+          "start": 1875,
+          "end": 1895,
+          "label": "Qing dynasty"
+        },
+        {
+          "start": 1895,
+          "end": 1945,
+          "label": "Japanese Empire"
+        },
+        {
+          "start": 1945,
+          "end": null,
+          "label": "Republic of China administration"
+        }
+      ],
+      "note": "The timeline starts with the establishment of Taipei Prefecture. Japan acquired Taiwan in 1895; the short-lived Republic of Formosa briefly claimed authority during that year's transition. Republic of China administration began in 1945, and its central government relocated here in 1949. The present row describes administration without resolving competing sovereignty claims over Taiwan.",
+      "sources": [
+        {
+          "title": "Taipei City Government — city history",
+          "url": "https://www.gov.taipei/cp.aspx?n=14D2637CBC4AAEC2"
+        },
+        {
+          "title": "Taipei — history",
+          "url": "https://en.wikipedia.org/wiki/Taipei"
+        }
+      ]
+    },
+    {
+      "name": "Tainan",
+      "id": 1668355,
+      "country": "Taiwan",
+      "aliases": [
+        "Taiwanfu"
+      ],
+      "periods": [
+        {
+          "start": 1624,
+          "end": 1662,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1662,
+          "end": 1683,
+          "label": "Zheng kingdom (Ming loyalists)"
+        },
+        {
+          "start": 1683,
+          "end": 1895,
+          "label": "Qing dynasty"
+        },
+        {
+          "start": 1895,
+          "end": 1895,
+          "label": "Republic of Formosa",
+          "detail": "The resistance government remained here until October 1895."
+        },
+        {
+          "start": 1895,
+          "end": 1945,
+          "label": "Japanese Empire"
+        },
+        {
+          "start": 1945,
+          "end": null,
+          "label": "Republic of China administration"
+        }
+      ],
+      "note": "This covers the historic core and Anping. Koxinga's campaign began in 1661, but the Dutch fortress surrendered in February 1662. The Zheng regime surrendered in 1683; formal Qing prefectural administration followed in 1684. The 1895 resistance lasted until October. The present row describes actual administration, without deciding Taiwan's disputed sovereignty.",
+      "sources": [
+        {
+          "title": "Tainan City Government — history",
+          "url": "https://www.tainan.gov.tw/cp.aspx?n=13291"
+        },
+        {
+          "title": "Tainan — history",
+          "url": "https://en.wikipedia.org/wiki/Tainan"
+        }
+      ]
+    },
+    {
+      "name": "Seoul",
+      "id": 1835848,
+      "country": "South Korea",
+      "aliases": [
+        "Hanseong",
+        "Hanyang",
+        "Gyeongseong",
+        "Keijo"
+      ],
+      "periods": [
+        {
+          "start": 1897,
+          "end": 1905,
+          "label": "Korean Empire"
+        },
+        {
+          "start": 1905,
+          "end": 1910,
+          "label": "Korean Empire (Japanese protectorate)"
+        },
+        {
+          "start": 1910,
+          "end": 1945,
+          "label": "Japanese Empire"
+        },
+        {
+          "start": 1945,
+          "end": 1948,
+          "label": "US military government"
+        },
+        {
+          "start": 1948,
+          "end": 1950,
+          "label": "Republic of Korea"
+        },
+        {
+          "start": 1950,
+          "end": 1950,
+          "label": "North Korean occupation",
+          "detail": "June–September 1950."
+        },
+        {
+          "start": 1950,
+          "end": 1951,
+          "label": "South Korean and UN forces",
+          "detail": "Retaken in September 1950."
+        },
+        {
+          "start": 1951,
+          "end": 1951,
+          "label": "Chinese / North Korean occupation",
+          "detail": "Chinese and North Korean occupation. January–March 1951."
+        },
+        {
+          "start": 1951,
+          "end": null,
+          "label": "Republic of Korea"
+        }
+      ],
+      "note": "This selected modern timeline starts with the Korean Empire in 1897; Seoul had been the Joseon capital since 1394. The Japanese protectorate preceded outright annexation in 1910. Same-year rows preserve the Korean War's four changes of control instead of treating the city as continuously South Korean from 1948.",
+      "sources": [
+        {
+          "title": "Seoul Metropolitan Government — history",
+          "url": "https://english.seoul.go.kr/seoul-views/meaning-of-seoul/1-history/"
+        },
+        {
+          "title": "Seoul — Korean War",
+          "url": "https://en.wikipedia.org/wiki/Seoul"
+        },
+        {
+          "title": "Korean Empire — protectorate and annexation",
+          "url": "https://en.wikipedia.org/wiki/Korean_Empire"
+        },
+        {
+          "title": "US Army Military Government in Korea",
+          "url": "https://en.wikipedia.org/wiki/United_States_Army_Military_Government_in_Korea"
+        }
+      ]
+    },
+    {
+      "name": "Busan",
+      "id": 1838524,
+      "country": "South Korea",
+      "aliases": [
+        "Pusan"
+      ],
+      "periods": [
+        {
+          "start": 1592,
+          "end": 1598,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1598,
+          "end": 1897,
+          "label": "Joseon kingdom"
+        },
+        {
+          "start": 1897,
+          "end": 1905,
+          "label": "Korean Empire"
+        },
+        {
+          "start": 1905,
+          "end": 1910,
+          "label": "Korean Empire (Japanese protectorate)"
+        },
+        {
+          "start": 1910,
+          "end": 1945,
+          "label": "Japanese Empire"
+        },
+        {
+          "start": 1945,
+          "end": 1948,
+          "label": "US military government"
+        },
+        {
+          "start": 1948,
+          "end": null,
+          "label": "Republic of Korea"
+        }
+      ],
+      "note": "Japanese forces held the port during the 1592–1598 invasions. Later Japanese trading compounds did not make the whole city Japanese territory. Busan remained under South Korean/UN control during the Korean War and served as a temporary capital. The 1905 protectorate and 1910 annexation are separate transitions.",
+      "sources": [
+        {
+          "title": "Busan Metropolitan City — historical chronology",
+          "url": "https://www.busan.go.kr/eng/bsrole"
+        },
+        {
+          "title": "Busan — history",
+          "url": "https://en.wikipedia.org/wiki/Busan"
+        },
+        {
+          "title": "Korean Empire — protectorate",
+          "url": "https://en.wikipedia.org/wiki/Korean_Empire"
+        },
+        {
+          "title": "US Army Military Government in Korea",
+          "url": "https://en.wikipedia.org/wiki/United_States_Army_Military_Government_in_Korea"
+        }
+      ]
+    },
+    {
+      "name": "Hanoi",
+      "id": 1581130,
+      "country": "Vietnam",
+      "aliases": [
+        "Ha Noi",
+        "Thang Long"
+      ],
+      "periods": [
+        {
+          "start": 1883,
+          "end": 1940,
+          "label": "French colonial rule"
+        },
+        {
+          "start": 1940,
+          "end": 1945,
+          "label": "France (Japanese occupation)",
+          "detail": "French administration under Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1945,
+          "label": "Japanese military control",
+          "detail": "Japan overthrew the French administration in March."
+        },
+        {
+          "start": 1945,
+          "end": 1947,
+          "label": "North Vietnam (contested)",
+          "detail": "Democratic Republic of Vietnam (contested). Chinese Allied troops arrived in 1945; French troops returned in 1946. Open fighting began in December 1946."
+        },
+        {
+          "start": 1947,
+          "end": 1949,
+          "label": "French control"
+        },
+        {
+          "start": 1949,
+          "end": 1954,
+          "label": "State of Vietnam (French Union)"
+        },
+        {
+          "start": 1954,
+          "end": 1976,
+          "label": "Democratic Republic of Vietnam"
+        },
+        {
+          "start": 1976,
+          "end": null,
+          "label": "Socialist Republic of Vietnam"
+        }
+      ],
+      "note": "The timeline starts with the French protectorate era; the city became a French municipal concession in 1888. French troops returned in March 1946, but the independence government retained a presence until fighting forced its final withdrawal in February 1947. It recovered Hanoi in October 1954. National reunification followed in 1976.",
+      "sources": [
+        {
+          "title": "Christopher Goscha — Hanoi, Historical Dictionary of the Indochina War",
+          "url": "https://indochine.uqam.ca/en/historical-dictionary/577-hanoi.html"
+        },
+        {
+          "title": "Hanoi — colonial and modern history",
+          "url": "https://en.wikipedia.org/wiki/Hanoi"
+        }
+      ]
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "id": 1566083,
+      "country": "Vietnam",
+      "aliases": [
+        "Saigon",
+        "Sài Gòn"
+      ],
+      "periods": [
+        {
+          "start": 1859,
+          "end": 1941,
+          "label": "French colonial rule"
+        },
+        {
+          "start": 1941,
+          "end": 1945,
+          "label": "France (Japanese occupation)",
+          "detail": "French administration under Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1945,
+          "label": "Japanese military control",
+          "detail": "March–August 1945, after the coup against French rule."
+        },
+        {
+          "start": 1945,
+          "end": 1945,
+          "label": "Vietnamese revolutionary authorities",
+          "detail": "Brief control following Japan's surrender."
+        },
+        {
+          "start": 1945,
+          "end": 1946,
+          "label": "British / French control",
+          "detail": "British and French military control"
+        },
+        {
+          "start": 1946,
+          "end": 1949,
+          "label": "Cochinchina (French-backed)",
+          "detail": "French-sponsored Cochinchina government"
+        },
+        {
+          "start": 1949,
+          "end": 1955,
+          "label": "State of Vietnam (French Union)"
+        },
+        {
+          "start": 1955,
+          "end": 1975,
+          "label": "Republic of Vietnam"
+        },
+        {
+          "start": 1975,
+          "end": 1976,
+          "label": "Provisional Revolutionary Government"
+        },
+        {
+          "start": 1976,
+          "end": null,
+          "label": "Socialist Republic of Vietnam"
+        }
+      ],
+      "note": "The French captured Saigon in 1859. Japanese troops entered southern Indochina in 1941 while French administrators initially remained. The turbulent 1945 rows distinguish Japan's coup, revolutionary control and the British-assisted French return. The city fell to communist forces in April 1975; formal reunification and renaming followed in 1976.",
+      "sources": [
+        {
+          "title": "Ho Chi Minh City — history",
+          "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City"
+        },
+        {
+          "title": "War in southern Vietnam, 1945–1946",
+          "url": "https://en.wikipedia.org/wiki/War_in_southern_Vietnam_(1945%E2%80%931946)"
+        }
+      ]
+    },
+    {
+      "name": "Yangon",
+      "id": 1298824,
+      "country": "Myanmar",
+      "aliases": [
+        "Rangoon",
+        "Dagon"
+      ],
+      "periods": [
+        {
+          "start": 1755,
+          "end": 1824,
+          "label": "Konbaung kingdom"
+        },
+        {
+          "start": 1824,
+          "end": 1826,
+          "label": "British occupation"
+        },
+        {
+          "start": 1826,
+          "end": 1852,
+          "label": "Konbaung kingdom"
+        },
+        {
+          "start": 1852,
+          "end": 1942,
+          "label": "British colonial rule"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1948,
+          "label": "British colonial rule"
+        },
+        {
+          "start": 1948,
+          "end": null,
+          "label": "Independent Burma / Myanmar"
+        }
+      ],
+      "note": "Alaungpaya captured and renamed the settlement in 1755. The first British occupation ended in 1826; permanent colonial conquest came in 1852. Japanese wartime control ended when Allied forces retook the city in May 1945. The final row groups successive governments of independent Burma/Myanmar, rather than treating each regime change as foreign conquest.",
+      "sources": [
+        {
+          "title": "Yangon — history",
+          "url": "https://en.wikipedia.org/wiki/Yangon"
+        }
+      ]
+    },
+    {
+      "name": "George Town",
+      "id": 1735106,
+      "country": "Malaysia",
+      "aliases": [
+        "Georgetown"
+      ],
+      "periods": [
+        {
+          "start": 1786,
+          "end": 1858,
+          "label": "British East India Company"
+        },
+        {
+          "start": 1858,
+          "end": 1941,
+          "label": "British Empire"
+        },
+        {
+          "start": 1941,
+          "end": 1945,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1957,
+          "label": "British colonial rule"
+        },
+        {
+          "start": 1957,
+          "end": 1963,
+          "label": "Federation of Malaya"
+        },
+        {
+          "start": 1963,
+          "end": null,
+          "label": "Malaysia"
+        }
+      ],
+      "note": "The modern town was founded under the East India Company in 1786. After Company rule, it belonged to British India until the Straits Settlements became a separate Crown colony in 1867. The postwar row groups military administration, the Malayan Union and the colonial Federation of Malaya. Malaya became independent in 1957 and joined Malaysia in 1963.",
+      "sources": [
+        {
+          "title": "George Town, Penang — colonial and modern history",
+          "url": "https://en.wikipedia.org/wiki/George_Town,_Penang"
+        }
+      ]
+    },
+    {
+      "name": "Makassar",
+      "id": 1622786,
+      "country": "Indonesia",
+      "aliases": [
+        "Ujung Pandang",
+        "Ujungpandang"
+      ],
+      "periods": [
+        {
+          "start": 1669,
+          "end": 1800,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1800,
+          "end": 1812,
+          "label": "Dutch colonial administration"
+        },
+        {
+          "start": 1812,
+          "end": 1816,
+          "label": "British administration"
+        },
+        {
+          "start": 1816,
+          "end": 1942,
+          "label": "Dutch East Indies"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1946,
+          "label": "Allied occupation"
+        },
+        {
+          "start": 1946,
+          "end": 1949,
+          "label": "East Indonesia (Dutch sovereignty)",
+          "detail": "State of East Indonesia (Dutch sovereignty)"
+        },
+        {
+          "start": 1949,
+          "end": 1950,
+          "label": "United States of Indonesia"
+        },
+        {
+          "start": 1950,
+          "end": null,
+          "label": "Republic of Indonesia"
+        }
+      ],
+      "note": "This follows the Dutch-controlled harbour and urban core after Gowa's defeat, not every neighbouring kingdom. The VOC obtained the port fortress in 1667; Gowa's main fortress fell in 1669. British administration began locally in 1812. Allied troops arrived in 1945, and Dutch civil authority returned during 1946. The eastern federal state joined sovereign federal Indonesia in December 1949, then unitary Indonesia in 1950.",
+      "sources": [
+        {
+          "title": "Makassar — history",
+          "url": "https://en.wikipedia.org/wiki/Makassar"
+        },
+        {
+          "title": "Abd Latif — British administration in South Sulawesi, 1812–1816",
+          "url": "https://www.journals.mindamas.com/index.php/tawarikh/article/view/570"
+        },
+        {
+          "title": "ANU Press — Anthony Reid on early Macassan history",
+          "url": "https://press-files.anu.edu.au/downloads/press/p241301/html/ch03.xhtml?page=5&referer=294"
+        },
+        {
+          "title": "Indische Kamp Archieven — Celebes occupation and aftermath",
+          "url": "https://indischekamparchieven.nl/en/occupation-and-bersiap/by-region/celebes"
+        },
+        {
+          "title": "State of East Indonesia — formation and dissolution",
+          "url": "https://en.wikipedia.org/wiki/State_of_East_Indonesia"
+        }
+      ]
+    },
+    {
+      "name": "Surabaya",
+      "id": 1625822,
+      "country": "Indonesia",
+      "aliases": [
+        "Soerabaja"
+      ],
+      "periods": [
+        {
+          "start": 1743,
+          "end": 1800,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1800,
+          "end": 1811,
+          "label": "Dutch colonial administration"
+        },
+        {
+          "start": 1811,
+          "end": 1816,
+          "label": "British administration"
+        },
+        {
+          "start": 1816,
+          "end": 1942,
+          "label": "Dutch East Indies"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1945,
+          "label": "Indonesian republican forces",
+          "detail": "After Japan's surrender and before the November battle."
+        },
+        {
+          "start": 1945,
+          "end": 1946,
+          "label": "British military occupation"
+        },
+        {
+          "start": 1946,
+          "end": 1949,
+          "label": "Dutch colonial control"
+        },
+        {
+          "start": 1949,
+          "end": 1950,
+          "label": "United States of Indonesia"
+        },
+        {
+          "start": 1950,
+          "end": null,
+          "label": "Republic of Indonesia"
+        }
+      ],
+      "note": "Mataram ceded Surabaya to the VOC in 1743. The Dutch-state row includes the Napoleonic political changes before Britain's 1811 conquest. Indonesian republicans held the city briefly in 1945; British forces captured it in November and handed control back to the Dutch during 1946. Dutch sovereignty ended in December 1949; the federal republic became unitary in August 1950.",
+      "sources": [
+        {
+          "title": "Surabaya — history",
+          "url": "https://en.wikipedia.org/wiki/Surabaya"
+        },
+        {
+          "title": "Howard Dick — Surabaya, City of Work",
+          "url": "https://www.bibliopen.org/p/bopen/9780896804302/pdf"
+        },
+        {
+          "title": "National Army Museum — November 1945",
+          "url": "https://www.nam.ac.uk/explore/november-1945"
+        },
+        {
+          "title": "Invasion of Java — British interregnum",
+          "url": "https://en.wikipedia.org/wiki/Invasion_of_Java_(1811)"
+        },
+        {
+          "title": "National Archives of Australia — Indonesian independence",
+          "url": "https://www.naa.gov.au/help-your-research/fact-sheets/indonesian-independence"
+        }
+      ]
+    },
+    {
+      "name": "Naha",
+      "id": 1856035,
+      "country": "Japan",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1609,
+          "end": 1872,
+          "label": "Ryukyu kingdom (Satsuma overlordship)"
+        },
+        {
+          "start": 1872,
+          "end": 1879,
+          "label": "Japan (Ryukyu domain)"
+        },
+        {
+          "start": 1879,
+          "end": 1945,
+          "label": "Japan"
+        },
+        {
+          "start": 1945,
+          "end": 1972,
+          "label": "United States administration"
+        },
+        {
+          "start": 1972,
+          "end": null,
+          "label": "Japan"
+        }
+      ],
+      "note": "Naha was the Ryukyu kingdom's principal port. After Satsuma's 1609 invasion, the kingdom retained its monarchy and Chinese tributary relationship under Japanese overlordship. Japan redesignated it a domain in 1872 and abolished the monarchy in 1879. US administration after the Battle of Okinawa was not annexation; reversion to Japan took effect on 15 May 1972.",
+      "sources": [
+        {
+          "title": "Japan Ministry of Foreign Affairs — Ryukyu kingdom and Satsuma",
+          "url": "https://www.mofa.go.jp/mofaj/gaiko/summit/ko_2000/outline/jp/okinawa/oki0301.html"
+        },
+        {
+          "title": "Okinawa Prefecture — history overview",
+          "url": "https://www.pref.okinawa.jp/kyoiku/kodomo/1002705/1002706.html"
+        },
+        {
+          "title": "Okinawa Prefectural Archives — historical exhibition",
+          "url": "https://www.archives.pref.okinawa.jp/event_information/past_exhibitions/934"
+        },
+        {
+          "title": "Naha — history",
+          "url": "https://en.wikipedia.org/wiki/Naha"
+        }
+      ]
+    },
+    {
+      "name": "Dili",
+      "id": 1645457,
+      "country": "Timor-Leste",
+      "aliases": [
+        "Díli"
+      ],
+      "periods": [
+        {
+          "start": 1769,
+          "end": 1941,
+          "label": "Portuguese colonial rule"
+        },
+        {
+          "start": 1941,
+          "end": 1942,
+          "label": "Australian and Dutch occupation"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1975,
+          "label": "Portuguese colonial rule"
+        },
+        {
+          "start": 1975,
+          "end": 1975,
+          "label": "FRETILIN administration",
+          "detail": "Following the August civil war; independence declared in November."
+        },
+        {
+          "start": 1975,
+          "end": 1999,
+          "label": "Indonesian occupation"
+        },
+        {
+          "start": 1999,
+          "end": 2002,
+          "label": "United Nations administration"
+        },
+        {
+          "start": 2002,
+          "end": null,
+          "label": "Timor-Leste"
+        }
+      ],
+      "note": "Dili became the Portuguese colonial capital in 1769. Allied troops occupied neutral Portuguese territory in December 1941, before Japan's February 1942 invasion. Portugal withdrew from the city in August 1975. Indonesia invaded in December and later claimed annexation, which the UN did not recognize. International intervention and UN administration followed in 1999; independence was restored on 20 May 2002.",
+      "sources": [
+        {
+          "title": "Dili — colonial, occupation and independence history",
+          "url": "https://en.wikipedia.org/wiki/Dili"
+        },
+        {
+          "title": "Western Australian Museum — Battles for Timor",
+          "url": "https://museum.wa.gov.au/debt-of-honour/battles-timor/"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "id": 5128581,
+      "country": "United States",
+      "aliases": [
+        "New York City",
+        "NYC",
+        "New Amsterdam",
+        "New Orange"
+      ],
+      "periods": [
+        {
+          "start": 1625,
+          "end": 1664,
+          "label": "Dutch Republic"
+        },
+        {
+          "start": 1664,
+          "end": 1673,
+          "label": "England"
+        },
+        {
+          "start": 1673,
+          "end": 1674,
+          "label": "Dutch Republic"
+        },
+        {
+          "start": 1674,
+          "end": 1707,
+          "label": "England"
+        },
+        {
+          "start": 1707,
+          "end": 1775,
+          "label": "Great Britain"
+        },
+        {
+          "start": 1775,
+          "end": 1776,
+          "label": "American revolutionaries"
+        },
+        {
+          "start": 1776,
+          "end": 1783,
+          "label": "British occupation"
+        },
+        {
+          "start": 1783,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "This selected timeline begins with the Dutch settlement on Manhattan, rather than the earlier Lenape communities. British troops withdrew in June 1775; revolutionary authorities then controlled the city until the British campaign of 1776. British occupation continued until the evacuation in 1783. The 1707 transition reflects the union of England and Scotland.",
+      "sources": [
+        {
+          "title": "Historical Society of the New York Courts — Dutch rule",
+          "url": "https://history.nycourts.gov/legal-history-by-era/new-york-under-dutch-rule/"
+        },
+        {
+          "title": "Fort Ticonderoga Museum — New York in the Revolution",
+          "url": "https://fortticonderoga.org/experience/museum-exhibitions/revolutionary-anthology/power-of-place/new-york-pop/"
+        },
+        {
+          "title": "National Park Service — Battle of Brooklyn",
+          "url": "https://www.nps.gov/gois/learn/historyculture/battle-of-brooklyn.htm"
+        }
+      ]
+    },
+    {
+      "name": "Quebec City",
+      "id": 6325494,
+      "country": "Canada",
+      "aliases": [
+        "Québec",
+        "Quebec",
+        "Québec City"
+      ],
+      "periods": [
+        {
+          "start": 1608,
+          "end": 1629,
+          "label": "France"
+        },
+        {
+          "start": 1629,
+          "end": 1632,
+          "label": "English occupation"
+        },
+        {
+          "start": 1632,
+          "end": 1759,
+          "label": "France"
+        },
+        {
+          "start": 1759,
+          "end": 1763,
+          "label": "British military rule"
+        },
+        {
+          "start": 1763,
+          "end": 1867,
+          "label": "British Empire"
+        },
+        {
+          "start": 1867,
+          "end": null,
+          "label": "Canada"
+        }
+      ],
+      "note": "The city fell to British troops in 1759; France formally ceded Canada in 1763. Confederation in 1867 created a self-governing Dominion within the British Empire, not instant complete independence. Canadian constitutional independence developed later. The earlier English occupation lasted from 1629 to 1632.",
+      "sources": [
+        {
+          "title": "Parks Canada — Saint-Louis Forts and Châteaux history",
+          "url": "https://parks.canada.ca/lhn-nhs/qc/saintlouisforts/culture/histoire-history/natcul1"
+        }
+      ]
+    },
+    {
+      "name": "Montreal",
+      "id": 6077243,
+      "country": "Canada",
+      "aliases": [
+        "Montréal",
+        "Ville-Marie"
+      ],
+      "periods": [
+        {
+          "start": 1642,
+          "end": 1760,
+          "label": "France"
+        },
+        {
+          "start": 1760,
+          "end": 1763,
+          "label": "British military rule"
+        },
+        {
+          "start": 1763,
+          "end": 1775,
+          "label": "British Empire"
+        },
+        {
+          "start": 1775,
+          "end": 1776,
+          "label": "American occupation"
+        },
+        {
+          "start": 1776,
+          "end": 1867,
+          "label": "British Empire"
+        },
+        {
+          "start": 1867,
+          "end": null,
+          "label": "Canada"
+        }
+      ],
+      "note": "This timeline starts with the French mission settlement of 1642. British forces took the city in 1760, before the formal cession of 1763. Continental troops occupied it during the unsuccessful invasion of Canada in 1775–1776. Confederation in 1867 created a Dominion within the British Empire; constitutional independence came gradually.",
+      "sources": [
+        {
+          "title": "Canada’s History — Montréal in Time",
+          "url": "https://www.canadashistory.ca/explore/french-canada/montreal-in-time"
+        },
+        {
+          "title": "Montreal Archives — British regime",
+          "url": "https://www2.ville.montreal.qc.ca/archives/democratie/democratie_en/expo/montreal/regime-britannique/index.shtm"
+        }
+      ]
+    },
+    {
+      "name": "Detroit",
+      "id": 4990729,
+      "country": "United States",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1701,
+          "end": 1760,
+          "label": "France"
+        },
+        {
+          "start": 1760,
+          "end": 1796,
+          "label": "British control"
+        },
+        {
+          "start": 1796,
+          "end": 1812,
+          "label": "United States"
+        },
+        {
+          "start": 1812,
+          "end": 1813,
+          "label": "British occupation"
+        },
+        {
+          "start": 1813,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "The timeline follows the French-founded settlement. Britain retained physical possession after the 1783 treaty recognized United States sovereignty, handing it over only in July 1796. British troops and Indigenous allies captured the city in August 1812; the British withdrew in September 1813.",
+      "sources": [
+        {
+          "title": "Detroit Historical Society — Timeline of Detroit",
+          "url": "https://www.detroithistorical.org/learn/online-research/timeline-detroit"
+        }
+      ]
+    },
+    {
+      "name": "St. Louis",
+      "id": 4407066,
+      "country": "United States",
+      "aliases": [
+        "Saint Louis",
+        "Saint-Louis"
+      ],
+      "periods": [
+        {
+          "start": 1764,
+          "end": 1770,
+          "label": "Spain (French administration)"
+        },
+        {
+          "start": 1770,
+          "end": 1804,
+          "label": "Spain"
+        },
+        {
+          "start": 1804,
+          "end": 1804,
+          "label": "France"
+        },
+        {
+          "start": 1804,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "Founded by French colonists in 1764 after the treaty ceding Louisiana to Spain, St. Louis initially retained French administration. Spanish officials took over locally in 1770. Although Spain retroceded Louisiana to France in 1800 and France sold it in 1803, Spanish administration lasted until March 1804. The French flag flew during the ceremonial handover on March 9–10, 1804, immediately before the United States took possession.",
+      "sources": [
+        {
+          "title": "Missouri State Archives — Timeline, 1673–1820",
+          "url": "https://www.sos.mo.gov/archives/history/timeline/1"
+        },
+        {
+          "title": "National Park Service — U.S. Takes Possession of Louisiana",
+          "url": "https://www.nps.gov/articles/u-s-takes-possession-of-louisiana.htm"
+        }
+      ]
+    },
+    {
+      "name": "Mobile",
+      "id": 4076598,
+      "country": "United States",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1702,
+          "end": 1763,
+          "label": "France"
+        },
+        {
+          "start": 1763,
+          "end": 1780,
+          "label": "Great Britain"
+        },
+        {
+          "start": 1780,
+          "end": 1813,
+          "label": "Spain"
+        },
+        {
+          "start": 1813,
+          "end": 1861,
+          "label": "United States"
+        },
+        {
+          "start": 1861,
+          "end": 1865,
+          "label": "Confederate control"
+        },
+        {
+          "start": 1865,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "The original French settlement was upstream and moved to the present site in 1711. Spanish forces captured the British fort in 1780. United States forces took actual possession in April 1813. The city remained under Confederate control after the 1864 naval battle in its bay and surrendered only on April 12, 1865.",
+      "sources": [
+        {
+          "title": "Mobile County — Colonial history",
+          "url": "https://www.mobilecountyal.gov/government/about-mobile-county/"
+        },
+        {
+          "title": "Encyclopedia of Alabama — Battle of Spanish Fort",
+          "url": "https://encyclopediaofalabama.org/article/battle-of-spanish-fort/"
+        }
+      ]
+    },
+    {
+      "name": "Pensacola",
+      "id": 4168228,
+      "country": "United States",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1698,
+          "end": 1719,
+          "label": "Spain"
+        },
+        {
+          "start": 1719,
+          "end": 1722,
+          "label": "France"
+        },
+        {
+          "start": 1722,
+          "end": 1763,
+          "label": "Spain"
+        },
+        {
+          "start": 1763,
+          "end": 1781,
+          "label": "Great Britain"
+        },
+        {
+          "start": 1781,
+          "end": 1814,
+          "label": "Spain"
+        },
+        {
+          "start": 1814,
+          "end": 1814,
+          "label": "United States occupation"
+        },
+        {
+          "start": 1814,
+          "end": 1818,
+          "label": "Spain"
+        },
+        {
+          "start": 1818,
+          "end": 1819,
+          "label": "United States occupation"
+        },
+        {
+          "start": 1819,
+          "end": 1821,
+          "label": "Spain"
+        },
+        {
+          "start": 1821,
+          "end": 1861,
+          "label": "United States"
+        },
+        {
+          "start": 1861,
+          "end": 1862,
+          "label": "Confederate control"
+        },
+        {
+          "start": 1862,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "This begins with the permanent Spanish settlement of 1698 and follows the settlement around the bay as its location changed. French control in 1719–1722 included brief fighting and recaptures. Spain recovered the city in 1781, before the 1783 peace. Jackson occupied it briefly in 1814 and again in 1818–1819; the lasting United States transfer occurred in 1821, not when the treaty was signed in 1819. Confederates held the town until May 1862, while Fort Pickens remained in Union hands.",
+      "sources": [
+        {
+          "title": "Museum of Florida History — Forts of Pensacola",
+          "url": "https://museumoffloridahistory.com/explore/exhibits/permanent-exhibits/la-florida/forever-changed-phase-2/the-first-spanish-period/forts-of-pensacola/"
+        },
+        {
+          "title": "National Park Service — Fort San Carlos de Barrancas nomination",
+          "url": "https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/66000263.pdf"
+        },
+        {
+          "title": "History of Pensacola — Civil War and colonial periods",
+          "url": "https://en.wikipedia.org/wiki/History_of_Pensacola,_Florida"
+        }
+      ]
+    },
+    {
+      "name": "Baton Rouge",
+      "id": 4315588,
+      "country": "United States",
+      "aliases": [
+        "New Richmond"
+      ],
+      "periods": [
+        {
+          "start": 1763,
+          "end": 1779,
+          "label": "Great Britain"
+        },
+        {
+          "start": 1779,
+          "end": 1810,
+          "label": "Spain"
+        },
+        {
+          "start": 1810,
+          "end": 1810,
+          "label": "West Florida Republic"
+        },
+        {
+          "start": 1810,
+          "end": 1861,
+          "label": "United States"
+        },
+        {
+          "start": 1861,
+          "end": 1862,
+          "label": "Confederate control"
+        },
+        {
+          "start": 1862,
+          "end": 1862,
+          "label": "United States occupation"
+        },
+        {
+          "start": 1862,
+          "end": 1862,
+          "label": "Confederate control"
+        },
+        {
+          "start": 1862,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "This selected timeline begins with the 1763 British takeover of a formerly French colonial area. Rebels captured the Spanish fort in September 1810; the United States annexed the short-lived republic later that year. Union forces first occupied Baton Rouge in May 1862, withdrew on August 21, and returned on December 17. The two 1862 handovers are within the same calendar year.",
+      "sources": [
+        {
+          "title": "City of Baton Rouge — A Brief History",
+          "url": "https://www.brla.gov/841/A-Brief-History"
+        },
+        {
+          "title": "U.S. Army Corps of Engineers — Baton Rouge history",
+          "url": "https://www.mvn.usace.army.mil/Portals/56/docs/PAO/Pubs/abt_batonrouge.pdf"
+        },
+        {
+          "title": "Louisiana House — Pentagon Barracks history",
+          "url": "https://house.louisiana.gov/pubinfo/virtualtour/pentagon_barracks.htm"
+        }
+      ]
+    },
+    {
+      "name": "San Antonio",
+      "id": 4726206,
+      "country": "United States",
+      "aliases": [
+        "San Antonio de Béxar",
+        "Bexar",
+        "Béxar"
+      ],
+      "periods": [
+        {
+          "start": 1718,
+          "end": 1821,
+          "label": "Spain"
+        },
+        {
+          "start": 1821,
+          "end": 1835,
+          "label": "Mexico"
+        },
+        {
+          "start": 1835,
+          "end": 1836,
+          "label": "Texian revolutionaries"
+        },
+        {
+          "start": 1836,
+          "end": 1836,
+          "label": "Mexico"
+        },
+        {
+          "start": 1836,
+          "end": 1845,
+          "label": "Republic of Texas"
+        },
+        {
+          "start": 1845,
+          "end": 1861,
+          "label": "United States"
+        },
+        {
+          "start": 1861,
+          "end": 1865,
+          "label": "Confederate control"
+        },
+        {
+          "start": 1865,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "The selected timeline begins with the Spanish mission and presidio of 1718. It condenses brief rebel control during the Mexican independence struggle. Texian forces captured the city in December 1835; Mexico recaptured it during the Alamo campaign and withdrew after San Jacinto in 1836. Mexican forces also briefly seized the city twice in 1842, within the Republic of Texas period shown here. Federal facilities were seized in 1861, and United States rule was restored in 1865.",
+      "sources": [
+        {
+          "title": "Texas State Historical Association — San Antonio",
+          "url": "https://www.tshaonline.org/handbook/entries/san-antonio-tx"
+        },
+        {
+          "title": "Texas State Historical Association — Bexar County",
+          "url": "https://www.tshaonline.org/handbook/entries/bexar-county"
+        }
+      ]
+    },
+    {
+      "name": "Santa Fe",
+      "id": 5490263,
+      "country": "United States",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1610,
+          "end": 1680,
+          "label": "Spain"
+        },
+        {
+          "start": 1680,
+          "end": 1693,
+          "label": "Pueblo control"
+        },
+        {
+          "start": 1693,
+          "end": 1821,
+          "label": "Spain"
+        },
+        {
+          "start": 1821,
+          "end": 1846,
+          "label": "Mexico"
+        },
+        {
+          "start": 1846,
+          "end": 1862,
+          "label": "United States"
+        },
+        {
+          "start": 1862,
+          "end": 1862,
+          "label": "Confederate occupation"
+        },
+        {
+          "start": 1862,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "The Spanish colonial capital was established around 1610 on an older Indigenous landscape. Pueblo forces expelled the Spanish in 1680. Vargas received submissions in 1692 but lasting Spanish reoccupation required the violent recapture of Santa Fe in December 1693. United States troops entered in 1846, before the 1848 treaty. Confederate occupation lasted only part of 1862.",
+      "sources": [
+        {
+          "title": "Tourism Santa Fe — History",
+          "url": "https://www.santafe.org/visiting-santa-fe/about-santa-fe/history/"
+        },
+        {
+          "title": "University of Arizona Press — Beleaguered New Mexico",
+          "url": "https://open.uapress.arizona.edu/read/adadb9ce-1720-4a68-939f-29c192bb3fec/section/c8aab848-12cb-4f34-b150-5c4c495e156a"
+        },
+        {
+          "title": "National Park Service — Civil War along El Camino Real",
+          "url": "https://www.nps.gov/articles/000/the-civil-war-fought-along-el-camino-real-de-tierra-adentro-nht.htm"
+        }
+      ]
+    },
+    {
+      "name": "Veracruz",
+      "id": 3514783,
+      "country": "Mexico",
+      "aliases": [
+        "Vera Cruz",
+        "Heroica Veracruz"
+      ],
+      "periods": [
+        {
+          "start": 1847,
+          "end": 1848,
+          "label": "United States occupation"
+        },
+        {
+          "start": 1848,
+          "end": 1861,
+          "label": "Mexico"
+        },
+        {
+          "start": 1861,
+          "end": 1862,
+          "label": "Spanish-led occupation"
+        },
+        {
+          "start": 1862,
+          "end": 1867,
+          "label": "France / Mexican Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1914,
+          "label": "Mexico"
+        },
+        {
+          "start": 1914,
+          "end": 1914,
+          "label": "United States occupation"
+        },
+        {
+          "start": 1914,
+          "end": null,
+          "label": "Mexico"
+        }
+      ],
+      "note": "This selected timeline starts with the United States siege and occupation in 1847–1848, rather than the earlier Spanish colonial history. Spanish troops occupied the port in December 1861; British and French troops followed in early 1862. Spain and Britain withdrew, while the French intervention supported the Second Mexican Empire. French troops departed in 1867 and republican rule returned that year. The later United States occupation ran from April 21 to November 23, 1914.",
+      "sources": [
+        {
+          "title": "Universidad Veracruzana — U.S. military occupation, 1847–1848",
+          "url": "https://ulua.uv.mx/index.php/ulua/en/article/view/2449"
+        },
+        {
+          "title": "Fondation Napoléon — Mexican Campaign, 1862–1867",
+          "url": "https://www.napoleon.org/en/history-of-the-two-empires/timelines/the-mexican-campaign-1862-1867/"
+        },
+        {
+          "title": "Library of Congress — Occupation of Vera Cruz",
+          "url": "https://guides.loc.gov/chronicling-america-occupation-vera-cruz"
+        }
+      ]
+    },
+    {
+      "name": "Santo Domingo",
+      "id": 3492908,
+      "country": "Dominican Republic",
+      "aliases": [
+        "Ciudad Trujillo"
+      ],
+      "periods": [
+        {
+          "start": 1801,
+          "end": 1802,
+          "label": "France (autonomous rule)"
+        },
+        {
+          "start": 1802,
+          "end": 1809,
+          "label": "France"
+        },
+        {
+          "start": 1809,
+          "end": 1821,
+          "label": "Spain"
+        },
+        {
+          "start": 1821,
+          "end": 1822,
+          "label": "Republic of Spanish Haiti"
+        },
+        {
+          "start": 1822,
+          "end": 1844,
+          "label": "Haiti"
+        },
+        {
+          "start": 1844,
+          "end": 1861,
+          "label": "Dominican Republic"
+        },
+        {
+          "start": 1861,
+          "end": 1865,
+          "label": "Spain"
+        },
+        {
+          "start": 1865,
+          "end": 1916,
+          "label": "Dominican Republic"
+        },
+        {
+          "start": 1916,
+          "end": 1924,
+          "label": "United States occupation"
+        },
+        {
+          "start": 1924,
+          "end": null,
+          "label": "Dominican Republic"
+        }
+      ],
+      "note": "This selected timeline begins when Toussaint Louverture took effective control in 1801 under nominal French sovereignty, six years after Spain’s formal cession. French expeditionary control followed in 1802 and Spanish rule returned in 1809. The brief independent state of 1821–1822 was called Spanish Haiti. The 1965–1966 United States/OAS intervention occurred amid divided control during a civil war and is noted here rather than presented as an unqualified transfer of the whole city.",
+      "sources": [
+        {
+          "title": "Spanish Ministry of Culture — Santo Domingo independence history",
+          "url": "https://www.cultura.gob.es/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/las-ultimas-posesiones/santo-domingo.html"
+        },
+        {
+          "title": "U.S. State Department — Dominican Republic, 1916–1924",
+          "url": "https://2001-2009.state.gov/r/pa/ho/time/wwi/108649.htm"
+        },
+        {
+          "title": "Santo Domingo — History",
+          "url": "https://en.wikipedia.org/wiki/Santo_Domingo"
+        }
+      ]
+    },
+    {
+      "name": "San Juan",
+      "id": 4568127,
+      "country": "Puerto Rico",
+      "aliases": [
+        "San Juan de Puerto Rico"
+      ],
+      "periods": [
+        {
+          "start": 1521,
+          "end": 1598,
+          "label": "Spain"
+        },
+        {
+          "start": 1598,
+          "end": 1598,
+          "label": "English occupation"
+        },
+        {
+          "start": 1598,
+          "end": 1625,
+          "label": "Spain"
+        },
+        {
+          "start": 1625,
+          "end": 1625,
+          "label": "Dutch occupation (town)"
+        },
+        {
+          "start": 1625,
+          "end": 1898,
+          "label": "Spain"
+        },
+        {
+          "start": 1898,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "The settlement moved to its present island site in 1521. English forces captured the city and El Morro in 1598 but withdrew within the year. Dutch forces occupied and burned the town in 1625, while El Morro remained Spanish; the town-only occupation is marked separately. Puerto Rico passed to United States control in 1898. Commonwealth status in 1952 did not make it an independent sovereign state.",
+      "sources": [
+        {
+          "title": "National Park Service — San Juan Throughout Time",
+          "url": "https://www.nps.gov/saju/learn/historyculture/history.htm"
+        },
+        {
+          "title": "National Park Service — San Juan National Historic Site",
+          "url": "https://www.nps.gov/articles/sanjuan.htm"
+        },
+        {
+          "title": "National Historic Register — San Juan historic site documentation",
+          "url": "https://npshistory.com/publications/saju/nr-san-juan-nhs-update.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Paramaribo",
+      "id": 3383330,
+      "country": "Suriname",
+      "aliases": [
+        "Parmaribo"
+      ],
+      "periods": [
+        {
+          "start": 1651,
+          "end": 1667,
+          "label": "England"
+        },
+        {
+          "start": 1667,
+          "end": 1667,
+          "label": "Dutch Republic"
+        },
+        {
+          "start": 1667,
+          "end": 1668,
+          "label": "England"
+        },
+        {
+          "start": 1668,
+          "end": 1799,
+          "label": "Dutch colonial rule"
+        },
+        {
+          "start": 1799,
+          "end": 1802,
+          "label": "British occupation"
+        },
+        {
+          "start": 1802,
+          "end": 1804,
+          "label": "Batavian Republic"
+        },
+        {
+          "start": 1804,
+          "end": 1816,
+          "label": "British occupation"
+        },
+        {
+          "start": 1816,
+          "end": 1975,
+          "label": "Netherlands"
+        },
+        {
+          "start": 1975,
+          "end": null,
+          "label": "Suriname"
+        }
+      ],
+      "note": "This selected timeline starts with English colonization in 1651, after earlier trading posts. Dutch forces captured the colony in February 1667; the English retook it later that year, and it was handed back in 1668. The long Dutch period includes the Batavian political changes of 1795. Britain returned the colony in 1816 following the 1814 agreement. Internal autonomy in 1954 preceded full independence on November 25, 1975. The brief French raid of 1712 is not treated as a lasting sovereign transfer.",
+      "sources": [
+        {
+          "title": "DBNL / Neerlandia — Suriname, 1667–1917",
+          "url": "https://www.dbnl.org/tekst/_nee003191701_01/_nee003191701_01_0011.php"
+        },
+        {
+          "title": "CARICOM — Suriname country history",
+          "url": "https://caricom.org/country_profiles/suriname/"
+        },
+        {
+          "title": "Paramaribo — History",
+          "url": "https://en.wikipedia.org/wiki/Paramaribo"
+        }
+      ]
+    },
+    {
+      "name": "Recife",
+      "id": 3390760,
+      "country": "Brazil",
+      "aliases": [
+        "Mauritsstad",
+        "Mauricéia",
+        "Mauricea"
+      ],
+      "periods": [
+        {
+          "start": 1630,
+          "end": 1654,
+          "label": "Dutch Republic"
+        },
+        {
+          "start": 1654,
+          "end": 1815,
+          "label": "Portugal"
+        },
+        {
+          "start": 1815,
+          "end": 1817,
+          "label": "United Kingdom of Portugal and Brazil"
+        },
+        {
+          "start": 1817,
+          "end": 1817,
+          "label": "Pernambucan Republic"
+        },
+        {
+          "start": 1817,
+          "end": 1822,
+          "label": "United Kingdom of Portugal and Brazil"
+        },
+        {
+          "start": 1822,
+          "end": 1889,
+          "label": "Empire of Brazil"
+        },
+        {
+          "start": 1889,
+          "end": null,
+          "label": "Brazil"
+        }
+      ],
+      "note": "This selected timeline begins with the Dutch capture of the previously Portuguese settlement in 1630. The Dutch West India Company administered the colony until the Portuguese reconquest of 1654. The United Kingdom’s full name also included the Algarves. The republican revolt of 1817 controlled the city from March to May. The imperial period condenses the short-lived Confederation of the Equator revolt in 1824. Brazil became a republic in 1889.",
+      "sources": [
+        {
+          "title": "Brazilian National Archives — Pernambuco",
+          "url": "https://historialuso.an.gov.br/glossario/index.php/verbetes-glossario/28-verbetes-iniciados-em-p/604-pernambuco"
+        },
+        {
+          "title": "Fluminense Federal University — Revolution of 1817",
+          "url": "https://www.historia.uff.br/impressoesrebeldes/revolta/revolucao-de-1817/"
+        },
+        {
+          "title": "Recife — Historical political affiliations",
+          "url": "https://en.wikipedia.org/wiki/Recife"
+        }
+      ]
+    },
+    {
+      "name": "Panaji",
+      "id": 1260607,
+      "country": "India",
+      "aliases": [
+        "Panjim",
+        "Nova Goa"
+      ],
+      "periods": [
+        {
+          "start": 1500,
+          "end": 1510,
+          "label": "Bijapur Sultanate",
+          "detail": "Selected history begins around the construction of an Adil Shahi palace.",
+          "approximate": true
+        },
+        {
+          "start": 1510,
+          "end": 1961,
+          "label": "Portugal",
+          "detail": "Portuguese colonial administration; British troops were stationed in the territory during the Napoleonic wars."
+        },
+        {
+          "start": 1961,
+          "end": null,
+          "label": "India"
+        }
+      ],
+      "note": "The opening date is a selected historical starting point, not the beginning of Bijapur rule. Panaji's palace was stormed in 1510. The settlement became the formal Portuguese capital in 1843; Indian forces took control in December 1961.",
+      "sources": [
+        {
+          "title": "Government of Goa — Adil Shah's Palace",
+          "url": "https://www.goa.gov.in/places/adil-shahs-palace/"
+        },
+        {
+          "title": "Government of Goa — History",
+          "url": "https://dip.goa.gov.in/history-of-goa/"
+        }
+      ]
+    },
+    {
+      "name": "Kochi",
+      "id": 1273874,
+      "country": "India",
+      "aliases": [
+        "Cochin"
+      ],
+      "periods": [
+        {
+          "start": 1503,
+          "end": 1663,
+          "label": "Portugal",
+          "detail": "Fortified colonial enclave established with the local raja's permission."
+        },
+        {
+          "start": 1663,
+          "end": 1795,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1795,
+          "end": 1858,
+          "label": "British East India Company"
+        },
+        {
+          "start": 1858,
+          "end": 1947,
+          "label": "British Crown"
+        },
+        {
+          "start": 1947,
+          "end": null,
+          "label": "India"
+        }
+      ],
+      "note": "This timeline follows Fort Kochi, the historic colonial enclave. Other parts of today's larger city belonged to the neighbouring princely kingdom, so their administrations were not identical.",
+      "sources": [
+        {
+          "title": "Kerala Tourism — St Francis Church",
+          "url": "https://www.keralatourism.org/kochi/st-francis-church.php"
+        },
+        {
+          "title": "UNESCO — Historic urban landscapes in Kochi",
+          "url": "https://whc.unesco.org/uploads/activities/documents/activity-705-1.pdf"
+        },
+        {
+          "title": "History of Kochi",
+          "url": "https://en.wikipedia.org/wiki/History_of_Kochi"
+        }
+      ]
+    },
+    {
+      "name": "Chennai",
+      "id": 1264527,
+      "country": "India",
+      "aliases": [
+        "Madras"
+      ],
+      "periods": [
+        {
+          "start": 1639,
+          "end": 1746,
+          "label": "British East India Company",
+          "detail": "A coastal land grant established the English settlement under local overlordship."
+        },
+        {
+          "start": 1746,
+          "end": 1749,
+          "label": "France",
+          "detail": "Military occupation of the settlement."
+        },
+        {
+          "start": 1749,
+          "end": 1858,
+          "label": "British East India Company"
+        },
+        {
+          "start": 1858,
+          "end": 1947,
+          "label": "British Crown"
+        },
+        {
+          "start": 1947,
+          "end": null,
+          "label": "India"
+        }
+      ],
+      "note": "The selected timeline follows the English settlement and Fort St George, not every locality inside today's expanded city. The French captured it in 1746 and returned it in August 1749 after the 1748 treaty.",
+      "sources": [
+        {
+          "title": "Greater Chennai Corporation — Origin and growth",
+          "url": "https://chennaicorporation.gov.in/gcc/about-GCC/about-chennai/origin-and-growth/"
+        },
+        {
+          "title": "Chennai district — History",
+          "url": "https://chennai.nic.in/history/"
+        },
+        {
+          "title": "History of Chennai",
+          "url": "https://en.wikipedia.org/wiki/History_of_Chennai"
+        }
+      ]
+    },
+    {
+      "name": "Mumbai",
+      "id": 1275339,
+      "country": "India",
+      "aliases": [
+        "Bombay",
+        "Bombaim"
+      ],
+      "periods": [
+        {
+          "start": 1534,
+          "end": 1665,
+          "label": "Portugal"
+        },
+        {
+          "start": 1665,
+          "end": 1668,
+          "label": "English Crown"
+        },
+        {
+          "start": 1668,
+          "end": 1858,
+          "label": "British East India Company"
+        },
+        {
+          "start": 1858,
+          "end": 1947,
+          "label": "British Crown"
+        },
+        {
+          "start": 1947,
+          "end": null,
+          "label": "India"
+        }
+      ],
+      "note": "The 1661 marriage treaty promised the island to the English Crown, but the actual transfer took place in February 1665. This timeline follows the historical island settlement; surrounding districts entered British control at other dates.",
+      "sources": [
+        {
+          "title": "Census of India — Mumbai district handbook, historical section",
+          "url": "https://censusindia.gov.in/nada/index.php/catalog/804/download/2866/DH_2011_2723_PART_A_DCHB_MUMBAI.pdf"
+        },
+        {
+          "title": "Mumbai City government — History",
+          "url": "https://mumbaicity.gov.in/en/history/"
+        }
+      ]
+    },
+    {
+      "name": "Kolkata",
+      "id": 1275004,
+      "country": "India",
+      "aliases": [
+        "Calcutta"
+      ],
+      "periods": [
+        {
+          "start": 1690,
+          "end": 1756,
+          "label": "East India Company / Mughal suzerainty",
+          "detail": "Trading settlement under Mughal and Bengali overlordship; land rights were acquired in 1698."
+        },
+        {
+          "start": 1756,
+          "end": 1757,
+          "label": "Nawab of Bengal"
+        },
+        {
+          "start": 1757,
+          "end": 1858,
+          "label": "British East India Company",
+          "detail": "Recaptured in 1757; the Company's wider governing authority developed in stages."
+        },
+        {
+          "start": 1858,
+          "end": 1947,
+          "label": "British Crown"
+        },
+        {
+          "start": 1947,
+          "end": null,
+          "label": "India"
+        }
+      ],
+      "note": "1690 marks the English trading settlement, not the founding of all the older villages that became Kolkata. Siraj-ud-Daulah captured the settlement in 1756; Company forces recaptured it in January 1757.",
+      "sources": [
+        {
+          "title": "Kolkata Municipal Corporation — City history",
+          "url": "https://www.kmcgov.in/KMCPortal/jsp/KMCKolkataHistory.jsp"
+        },
+        {
+          "title": "Kolkata Municipal Corporation — Municipal history",
+          "url": "https://kmcuat.wb.gov.in/MunicipalHistory"
+        },
+        {
+          "title": "Kolkata Municipal Corporation — About Kolkata",
+          "url": "https://kmcuat.wb.gov.in/About_Kolkata"
+        }
+      ]
+    },
+    {
+      "name": "Chandannagar",
+      "id": 1274784,
+      "country": "India",
+      "aliases": [
+        "Chandernagore",
+        "Chandernagor",
+        "Chandannagore"
+      ],
+      "periods": [
+        {
+          "start": 1793,
+          "end": 1816,
+          "label": "Britain",
+          "detail": "Selected timeline begins with the Revolutionary Wars occupation; some summaries date this takeover to 1794.",
+          "approximate": true
+        },
+        {
+          "start": 1816,
+          "end": 1950,
+          "label": "France"
+        },
+        {
+          "start": 1950,
+          "end": null,
+          "label": "India",
+          "detail": "Administrative control transferred in 1950; legal cession took effect in 1952."
+        }
+      ],
+      "note": "Earlier French and British periods are omitted from this selected timeline. The cession treaty was signed in 1951 and took legal effect on 9 June 1952. Integration into West Bengal followed in 1954.",
+      "sources": [
+        {
+          "title": "Parshotam Mehra — Dictionary of Modern Indian History, Chandernagore entry",
+          "url": "https://pahar.in/pahar/Books%20and%20Articles/Indian%20Subcontinent/1985%20Dictionary%20of%20Modern%20Indian%20History%201707-1947%20by%20Mehra%20s.pdf"
+        },
+        {
+          "title": "Chandannagar",
+          "url": "https://en.wikipedia.org/wiki/Chandannagar"
+        },
+        {
+          "title": "University of Perpignan — Chandernagor referendum and cession",
+          "url": "https://mjp.univ-perp.fr/france/reft1949chandernagor.htm"
+        },
+        {
+          "title": "Calcutta High Court — Nakuleshwar Mondal v Union of India",
+          "url": "https://indiankanoon.org/doc/500789/"
+        }
+      ]
+    },
+    {
+      "name": "Karachi",
+      "id": 1174872,
+      "country": "Pakistan",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1795,
+          "end": 1839,
+          "label": "Talpur dynasty",
+          "detail": "The city was acquired from Kalat in the mid-1790s.",
+          "approximate": true
+        },
+        {
+          "start": 1839,
+          "end": 1858,
+          "label": "British East India Company",
+          "detail": "Military occupation preceded the annexation of Sindh in 1843."
+        },
+        {
+          "start": 1858,
+          "end": 1947,
+          "label": "British Crown"
+        },
+        {
+          "start": 1947,
+          "end": null,
+          "label": "Pakistan"
+        }
+      ],
+      "note": "Local histories vary between 1794 and 1795 for the Talpur takeover. British troops occupied Karachi in February 1839, four years before the conquest of the rest of Sindh.",
+      "sources": [
+        {
+          "title": "Heritage Foundation of Pakistan — Evolution of Karachi",
+          "url": "https://www.acash.org.pk/wp-content/uploads/2023/06/Evolution-of-Karachi-2009.pdf"
+        },
+        {
+          "title": "History of Karachi",
+          "url": "https://en.wikipedia.org/wiki/History_of_Karachi"
+        },
+        {
+          "title": "Karachi",
+          "url": "https://en.wikipedia.org/wiki/Karachi"
+        }
+      ]
+    },
+    {
+      "name": "Lahore",
+      "id": 1172451,
+      "country": "Pakistan",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1799,
+          "end": 1846,
+          "label": "Sikh Empire",
+          "detail": "Ranjit Singh took the city in 1799 and became maharaja in 1801."
+        },
+        {
+          "start": 1846,
+          "end": 1849,
+          "label": "Sikh state under British control",
+          "detail": "A British occupation force and resident supervised the regency."
+        },
+        {
+          "start": 1849,
+          "end": 1858,
+          "label": "British East India Company"
+        },
+        {
+          "start": 1858,
+          "end": 1947,
+          "label": "British Crown"
+        },
+        {
+          "start": 1947,
+          "end": null,
+          "label": "Pakistan"
+        }
+      ],
+      "note": "This selected timeline begins with Ranjit Singh's takeover. British troops entered in 1846, but formal annexation followed in March 1849 after the second Anglo-Sikh war.",
+      "sources": [
+        {
+          "title": "State Bank of Pakistan Museum — Sikh rulers",
+          "url": "https://www.sbp.org.pk/museum/sikh-rulers"
+        },
+        {
+          "title": "Lahore",
+          "url": "https://en.wikipedia.org/wiki/Lahore"
+        },
+        {
+          "title": "Government of Punjab — History",
+          "url": "https://www.punjab.gov.pk/about_punjab_history"
+        },
+        {
+          "title": "PIDE — Historical urban development of Lahore",
+          "url": "https://rasta.pide.org.pk/wp-content/uploads/Mazhar_Abbass_Research_Paper.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Dhaka",
+      "id": 1185241,
+      "country": "Bangladesh",
+      "aliases": [
+        "Dacca",
+        "Jahangirnagar"
+      ],
+      "periods": [
+        {
+          "start": 1610,
+          "end": 1717,
+          "label": "Mughal Empire"
+        },
+        {
+          "start": 1717,
+          "end": 1765,
+          "label": "Bengal nawabs / Mughal suzerainty",
+          "detail": "Increasingly autonomous government under nominal Mughal sovereignty."
+        },
+        {
+          "start": 1765,
+          "end": 1858,
+          "label": "British East India Company",
+          "detail": "Revenue authority was granted in 1765; the old deputy-governor's titular establishment persisted."
+        },
+        {
+          "start": 1858,
+          "end": 1947,
+          "label": "British Crown"
+        },
+        {
+          "start": 1947,
+          "end": 1971,
+          "label": "Pakistan"
+        },
+        {
+          "start": 1971,
+          "end": null,
+          "label": "Bangladesh"
+        }
+      ],
+      "note": "1610 marks the city's establishment as a Mughal provincial capital. The East India Company occupied the old fort after acquiring revenue rights in 1765. Pakistani forces surrendered in the city on 16 December 1971.",
+      "sources": [
+        {
+          "title": "Asiatic Society of Bangladesh — Dhaka, Banglapedia",
+          "url": "https://en.banglapedia.org/index.php/Dhaka"
+        },
+        {
+          "title": "History of Dhaka",
+          "url": "https://en.wikipedia.org/wiki/History_of_Dhaka"
+        }
+      ]
+    },
+    {
+      "name": "Aden",
+      "id": 415189,
+      "country": "Yemen",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1839,
+          "end": 1937,
+          "label": "British India"
+        },
+        {
+          "start": 1937,
+          "end": 1963,
+          "label": "British Crown colony"
+        },
+        {
+          "start": 1963,
+          "end": 1967,
+          "label": "Federation of South Arabia",
+          "detail": "Federation under British protection."
+        },
+        {
+          "start": 1967,
+          "end": 1990,
+          "label": "South Yemen",
+          "detail": "People’s Republic of South Yemen from 1967; renamed the People’s Democratic Republic of Yemen in 1970."
+        },
+        {
+          "start": 1990,
+          "end": null,
+          "label": "Yemen",
+          "detail": "Sovereignty label: local control has fluctuated during civil wars."
+        }
+      ],
+      "note": "The British seized the port in January 1839. This timeline records constitutional affiliation after Yemeni unification, not uninterrupted local government control: the city has seen civil-war fighting, separatist control and renewed internationally recognized government administration.",
+      "sources": [
+        {
+          "title": "National Army Museum — Aden Emergency",
+          "url": "https://www.nam.ac.uk/explore/aden-emergency"
+        },
+        {
+          "title": "Aden",
+          "url": "https://en.wikipedia.org/wiki/Aden"
+        },
+        {
+          "title": "Timeline of Aden",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_Aden"
+        },
+        {
+          "title": "House of Commons Library — Yemen, October 2026 briefing",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10427/"
+        }
+      ]
+    },
+    {
+      "name": "Muscat",
+      "id": 287286,
+      "country": "Oman",
+      "aliases": [
+        "Mascate",
+        "Masqat"
+      ],
+      "periods": [
+        {
+          "start": 1507,
+          "end": 1650,
+          "label": "Portugal",
+          "detail": "Colonial control, interrupted by brief Ottoman attacks and occupation."
+        },
+        {
+          "start": 1650,
+          "end": 1743,
+          "label": "Ya'rubid imamate",
+          "detail": "Omani rule; civil wars and Persian intervention weakened control after 1718."
+        },
+        {
+          "start": 1743,
+          "end": 1749,
+          "label": "Afsharid Persia / Omani rivals",
+          "detail": "Persian garrisons held the forts; the withdrawal and consolidation occurred in stages.",
+          "approximate": true
+        },
+        {
+          "start": 1749,
+          "end": null,
+          "label": "Al Busaid Oman"
+        }
+      ],
+      "note": "The 1740s were a contested transition: sources give different dates for Persian withdrawal and Ahmad bin Said's rise. The approximate interval ends with his consolidation in 1749 rather than claiming a single uncontested transfer. British influence never made the city a British colony.",
+      "sources": [
+        {
+          "title": "UAE National Library and Archives — Portuguese era",
+          "url": "https://www.nla.ae/en/our-history/historical-periods/portuguese-era/"
+        },
+        {
+          "title": "Bulletin of SOAS — Nadir Shah's campaigns in Oman, 1737–1744",
+          "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/nadir-shahs-campaigns-in-oman-17371744/41B311B10D00DADD4EFA3741B2B8379F"
+        },
+        {
+          "title": "Defense Language Institute — Oman cultural profile",
+          "url": "https://fieldsupport.dliflc.edu/products/cip/oman/Oman.pdf"
+        },
+        {
+          "title": "Al Jalali Fort",
+          "url": "https://en.wikipedia.org/wiki/Al_Jalali_Fort"
+        }
+      ]
+    },
+    {
+      "name": "Zanzibar City",
+      "id": 148730,
+      "country": "Tanzania",
+      "aliases": [
+        "Zanzibar",
+        "Stone Town"
+      ],
+      "periods": [
+        {
+          "start": 1698,
+          "end": 1856,
+          "label": "Oman"
+        },
+        {
+          "start": 1856,
+          "end": 1890,
+          "label": "Independent sultanate",
+          "detail": "The dynastic separation was confirmed by arbitration in 1861."
+        },
+        {
+          "start": 1890,
+          "end": 1963,
+          "label": "Sultanate under British protection"
+        },
+        {
+          "start": 1963,
+          "end": 1964,
+          "label": "Independent sultanate"
+        },
+        {
+          "start": 1964,
+          "end": 1964,
+          "label": "Revolutionary republic",
+          "detail": "January to April."
+        },
+        {
+          "start": 1964,
+          "end": null,
+          "label": "Tanzania",
+          "detail": "An autonomous island government administers non-union matters."
+        }
+      ],
+      "note": "This selected timeline begins after Portuguese power was displaced. The sultanate was overthrown in January 1964; union with Tanganyika followed in April. Today's island government retains substantial autonomy within Tanzania.",
+      "sources": [
+        {
+          "title": "History of Zanzibar",
+          "url": "https://en.wikipedia.org/wiki/History_of_Zanzibar"
+        },
+        {
+          "title": "Store norske leksikon — Zanzibar's history",
+          "url": "https://snl.no/Zanzibars_historie"
+        },
+        {
+          "title": "Tanzanian Embassy — About Tanzania",
+          "url": "https://www.cn.tzembassy.go.tz/tanzania/about-tanzania"
+        },
+        {
+          "title": "Tanzanian Embassy — 60th Union anniversary",
+          "url": "https://www.jp.tzembassy.go.tz/resources/view/the-60th-union-day-anniversary-of-the-united-republic-of-tanzania-26th-april-2024"
+        }
+      ]
+    },
+    {
+      "name": "Dakar",
+      "id": 2253354,
+      "country": "Senegal",
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1857,
+          "end": 1940,
+          "label": "France"
+        },
+        {
+          "start": 1940,
+          "end": 1942,
+          "label": "Vichy France"
+        },
+        {
+          "start": 1942,
+          "end": 1960,
+          "label": "France",
+          "detail": "The local colonial authorities joined the Allies in late 1942."
+        },
+        {
+          "start": 1960,
+          "end": 1960,
+          "label": "Mali Federation",
+          "detail": "Independent federation from June to August."
+        },
+        {
+          "start": 1960,
+          "end": null,
+          "label": "Senegal"
+        }
+      ],
+      "note": "The selected timeline begins with the French military establishment in 1857. Allied alignment in 1942 did not immediately replace all Vichy-appointed officials. The city briefly served an independent Mali Federation before Senegal withdrew in August 1960.",
+      "sources": [
+        {
+          "title": "Dakar",
+          "url": "https://en.wikipedia.org/wiki/Dakar"
+        },
+        {
+          "title": "French Overseas National Archives — Battle of Dakar",
+          "url": "https://archives-nationales-outre-mer.culture.gouv.fr/decouvrir-notre-offre-culturelle/la-bataille-de-dakar-23-25-septembre-1940"
+        },
+        {
+          "title": "US State Department — Mali Federation independence",
+          "url": "https://history.state.gov/historicaldocuments/frus1958-60v14/d59"
+        },
+        {
+          "title": "US State Department — Senegal background",
+          "url": "https://2009-2017.state.gov/outofdate/bgn/senegal/74244.htm"
+        }
+      ]
+    },
+    {
+      "name": "Maputo",
+      "id": 1040652,
+      "country": "Mozambique",
+      "aliases": [
+        "Lourenço Marques",
+        "Lourenco Marques"
+      ],
+      "periods": [
+        {
+          "start": 1787,
+          "end": 1974,
+          "label": "Portugal",
+          "detail": "Selected timeline begins with the completed Portuguese fortress and associated settlement."
+        },
+        {
+          "start": 1974,
+          "end": 1975,
+          "label": "Portugal / FRELIMO",
+          "detail": "Joint transitional government sworn in on 20 September 1974."
+        },
+        {
+          "start": 1975,
+          "end": null,
+          "label": "Mozambique"
+        }
+      ],
+      "note": "The timeline follows the colonial urban settlement, not all the surrounding chiefdoms. Earlier Dutch and Austrian trading posts are omitted. A transitional government took office in September 1974, followed by independence on 25 June 1975.",
+      "sources": [
+        {
+          "title": "Getty Research Institute — Maputo historical record",
+          "url": "https://www.getty.edu/vow/TGNFullDisplay?english=N&find=&nation=Uganda&place=&subjectid=7000399"
+        },
+        {
+          "title": "US State Department — Mozambique transition",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v28/d101"
+        },
+        {
+          "title": "History of Maputo",
+          "url": "https://en.wikipedia.org/wiki/History_of_Maputo"
+        },
+        {
+          "title": "Maputo",
+          "url": "https://en.wikipedia.org/wiki/Maputo"
+        }
+      ]
     }
   ]
 }
