@@ -10,7 +10,7 @@
 .period-control:before{content:'';position:absolute;left:-4px;top:17px;width:7px;height:7px;border-radius:50%;background:#2853dd;border:2px solid #fff;box-shadow:0 0 0 1px #b4c2e4}
 #timeline li:last-child .period-control{font-weight:600}
 .timeline-reveal{padding:0 28px}
-#reveal-next{margin:6px 0 16px;padding:9px 13px;border:1px solid #cbd0d6;border-radius:4px;background:#fff;color:var(--ink);font-size:12px}
+#reveal-next{margin:6px 0 16px;padding:9px 13px;border:1px solid #cbd0d6;border-radius:4px;background:#fff;color:#202325;font-size:12px}
 #reveal-next:hover{background:#f3f5f8}
 @media(max-width:600px){.timeline-reveal{padding:0 16px}}
 .timeline-note{margin:0;padding:11px 28px;background:#fafbfc;border-top:1px solid #edf0f3;font-size:10px;line-height:1.5;color:var(--muted)}
@@ -22,3 +22,8 @@
 #sources{display:flex;gap:8px 18px;flex-wrap:wrap;font-size:12px;line-height:1.5}
 #sources a{color:#2853dd;text-underline-offset:3px;overflow-wrap:anywhere}
 @media(max-width:600px){.history-prompt{padding:0 18px 16px;font-size:13px}.timeline-heading{padding:10px 16px;grid-template-columns:105px 1fr;gap:10px}#timeline{padding:6px 16px}#timeline li{grid-template-columns:105px 1fr;gap:10px}.period-dates{font-size:10px;padding:12px 0;overflow-wrap:anywhere}.period-control{font-size:12px;padding-left:14px}.timeline-note{padding:10px 16px}.game-links{gap:12px}#load-status{padding:24px 16px}.eyebrow{font-size:10px;letter-spacing:1px}#history-context{margin-top:16px}}
+
+#history-context summary{width:fit-content;cursor:pointer;font-size:12px;color:var(--muted)}
+#history-context summary:focus-visible{outline:3px solid #547df4;outline-offset:4px}
+.history-scope{margin:12px 0 8px;font-size:12px;line-height:1.5;color:var(--muted)}
+footer{justify-content:flex-end}

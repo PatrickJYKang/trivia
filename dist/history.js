@@ -34,7 +34,7 @@ function revealNext(){
 function next(){
   if(!game)throw Error('Wait for histories to load.');
   game.next();search.clear();$('answer').textContent='';$('history-note').textContent='';$('sources').replaceChildren();
-  $('feedback').textContent='Unlimited guesses.';$('reveal-status').textContent='';renderTimeline();render();
+  $('feedback').textContent='';$('history-context').open=false;$('reveal-status').textContent='';renderTimeline();render();
   return state();
 }
 function finish(){
@@ -51,7 +51,7 @@ function guess(id){
   if(!city)throw Error('Choose a city from the database.');
   if(!game)throw Error('Wait for histories to load.');
   const accepted=game.guess(city);search.clear();
-  if(game.done)finish();else{$('feedback').textContent=accepted?'Not quite.':'Already tried that city.';render();$('guess').focus();}
+  if(game.done)finish();else{$('feedback').textContent=accepted?'Incorrect.':'Already guessed.';render();$('guess').focus();}
   return state();
 }
 function giveUp(){if(!game)throw Error('Wait for histories to load.');game.giveUp();finish();return state();}
@@ -70,7 +70,7 @@ async function init(){
     index=createIndex(rows,[...cities,...entries]);byId=new Map(index.map(c=>[c.id,c]));
     if(entries.some(c=>!byId.has(c.id)))throw Error('Missing city identity');
     search=attachCitySearch(index,{input:$('guess'),list:$('city-options'),status:$('search-status'),onSelect:render,onChange:render});
-    game=new HistoryGame(entries);next();$('pool-label').textContent=`${entries.length} CITIES · THROUGH TIME`;
+    game=new HistoryGame(entries);next();$('pool-label').textContent=`${entries.length} CITIES`;
     $('load-status').hidden=true;$('timeline-panel').hidden=false;
   }catch{$('load-message').textContent='Unable to load histories. ';$('retry').hidden=false;}
   finally{loading=false;}
