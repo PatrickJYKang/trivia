@@ -40,6 +40,7 @@ export class HistoryGame {
     if(this.guesses.some(c=>c.id===city.id))return false;
     this.guesses.push({id:city.id,name:city.name,country:city.country});
     if(city.id===this.current.id){this.won=true;this.done=true;}
+    else this.revealNext();
     return true;
   }
   giveUp() {
@@ -52,6 +53,6 @@ export class HistoryGame {
       guesses:(this.guesses??[]).map(c=>({...c})),
       canReveal:!!this.current&&!this.done&&this.revealed<this.current.periods.length,
       periods:this.current?.periods.slice(0,this.done?undefined:this.revealed).map(p=>({dates:formatPeriod(p),control:p.label}))??[],
-      ...(this.done?{answer:{id:this.current.id,name:this.current.name,country:this.current.country,note:this.current.note,sources:this.current.sources}}:{})};
+      ...(this.done?{answer:{id:this.current.id,name:this.current.name,country:this.current.country,note:this.current.note,sources:this.current.sources,periodNotes:this.current.periods.filter(p=>p.detail).map(p=>({dates:formatPeriod(p),detail:p.detail}))}}:{})};
   }
 }

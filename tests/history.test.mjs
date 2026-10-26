@@ -71,7 +71,7 @@ test('deck avoids repetitions until exhausted and avoids a boundary repeat',()=>
 });
 
 
-test('owners reveal one by one independently of guesses, with full history on completion and reset next round',()=>{
+test('wrong guesses reveal one owner, with manual reveals, full history on completion and reset next round',()=>{
   const game=new HistoryGame(entries,()=>.5);
   assert.throws(()=>game.revealNext());
   game.next();
@@ -79,8 +79,11 @@ test('owners reveal one by one independently of guesses, with full history on co
   assert.deepEqual(game.snapshot().periods,[{dates:formatPeriod(periods[0]),control:periods[0].label}]);
   const wrong=entries.find(c=>c.id!==game.current.id);
   game.guess(wrong);
-  assert.equal(game.snapshot().periods.length,1);
-  for(let visible=2;visible<=periods.length;visible++){
+  assert.equal(game.snapshot().periods.length,2);
+  assert.equal(game.guess(wrong),false);
+  assert.equal(game.snapshot().periods.length,2);
+  assert.equal(game.guesses.length,1);
+  for(let visible=3;visible<=periods.length;visible++){
     assert.equal(game.snapshot().canReveal,true);
     const state=game.revealNext();
     assert.equal(state.periods.length,visible);
@@ -91,6 +94,10 @@ test('owners reveal one by one independently of guesses, with full history on co
   }
   assert.equal(game.snapshot().canReveal,false);
   assert.equal(game.revealNext().periods.length,periods.length);
+  const anotherWrong=entries.find(c=>c.id!==game.current.id&&c.id!==wrong.id);
+  game.guess(anotherWrong);
+  assert.equal(game.snapshot().periods.length,periods.length);
+  assert.equal(game.done,false);
   game.guess(game.current);
   assert.equal(game.won,true);
   assert.throws(()=>game.revealNext());

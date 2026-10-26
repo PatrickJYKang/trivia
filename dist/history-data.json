@@ -46,7 +46,8 @@
         {
           "start": 1918,
           "end": 1938,
-          "label": "Austria: republic, then authoritarian federal state"
+          "label": "Austria",
+          "detail": "Austria: republic, then authoritarian federal state"
         },
         {
           "start": 1938,
@@ -56,7 +57,8 @@
         {
           "start": 1945,
           "end": 1955,
-          "label": "Restored Austria under US occupation"
+          "label": "Austria (US occupation)",
+          "detail": "Restored Austria under US occupation"
         },
         {
           "start": 1955,
@@ -109,7 +111,8 @@
         {
           "start": 1918,
           "end": 1938,
-          "label": "Austria: republic, then authoritarian federal state"
+          "label": "Austria",
+          "detail": "Austria: republic, then authoritarian federal state"
         },
         {
           "start": 1938,
@@ -119,7 +122,8 @@
         {
           "start": 1945,
           "end": 1955,
-          "label": "Restored Austria under four-power Allied occupation"
+          "label": "Austria (Allied occupation)",
+          "detail": "Restored Austria under four-power Allied occupation"
         },
         {
           "start": 1955,
@@ -171,7 +175,8 @@
         {
           "start": 1939,
           "end": 1945,
-          "label": "German occupation: Protectorate of Bohemia and Moravia"
+          "label": "Nazi Germany",
+          "detail": "German occupation: Protectorate of Bohemia and Moravia"
         },
         {
           "start": 1945,
@@ -218,7 +223,8 @@
         {
           "start": 1804,
           "end": 1867,
-          "label": "Kingdom of Hungary (Austrian emperors)"
+          "label": "Hungary (Austrian rule)",
+          "detail": "Kingdom of Hungary (Austrian emperors)"
         },
         {
           "start": 1867,
@@ -228,7 +234,8 @@
         {
           "start": 1918,
           "end": 1920,
-          "label": "Hungarian republics; Romanian occupation in 1919"
+          "label": "Hungarian republics",
+          "detail": "Hungarian republics; Romanian occupation in 1919"
         },
         {
           "start": 1920,
@@ -238,12 +245,14 @@
         {
           "start": 1944,
           "end": 1945,
-          "label": "German occupation and Hungarian Arrow Cross rule"
+          "label": "German occupation / Arrow Cross",
+          "detail": "German occupation and Hungarian Arrow Cross rule"
         },
         {
           "start": 1945,
           "end": 1949,
-          "label": "Hungary under Soviet occupation and increasing communist control"
+          "label": "Hungary (Soviet occupation)",
+          "detail": "Hungary under Soviet occupation and increasing communist control"
         },
         {
           "start": 1949,
@@ -289,7 +298,8 @@
         {
           "start": 1804,
           "end": 1867,
-          "label": "Kingdom of Hungary (Austrian emperors)"
+          "label": "Hungary (Austrian rule)",
+          "detail": "Kingdom of Hungary (Austrian emperors)"
         },
         {
           "start": 1867,
@@ -309,7 +319,8 @@
         {
           "start": 1939,
           "end": 1945,
-          "label": "Slovak Republic (German client state; occupied from 1944)"
+          "label": "Slovakia (German client state)",
+          "detail": "Slovak Republic (German client state; occupied from 1944)"
         },
         {
           "start": 1945,
@@ -341,7 +352,8 @@
         {
           "start": 1335,
           "end": 1804,
-          "label": "Habsburg Carniola within the Holy Roman Empire"
+          "label": "Habsburg Carniola (Holy Roman Empire)",
+          "detail": "Habsburg Carniola within the Holy Roman Empire"
         },
         {
           "start": 1804,
@@ -366,7 +378,8 @@
         {
           "start": 1918,
           "end": 1941,
-          "label": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
         },
         {
           "start": 1941,
@@ -412,7 +425,8 @@
         {
           "start": 1382,
           "end": 1804,
-          "label": "Habsburg Austria within the Holy Roman Empire"
+          "label": "Habsburg Austria (Holy Roman Empire)",
+          "detail": "Habsburg Austria within the Holy Roman Empire"
         },
         {
           "start": 1804,
@@ -437,22 +451,26 @@
         {
           "start": 1918,
           "end": 1943,
-          "label": "Italy (military occupation, then annexation)"
+          "label": "Italy",
+          "detail": "Italy (military occupation, then annexation)"
         },
         {
           "start": 1943,
           "end": 1945,
-          "label": "Nazi German occupation: Adriatic Littoral"
+          "label": "Nazi Germany",
+          "detail": "Nazi German occupation: Adriatic Littoral"
         },
         {
           "start": 1945,
           "end": 1947,
-          "label": "Yugoslav occupation, then Anglo-American military government"
+          "label": "Yugoslav / Allied occupation",
+          "detail": "Yugoslav occupation, then Anglo-American military government"
         },
         {
           "start": 1947,
           "end": 1954,
-          "label": "Free territory, Zone A under Anglo-American administration"
+          "label": "Free territory (Allied administration)",
+          "detail": "Free territory, Zone A under Anglo-American administration"
         },
         {
           "start": 1954,
@@ -505,17 +523,20 @@
         {
           "start": 1918,
           "end": 1943,
-          "label": "Italy (occupation, then annexation)"
+          "label": "Italy",
+          "detail": "Italy (occupation, then annexation)"
         },
         {
           "start": 1943,
           "end": 1945,
-          "label": "Nazi German occupation: Adriatic Littoral"
+          "label": "Nazi Germany",
+          "detail": "Nazi German occupation: Adriatic Littoral"
         },
         {
           "start": 1945,
           "end": 1947,
-          "label": "Yugoslav occupation, then Allied military administration"
+          "label": "Yugoslav / Allied occupation",
+          "detail": "Yugoslav occupation, then Allied military administration"
         },
         {
           "start": 1947,
@@ -552,7 +573,8 @@
         {
           "start": 1806,
           "end": 1814,
-          "label": "French occupation, then French imperial rule"
+          "label": "France",
+          "detail": "French occupation, then French imperial rule"
         },
         {
           "start": 1814,
@@ -567,22 +589,26 @@
         {
           "start": 1918,
           "end": 1941,
-          "label": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
         },
         {
           "start": 1941,
           "end": 1943,
-          "label": "Axis client Croatia under Italian occupation"
+          "label": "Croatia (Italian occupation)",
+          "detail": "Axis client Croatia under Italian occupation"
         },
         {
           "start": 1943,
           "end": 1944,
-          "label": "Axis client Croatia under German occupation"
+          "label": "Croatia (German occupation)",
+          "detail": "Axis client Croatia under German occupation"
         },
         {
           "start": 1944,
           "end": 1991,
-          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Yugoslav Partisans, then socialist Yugoslavia"
         },
         {
           "start": 1991,
@@ -614,12 +640,14 @@
         {
           "start": 1797,
           "end": 1805,
-          "label": "Habsburg monarchy, then Austrian Empire"
+          "label": "Habsburg Austria",
+          "detail": "Habsburg monarchy, then Austrian Empire"
         },
         {
           "start": 1805,
           "end": 1809,
-          "label": "Napoleonic rule: Kingdom of Italy and French administration"
+          "label": "Napoleonic Italy / France",
+          "detail": "Napoleonic rule: Kingdom of Italy and French administration"
         },
         {
           "start": 1809,
@@ -639,7 +667,8 @@
         {
           "start": 1918,
           "end": 1941,
-          "label": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
         },
         {
           "start": 1941,
@@ -649,12 +678,14 @@
         {
           "start": 1943,
           "end": 1944,
-          "label": "German occupation and Axis client Croatia"
+          "label": "Croatia (German occupation)",
+          "detail": "German occupation and Axis client Croatia"
         },
         {
           "start": 1944,
           "end": 1991,
-          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Yugoslav Partisans, then socialist Yugoslavia"
         },
         {
           "start": 1991,
@@ -686,12 +717,14 @@
         {
           "start": 1797,
           "end": 1805,
-          "label": "Habsburg monarchy, then Austrian Empire"
+          "label": "Habsburg Austria",
+          "detail": "Habsburg monarchy, then Austrian Empire"
         },
         {
           "start": 1805,
           "end": 1809,
-          "label": "Napoleonic Kingdom of Italy under French control"
+          "label": "Napoleonic Italy",
+          "detail": "Napoleonic Kingdom of Italy under French control"
         },
         {
           "start": 1809,
@@ -711,17 +744,20 @@
         {
           "start": 1918,
           "end": 1943,
-          "label": "Italy (occupation, then annexation)"
+          "label": "Italy",
+          "detail": "Italy (occupation, then annexation)"
         },
         {
           "start": 1943,
           "end": 1944,
-          "label": "German occupation; nominal Italian Social Republic"
+          "label": "German occupation",
+          "detail": "German occupation; nominal Italian Social Republic"
         },
         {
           "start": 1944,
           "end": 1991,
-          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Yugoslav Partisans, then socialist Yugoslavia"
         },
         {
           "start": 1991,
@@ -756,17 +792,20 @@
         {
           "start": 1908,
           "end": 1918,
-          "label": "Austria-Hungary (annexed condominium)"
+          "label": "Austria-Hungary",
+          "detail": "Austria-Hungary (annexed condominium)"
         },
         {
           "start": 1918,
           "end": 1941,
-          "label": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
         },
         {
           "start": 1941,
           "end": 1945,
-          "label": "Independent State of Croatia (Axis puppet state)"
+          "label": "Croatia (Axis puppet state)",
+          "detail": "Independent State of Croatia (Axis puppet state)"
         },
         {
           "start": 1945,
@@ -803,7 +842,8 @@
         {
           "start": 1813,
           "end": 1830,
-          "label": "Ottoman Empire, with growing Serbian autonomy after 1815"
+          "label": "Ottoman Empire (Serbian autonomy)",
+          "detail": "Ottoman Empire, with growing Serbian autonomy after 1815"
         },
         {
           "start": 1830,
@@ -813,27 +853,32 @@
         {
           "start": 1878,
           "end": 1915,
-          "label": "Independent Serbia (principality, then kingdom)"
+          "label": "Serbia",
+          "detail": "Independent Serbia (principality, then kingdom)"
         },
         {
           "start": 1915,
           "end": 1918,
-          "label": "Central Powers occupation; Austro-Hungarian military administration"
+          "label": "Austro-Hungarian occupation",
+          "detail": "Central Powers occupation; Austro-Hungarian military administration"
         },
         {
           "start": 1918,
           "end": 1941,
-          "label": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Kingdom of Serbs, Croats and Slovenes / Yugoslavia"
         },
         {
           "start": 1941,
           "end": 1944,
-          "label": "German military occupation with Serbian collaborationist administration"
+          "label": "German occupation",
+          "detail": "German military occupation with Serbian collaborationist administration"
         },
         {
           "start": 1944,
           "end": 1992,
-          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+          "label": "Yugoslavia",
+          "detail": "Yugoslav Partisans, then socialist Yugoslavia"
         },
         {
           "start": 1992,
@@ -899,7 +944,8 @@
         {
           "start": 1908,
           "end": 1946,
-          "label": "Kingdom of Bulgaria (Soviet occupation from 1944)"
+          "label": "Kingdom of Bulgaria",
+          "detail": "Kingdom of Bulgaria (Soviet occupation from 1944)"
         },
         {
           "start": 1946,
@@ -1009,7 +1055,8 @@
         {
           "start": 1826,
           "end": 1833,
-          "label": "Ottoman Empire (Acropolis held by Greeks until 1827)"
+          "label": "Ottoman Empire",
+          "detail": "Ottoman Empire (Acropolis held by Greeks until 1827)"
         },
         {
           "start": 1833,
@@ -1019,7 +1066,8 @@
         {
           "start": 1941,
           "end": 1944,
-          "label": "Axis occupation and collaborationist Hellenic State"
+          "label": "Axis occupation",
+          "detail": "Axis occupation and collaborationist Hellenic State"
         },
         {
           "start": 1944,
@@ -1077,7 +1125,8 @@
         {
           "start": 1918,
           "end": 1923,
-          "label": "Allied occupation (Ottoman government until 1922)"
+          "label": "Allied occupation",
+          "detail": "Allied occupation (Ottoman government until 1922)"
         },
         {
           "start": 1923,
@@ -1120,12 +1169,14 @@
         {
           "start": 1916,
           "end": 1918,
-          "label": "German-led Central Powers occupation"
+          "label": "Central Powers occupation",
+          "detail": "German-led Central Powers occupation"
         },
         {
           "start": 1918,
           "end": 1947,
-          "label": "Kingdom of Romania (Soviet occupation from 1944)"
+          "label": "Kingdom of Romania",
+          "detail": "Kingdom of Romania (Soviet occupation from 1944)"
         },
         {
           "start": 1947,
@@ -1183,12 +1234,14 @@
         {
           "start": 1940,
           "end": 1944,
-          "label": "Kingdom of Hungary (German occupation from March 1944)"
+          "label": "Kingdom of Hungary",
+          "detail": "Kingdom of Hungary (German occupation from March 1944)"
         },
         {
           "start": 1944,
           "end": 1945,
-          "label": "Soviet military administration after joint Soviet-Romanian capture"
+          "label": "Soviet administration",
+          "detail": "Soviet military administration after joint Soviet-Romanian capture"
         },
         {
           "start": 1945,
@@ -1247,7 +1300,8 @@
         {
           "start": 1804,
           "end": 1867,
-          "label": "Austrian Empire (changing Hungarian and imperial provincial administration)"
+          "label": "Austrian Empire",
+          "detail": "Austrian Empire (changing Hungarian and imperial provincial administration)"
         },
         {
           "start": 1867,
@@ -1257,7 +1311,8 @@
         {
           "start": 1918,
           "end": 1919,
-          "label": "Serbian military occupation after a short-lived regional republic"
+          "label": "Serbian occupation",
+          "detail": "Serbian military occupation after a short-lived regional republic"
         },
         {
           "start": 1919,
@@ -1315,7 +1370,8 @@
         {
           "start": 1940,
           "end": 1944,
-          "label": "Nazi German occupation and de facto annexation"
+          "label": "Nazi Germany",
+          "detail": "Nazi German occupation and de facto annexation"
         },
         {
           "start": 1944,
@@ -1345,7 +1401,8 @@
         {
           "start": 1552,
           "end": 1648,
-          "label": "French royal control; imperial sovereignty disputed"
+          "label": "France (disputed sovereignty)",
+          "detail": "French royal control; imperial sovereignty disputed"
         },
         {
           "start": 1648,
@@ -1365,7 +1422,8 @@
         {
           "start": 1940,
           "end": 1944,
-          "label": "Nazi German occupation and de facto annexation"
+          "label": "Nazi Germany",
+          "detail": "Nazi German occupation and de facto annexation"
         },
         {
           "start": 1944,
@@ -1484,7 +1542,8 @@
         {
           "start": 1493,
           "end": 1642,
-          "label": "Crown of Aragon; later the Spanish monarchy"
+          "label": "Aragon / Spain",
+          "detail": "Crown of Aragon; later the Spanish monarchy"
         },
         {
           "start": 1642,
@@ -1588,7 +1647,8 @@
         {
           "start": 1794,
           "end": 1814,
-          "label": "French occupation, then French Republic and Empire"
+          "label": "France",
+          "detail": "French occupation, then French Republic and Empire"
         },
         {
           "start": 1814,
@@ -1618,7 +1678,8 @@
         {
           "start": 1944,
           "end": 1949,
-          "label": "Allied occupation: American, then British zone"
+          "label": "Allied occupation",
+          "detail": "Allied occupation: American, then British zone"
         },
         {
           "start": 1949,
@@ -1665,7 +1726,8 @@
         {
           "start": 1794,
           "end": 1814,
-          "label": "French occupation, then French Republic and Empire"
+          "label": "France",
+          "detail": "French occupation, then French Republic and Empire"
         },
         {
           "start": 1814,
@@ -1695,7 +1757,8 @@
         {
           "start": 1945,
           "end": 1949,
-          "label": "Allied occupation: American, then British zone"
+          "label": "Allied occupation",
+          "detail": "Allied occupation: American, then British zone"
         },
         {
           "start": 1949,
@@ -1741,7 +1804,8 @@
         {
           "start": 1794,
           "end": 1814,
-          "label": "French occupation, then French Republic and Empire"
+          "label": "France",
+          "detail": "French occupation, then French Republic and Empire"
         },
         {
           "start": 1814,
@@ -1771,7 +1835,8 @@
         {
           "start": 1945,
           "end": 1949,
-          "label": "Allied occupation: American, then French zone"
+          "label": "Allied occupation",
+          "detail": "Allied occupation: American, then French zone"
         },
         {
           "start": 1949,
@@ -1813,7 +1878,8 @@
         {
           "start": 1454,
           "end": 1569,
-          "label": "Polish Crown; extensive municipal autonomy"
+          "label": "Poland (local autonomy)",
+          "detail": "Polish Crown; extensive municipal autonomy"
         },
         {
           "start": 1569,
@@ -1828,12 +1894,14 @@
         {
           "start": 1807,
           "end": 1814,
-          "label": "Free city under Napoleonic French protection"
+          "label": "Free city (French protection)",
+          "detail": "Free city under Napoleonic French protection"
         },
         {
           "start": 1814,
           "end": 1815,
-          "label": "Russian and Prussian military control"
+          "label": "Russian / Prussian occupation",
+          "detail": "Russian and Prussian military control"
         },
         {
           "start": 1815,
@@ -1853,7 +1921,8 @@
         {
           "start": 1920,
           "end": 1939,
-          "label": "Free city under League of Nations protection"
+          "label": "Free city (League of Nations)",
+          "detail": "Free city under League of Nations protection"
         },
         {
           "start": 1939,
@@ -1891,7 +1960,8 @@
         {
           "start": 1469,
           "end": 1490,
-          "label": "Matthias Corvinus, King of Hungary and claimant to Bohemia"
+          "label": "Hungarian Crown",
+          "detail": "Matthias Corvinus, King of Hungary and claimant to Bohemia"
         },
         {
           "start": 1490,
@@ -1948,7 +2018,8 @@
         {
           "start": 1630,
           "end": 1720,
-          "label": "Swedish control; later Swedish Pomerania"
+          "label": "Sweden",
+          "detail": "Swedish control; later Swedish Pomerania"
         },
         {
           "start": 1720,
@@ -2175,12 +2246,14 @@
         {
           "start": 1918,
           "end": 1920,
-          "label": "Contested: Lithuanian, Polish and Soviet control"
+          "label": "Lithuania / Poland / Soviet Russia",
+          "detail": "Contested: Lithuanian, Polish and Soviet control"
         },
         {
           "start": 1920,
           "end": 1922,
-          "label": "Republic of Central Lithuania, backed by Poland"
+          "label": "Central Lithuania (Polish-backed)",
+          "detail": "Republic of Central Lithuania, backed by Poland"
         },
         {
           "start": 1922,
@@ -2190,7 +2263,8 @@
         {
           "start": 1939,
           "end": 1940,
-          "label": "Lithuania, following a brief Soviet occupation"
+          "label": "Lithuania",
+          "detail": "Lithuania, following a brief Soviet occupation"
         },
         {
           "start": 1940,
@@ -2247,7 +2321,8 @@
         {
           "start": 1710,
           "end": 1917,
-          "label": "Russian rule; Tsardom, then Empire"
+          "label": "Russia",
+          "detail": "Russian rule; Tsardom, then Empire"
         },
         {
           "start": 1917,
@@ -2257,7 +2332,8 @@
         {
           "start": 1918,
           "end": 1920,
-          "label": "Latvian independence struggle; rival occupations"
+          "label": "Contested rule",
+          "detail": "Latvian independence struggle; rival occupations"
         },
         {
           "start": 1920,
@@ -2318,7 +2394,8 @@
         {
           "start": 1710,
           "end": 1918,
-          "label": "Russian rule; Tsardom, then Empire"
+          "label": "Russia",
+          "detail": "Russian rule; Tsardom, then Empire"
         },
         {
           "start": 1918,
@@ -2441,7 +2518,8 @@
         {
           "start": 1710,
           "end": 1812,
-          "label": "Russian rule; Tsardom, then Empire"
+          "label": "Russia",
+          "detail": "Russian rule; Tsardom, then Empire"
         },
         {
           "start": 1812,
@@ -2461,7 +2539,8 @@
         {
           "start": 1941,
           "end": 1944,
-          "label": "Finnish reconquest and administration"
+          "label": "Finland",
+          "detail": "Finnish reconquest and administration"
         },
         {
           "start": 1944,
@@ -2573,7 +2652,8 @@
         {
           "start": 1701,
           "end": 1715,
-          "label": "French control during the Spanish Succession War"
+          "label": "France",
+          "detail": "French control during the Spanish Succession War"
         },
         {
           "start": 1715,
@@ -2588,22 +2668,26 @@
         {
           "start": 1815,
           "end": 1867,
-          "label": "Grand duchy (Dutch personal union; Prussian garrison)"
+          "label": "Grand duchy (Dutch personal union)",
+          "detail": "Grand duchy (Dutch personal union; Prussian garrison)"
         },
         {
           "start": 1867,
           "end": 1890,
-          "label": "Neutral grand duchy (Dutch personal union)"
+          "label": "Grand duchy (Dutch personal union)",
+          "detail": "Neutral grand duchy (Dutch personal union)"
         },
         {
           "start": 1890,
           "end": 1914,
-          "label": "Independent grand duchy under its own dynasty"
+          "label": "Independent grand duchy",
+          "detail": "Independent grand duchy under its own dynasty"
         },
         {
           "start": 1914,
           "end": 1918,
-          "label": "German military occupation; local government retained"
+          "label": "German occupation",
+          "detail": "German military occupation; local government retained"
         },
         {
           "start": 1918,
@@ -2613,7 +2697,8 @@
         {
           "start": 1940,
           "end": 1944,
-          "label": "Nazi German occupation and de facto annexation"
+          "label": "Nazi Germany",
+          "detail": "Nazi German occupation and de facto annexation"
         },
         {
           "start": 1944,
@@ -2661,7 +2746,8 @@
         {
           "start": 1942,
           "end": 1943,
-          "label": "German and Italian military occupation"
+          "label": "German / Italian occupation",
+          "detail": "German and Italian military occupation"
         },
         {
           "start": 1943,
@@ -2833,7 +2919,8 @@
         {
           "start": 1925,
           "end": 1940,
-          "label": "International administration under Moroccan sovereignty"
+          "label": "International zone (Morocco)",
+          "detail": "International administration under Moroccan sovereignty"
         },
         {
           "start": 1940,
@@ -2843,7 +2930,8 @@
         {
           "start": 1945,
           "end": 1956,
-          "label": "International administration restored"
+          "label": "International administration",
+          "detail": "International administration restored"
         },
         {
           "start": 1956,
@@ -2921,22 +3009,26 @@
         {
           "start": 1557,
           "end": 1849,
-          "label": "Portuguese settlement under Chinese sovereignty"
+          "label": "Portugal (Chinese sovereignty)",
+          "detail": "Portuguese settlement under Chinese sovereignty"
         },
         {
           "start": 1849,
           "end": 1887,
-          "label": "Portuguese colonial rule (disputed sovereignty)"
+          "label": "Portugal (disputed sovereignty)",
+          "detail": "Portuguese colonial rule (disputed sovereignty)"
         },
         {
           "start": 1887,
           "end": 1999,
-          "label": "Portuguese administration recognized by treaty"
+          "label": "Portuguese administration",
+          "detail": "Portuguese administration recognized by treaty"
         },
         {
           "start": 1999,
           "end": null,
-          "label": "Special administrative region of China"
+          "label": "China (special administrative region)",
+          "detail": "Special administrative region of China"
         }
       ],
       "note": "Portuguese residence began with Chinese permission, rather than an outright conquest. Portugal expelled Chinese officials and asserted exclusive control in 1849. The 1887 treaty recognized Portuguese occupation and government; China resumed sovereignty on 20 December 1999.",
@@ -2977,7 +3069,8 @@
         {
           "start": 1997,
           "end": null,
-          "label": "Special administrative region of China"
+          "label": "China (special administrative region)",
+          "detail": "Special administrative region of China"
         }
       ],
       "note": "The opening date refers to British occupation of Hong Kong Island in 1841, formally ceded in 1842. Kowloon was added in 1860 and the New Territories leased in 1898; today's whole territory did not share a single transfer date.",
@@ -3003,7 +3096,8 @@
         {
           "start": 1819,
           "end": 1824,
-          "label": "British trading post by agreement with Johor"
+          "label": "British trading post",
+          "detail": "British trading post by agreement with Johor"
         },
         {
           "start": 1824,
@@ -3033,7 +3127,8 @@
         {
           "start": 1959,
           "end": 1963,
-          "label": "Self-governing state under British sovereignty"
+          "label": "British sovereignty (self-governing)",
+          "detail": "Self-governing state under British sovereignty"
         },
         {
           "start": 1963,
@@ -3084,7 +3179,8 @@
         {
           "start": 1795,
           "end": 1818,
-          "label": "British occupation during the French wars"
+          "label": "British occupation",
+          "detail": "British occupation during the French wars"
         },
         {
           "start": 1818,
@@ -3243,7 +3339,8 @@
         {
           "start": 1954,
           "end": 1962,
-          "label": "Indian administration — legal transfer pending"
+          "label": "Indian administration",
+          "detail": "Indian administration — legal transfer pending"
         },
         {
           "start": 1962,
@@ -3302,7 +3399,8 @@
         {
           "start": 1935,
           "end": 1942,
-          "label": "Philippine Commonwealth (self-governing under US sovereignty)"
+          "label": "Philippine Commonwealth (US sovereignty)",
+          "detail": "Philippine Commonwealth (self-governing under US sovereignty)"
         },
         {
           "start": 1942,
@@ -3312,12 +3410,14 @@
         {
           "start": 1945,
           "end": 1946,
-          "label": "Restored Philippine Commonwealth (US sovereignty)"
+          "label": "Philippine Commonwealth (US sovereignty)",
+          "detail": "Restored Philippine Commonwealth (US sovereignty)"
         },
         {
           "start": 1946,
           "end": null,
-          "label": "Independent Republic of the Philippines"
+          "label": "Philippines",
+          "detail": "Independent Republic of the Philippines"
         }
       ],
       "note": "The British occupation controlled the city and nearby Cavite, not the whole Philippines. The US captured Manila in August 1898. The Japanese occupation began in January 1942; liberation followed in 1945.",
@@ -3355,7 +3455,8 @@
         {
           "start": 1800,
           "end": 1811,
-          "label": "Dutch, then French imperial administration"
+          "label": "Dutch / French administration",
+          "detail": "Dutch, then French imperial administration"
         },
         {
           "start": 1811,
@@ -3375,7 +3476,8 @@
         {
           "start": 1945,
           "end": 1949,
-          "label": "Contested: Indonesian republic and Allied/Dutch occupation"
+          "label": "Indonesian / Allied / Dutch control",
+          "detail": "Contested: Indonesian republic and Allied/Dutch occupation"
         },
         {
           "start": 1949,
@@ -3487,7 +3589,8 @@
         {
           "start": 1906,
           "end": 1909,
-          "label": "United States provisional occupation government"
+          "label": "US occupation",
+          "detail": "United States provisional occupation government"
         },
         {
           "start": 1909,
@@ -3532,7 +3635,8 @@
         {
           "start": 1762,
           "end": 1769,
-          "label": "Spain (transitional French administration)"
+          "label": "Spain",
+          "detail": "Spain (transitional French administration)"
         },
         {
           "start": 1769,

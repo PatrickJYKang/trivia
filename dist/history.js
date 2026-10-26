@@ -33,7 +33,7 @@ function revealNext(){
 }
 function next(){
   if(!game)throw Error('Wait for histories to load.');
-  game.next();search.clear();$('answer').textContent='';$('history-note').textContent='';$('sources').replaceChildren();
+  game.next();search.clear();$('answer').textContent='';$('history-note').textContent='';$('period-notes').replaceChildren();$('sources').replaceChildren();
   $('feedback').textContent='';$('history-context').open=false;$('reveal-status').textContent='';renderTimeline();render();
   return state();
 }
@@ -42,6 +42,11 @@ function finish(){
   $('answer').textContent=city.name;
   $('result-detail').textContent=`${city.country} · ${game.won?`Found in ${game.guesses.length} ${game.guesses.length===1?'guess':'guesses'}`:'Answer revealed'}`;
   $('history-note').textContent=city.note;
+  const notes=$('period-notes');notes.replaceChildren();
+  for(const period of game.snapshot().answer.periodNotes){
+    const row=document.createElement('li');row.textContent=`${period.dates}: ${period.detail}`;notes.append(row);
+  }
+  notes.hidden=!notes.children.length;
   const sources=$('sources');sources.replaceChildren();
   for(const source of city.sources){const link=document.createElement('a');link.href=source.url;link.textContent=source.title;link.target='_blank';link.rel='noreferrer';sources.append(link);}
   renderTimeline();render();$('next').focus();
@@ -51,7 +56,7 @@ function guess(id){
   if(!city)throw Error('Choose a city from the database.');
   if(!game)throw Error('Wait for histories to load.');
   const accepted=game.guess(city);search.clear();
-  if(game.done)finish();else{$('feedback').textContent=accepted?'Incorrect.':'Already guessed.';render();$('guess').focus();}
+  if(game.done)finish();else{$('feedback').textContent=accepted?'Incorrect.':'Already guessed.';renderTimeline();render();$('guess').focus();}
   return state();
 }
 function giveUp(){if(!game)throw Error('Wait for histories to load.');game.giveUp();finish();return state();}
@@ -84,7 +89,7 @@ if(typeof document.modelContext?.registerTool==='function'){
     {name:'read_city_history',description:'Read the revealed political-control periods and current guesses. The full timeline, answer and sources appear after the round ends.',inputSchema:empty,annotations:{readOnlyHint:true},execute:state},
     {name:'reveal_next_history_owner',description:'Reveal the next period of political control. Does not consume a guess or change points.',inputSchema:empty,execute:revealNext},
     {name:'search_history_cities',description:'Search city names and historical aliases for a city ID to guess.',inputSchema:{type:'object',properties:{query:{type:'string',minLength:2}},required:['query'],additionalProperties:false},annotations:{readOnlyHint:true},execute:input=>{if(typeof input?.query!=='string'||input.query.trim().length<2)throw Error('Enter at least two characters.');return searchCities(index,input.query).map(({id,name,country})=>({id,name,country}));}},
-    {name:'guess_history_city',description:'Guess the city from its history using a GeoNames city ID.',inputSchema:{type:'object',properties:{cityId:{type:'integer'}},required:['cityId'],additionalProperties:false},execute:input=>guess(input?.cityId)},
+    {name:'guess_history_city',description:'Guess the city using a GeoNames city ID. Each new wrong guess reveals the next owner, if available.',inputSchema:{type:'object',properties:{cityId:{type:'integer'}},required:['cityId'],additionalProperties:false},execute:input=>guess(input?.cityId)},
     {name:'give_up_city_history',description:'End the round and reveal the city, explanatory note and sources.',inputSchema:empty,execute:giveUp},
     {name:'next_city_history',description:'Start the next history after the current round ends.',inputSchema:empty,execute:next}
   ];

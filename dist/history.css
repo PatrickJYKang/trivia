@@ -27,3 +27,6 @@
 #history-context summary:focus-visible{outline:3px solid #547df4;outline-offset:4px}
 .history-scope{margin:12px 0 8px;font-size:12px;line-height:1.5;color:var(--muted)}
 footer{justify-content:flex-end}
+
+#period-notes{padding-left:18px;margin:0 0 14px;font-size:12px;line-height:1.7;color:var(--muted)}
+#period-notes li+li{margin-top:4px}
