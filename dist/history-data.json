@@ -1,0 +1,3585 @@
+{
+  "version": 1,
+  "checked": "2026-10-25",
+  "scope": "Selected major periods of political control; names that disclose the answer are generalized. Notes and linked sources explain local scope, approximation and omitted interruptions.",
+  "cities": [
+    {
+      "name": "Salzburg",
+      "id": 2766824,
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1328,
+          "end": 1803,
+          "label": "Prince-archbishops within the Holy Roman Empire"
+        },
+        {
+          "start": 1803,
+          "end": 1805,
+          "label": "Secular electorate within the Holy Roman Empire"
+        },
+        {
+          "start": 1805,
+          "end": 1809,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1809,
+          "end": 1810,
+          "label": "French military administration"
+        },
+        {
+          "start": 1810,
+          "end": 1816,
+          "label": "Kingdom of Bavaria"
+        },
+        {
+          "start": 1816,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1938,
+          "label": "Austria: republic, then authoritarian federal state"
+        },
+        {
+          "start": 1938,
+          "end": 1945,
+          "label": "Nazi Germany (annexation)"
+        },
+        {
+          "start": 1945,
+          "end": 1955,
+          "label": "Restored Austria under US occupation"
+        },
+        {
+          "start": 1955,
+          "end": null,
+          "label": "Republic of Austria"
+        }
+      ],
+      "note": "The 1805 treaty transferred Salzburg to Austria; Austrian administration began in 1806. Bavaria ruled from 1810, not 1809. Austria-Hungary began in 1867. German-Austria lasted only 1918–1919; the authoritarian Federal State of Austria was 1934–1938. Brief Napoleonic occupations in 1800 and 1805 are omitted.",
+      "sources": [
+        {
+          "title": "Salzburg — history",
+          "url": "https://en.wikipedia.org/wiki/Salzburg"
+        },
+        {
+          "title": "Prince-Archbishopric of Salzburg",
+          "url": "https://en.wikipedia.org/wiki/Prince-Archbishopric_of_Salzburg"
+        },
+        {
+          "title": "Salzburg Museum — five changes of ruler",
+          "url": "https://www.salzburgmuseum.at/ausstellung/grenzen-ueberschreiten/"
+        },
+        {
+          "title": "City of Salzburg — chronology",
+          "url": "https://stadt-salzburg.at/fileadmin/landingpages/stadtgeschichte/stadtchronik/stadtchronik_vor_1900_00387362.pdf"
+        },
+        {
+          "title": "City of Salzburg — Austrian and Bavarian administration",
+          "url": "https://www.stadt-salzburg.at/presseaussendungen/2005/gedenktafel-fuer-otto-von-griechenland-im-schloss-mirabell-enthuellt"
+        }
+      ],
+      "country": "Austria"
+    },
+    {
+      "name": "Vienna",
+      "id": 2761369,
+      "aliases": [
+        "Wien"
+      ],
+      "periods": [
+        {
+          "start": 1804,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1938,
+          "label": "Austria: republic, then authoritarian federal state"
+        },
+        {
+          "start": 1938,
+          "end": 1945,
+          "label": "Nazi Germany (annexation)"
+        },
+        {
+          "start": 1945,
+          "end": 1955,
+          "label": "Restored Austria under four-power Allied occupation"
+        },
+        {
+          "start": 1955,
+          "end": null,
+          "label": "Republic of Austria"
+        }
+      ],
+      "note": "This timeline begins with the Austrian Empire. Vienna had already been a Habsburg seat within the Holy Roman Empire. French occupations in 1805 and 1809 were brief. After 1945 the city was divided among Soviet, American, British and French sectors, with a jointly administered centre.",
+      "sources": [
+        {
+          "title": "Vienna — history",
+          "url": "https://en.wikipedia.org/wiki/Vienna"
+        }
+      ],
+      "country": "Austria"
+    },
+    {
+      "name": "Prague",
+      "id": 3067696,
+      "aliases": [
+        "Praha"
+      ],
+      "periods": [
+        {
+          "start": 1198,
+          "end": 1526,
+          "label": "Kingdom of Bohemia within the Holy Roman Empire"
+        },
+        {
+          "start": 1526,
+          "end": 1804,
+          "label": "Bohemian Crown under Habsburg rulers (Holy Roman Empire)"
+        },
+        {
+          "start": 1804,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary (Austrian half)"
+        },
+        {
+          "start": 1918,
+          "end": 1939,
+          "label": "Czechoslovakia"
+        },
+        {
+          "start": 1939,
+          "end": 1945,
+          "label": "German occupation: Protectorate of Bohemia and Moravia"
+        },
+        {
+          "start": 1945,
+          "end": 1993,
+          "label": "Czechoslovakia"
+        },
+        {
+          "start": 1993,
+          "end": null,
+          "label": "Czech Republic"
+        }
+      ],
+      "note": "The Habsburg period is a broad dynastic summary: the 1618–1620 Bohemian revolt and brief military occupations are not separate rows. Czechoslovakia included democratic and communist governments; Soviet-led forces invaded in 1968, without annexing the city.",
+      "sources": [
+        {
+          "title": "Prague — history",
+          "url": "https://en.wikipedia.org/wiki/Prague"
+        },
+        {
+          "title": "Kingdom of Bohemia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bohemia"
+        }
+      ],
+      "country": "Czechia"
+    },
+    {
+      "name": "Budapest",
+      "id": 3054643,
+      "aliases": [
+        "Buda",
+        "Pest"
+      ],
+      "periods": [
+        {
+          "start": 1541,
+          "end": 1686,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1686,
+          "end": 1804,
+          "label": "Kingdom of Hungary under Habsburg rulers"
+        },
+        {
+          "start": 1804,
+          "end": 1867,
+          "label": "Kingdom of Hungary under the Austrian emperors"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary (Hungarian half)"
+        },
+        {
+          "start": 1918,
+          "end": 1920,
+          "label": "Hungarian republics; Romanian occupation in 1919"
+        },
+        {
+          "start": 1920,
+          "end": 1944,
+          "label": "Kingdom of Hungary"
+        },
+        {
+          "start": 1944,
+          "end": 1945,
+          "label": "German occupation and Hungarian Arrow Cross rule"
+        },
+        {
+          "start": 1945,
+          "end": 1949,
+          "label": "Hungary under Soviet occupation and increasing communist control"
+        },
+        {
+          "start": 1949,
+          "end": 1989,
+          "label": "Hungarian People’s Republic"
+        },
+        {
+          "start": 1989,
+          "end": null,
+          "label": "Hungary"
+        }
+      ],
+      "note": "Before the 1873 union of Buda, Pest and Óbuda, this timeline follows Buda. The 1918–1920 row groups the democratic republic, Soviet republic, Romanian occupation and transition to the restored monarchy. Soviet troops captured Budapest in February 1945.",
+      "sources": [
+        {
+          "title": "Budapest — history",
+          "url": "https://en.wikipedia.org/wiki/Budapest"
+        },
+        {
+          "title": "History of Budapest",
+          "url": "https://en.wikipedia.org/wiki/History_of_Budapest"
+        },
+        {
+          "title": "Buda in the medieval Kingdom of Hungary and Ottoman Empire",
+          "url": "https://publikacio.ppke.hu/id/eprint/1545/1/01.pdf"
+        }
+      ],
+      "country": "Hungary"
+    },
+    {
+      "name": "Bratislava",
+      "id": 3060972,
+      "aliases": [
+        "Pressburg",
+        "Pozsony"
+      ],
+      "periods": [
+        {
+          "start": 1536,
+          "end": 1804,
+          "label": "Royal Hungary under Habsburg rulers"
+        },
+        {
+          "start": 1804,
+          "end": 1867,
+          "label": "Kingdom of Hungary under the Austrian emperors"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary (Hungarian half)"
+        },
+        {
+          "start": 1918,
+          "end": 1919,
+          "label": "Hungary amid the postwar collapse"
+        },
+        {
+          "start": 1919,
+          "end": 1939,
+          "label": "Czechoslovakia"
+        },
+        {
+          "start": 1939,
+          "end": 1945,
+          "label": "Slovak Republic (German client state; occupied from 1944)"
+        },
+        {
+          "start": 1945,
+          "end": 1993,
+          "label": "Czechoslovakia"
+        },
+        {
+          "start": 1993,
+          "end": null,
+          "label": "Slovakia"
+        }
+      ],
+      "note": "The city became the capital of Habsburg Hungary in 1536. Czechoslovak troops secured the historic centre in January 1919. This follows that centre: Petržalka and Devín, now boroughs, were separately annexed by Germany in 1938.",
+      "sources": [
+        {
+          "title": "Bratislava — history",
+          "url": "https://en.wikipedia.org/wiki/Bratislava"
+        }
+      ],
+      "country": "Slovakia"
+    },
+    {
+      "name": "Ljubljana",
+      "id": 3196359,
+      "aliases": [
+        "Laibach"
+      ],
+      "periods": [
+        {
+          "start": 1335,
+          "end": 1804,
+          "label": "Habsburg Carniola within the Holy Roman Empire"
+        },
+        {
+          "start": 1804,
+          "end": 1809,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1809,
+          "end": 1813,
+          "label": "French Empire: Illyrian Provinces"
+        },
+        {
+          "start": 1813,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary (Austrian half)"
+        },
+        {
+          "start": 1918,
+          "end": 1941,
+          "label": "South Slav kingdom (later called Yugoslavia)"
+        },
+        {
+          "start": 1941,
+          "end": 1943,
+          "label": "Kingdom of Italy (annexation)"
+        },
+        {
+          "start": 1943,
+          "end": 1945,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1991,
+          "label": "Socialist Yugoslavia"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Slovenia"
+        }
+      ],
+      "note": "The French interlude ended with Austrian recovery in 1813, before the international settlement. The short-lived State of Slovenes, Croats and Serbs preceded the kingdom in late 1918. Italy annexed Ljubljana in 1941; German control followed Italy’s 1943 surrender.",
+      "sources": [
+        {
+          "title": "Ljubljana — history",
+          "url": "https://en.wikipedia.org/wiki/Ljubljana"
+        },
+        {
+          "title": "UNESCO nomination: history of Ljubljana",
+          "url": "https://whc.unesco.org/document/181046"
+        }
+      ],
+      "country": "Slovenia"
+    },
+    {
+      "name": "Trieste",
+      "id": 3165185,
+      "aliases": [
+        "Triest"
+      ],
+      "periods": [
+        {
+          "start": 1382,
+          "end": 1804,
+          "label": "Habsburg Austria within the Holy Roman Empire"
+        },
+        {
+          "start": 1804,
+          "end": 1809,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1809,
+          "end": 1813,
+          "label": "French Empire: Illyrian Provinces"
+        },
+        {
+          "start": 1813,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1943,
+          "label": "Italy (military occupation, then annexation)"
+        },
+        {
+          "start": 1943,
+          "end": 1945,
+          "label": "Nazi German occupation: Adriatic Littoral"
+        },
+        {
+          "start": 1945,
+          "end": 1947,
+          "label": "Yugoslav occupation, then Anglo-American military government"
+        },
+        {
+          "start": 1947,
+          "end": 1954,
+          "label": "Free territory, Zone A under Anglo-American administration"
+        },
+        {
+          "start": 1954,
+          "end": null,
+          "label": "Italy"
+        }
+      ],
+      "note": "Trieste submitted to Habsburg protection in 1382. French occupation briefly interrupted that relationship in 1797 and 1805. Italian troops arrived in 1918; treaty recognition followed in 1920. Italy took civil administration in 1954; the final border agreement was signed in 1975.",
+      "sources": [
+        {
+          "title": "Trieste — history",
+          "url": "https://en.wikipedia.org/wiki/Trieste"
+        }
+      ],
+      "country": "Italy"
+    },
+    {
+      "name": "Gorizia",
+      "id": 3175986,
+      "aliases": [
+        "Görz",
+        "Gorica"
+      ],
+      "periods": [
+        {
+          "start": 1809,
+          "end": 1813,
+          "label": "French Empire: Illyrian Provinces"
+        },
+        {
+          "start": 1813,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1916,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1916,
+          "end": 1917,
+          "label": "Italian military occupation"
+        },
+        {
+          "start": 1917,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1943,
+          "label": "Italy (occupation, then annexation)"
+        },
+        {
+          "start": 1943,
+          "end": 1945,
+          "label": "Nazi German occupation: Adriatic Littoral"
+        },
+        {
+          "start": 1945,
+          "end": 1947,
+          "label": "Yugoslav occupation, then Allied military administration"
+        },
+        {
+          "start": 1947,
+          "end": null,
+          "label": "Italy"
+        }
+      ],
+      "note": "The timeline follows the historic town, not Nova Gorica. Gorizia had belonged to the Habsburgs since 1500 before the French interlude. Italian troops took it in August 1916; Austria-Hungary recovered it after Caporetto. The 1947 border left the old centre in Italy and several suburbs in Yugoslavia.",
+      "sources": [
+        {
+          "title": "Gorizia — history",
+          "url": "https://en.wikipedia.org/wiki/Gorizia"
+        }
+      ],
+      "country": "Italy"
+    },
+    {
+      "name": "Dubrovnik",
+      "id": 3201047,
+      "aliases": [
+        "Ragusa"
+      ],
+      "periods": [
+        {
+          "start": 1205,
+          "end": 1358,
+          "label": "Republic of Venice"
+        },
+        {
+          "start": 1358,
+          "end": 1806,
+          "label": "Self-governing maritime republic under changing Hungarian and Ottoman suzerainty"
+        },
+        {
+          "start": 1806,
+          "end": 1814,
+          "label": "French occupation, then French imperial rule"
+        },
+        {
+          "start": 1814,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1941,
+          "label": "South Slav kingdom (later called Yugoslavia)"
+        },
+        {
+          "start": 1941,
+          "end": 1943,
+          "label": "Axis client Croatia under Italian occupation"
+        },
+        {
+          "start": 1943,
+          "end": 1944,
+          "label": "Axis client Croatia under German occupation"
+        },
+        {
+          "start": 1944,
+          "end": 1991,
+          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Croatia"
+        }
+      ],
+      "note": "The Republic of Ragusa retained extensive self-government while acknowledging external suzerains and paying tribute. France occupied Dubrovnik in 1806 and abolished the republic in 1808. Austrians entered in 1814. Yugoslav Partisans took the city in October 1944. The 1991–1992 siege did not mean conquest of the old town.",
+      "sources": [
+        {
+          "title": "Dubrovnik — history",
+          "url": "https://en.wikipedia.org/wiki/Dubrovnik"
+        }
+      ],
+      "country": "Croatia"
+    },
+    {
+      "name": "Split",
+      "id": 3190261,
+      "aliases": [
+        "Spalato"
+      ],
+      "periods": [
+        {
+          "start": 1420,
+          "end": 1797,
+          "label": "Republic of Venice"
+        },
+        {
+          "start": 1797,
+          "end": 1805,
+          "label": "Habsburg monarchy, then Austrian Empire"
+        },
+        {
+          "start": 1805,
+          "end": 1809,
+          "label": "Napoleonic rule: Kingdom of Italy and French administration"
+        },
+        {
+          "start": 1809,
+          "end": 1813,
+          "label": "French Empire: Illyrian Provinces"
+        },
+        {
+          "start": 1813,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1941,
+          "label": "South Slav kingdom (later called Yugoslavia)"
+        },
+        {
+          "start": 1941,
+          "end": 1943,
+          "label": "Kingdom of Italy (annexation)"
+        },
+        {
+          "start": 1943,
+          "end": 1944,
+          "label": "German occupation and Axis client Croatia"
+        },
+        {
+          "start": 1944,
+          "end": 1991,
+          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Croatia"
+        }
+      ],
+      "note": "This follows control on the ground: Austrian forces returned in November 1813, with formal cession in 1815. The Napoleonic period is grouped under French control. Partisans briefly held Split after Italy surrendered in September 1943, before German occupation; lasting liberation came in 1944.",
+      "sources": [
+        {
+          "title": "Split — history",
+          "url": "https://en.wikipedia.org/wiki/Split%2C_Croatia"
+        }
+      ],
+      "country": "Croatia"
+    },
+    {
+      "name": "Zadar",
+      "id": 3186952,
+      "aliases": [
+        "Zara"
+      ],
+      "periods": [
+        {
+          "start": 1409,
+          "end": 1797,
+          "label": "Republic of Venice"
+        },
+        {
+          "start": 1797,
+          "end": 1805,
+          "label": "Habsburg monarchy, then Austrian Empire"
+        },
+        {
+          "start": 1805,
+          "end": 1809,
+          "label": "Napoleonic Kingdom of Italy under French control"
+        },
+        {
+          "start": 1809,
+          "end": 1813,
+          "label": "French Empire: Illyrian Provinces"
+        },
+        {
+          "start": 1813,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1943,
+          "label": "Italy (occupation, then annexation)"
+        },
+        {
+          "start": 1943,
+          "end": 1944,
+          "label": "German occupation; nominal Italian Social Republic"
+        },
+        {
+          "start": 1944,
+          "end": 1991,
+          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Croatia"
+        }
+      ],
+      "note": "Italy occupied Zadar in November 1918, with annexation recognized by the 1920 Treaty of Rapallo. Partisans took control in 1944; Italian sovereignty formally ended in 1947. The 1805 treaty transfer to Napoleonic Italy was implemented in 1806.",
+      "sources": [
+        {
+          "title": "Zadar — history",
+          "url": "https://en.wikipedia.org/wiki/Zadar"
+        }
+      ],
+      "country": "Croatia"
+    },
+    {
+      "name": "Sarajevo",
+      "id": 3191281,
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1461,
+          "end": 1878,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1878,
+          "end": 1908,
+          "label": "Austro-Hungarian occupation under nominal Ottoman sovereignty"
+        },
+        {
+          "start": 1908,
+          "end": 1918,
+          "label": "Austria-Hungary (annexed condominium)"
+        },
+        {
+          "start": 1918,
+          "end": 1941,
+          "label": "South Slav kingdom (later called Yugoslavia)"
+        },
+        {
+          "start": 1941,
+          "end": 1945,
+          "label": "Independent State of Croatia (Axis puppet state)"
+        },
+        {
+          "start": 1945,
+          "end": 1992,
+          "label": "Socialist Yugoslavia"
+        },
+        {
+          "start": 1992,
+          "end": null,
+          "label": "Bosnia and Herzegovina"
+        }
+      ],
+      "note": "1461 is the conventional founding date of Ottoman Sarajevo. Austro-Hungarian administration began in 1878, but formal annexation came only in 1908. The wartime city was besieged from 1992 to 1996; control around its edges was divided, so the final row follows the central city.",
+      "sources": [
+        {
+          "title": "Sarajevo — history",
+          "url": "https://en.wikipedia.org/wiki/Sarajevo"
+        }
+      ],
+      "country": "Bosnia & Herzegovina"
+    },
+    {
+      "name": "Belgrade",
+      "id": 792680,
+      "aliases": [
+        "Beograd"
+      ],
+      "periods": [
+        {
+          "start": 1807,
+          "end": 1813,
+          "label": "Serbian revolutionary government"
+        },
+        {
+          "start": 1813,
+          "end": 1830,
+          "label": "Ottoman Empire, with growing Serbian autonomy after 1815"
+        },
+        {
+          "start": 1830,
+          "end": 1878,
+          "label": "Autonomous Principality of Serbia under Ottoman suzerainty"
+        },
+        {
+          "start": 1878,
+          "end": 1915,
+          "label": "Independent Serbia (principality, then kingdom)"
+        },
+        {
+          "start": 1915,
+          "end": 1918,
+          "label": "Central Powers occupation; Austro-Hungarian military administration"
+        },
+        {
+          "start": 1918,
+          "end": 1941,
+          "label": "South Slav kingdom (later called Yugoslavia)"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "German military occupation with Serbian collaborationist administration"
+        },
+        {
+          "start": 1944,
+          "end": 1992,
+          "label": "Yugoslav Partisans, then socialist Yugoslavia"
+        },
+        {
+          "start": 1992,
+          "end": 2003,
+          "label": "Federal Republic of Yugoslavia"
+        },
+        {
+          "start": 2003,
+          "end": 2006,
+          "label": "Serbia and Montenegro"
+        },
+        {
+          "start": 2006,
+          "end": null,
+          "label": "Serbia"
+        }
+      ],
+      "note": "This follows historic Belgrade, not formerly Habsburg Zemun across the river. Ottoman troops kept the fortress until 1867 despite Serbian civil autonomy. A brief Austro-Hungarian occupation in December 1914 is omitted. The kingdom was called the Kingdom of Serbs, Croats and Slovenes until 1929.",
+      "sources": [
+        {
+          "title": "Belgrade — history",
+          "url": "https://en.wikipedia.org/wiki/Belgrade"
+        },
+        {
+          "title": "History of Belgrade",
+          "url": "https://en.wikipedia.org/wiki/History_of_Belgrade"
+        }
+      ],
+      "country": "Serbia"
+    },
+    {
+      "name": "Sofia",
+      "id": 727011,
+      "aliases": [],
+      "periods": [
+        {
+          "start": 809,
+          "end": 1018,
+          "label": "First Bulgarian Empire"
+        },
+        {
+          "start": 1018,
+          "end": 1194,
+          "label": "Byzantine Empire"
+        },
+        {
+          "start": 1194,
+          "end": 1382,
+          "label": "Second Bulgarian Empire",
+          "approximate": true
+        },
+        {
+          "start": 1382,
+          "end": 1878,
+          "label": "Ottoman Empire",
+          "approximate": true
+        },
+        {
+          "start": 1878,
+          "end": 1908,
+          "label": "Autonomous Bulgarian principality under nominal Ottoman suzerainty"
+        },
+        {
+          "start": 1908,
+          "end": 1946,
+          "label": "Kingdom of Bulgaria (Soviet occupation from 1944)"
+        },
+        {
+          "start": 1946,
+          "end": 1990,
+          "label": "People’s Republic of Bulgaria"
+        },
+        {
+          "start": 1990,
+          "end": null,
+          "label": "Republic of Bulgaria"
+        }
+      ],
+      "note": "The Ottoman conquest is variously dated 1382, 1383 or 1385. Russian troops took Sofia in January 1878; temporary Russian administration preceded the new principality. Bulgaria became fully independent in 1908. Soviet occupation in 1944 did not annex the city.",
+      "sources": [
+        {
+          "title": "Sofia — history",
+          "url": "https://en.wikipedia.org/wiki/Sofia"
+        },
+        {
+          "title": "Principality of Bulgaria",
+          "url": "https://en.wikipedia.org/wiki/Principality_of_Bulgaria"
+        }
+      ],
+      "country": "Bulgaria"
+    },
+    {
+      "name": "Thessaloniki",
+      "id": 734077,
+      "aliases": [
+        "Thessaloníki",
+        "Salonika",
+        "Salonica"
+      ],
+      "periods": [
+        {
+          "start": 1387,
+          "end": 1403,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1403,
+          "end": 1423,
+          "label": "Byzantine Empire"
+        },
+        {
+          "start": 1423,
+          "end": 1430,
+          "label": "Republic of Venice"
+        },
+        {
+          "start": 1430,
+          "end": 1912,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1912,
+          "end": 1941,
+          "label": "Greece"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "Greece"
+        }
+      ],
+      "note": "After an earlier Ottoman conquest, the city was returned to the Byzantines in 1403, handed to Venice in 1423 and conquered by the Ottomans in 1430. Greek troops entered in 1912; international recognition followed in 1913. Allied military presence and the rival Greek government during World War I are grouped under Greece.",
+      "sources": [
+        {
+          "title": "Thessaloniki — history",
+          "url": "https://en.wikipedia.org/wiki/Thessaloniki"
+        }
+      ],
+      "country": "Greece"
+    },
+    {
+      "name": "Athens",
+      "id": 264371,
+      "aliases": [
+        "Athina"
+      ],
+      "periods": [
+        {
+          "start": 1458,
+          "end": 1687,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1687,
+          "end": 1688,
+          "label": "Venetian occupation"
+        },
+        {
+          "start": 1688,
+          "end": 1822,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1822,
+          "end": 1826,
+          "label": "Greek revolutionary administration"
+        },
+        {
+          "start": 1826,
+          "end": 1833,
+          "label": "Ottoman Empire (Acropolis held by Greeks until 1827)"
+        },
+        {
+          "start": 1833,
+          "end": 1941,
+          "label": "Greece"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "Axis occupation and collaborationist Hellenic State"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "Greece"
+        }
+      ],
+      "note": "The Ottoman return began in the lower town in 1826; the Acropolis surrendered in 1827. Ottoman troops finally left in March 1833, after recognition of Greek independence. Greece here includes its successive monarchies, republics and military dictatorship.",
+      "sources": [
+        {
+          "title": "Athens — history",
+          "url": "https://en.wikipedia.org/wiki/Athens"
+        },
+        {
+          "title": "History of Athens",
+          "url": "https://en.wikipedia.org/wiki/History_of_Athens"
+        }
+      ],
+      "country": "Greece"
+    },
+    {
+      "name": "Istanbul",
+      "id": 745044,
+      "aliases": [
+        "Constantinople",
+        "Byzantium",
+        "İstanbul"
+      ],
+      "periods": [
+        {
+          "start": 330,
+          "end": 395,
+          "label": "Roman Empire"
+        },
+        {
+          "start": 395,
+          "end": 1204,
+          "label": "Eastern Roman (Byzantine) Empire"
+        },
+        {
+          "start": 1204,
+          "end": 1261,
+          "label": "Latin Empire"
+        },
+        {
+          "start": 1261,
+          "end": 1453,
+          "label": "Byzantine Empire"
+        },
+        {
+          "start": 1453,
+          "end": 1918,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1923,
+          "label": "Allied occupation (Ottoman government until 1922)"
+        },
+        {
+          "start": 1923,
+          "end": null,
+          "label": "Republic of Turkey"
+        }
+      ],
+      "note": "This timeline begins with Constantine’s refoundation as Constantinople in 330. Allied forces occupied the city after World War I, while the Ottoman sultanate continued until 1922. Turkish forces entered in October 1923, shortly before the republic was declared.",
+      "sources": [
+        {
+          "title": "Istanbul — history",
+          "url": "https://en.wikipedia.org/wiki/Istanbul"
+        }
+      ],
+      "country": "Türkiye"
+    },
+    {
+      "name": "Bucharest",
+      "id": 683506,
+      "aliases": [
+        "București",
+        "Bucuresti"
+      ],
+      "periods": [
+        {
+          "start": 1859,
+          "end": 1878,
+          "label": "United Romanian principalities under Ottoman suzerainty"
+        },
+        {
+          "start": 1878,
+          "end": 1881,
+          "label": "Independent Principality of Romania"
+        },
+        {
+          "start": 1881,
+          "end": 1916,
+          "label": "Kingdom of Romania"
+        },
+        {
+          "start": 1916,
+          "end": 1918,
+          "label": "German-led Central Powers occupation"
+        },
+        {
+          "start": 1918,
+          "end": 1947,
+          "label": "Kingdom of Romania (Soviet occupation from 1944)"
+        },
+        {
+          "start": 1947,
+          "end": 1989,
+          "label": "Communist Romania"
+        },
+        {
+          "start": 1989,
+          "end": null,
+          "label": "Romania"
+        }
+      ],
+      "note": "Wallachia and Moldavia shared a ruler from 1859 and formally united in 1862, when Bucharest became the capital. Independence was declared in 1877 and internationally recognized in 1878. German occupation lasted December 1916–November 1918. Soviet troops entered in 1944; the monarchy ended in 1947.",
+      "sources": [
+        {
+          "title": "Bucharest — history",
+          "url": "https://en.wikipedia.org/wiki/Bucharest"
+        },
+        {
+          "title": "Kingdom of Romania — political chronology",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Romania"
+        }
+      ],
+      "country": "Romania"
+    },
+    {
+      "name": "Cluj-Napoca",
+      "id": 681290,
+      "aliases": [
+        "Cluj",
+        "Kolozsvár",
+        "Klausenburg"
+      ],
+      "periods": [
+        {
+          "start": 1699,
+          "end": 1804,
+          "label": "Habsburg Principality of Transylvania"
+        },
+        {
+          "start": 1804,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary (Hungarian half)"
+        },
+        {
+          "start": 1918,
+          "end": 1940,
+          "label": "Kingdom of Romania"
+        },
+        {
+          "start": 1940,
+          "end": 1944,
+          "label": "Kingdom of Hungary (German occupation from March 1944)"
+        },
+        {
+          "start": 1944,
+          "end": 1945,
+          "label": "Soviet military administration after joint Soviet-Romanian capture"
+        },
+        {
+          "start": 1945,
+          "end": 1947,
+          "label": "Kingdom of Romania"
+        },
+        {
+          "start": 1947,
+          "end": 1989,
+          "label": "Communist Romania"
+        },
+        {
+          "start": 1989,
+          "end": null,
+          "label": "Romania"
+        }
+      ],
+      "note": "Habsburg military control preceded the 1699 treaty used here. Romanian forces entered in 1918, with sovereignty confirmed in 1920. Hungary regained the city through the 1940 Second Vienna Award. Soviet-Romanian troops captured it in October 1944; Romanian administration resumed in March 1945, with treaty confirmation in 1947.",
+      "sources": [
+        {
+          "title": "Cluj-Napoca — history",
+          "url": "https://en.wikipedia.org/wiki/Cluj-Napoca"
+        },
+        {
+          "title": "Cluj County Library — capture in October 1944",
+          "url": "https://www.bjc.ro/w/index.php/11.oct._-_Eliberarea_Clujului_de_c%C4%83tre_armatele_rom%C3%A2no-sovietice"
+        }
+      ],
+      "country": "Romania"
+    },
+    {
+      "name": "Timișoara",
+      "id": 665087,
+      "aliases": [
+        "Timisoara",
+        "Timişoara",
+        "Temesvár",
+        "Temeschburg"
+      ],
+      "periods": [
+        {
+          "start": 1552,
+          "end": 1716,
+          "label": "Ottoman Empire"
+        },
+        {
+          "start": 1716,
+          "end": 1779,
+          "label": "Habsburg crown province of the Banat"
+        },
+        {
+          "start": 1779,
+          "end": 1804,
+          "label": "Kingdom of Hungary under Habsburg rulers"
+        },
+        {
+          "start": 1804,
+          "end": 1867,
+          "label": "Austrian Empire (changing Hungarian and imperial provincial administration)"
+        },
+        {
+          "start": 1867,
+          "end": 1918,
+          "label": "Austria-Hungary (Hungarian half)"
+        },
+        {
+          "start": 1918,
+          "end": 1919,
+          "label": "Serbian military occupation after a short-lived regional republic"
+        },
+        {
+          "start": 1919,
+          "end": 1947,
+          "label": "Kingdom of Romania"
+        },
+        {
+          "start": 1947,
+          "end": 1989,
+          "label": "Communist Romania"
+        },
+        {
+          "start": 1989,
+          "end": null,
+          "label": "Romania"
+        }
+      ],
+      "note": "Ottoman rule ended with the siege of 1716; treaty confirmation followed in 1718. Imperial authorities governed the Banat separately until 1779. The Banat Republic lasted briefly in November 1918 before Serbian occupation. Romanian troops entered in August 1919; the 1920 Treaty of Trianon formalized the transfer.",
+      "sources": [
+        {
+          "title": "Timișoara — history",
+          "url": "https://en.wikipedia.org/wiki/Timi%C8%99oara"
+        }
+      ],
+      "country": "Romania"
+    },
+    {
+      "name": "Strasbourg",
+      "id": 2973783,
+      "aliases": [
+        "Strassburg",
+        "Straßburg"
+      ],
+      "periods": [
+        {
+          "start": 1262,
+          "end": 1681,
+          "label": "Free imperial city within the Holy Roman Empire"
+        },
+        {
+          "start": 1681,
+          "end": 1871,
+          "label": "France"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1940,
+          "label": "France"
+        },
+        {
+          "start": 1940,
+          "end": 1944,
+          "label": "Nazi German occupation and de facto annexation"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "France"
+        }
+      ],
+      "note": "Strasbourg won independence from its bishop in 1262 and was seized by Louis XIV in 1681. This abridgement combines French constitutional regimes; German military capture in 1870 preceded the formal 1871 annexation. Liberation came in November 1944.",
+      "sources": [
+        {
+          "title": "Wikipedia: History of Strasbourg",
+          "url": "https://en.wikipedia.org/wiki/History_of_Strasbourg"
+        }
+      ],
+      "country": "France"
+    },
+    {
+      "name": "Metz",
+      "id": 2994160,
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1234,
+          "end": 1552,
+          "label": "Autonomous republic within the Holy Roman Empire"
+        },
+        {
+          "start": 1552,
+          "end": 1648,
+          "label": "French royal control; imperial sovereignty disputed"
+        },
+        {
+          "start": 1648,
+          "end": 1871,
+          "label": "France"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1940,
+          "label": "France"
+        },
+        {
+          "start": 1940,
+          "end": 1944,
+          "label": "Nazi German occupation and de facto annexation"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "France"
+        }
+      ],
+      "note": "The republic followed the citizens’ revolt against episcopal power in 1234. French possession from 1552 was internationally confirmed in 1648. French constitutional changes and the months between military capture and treaties are condensed.",
+      "sources": [
+        {
+          "title": "Inspire Metz: Histoire de Metz",
+          "url": "https://www.tourisme-metz.com/fr/decouvrir-metz/histoire-metz"
+        },
+        {
+          "title": "Wikipedia: Metz",
+          "url": "https://en.wikipedia.org/wiki/Metz"
+        }
+      ],
+      "country": "France"
+    },
+    {
+      "name": "Nice",
+      "id": 2990440,
+      "aliases": [
+        "Nizza"
+      ],
+      "periods": [
+        {
+          "start": 1388,
+          "end": 1720,
+          "label": "House of Savoy"
+        },
+        {
+          "start": 1720,
+          "end": 1792,
+          "label": "Kingdom of Sardinia"
+        },
+        {
+          "start": 1792,
+          "end": 1814,
+          "label": "France"
+        },
+        {
+          "start": 1814,
+          "end": 1860,
+          "label": "Kingdom of Sardinia"
+        },
+        {
+          "start": 1860,
+          "end": 1940,
+          "label": "France"
+        },
+        {
+          "start": 1940,
+          "end": 1942,
+          "label": "Vichy France"
+        },
+        {
+          "start": 1942,
+          "end": 1943,
+          "label": "Italian occupation"
+        },
+        {
+          "start": 1943,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "France"
+        }
+      ],
+      "note": "The Savoyard period includes county and duchy status; short French occupations before 1792 and the Franco-Spanish occupation of 1744–1748 are omitted. Nice was ceded to France in 1860. Italian and German wartime occupations did not create lawful sovereignty.",
+      "sources": [
+        {
+          "title": "Wikipedia: Nice",
+          "url": "https://en.wikipedia.org/wiki/Nice"
+        }
+      ],
+      "country": "France"
+    },
+    {
+      "name": "Perpignan",
+      "id": 2987914,
+      "aliases": [
+        "Perpinyà",
+        "Perpinya"
+      ],
+      "periods": [
+        {
+          "start": 927,
+          "end": 1172,
+          "label": "County of Roussillon"
+        },
+        {
+          "start": 1172,
+          "end": 1276,
+          "label": "Crown of Aragon"
+        },
+        {
+          "start": 1276,
+          "end": 1344,
+          "label": "Kingdom of Majorca"
+        },
+        {
+          "start": 1344,
+          "end": 1463,
+          "label": "Crown of Aragon"
+        },
+        {
+          "start": 1463,
+          "end": 1493,
+          "label": "French occupation"
+        },
+        {
+          "start": 1493,
+          "end": 1642,
+          "label": "Crown of Aragon; later the Spanish monarchy"
+        },
+        {
+          "start": 1642,
+          "end": 1659,
+          "label": "French occupation"
+        },
+        {
+          "start": 1659,
+          "end": 1940,
+          "label": "France"
+        },
+        {
+          "start": 1940,
+          "end": 1942,
+          "label": "Vichy France"
+        },
+        {
+          "start": 1942,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "France"
+        }
+      ],
+      "note": "Perpignan is documented from 927. French capture in 1642 preceded formal cession by Spain in 1659. These are major periods, with French constitutional changes condensed; the brief revolt against French rule in the 1470s is not separately shown.",
+      "sources": [
+        {
+          "title": "Wikipedia: Perpignan",
+          "url": "https://en.wikipedia.org/wiki/Perpignan"
+        }
+      ],
+      "country": "France"
+    },
+    {
+      "name": "Avignon",
+      "id": 3035681,
+      "aliases": [
+        "Avinhon"
+      ],
+      "periods": [
+        {
+          "start": 1290,
+          "end": 1348,
+          "label": "Angevin counts of Provence"
+        },
+        {
+          "start": 1348,
+          "end": 1791,
+          "label": "Papal States"
+        },
+        {
+          "start": 1791,
+          "end": 1940,
+          "label": "France"
+        },
+        {
+          "start": 1940,
+          "end": 1942,
+          "label": "Vichy France"
+        },
+        {
+          "start": 1942,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "France"
+        }
+      ],
+      "note": "Avignon passed entirely to Charles II of Naples in 1290 and was bought by Pope Clement VI in 1348. Papal residence began earlier, in 1309. The papal period omits temporary French seizures, including 1663–1664, 1688–1689 and 1768–1769.",
+      "sources": [
+        {
+          "title": "Wikipedia: History of Avignon",
+          "url": "https://en.wikipedia.org/wiki/History_of_Avignon"
+        },
+        {
+          "title": "European memorial sites: Avignon",
+          "url": "https://www.gedenkorte-europa.eu/de_de/avignon.html"
+        }
+      ],
+      "country": "France"
+    },
+    {
+      "name": "Aachen",
+      "id": 3247449,
+      "aliases": [
+        "Aix-la-Chapelle",
+        "Aix la Chapelle"
+      ],
+      "periods": [
+        {
+          "start": 1166,
+          "end": 1794,
+          "label": "Free imperial city within the Holy Roman Empire"
+        },
+        {
+          "start": 1794,
+          "end": 1814,
+          "label": "French occupation, then French Republic and Empire"
+        },
+        {
+          "start": 1814,
+          "end": 1815,
+          "label": "Allied provisional administration"
+        },
+        {
+          "start": 1815,
+          "end": 1871,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1933,
+          "label": "Weimar Germany"
+        },
+        {
+          "start": 1933,
+          "end": 1944,
+          "label": "Nazi Germany"
+        },
+        {
+          "start": 1944,
+          "end": 1949,
+          "label": "Allied occupation: American, then British zone"
+        },
+        {
+          "start": 1949,
+          "end": 1990,
+          "label": "West Germany"
+        },
+        {
+          "start": 1990,
+          "end": null,
+          "label": "Reunified Germany"
+        }
+      ],
+      "note": "Aachen became an imperial city in 1166. The 1794 occupation became formal French annexation in 1801. French rule ended in 1814; Prussian incorporation followed in 1815. Belgian occupation after World War I is condensed into the Weimar period. American forces took the city in October 1944.",
+      "sources": [
+        {
+          "title": "Wikipedia: Aachen",
+          "url": "https://en.wikipedia.org/wiki/Aachen"
+        },
+        {
+          "title": "City of Aachen: Aachen 1944",
+          "url": "https://www.aachen.de/in-aachen-leben/kultur/geschichte/aachen-1944/"
+        },
+        {
+          "title": "Wikipedia: Geschichte der Stadt Aachen",
+          "url": "https://de.wikipedia.org/wiki/Geschichte_der_Stadt_Aachen"
+        }
+      ],
+      "country": "Germany"
+    },
+    {
+      "name": "Cologne",
+      "id": 2886242,
+      "aliases": [
+        "Köln",
+        "Koln",
+        "Koeln"
+      ],
+      "periods": [
+        {
+          "start": 1475,
+          "end": 1794,
+          "label": "Free imperial city within the Holy Roman Empire"
+        },
+        {
+          "start": 1794,
+          "end": 1814,
+          "label": "French occupation, then French Republic and Empire"
+        },
+        {
+          "start": 1814,
+          "end": 1815,
+          "label": "Allied provisional administration"
+        },
+        {
+          "start": 1815,
+          "end": 1871,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1933,
+          "label": "Weimar Germany"
+        },
+        {
+          "start": 1933,
+          "end": 1945,
+          "label": "Nazi Germany"
+        },
+        {
+          "start": 1945,
+          "end": 1949,
+          "label": "Allied occupation: American, then British zone"
+        },
+        {
+          "start": 1949,
+          "end": 1990,
+          "label": "West Germany"
+        },
+        {
+          "start": 1990,
+          "end": null,
+          "label": "Reunified Germany"
+        }
+      ],
+      "note": "Cologne had already gained practical independence from its archbishop in 1288; imperial-city status was formally confirmed in 1475. It was distinct from the neighbouring ecclesiastical electorate. British occupation in 1918–1926 is an overlay on the Weimar period.",
+      "sources": [
+        {
+          "title": "Wikipedia: Cologne",
+          "url": "https://en.wikipedia.org/wiki/Cologne"
+        },
+        {
+          "title": "Cologne museums: Cologne in the Second World War",
+          "url": "https://ausstellungen.museenkoeln.de/nsd_0508_partner/koeln.asp"
+        },
+        {
+          "title": "German Federal Agency for Civic Education: Cologne history",
+          "url": "https://www.bpb.de/shop/zeitschriften/apuz/239702/eine-ganz-normale-stadt-ein-blick-in-die-koelner-geschichte/"
+        }
+      ],
+      "country": "Germany"
+    },
+    {
+      "name": "Trier",
+      "id": 2821164,
+      "aliases": [
+        "Treves",
+        "Trèves"
+      ],
+      "periods": [
+        {
+          "start": 1309,
+          "end": 1794,
+          "label": "Electoral archbishopric within the Holy Roman Empire"
+        },
+        {
+          "start": 1794,
+          "end": 1814,
+          "label": "French occupation, then French Republic and Empire"
+        },
+        {
+          "start": 1814,
+          "end": 1815,
+          "label": "Prussian military control"
+        },
+        {
+          "start": 1815,
+          "end": 1871,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1933,
+          "label": "Weimar Germany"
+        },
+        {
+          "start": 1933,
+          "end": 1945,
+          "label": "Nazi Germany"
+        },
+        {
+          "start": 1945,
+          "end": 1949,
+          "label": "Allied occupation: American, then French zone"
+        },
+        {
+          "start": 1949,
+          "end": 1990,
+          "label": "West Germany"
+        },
+        {
+          "start": 1990,
+          "end": null,
+          "label": "Reunified Germany"
+        }
+      ],
+      "note": "This excerpt starts with the renewed acknowledgement of archiepiscopal authority in 1309, not the founding of Trier. Earlier Roman and Frankish eras, temporary early-modern occupations, and the Allied Rhineland occupation after World War I are omitted.",
+      "sources": [
+        {
+          "title": "Wikipedia: History of Trier",
+          "url": "https://en.wikipedia.org/wiki/History_of_Trier"
+        },
+        {
+          "title": "Wikipedia: Trier",
+          "url": "https://en.wikipedia.org/wiki/Trier"
+        }
+      ],
+      "country": "Germany"
+    },
+    {
+      "name": "Gdańsk",
+      "id": 3099434,
+      "aliases": [
+        "Gdansk",
+        "Danzig"
+      ],
+      "periods": [
+        {
+          "start": 1308,
+          "end": 1454,
+          "label": "State of the Teutonic Order"
+        },
+        {
+          "start": 1454,
+          "end": 1569,
+          "label": "Polish Crown; extensive municipal autonomy"
+        },
+        {
+          "start": 1569,
+          "end": 1793,
+          "label": "Polish–Lithuanian Commonwealth"
+        },
+        {
+          "start": 1793,
+          "end": 1807,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1807,
+          "end": 1814,
+          "label": "Free city under Napoleonic French protection"
+        },
+        {
+          "start": 1814,
+          "end": 1815,
+          "label": "Russian and Prussian military control"
+        },
+        {
+          "start": 1815,
+          "end": 1871,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1920,
+          "label": "Weimar Germany; postwar transition"
+        },
+        {
+          "start": 1920,
+          "end": 1939,
+          "label": "Free city under League of Nations protection"
+        },
+        {
+          "start": 1939,
+          "end": 1945,
+          "label": "Nazi German annexation"
+        },
+        {
+          "start": 1945,
+          "end": null,
+          "label": "Poland"
+        }
+      ],
+      "note": "Gdańsk’s Polish allegiance dates from 1454 and was confirmed by treaty in 1466; a short Polish takeover in 1410–1411 is omitted. The 1920–1939 Free City had its own government, with Poland managing much of its external affairs. Soviet capture and transfer to Polish administration both occurred in 1945.",
+      "sources": [
+        {
+          "title": "Wikipedia: Gdańsk",
+          "url": "https://en.wikipedia.org/wiki/Gda%C5%84sk"
+        }
+      ],
+      "country": "Poland"
+    },
+    {
+      "name": "Wrocław",
+      "id": 3081368,
+      "aliases": [
+        "Wroclaw",
+        "Breslau"
+      ],
+      "periods": [
+        {
+          "start": 1335,
+          "end": 1469,
+          "label": "Kingdom of Bohemia"
+        },
+        {
+          "start": 1469,
+          "end": 1490,
+          "label": "Matthias Corvinus, King of Hungary and claimant to Bohemia"
+        },
+        {
+          "start": 1490,
+          "end": 1526,
+          "label": "Jagiellonian Kingdom of Bohemia"
+        },
+        {
+          "start": 1526,
+          "end": 1742,
+          "label": "Habsburg monarchy; Bohemian Crown"
+        },
+        {
+          "start": 1742,
+          "end": 1871,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1933,
+          "label": "Weimar Germany"
+        },
+        {
+          "start": 1933,
+          "end": 1945,
+          "label": "Nazi Germany"
+        },
+        {
+          "start": 1945,
+          "end": null,
+          "label": "Poland"
+        }
+      ],
+      "note": "Wrocław passed to the Bohemian Crown after its Piast duke died in 1335. Habsburg Silesia was ceded to Prussia in 1742. Brief wartime occupations, including Napoleonic occupation, are omitted. Soviet capture and Polish administration followed in 1945.",
+      "sources": [
+        {
+          "title": "Wikipedia: Wrocław",
+          "url": "https://en.wikipedia.org/wiki/Wroc%C5%82aw"
+        }
+      ],
+      "country": "Poland"
+    },
+    {
+      "name": "Szczecin",
+      "id": 3083829,
+      "aliases": [
+        "Stettin"
+      ],
+      "periods": [
+        {
+          "start": 1630,
+          "end": 1720,
+          "label": "Swedish control; later Swedish Pomerania"
+        },
+        {
+          "start": 1720,
+          "end": 1806,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1806,
+          "end": 1813,
+          "label": "Napoleonic French occupation"
+        },
+        {
+          "start": 1813,
+          "end": 1871,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1933,
+          "label": "Weimar Germany"
+        },
+        {
+          "start": 1933,
+          "end": 1945,
+          "label": "Nazi Germany"
+        },
+        {
+          "start": 1945,
+          "end": null,
+          "label": "Poland"
+        }
+      ],
+      "note": "The Swedish military takeover in 1630 preceded the 1648 settlement. This abridgement omits the Brandenburg occupation of 1677–1679 and Prussian military occupation from 1713 before formal cession in 1720. Soviet capture and transfer to Poland both occurred in 1945.",
+      "sources": [
+        {
+          "title": "Wikipedia: Szczecin",
+          "url": "https://en.wikipedia.org/wiki/Szczecin"
+        }
+      ],
+      "country": "Poland"
+    },
+    {
+      "name": "Kaliningrad",
+      "id": 554234,
+      "aliases": [
+        "Königsberg",
+        "Konigsberg",
+        "Koenigsberg",
+        "Królewiec"
+      ],
+      "periods": [
+        {
+          "start": 1525,
+          "end": 1656,
+          "label": "Duchy of Prussia, under Polish suzerainty"
+        },
+        {
+          "start": 1656,
+          "end": 1656,
+          "label": "Duchy of Prussia, under Swedish suzerainty"
+        },
+        {
+          "start": 1656,
+          "end": 1701,
+          "label": "Sovereign Duchy of Prussia"
+        },
+        {
+          "start": 1701,
+          "end": 1758,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1758,
+          "end": 1762,
+          "label": "Russian imperial occupation"
+        },
+        {
+          "start": 1762,
+          "end": 1871,
+          "label": "Kingdom of Prussia"
+        },
+        {
+          "start": 1871,
+          "end": 1918,
+          "label": "German Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1933,
+          "label": "Weimar Germany"
+        },
+        {
+          "start": 1933,
+          "end": 1945,
+          "label": "Nazi Germany"
+        },
+        {
+          "start": 1945,
+          "end": 1991,
+          "label": "Soviet Union; Russian SFSR"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Russian Federation"
+        }
+      ],
+      "note": "The city was called Königsberg until 1946. Earlier Teutonic and Old Prussian history is omitted. Sweden recognised ducal sovereignty in November 1656 and Poland in 1657; the duchy remained in personal union with Brandenburg. Soviet troops captured the city in April 1945; the postwar settlement placed it under Soviet administration.",
+      "sources": [
+        {
+          "title": "Wikipedia: Kaliningrad",
+          "url": "https://en.wikipedia.org/wiki/Kaliningrad"
+        },
+        {
+          "title": "Wikipedia: Treaty of Labiau",
+          "url": "https://en.wikipedia.org/wiki/Treaty_of_Labiau"
+        }
+      ],
+      "country": "Russia"
+    },
+    {
+      "name": "Lviv",
+      "id": 702550,
+      "aliases": [
+        "Lwów",
+        "Lwow",
+        "Lvov",
+        "Lemberg"
+      ],
+      "periods": [
+        {
+          "start": 1387,
+          "end": 1569,
+          "label": "Kingdom of Poland"
+        },
+        {
+          "start": 1569,
+          "end": 1772,
+          "label": "Polish–Lithuanian Commonwealth"
+        },
+        {
+          "start": 1772,
+          "end": 1804,
+          "label": "Habsburg monarchy"
+        },
+        {
+          "start": 1804,
+          "end": 1867,
+          "label": "Austrian Empire"
+        },
+        {
+          "start": 1867,
+          "end": 1914,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1914,
+          "end": 1915,
+          "label": "Russian imperial occupation"
+        },
+        {
+          "start": 1915,
+          "end": 1918,
+          "label": "Austria-Hungary"
+        },
+        {
+          "start": 1918,
+          "end": 1939,
+          "label": "Second Polish Republic"
+        },
+        {
+          "start": 1939,
+          "end": 1941,
+          "label": "Soviet occupation and annexation"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": 1991,
+          "label": "Soviet Union; Ukrainian SSR"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Ukraine"
+        }
+      ],
+      "note": "This excerpt begins after the city’s return to Polish rule in 1387. The West Ukrainian People’s Republic claimed Lviv and held much of it briefly in November 1918 before Polish forces prevailed; that within-year struggle is condensed. The Swedish seizure of 1704 is also omitted.",
+      "sources": [
+        {
+          "title": "Wikipedia: Lviv",
+          "url": "https://en.wikipedia.org/wiki/Lviv"
+        }
+      ],
+      "country": "Ukraine"
+    },
+    {
+      "name": "Vilnius",
+      "id": 593116,
+      "aliases": [
+        "Vilna",
+        "Wilno"
+      ],
+      "periods": [
+        {
+          "start": 1795,
+          "end": 1915,
+          "label": "Russian Empire"
+        },
+        {
+          "start": 1915,
+          "end": 1918,
+          "label": "German military occupation"
+        },
+        {
+          "start": 1918,
+          "end": 1920,
+          "label": "Contested: Lithuanian, Polish and Soviet control"
+        },
+        {
+          "start": 1920,
+          "end": 1922,
+          "label": "Republic of Central Lithuania, backed by Poland"
+        },
+        {
+          "start": 1922,
+          "end": 1939,
+          "label": "Second Polish Republic"
+        },
+        {
+          "start": 1939,
+          "end": 1940,
+          "label": "Lithuania, following a brief Soviet occupation"
+        },
+        {
+          "start": 1940,
+          "end": 1941,
+          "label": "Soviet occupation and annexation"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": 1990,
+          "label": "Soviet occupation; Lithuanian SSR"
+        },
+        {
+          "start": 1990,
+          "end": null,
+          "label": "Restored Republic of Lithuania"
+        }
+      ],
+      "note": "This excerpt starts at the Third Partition. Vilnius changed hands repeatedly in 1918–1920 and briefly came under Soviet control before transfer to Lithuania in 1939. Lithuanian independence was restored in March 1990; Soviet forces attacked in January 1991 and Moscow recognised independence later that year.",
+      "sources": [
+        {
+          "title": "Wikipedia: History of Vilnius",
+          "url": "https://en.wikipedia.org/wiki/History_of_Vilnius"
+        }
+      ],
+      "country": "Lithuania"
+    },
+    {
+      "name": "Riga",
+      "id": 456172,
+      "aliases": [
+        "Rīga"
+      ],
+      "periods": [
+        {
+          "start": 1561,
+          "end": 1582,
+          "label": "Free imperial city"
+        },
+        {
+          "start": 1582,
+          "end": 1621,
+          "label": "Polish–Lithuanian Commonwealth"
+        },
+        {
+          "start": 1621,
+          "end": 1710,
+          "label": "Sweden"
+        },
+        {
+          "start": 1710,
+          "end": 1917,
+          "label": "Russian rule; Tsardom, then Empire"
+        },
+        {
+          "start": 1917,
+          "end": 1918,
+          "label": "German military occupation"
+        },
+        {
+          "start": 1918,
+          "end": 1920,
+          "label": "Latvian independence struggle; rival occupations"
+        },
+        {
+          "start": 1920,
+          "end": 1940,
+          "label": "Republic of Latvia"
+        },
+        {
+          "start": 1940,
+          "end": 1941,
+          "label": "Soviet occupation and annexation"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": 1991,
+          "label": "Soviet occupation; Latvian SSR"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Restored Republic of Latvia"
+        }
+      ],
+      "note": "Riga retained substantial urban autonomy under several rulers. The 1918–1920 row groups independence, Bolshevik control in early 1919 and subsequent German-backed and Latvian control. Restoration was declared in 1990 and completed in August 1991.",
+      "sources": [
+        {
+          "title": "Wikipedia: Riga",
+          "url": "https://en.wikipedia.org/wiki/Riga"
+        },
+        {
+          "title": "Latvian National Armed Forces: History",
+          "url": "https://www.mil.lv/en/about-us/history"
+        }
+      ],
+      "country": "Latvia"
+    },
+    {
+      "name": "Tallinn",
+      "id": 588409,
+      "aliases": [
+        "Reval"
+      ],
+      "periods": [
+        {
+          "start": 1346,
+          "end": 1561,
+          "label": "Teutonic Order; Livonian branch"
+        },
+        {
+          "start": 1561,
+          "end": 1710,
+          "label": "Sweden"
+        },
+        {
+          "start": 1710,
+          "end": 1918,
+          "label": "Russian rule; Tsardom, then Empire"
+        },
+        {
+          "start": 1918,
+          "end": 1918,
+          "label": "German military occupation"
+        },
+        {
+          "start": 1918,
+          "end": 1940,
+          "label": "Republic of Estonia"
+        },
+        {
+          "start": 1940,
+          "end": 1941,
+          "label": "Soviet occupation and annexation"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "Nazi German occupation"
+        },
+        {
+          "start": 1944,
+          "end": 1991,
+          "label": "Soviet occupation; Estonian SSR"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Restored Republic of Estonia"
+        }
+      ],
+      "note": "Tallinn, historically Reval, was sold by Denmark to the Teutonic Order in 1346. Estonia declared independence in February 1918; German occupation followed until November of that year. Sweden’s 1710 capitulation was confirmed by treaty in 1721.",
+      "sources": [
+        {
+          "title": "Wikipedia: Tallinn",
+          "url": "https://en.wikipedia.org/wiki/Tallinn"
+        }
+      ],
+      "country": "Estonia"
+    },
+    {
+      "name": "Helsinki",
+      "id": 658225,
+      "aliases": [
+        "Helsingfors"
+      ],
+      "periods": [
+        {
+          "start": 1550,
+          "end": 1713,
+          "label": "Kingdom of Sweden"
+        },
+        {
+          "start": 1713,
+          "end": 1721,
+          "label": "Russian occupation"
+        },
+        {
+          "start": 1721,
+          "end": 1742,
+          "label": "Kingdom of Sweden"
+        },
+        {
+          "start": 1742,
+          "end": 1743,
+          "label": "Russian occupation"
+        },
+        {
+          "start": 1743,
+          "end": 1808,
+          "label": "Kingdom of Sweden"
+        },
+        {
+          "start": 1808,
+          "end": 1809,
+          "label": "Russian military occupation"
+        },
+        {
+          "start": 1809,
+          "end": 1917,
+          "label": "Grand Duchy of Finland within the Russian Empire"
+        },
+        {
+          "start": 1917,
+          "end": null,
+          "label": "Independent Finland"
+        }
+      ],
+      "note": "Helsinki was founded under Swedish rule in 1550. Finland was formally ceded to Russia in 1809 after occupation in 1808. Independence came in 1917; brief Red control and German intervention during the Finnish Civil War in 1918 are not separate country periods.",
+      "sources": [
+        {
+          "title": "Wikipedia: Helsinki",
+          "url": "https://en.wikipedia.org/wiki/Helsinki"
+        },
+        {
+          "title": "City of Helsinki: The Great Northern War and the destruction of Helsinki",
+          "url": "https://historia.hel.fi/fi/kaannekohdat/1700-luku/suuri-pohjan-sota-ja-helsingin-tuho"
+        },
+        {
+          "title": "Valtaherrain Helsinki",
+          "url": "https://www.aatos.fi/Hki450v/valtaher.html"
+        }
+      ],
+      "country": "Finland"
+    },
+    {
+      "name": "Vyborg",
+      "id": 470546,
+      "aliases": [
+        "Viipuri",
+        "Viborg"
+      ],
+      "periods": [
+        {
+          "start": 1293,
+          "end": 1710,
+          "label": "Kingdom of Sweden"
+        },
+        {
+          "start": 1710,
+          "end": 1812,
+          "label": "Russian rule; Tsardom, then Empire"
+        },
+        {
+          "start": 1812,
+          "end": 1917,
+          "label": "Grand Duchy of Finland within the Russian Empire"
+        },
+        {
+          "start": 1917,
+          "end": 1940,
+          "label": "Independent Finland"
+        },
+        {
+          "start": 1940,
+          "end": 1941,
+          "label": "Soviet Union"
+        },
+        {
+          "start": 1941,
+          "end": 1944,
+          "label": "Finnish reconquest and administration"
+        },
+        {
+          "start": 1944,
+          "end": 1991,
+          "label": "Soviet Union"
+        },
+        {
+          "start": 1991,
+          "end": null,
+          "label": "Russian Federation"
+        }
+      ],
+      "note": "The Swedish castle was founded in 1293. Vyborg’s capture in 1710 was confirmed by treaty in 1721. Old Finland joined the autonomous grand duchy in 1812. The city was ceded after the Winter War, retaken by Finland in 1941, and captured again by Soviet forces in June 1944.",
+      "sources": [
+        {
+          "title": "Wikipedia: Vyborg",
+          "url": "https://en.wikipedia.org/wiki/Vyborg"
+        }
+      ],
+      "country": "Russia"
+    },
+    {
+      "name": "Turku",
+      "id": 633679,
+      "aliases": [
+        "Åbo",
+        "Abo"
+      ],
+      "periods": [
+        {
+          "start": 1229,
+          "end": 1713,
+          "label": "Kingdom of Sweden",
+          "approximate": true
+        },
+        {
+          "start": 1713,
+          "end": 1721,
+          "label": "Russian occupation"
+        },
+        {
+          "start": 1721,
+          "end": 1742,
+          "label": "Kingdom of Sweden"
+        },
+        {
+          "start": 1742,
+          "end": 1743,
+          "label": "Russian occupation"
+        },
+        {
+          "start": 1743,
+          "end": 1808,
+          "label": "Kingdom of Sweden"
+        },
+        {
+          "start": 1808,
+          "end": 1809,
+          "label": "Russian military occupation"
+        },
+        {
+          "start": 1809,
+          "end": 1917,
+          "label": "Grand Duchy of Finland within the Russian Empire"
+        },
+        {
+          "start": 1917,
+          "end": null,
+          "label": "Independent Finland"
+        }
+      ],
+      "note": "1229 is Turku’s traditional founding year rather than a precise date of Swedish conquest. The city developed in medieval Swedish Finland. The 1918 Finnish Civil War is not treated as a separate country period.",
+      "sources": [
+        {
+          "title": "Wikipedia: Turku",
+          "url": "https://en.wikipedia.org/wiki/Turku"
+        },
+        {
+          "title": "Port of Turku: 870-year history",
+          "url": "https://www.portofturku.fi/wp-content/uploads/2024/09/Port-of-Turku-870-year-history-book.pdf"
+        },
+        {
+          "title": "City of Turku: Garrison history",
+          "url": "https://kaupunkisuunnittelu.turku.fi/kaavoitus/15246-2018RakennushistoriallinenselvitysLPR-ArkkitehditOyID5541-Valmisteluehdotus.pdf"
+        }
+      ],
+      "country": "Finland"
+    },
+    {
+      "name": "Luxembourg",
+      "id": 2960316,
+      "aliases": [
+        "Luxembourg City",
+        "Luxemburg",
+        "Luxembourg-Ville",
+        "Lëtzebuerg"
+      ],
+      "periods": [
+        {
+          "start": 1684,
+          "end": 1698,
+          "label": "France"
+        },
+        {
+          "start": 1698,
+          "end": 1701,
+          "label": "Spanish Habsburg rule"
+        },
+        {
+          "start": 1701,
+          "end": 1715,
+          "label": "French control during the Spanish Succession War"
+        },
+        {
+          "start": 1715,
+          "end": 1795,
+          "label": "Austrian Habsburg rule"
+        },
+        {
+          "start": 1795,
+          "end": 1815,
+          "label": "France"
+        },
+        {
+          "start": 1815,
+          "end": 1867,
+          "label": "Sovereign grand duchy; Dutch personal union and Prussian garrison"
+        },
+        {
+          "start": 1867,
+          "end": 1890,
+          "label": "Neutral grand duchy in personal union with the Netherlands"
+        },
+        {
+          "start": 1890,
+          "end": 1914,
+          "label": "Independent grand duchy under its own dynasty"
+        },
+        {
+          "start": 1914,
+          "end": 1918,
+          "label": "German military occupation; local government retained"
+        },
+        {
+          "start": 1918,
+          "end": 1940,
+          "label": "Independent grand duchy"
+        },
+        {
+          "start": 1940,
+          "end": 1944,
+          "label": "Nazi German occupation and de facto annexation"
+        },
+        {
+          "start": 1944,
+          "end": null,
+          "label": "Independent grand duchy"
+        }
+      ],
+      "note": "Luxembourg’s 1697 treaty restoration to Spain was implemented in 1698. The Prussian garrison did not mean Prussian sovereignty; the grand duchy was in personal union with the Dutch king until 1890. French withdrawal in 1814 and the 1815 settlement are condensed.",
+      "sources": [
+        {
+          "title": "City of Luxembourg: History",
+          "url": "https://www.vdl.lu/en/city/a-glance/history"
+        },
+        {
+          "title": "Luxembourg government: 400 years of foreign sovereigns",
+          "url": "https://luxembourg.public.lu/en/society-and-culture/history/400-ans-occupation.html"
+        },
+        {
+          "title": "Luxembourg government: First World War",
+          "url": "https://luxembourg.public.lu/en/society-and-culture/history/premire-guerre-mondiale.html"
+        }
+      ],
+      "country": "Luxembourg"
+    },
+    {
+      "name": "Tunis",
+      "id": 2464470,
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1574,
+          "end": 1705,
+          "label": "Ottoman Empire — provincial regency"
+        },
+        {
+          "start": 1705,
+          "end": 1881,
+          "label": "Husainid beys — autonomous under Ottoman suzerainty"
+        },
+        {
+          "start": 1881,
+          "end": 1942,
+          "label": "French protectorate"
+        },
+        {
+          "start": 1942,
+          "end": 1943,
+          "label": "German and Italian military occupation"
+        },
+        {
+          "start": 1943,
+          "end": 1956,
+          "label": "French protectorate restored"
+        },
+        {
+          "start": 1956,
+          "end": 1957,
+          "label": "Independent Kingdom of Tunisia"
+        },
+        {
+          "start": 1957,
+          "end": null,
+          "label": "Republic of Tunisia"
+        }
+      ],
+      "note": "This selected timeline begins with the definitive Ottoman conquest in 1574. The beys retained substantial autonomy; French protection and Axis occupation were different forms of control.",
+      "sources": [
+        {
+          "title": "Museum With No Frontiers — Tunisia historical timeline",
+          "url": "https://islamicart.museumwnf.org/hcr_result.php?country=tn&end_date=1800&lng=en&start_date=1500"
+        },
+        {
+          "title": "US Holocaust Memorial Museum — Tunisia Campaign",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/tunisia-campaign"
+        },
+        {
+          "title": "Tunis",
+          "url": "https://en.wikipedia.org/wiki/Tunis"
+        },
+        {
+          "title": "Tunisian Ministry of Justice — Proclamation of the Republic",
+          "url": "https://www.justice.gov.tn/index.php?L=3&id=437"
+        }
+      ],
+      "country": "Tunisia"
+    },
+    {
+      "name": "Algiers",
+      "id": 2507480,
+      "aliases": [
+        "Alger"
+      ],
+      "periods": [
+        {
+          "start": 1518,
+          "end": 1671,
+          "label": "Ottoman regency",
+          "approximate": true
+        },
+        {
+          "start": 1671,
+          "end": 1830,
+          "label": "Dey-led regency — nominal Ottoman suzerainty"
+        },
+        {
+          "start": 1830,
+          "end": 1962,
+          "label": "French colonial rule"
+        },
+        {
+          "start": 1962,
+          "end": null,
+          "label": "Independent Algeria"
+        }
+      ],
+      "note": "Ottoman allegiance developed around 1518–1519. The regency later operated with considerable independence. France captured the city in 1830; the timeline groups the changing French regimes together.",
+      "sources": [
+        {
+          "title": "Algerian Ministry of Foreign Affairs — History of Algeria",
+          "url": "https://cgbrussels.mfa.gov.dz/discover-algeria-1/history-of-algeria"
+        },
+        {
+          "title": "Cambridge — A History of Algeria, chapter 1",
+          "url": "https://assets.cambridge.org/97805218/51640/excerpt/9780521851640_excerpt.pdf"
+        },
+        {
+          "title": "Algiers",
+          "url": "https://en.wikipedia.org/wiki/Algiers"
+        }
+      ],
+      "country": "Algeria"
+    },
+    {
+      "name": "Oran",
+      "id": 2485926,
+      "aliases": [
+        "Wahran"
+      ],
+      "periods": [
+        {
+          "start": 1509,
+          "end": 1708,
+          "label": "Spanish Crown"
+        },
+        {
+          "start": 1708,
+          "end": 1732,
+          "label": "Ottoman Algerian regency"
+        },
+        {
+          "start": 1732,
+          "end": 1792,
+          "label": "Spanish Crown"
+        },
+        {
+          "start": 1792,
+          "end": 1831,
+          "label": "Ottoman Algerian regency"
+        },
+        {
+          "start": 1831,
+          "end": 1962,
+          "label": "French colonial rule"
+        },
+        {
+          "start": 1962,
+          "end": null,
+          "label": "Independent Algeria"
+        }
+      ],
+      "note": "The Spanish withdrawal was agreed in 1791 and implemented in 1792. French troops occupied the city in 1831, a year after the invasion of Algiers.",
+      "sources": [
+        {
+          "title": "Spanish Army Museum — The conquest of Oran",
+          "url": "https://ejercito.defensa.gob.es/museo/HECHOS_HISTORICOS/HECHOS_HISTORICOS/06.05_junio_LA_CONQUISTA_DE_LA_CIUDAD_DE_ORAN.html"
+        },
+        {
+          "title": "Oran",
+          "url": "https://en.wikipedia.org/wiki/Oran"
+        }
+      ],
+      "country": "Algeria"
+    },
+    {
+      "name": "Tangier",
+      "id": 2530335,
+      "aliases": [
+        "Tanger",
+        "Tangiers"
+      ],
+      "periods": [
+        {
+          "start": 1471,
+          "end": 1580,
+          "label": "Kingdom of Portugal"
+        },
+        {
+          "start": 1580,
+          "end": 1640,
+          "label": "Portugal within the Iberian Union"
+        },
+        {
+          "start": 1640,
+          "end": 1661,
+          "label": "Kingdom of Portugal"
+        },
+        {
+          "start": 1661,
+          "end": 1684,
+          "label": "English Crown"
+        },
+        {
+          "start": 1684,
+          "end": 1925,
+          "label": "Moroccan sultanate"
+        },
+        {
+          "start": 1925,
+          "end": 1940,
+          "label": "International administration under Moroccan sovereignty"
+        },
+        {
+          "start": 1940,
+          "end": 1945,
+          "label": "Spanish military occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1956,
+          "label": "International administration restored"
+        },
+        {
+          "start": 1956,
+          "end": null,
+          "label": "Morocco"
+        }
+      ],
+      "note": "The English cession dates to 1661; the English garrison arrived in 1662. The international convention was signed in 1923, but its administration took effect in 1925. The Moroccan sultan retained formal sovereignty during the international regime.",
+      "sources": [
+        {
+          "title": "Archnet — Tangier architectural and historical context",
+          "url": "https://s3.amazonaws.com/media.archnet.org/system/publications/contents/10053/original/DTP102438.pdf"
+        },
+        {
+          "title": "French Diplomatic Archives — International Zone control committee",
+          "url": "https://archivesdiplomatiques.diplomatie.gouv.fr/ark%3A/14366/tfbnk73xwsj2"
+        },
+        {
+          "title": "Tangier International Zone",
+          "url": "https://en.wikipedia.org/wiki/Tangier_International_Zone"
+        }
+      ],
+      "country": "Morocco"
+    },
+    {
+      "name": "Ceuta",
+      "id": 6362987,
+      "aliases": [
+        "Sebta",
+        "Sabta"
+      ],
+      "periods": [
+        {
+          "start": 1415,
+          "end": 1580,
+          "label": "Kingdom of Portugal"
+        },
+        {
+          "start": 1580,
+          "end": 1640,
+          "label": "Portugal within the Iberian Union"
+        },
+        {
+          "start": 1640,
+          "end": 1995,
+          "label": "Spanish rule"
+        },
+        {
+          "start": 1995,
+          "end": null,
+          "label": "Autonomous city within Spain"
+        }
+      ],
+      "note": "The city stayed loyal to the Spanish king when Portugal broke from the Iberian Union in 1640; Portugal formally recognized Spanish sovereignty in 1668. The 1995 change concerns internal autonomy. Morocco disputes Spanish sovereignty.",
+      "sources": [
+        {
+          "title": "Ceuta Tourism — Our history",
+          "url": "https://turismodeceuta.com/ceuta/conoce-ceuta/nuestra-historia/"
+        },
+        {
+          "title": "Ceuta government — Statute of Autonomy",
+          "url": "https://www.ceuta.es/ceuta/la-institucion/estatuto-de-autonomia"
+        }
+      ],
+      "country": "Spain"
+    },
+    {
+      "name": "Macau",
+      "id": 1821274,
+      "aliases": [
+        "Macao",
+        "Aomen"
+      ],
+      "periods": [
+        {
+          "start": 1557,
+          "end": 1849,
+          "label": "Portuguese settlement under Chinese sovereignty"
+        },
+        {
+          "start": 1849,
+          "end": 1887,
+          "label": "Portuguese colonial control — sovereignty disputed"
+        },
+        {
+          "start": 1887,
+          "end": 1999,
+          "label": "Portuguese administration recognized by treaty"
+        },
+        {
+          "start": 1999,
+          "end": null,
+          "label": "Special administrative region of China"
+        }
+      ],
+      "note": "Portuguese residence began with Chinese permission, rather than an outright conquest. Portugal expelled Chinese officials and asserted exclusive control in 1849. The 1887 treaty recognized Portuguese occupation and government; China resumed sovereignty on 20 December 1999.",
+      "sources": [
+        {
+          "title": "Library of Congress — Macau cartographic images",
+          "url": "https://www.loc.gov/collections/general-maps/articles-and-essays/macau-cartographic-images/"
+        },
+        {
+          "title": "History of Macau",
+          "url": "https://en.wikipedia.org/wiki/History_of_Macau"
+        }
+      ],
+      "country": "Macao SAR China"
+    },
+    {
+      "name": "Hong Kong",
+      "id": 1819729,
+      "aliases": [
+        "Hongkong"
+      ],
+      "periods": [
+        {
+          "start": 1841,
+          "end": 1941,
+          "label": "British rule"
+        },
+        {
+          "start": 1941,
+          "end": 1945,
+          "label": "Japanese military occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1997,
+          "label": "British colonial rule restored"
+        },
+        {
+          "start": 1997,
+          "end": null,
+          "label": "Special administrative region of China"
+        }
+      ],
+      "note": "The opening date refers to British occupation of Hong Kong Island in 1841, formally ceded in 1842. Kowloon was added in 1860 and the New Territories leased in 1898; today's whole territory did not share a single transfer date.",
+      "sources": [
+        {
+          "title": "History of Hong Kong",
+          "url": "https://en.wikipedia.org/wiki/History_of_Hong_Kong"
+        },
+        {
+          "title": "British Hong Kong",
+          "url": "https://en.wikipedia.org/wiki/British_Hong_Kong"
+        }
+      ],
+      "country": "Hong Kong SAR China"
+    },
+    {
+      "name": "Singapore",
+      "id": 1880252,
+      "aliases": [
+        "Singapura"
+      ],
+      "periods": [
+        {
+          "start": 1819,
+          "end": 1824,
+          "label": "British trading post by agreement with Johor"
+        },
+        {
+          "start": 1824,
+          "end": 1867,
+          "label": "British East India Company / British Indian administration"
+        },
+        {
+          "start": 1867,
+          "end": 1942,
+          "label": "British Crown — Straits Settlements"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese military occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1946,
+          "label": "British military administration"
+        },
+        {
+          "start": 1946,
+          "end": 1959,
+          "label": "British Crown colony"
+        },
+        {
+          "start": 1959,
+          "end": 1963,
+          "label": "Self-governing state under British sovereignty"
+        },
+        {
+          "start": 1963,
+          "end": 1965,
+          "label": "Federation of Malaysia"
+        },
+        {
+          "start": 1965,
+          "end": null,
+          "label": "Independent republic"
+        }
+      ],
+      "note": "The 1819 agreement established a trading post; sovereignty was ceded in 1824. The island joined the Straits Settlements in 1826, gained internal self-government in 1959, and became independent on 9 August 1965.",
+      "sources": [
+        {
+          "title": "National University of Singapore — Historical periods and primary sources",
+          "url": "https://libguides.nus.edu.sg/Sgprimarysources"
+        },
+        {
+          "title": "Parliament of Singapore — Historical development",
+          "url": "https://www.parliament.gov.sg/history/historical-development"
+        },
+        {
+          "title": "The Singapore Story",
+          "url": "https://sg75.pa.gov.sg/the-singapore-story/"
+        }
+      ],
+      "country": "Singapore"
+    },
+    {
+      "name": "Malacca",
+      "id": 1734759,
+      "aliases": [
+        "Melaka",
+        "Malacca City"
+      ],
+      "periods": [
+        {
+          "start": 1511,
+          "end": 1641,
+          "label": "Portuguese Empire"
+        },
+        {
+          "start": 1641,
+          "end": 1795,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1795,
+          "end": 1818,
+          "label": "British occupation during the French wars"
+        },
+        {
+          "start": 1818,
+          "end": 1825,
+          "label": "Dutch rule restored"
+        },
+        {
+          "start": 1825,
+          "end": 1942,
+          "label": "British colonial rule"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese military occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1946,
+          "label": "British military administration"
+        },
+        {
+          "start": 1946,
+          "end": 1948,
+          "label": "British-controlled Malayan Union"
+        },
+        {
+          "start": 1948,
+          "end": 1957,
+          "label": "Federation of Malaya under British rule"
+        },
+        {
+          "start": 1957,
+          "end": 1963,
+          "label": "Independent Federation of Malaya"
+        },
+        {
+          "start": 1963,
+          "end": null,
+          "label": "Malaysia"
+        }
+      ],
+      "note": "This selected timeline begins with the Portuguese conquest. The Anglo-Dutch Treaty was signed in 1824 and the final British transfer occurred in 1825. The settlement joined the Straits Settlements in 1826.",
+      "sources": [
+        {
+          "title": "Malacca City",
+          "url": "https://en.wikipedia.org/wiki/Malacca_City"
+        },
+        {
+          "title": "British Malaya",
+          "url": "https://en.wikipedia.org/wiki/British_Malaya"
+        },
+        {
+          "title": "Royal Malaysia Police — Historical timeline",
+          "url": "https://rmp2u.rmp.gov.my/content/garis-masa-sejarah?lang=en"
+        }
+      ],
+      "country": "Malaysia"
+    },
+    {
+      "name": "Colombo",
+      "id": 1248991,
+      "aliases": [],
+      "periods": [
+        {
+          "start": 1517,
+          "end": 1656,
+          "label": "Portuguese fortified settlement"
+        },
+        {
+          "start": 1656,
+          "end": 1796,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1796,
+          "end": 1948,
+          "label": "British colonial rule"
+        },
+        {
+          "start": 1948,
+          "end": 1972,
+          "label": "Independent Dominion of Ceylon"
+        },
+        {
+          "start": 1972,
+          "end": null,
+          "label": "Republic of Sri Lanka"
+        }
+      ],
+      "note": "The opening date is the establishment of the Portuguese fort, not the conquest of the entire island. The Dutch captured the city in 1656, the British in 1796. Independence came in 1948 and republican status in 1972.",
+      "sources": [
+        {
+          "title": "Colombo",
+          "url": "https://en.wikipedia.org/wiki/Colombo"
+        },
+        {
+          "title": "Sri Lanka",
+          "url": "https://en.wikipedia.org/wiki/Sri_Lanka"
+        }
+      ],
+      "country": "Sri Lanka"
+    },
+    {
+      "name": "Puducherry",
+      "id": 1259425,
+      "aliases": [
+        "Pondicherry"
+      ],
+      "periods": [
+        {
+          "start": 1674,
+          "end": 1693,
+          "label": "French colonial settlement"
+        },
+        {
+          "start": 1693,
+          "end": 1699,
+          "label": "Dutch occupation"
+        },
+        {
+          "start": 1699,
+          "end": 1761,
+          "label": "French rule restored"
+        },
+        {
+          "start": 1761,
+          "end": 1765,
+          "label": "British occupation"
+        },
+        {
+          "start": 1765,
+          "end": 1778,
+          "label": "French rule restored"
+        },
+        {
+          "start": 1778,
+          "end": 1785,
+          "label": "British occupation"
+        },
+        {
+          "start": 1785,
+          "end": 1793,
+          "label": "French rule restored"
+        },
+        {
+          "start": 1793,
+          "end": 1816,
+          "label": "British occupation"
+        },
+        {
+          "start": 1816,
+          "end": 1954,
+          "label": "French colonial rule restored"
+        },
+        {
+          "start": 1954,
+          "end": 1962,
+          "label": "Indian administration — legal transfer pending"
+        },
+        {
+          "start": 1962,
+          "end": null,
+          "label": "India"
+        }
+      ],
+      "note": "The timeline uses actual restorations rather than the earlier treaty dates. British occupation from 1793 continued until 1816 despite the attempted restoration after the Peace of Amiens. De facto transfer to India occurred in 1954; legal transfer followed in 1962.",
+      "sources": [
+        {
+          "title": "Puducherry government — History",
+          "url": "https://py.gov.in/history"
+        },
+        {
+          "title": "Puducherry Gazetteer — The modern period",
+          "url": "https://statistics.py.gov.in/sites/default/files/ii-iii-the-modern-period.pdf"
+        },
+        {
+          "title": "Imperial Gazetteer of India, volume 20",
+          "url": "https://library.bjp.org/jspui/bitstream/123456789/1890/1/The%20Imperial%20gazetteer%20%20of%20India%20Vol-20%20%28Pardi%20to%20Pusad%29.pdf"
+        },
+        {
+          "title": "History of Puducherry",
+          "url": "https://en.wikipedia.org/wiki/History_of_Puducherry"
+        }
+      ],
+      "country": "India"
+    },
+    {
+      "name": "Manila",
+      "id": 1701668,
+      "aliases": [
+        "Maynila"
+      ],
+      "periods": [
+        {
+          "start": 1571,
+          "end": 1762,
+          "label": "Spanish Empire"
+        },
+        {
+          "start": 1762,
+          "end": 1764,
+          "label": "British military occupation"
+        },
+        {
+          "start": 1764,
+          "end": 1898,
+          "label": "Spanish Empire restored"
+        },
+        {
+          "start": 1898,
+          "end": 1935,
+          "label": "United States colonial rule"
+        },
+        {
+          "start": 1935,
+          "end": 1942,
+          "label": "Self-governing Philippine Commonwealth under US sovereignty"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese military occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1946,
+          "label": "Philippine Commonwealth restored under US sovereignty"
+        },
+        {
+          "start": 1946,
+          "end": null,
+          "label": "Independent Republic of the Philippines"
+        }
+      ],
+      "note": "The British occupation controlled the city and nearby Cavite, not the whole Philippines. The US captured Manila in August 1898. The Japanese occupation began in January 1942; liberation followed in 1945.",
+      "sources": [
+        {
+          "title": "History of Manila",
+          "url": "https://en.wikipedia.org/wiki/History_of_Manila"
+        },
+        {
+          "title": "Manila",
+          "url": "https://en.wikipedia.org/wiki/Manila"
+        }
+      ],
+      "country": "Philippines"
+    },
+    {
+      "name": "Jakarta",
+      "id": 1642911,
+      "aliases": [
+        "Djakarta",
+        "Batavia",
+        "Jayakarta"
+      ],
+      "periods": [
+        {
+          "start": 1527,
+          "end": 1619,
+          "label": "Banten Sultanate"
+        },
+        {
+          "start": 1619,
+          "end": 1800,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1800,
+          "end": 1811,
+          "label": "Dutch, then French imperial administration"
+        },
+        {
+          "start": 1811,
+          "end": 1816,
+          "label": "British occupation"
+        },
+        {
+          "start": 1816,
+          "end": 1942,
+          "label": "Dutch East Indies"
+        },
+        {
+          "start": 1942,
+          "end": 1945,
+          "label": "Japanese military occupation"
+        },
+        {
+          "start": 1945,
+          "end": 1949,
+          "label": "Contested: Indonesian republic and Allied/Dutch occupation"
+        },
+        {
+          "start": 1949,
+          "end": null,
+          "label": "Indonesia"
+        }
+      ],
+      "note": "The city developed from the earlier port of Sunda Kelapa. Indonesia declared independence here in 1945, but Allied and Dutch forces reoccupied the city; Dutch recognition of Indonesian sovereignty came in December 1949.",
+      "sources": [
+        {
+          "title": "History of Jakarta",
+          "url": "https://en.wikipedia.org/wiki/History_of_Jakarta"
+        },
+        {
+          "title": "Invasion of Java (1811)",
+          "url": "https://en.wikipedia.org/wiki/Invasion_of_Java_(1811)"
+        }
+      ],
+      "country": "Indonesia"
+    },
+    {
+      "name": "Cape Town",
+      "id": 3369157,
+      "aliases": [
+        "Kaapstad"
+      ],
+      "periods": [
+        {
+          "start": 1652,
+          "end": 1795,
+          "label": "Dutch East India Company"
+        },
+        {
+          "start": 1795,
+          "end": 1803,
+          "label": "British occupation"
+        },
+        {
+          "start": 1803,
+          "end": 1806,
+          "label": "Batavian Republic"
+        },
+        {
+          "start": 1806,
+          "end": 1910,
+          "label": "British colonial rule"
+        },
+        {
+          "start": 1910,
+          "end": 1961,
+          "label": "Union of South Africa"
+        },
+        {
+          "start": 1961,
+          "end": null,
+          "label": "Republic of South Africa"
+        }
+      ],
+      "note": "The timeline begins with the Dutch colonial settlement, not the area's earlier Khoekhoe communities. The Union was initially a British dominion and became sovereign incrementally. South Africa became a republic in 1961; apartheid ended with democratic elections in 1994.",
+      "sources": [
+        {
+          "title": "History of Cape Town",
+          "url": "https://en.wikipedia.org/wiki/History_of_Cape_Town"
+        },
+        {
+          "title": "South African History Online — English settlement",
+          "url": "https://sahistory.org.za/article/english-settlement-south-africa"
+        },
+        {
+          "title": "South African History Online — Cape Town timeline",
+          "url": "https://sahistory.org.za/article/cape-town-timeline-1300-1997?id=2"
+        }
+      ],
+      "country": "South Africa"
+    },
+    {
+      "name": "Havana",
+      "id": 3553478,
+      "aliases": [
+        "La Habana",
+        "Habana"
+      ],
+      "periods": [
+        {
+          "start": 1519,
+          "end": 1762,
+          "label": "Spanish Empire"
+        },
+        {
+          "start": 1762,
+          "end": 1763,
+          "label": "British occupation"
+        },
+        {
+          "start": 1763,
+          "end": 1899,
+          "label": "Spanish Empire restored"
+        },
+        {
+          "start": 1899,
+          "end": 1902,
+          "label": "United States military occupation"
+        },
+        {
+          "start": 1902,
+          "end": 1906,
+          "label": "Republic of Cuba"
+        },
+        {
+          "start": 1906,
+          "end": 1909,
+          "label": "United States provisional occupation government"
+        },
+        {
+          "start": 1909,
+          "end": null,
+          "label": "Republic of Cuba"
+        }
+      ],
+      "note": "The opening date refers to Havana's present site. Spanish administration ended on 1 January 1899. The 1959 revolution changed Cuba's government but did not transfer the city to another sovereign state.",
+      "sources": [
+        {
+          "title": "Harvard ReVista — Highlights of Cuban colonial history",
+          "url": "https://revista.drclas.harvard.edu/highlights-of-cuban-colonial-history/"
+        },
+        {
+          "title": "FIU — Chronology of US–Cuba relations",
+          "url": "https://ics.fiu.edu/us-cuba-relations/chronology-of-us-cuba-relations/"
+        },
+        {
+          "title": "US State Department — Cuba",
+          "url": "https://history.state.gov/countries/cuba"
+        },
+        {
+          "title": "US Census — 1899 report on Cuba",
+          "url": "https://www2.census.gov/library/publications/decennial/island-areas/1899/1899-census-cuba.pdf"
+        }
+      ],
+      "country": "Cuba"
+    },
+    {
+      "name": "New Orleans",
+      "id": 4335045,
+      "aliases": [
+        "Nouvelle-Orléans",
+        "Nouvelle Orleans"
+      ],
+      "periods": [
+        {
+          "start": 1718,
+          "end": 1762,
+          "label": "French colonial rule"
+        },
+        {
+          "start": 1762,
+          "end": 1769,
+          "label": "Spanish sovereignty; transitional French local administration"
+        },
+        {
+          "start": 1769,
+          "end": 1803,
+          "label": "Spanish colonial administration"
+        },
+        {
+          "start": 1803,
+          "end": 1803,
+          "label": "French administration — 20 days"
+        },
+        {
+          "start": 1803,
+          "end": 1861,
+          "label": "United States"
+        },
+        {
+          "start": 1861,
+          "end": 1862,
+          "label": "Confederate control"
+        },
+        {
+          "start": 1862,
+          "end": null,
+          "label": "United States"
+        }
+      ],
+      "note": "Spain received the territory by the 1762 treaty; its first governor arrived in 1766 and a revolt expelled him in 1768. Spanish institutions were established in 1769. France administered the city from 30 November to 20 December 1803 before the US handover. Union troops captured it in 1862.",
+      "sources": [
+        {
+          "title": "Library of Congress — Louisiana as a Spanish colony",
+          "url": "https://www.loc.gov/collections/louisiana-european-explorations-and-the-louisiana-purchase/articles-and-essays/louisiana-as-a-spanish-colony/"
+        },
+        {
+          "title": "Law Library of Louisiana — Colonial law",
+          "url": "https://lasc.libguides.com/ColonialLawinNOLA"
+        },
+        {
+          "title": "National Park Service — Louisiana officially transferred",
+          "url": "https://www.nps.gov/articles/000/louisiana-territory-officially-transferred.htm"
+        },
+        {
+          "title": "Port of New Orleans — History",
+          "url": "https://portnola.com/info/port-101/history"
+        }
+      ],
+      "country": "United States"
+    }
+  ]
+}

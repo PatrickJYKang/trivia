@@ -1,0 +1,20 @@
+.history-prompt{margin:0;padding:0 28px 20px;color:var(--muted);font-size:14px}
+#load-status{padding:32px 28px;border-block:1px solid var(--line);background:#f8f9fb;color:var(--muted);font-size:14px;display:flex;align-items:center;gap:16px}
+#retry{padding:8px 12px;background:white;border:1px solid #cbd0d6;border-radius:4px}
+#timeline-panel{border-block:1px solid var(--line)}
+.timeline-heading{display:grid;grid-template-columns:170px 1fr;gap:24px;padding:11px 28px;background:#f8f9fb;border-bottom:1px solid var(--line);font-size:10px;letter-spacing:1.1px;text-transform:uppercase;color:var(--muted)}
+#timeline{list-style:none;padding:6px 28px;margin:0}
+#timeline li{display:grid;grid-template-columns:170px 1fr;gap:24px;min-height:42px;align-items:stretch}
+.period-dates{font:12px/1.5 'SFMono-Regular',Consolas,monospace;color:#69737e;padding:11px 0}
+.period-control{position:relative;font-size:14px;line-height:1.5;border-left:1px solid #d8e0ee;padding:10px 0 10px 21px}
+.period-control:before{content:'';position:absolute;left:-4px;top:17px;width:7px;height:7px;border-radius:50%;background:#2853dd;border:2px solid #fff;box-shadow:0 0 0 1px #b4c2e4}
+#timeline li:last-child .period-control{font-weight:600}
+.timeline-note{margin:0;padding:11px 28px;background:#fafbfc;border-top:1px solid #edf0f3;font-size:10px;line-height:1.5;color:var(--muted)}
+#past-guesses{display:flex;flex-wrap:wrap;gap:7px;list-style:none;margin:15px 0 0;padding:0}
+#past-guesses li{font-size:12px;padding:6px 9px;border:1px solid var(--line);border-radius:3px;background:#f5f6f7;color:#66707a}
+#past-guesses .correct{background:#eef7f0;border-color:#b4d2bf;color:#28593b}
+#history-context{border-top:1px solid var(--line);margin-top:20px;padding-top:15px}
+#history-note{font-size:12px;line-height:1.7;color:var(--muted);margin:0 0 10px;max-width:78ch}
+#sources{display:flex;gap:8px 18px;flex-wrap:wrap;font-size:12px;line-height:1.5}
+#sources a{color:#2853dd;text-underline-offset:3px;overflow-wrap:anywhere}
+@media(max-width:600px){.history-prompt{padding:0 18px 16px;font-size:13px}.timeline-heading{padding:10px 16px;grid-template-columns:105px 1fr;gap:10px}#timeline{padding:6px 16px}#timeline li{grid-template-columns:105px 1fr;gap:10px}.period-dates{font-size:10px;padding:12px 0;overflow-wrap:anywhere}.period-control{font-size:12px;padding-left:14px}.timeline-note{padding:10px 16px}.game-links{gap:12px}#load-status{padding:24px 16px}.eyebrow{font-size:10px;letter-spacing:1px}#history-context{margin-top:16px}}
