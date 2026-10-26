@@ -1,16 +1,16 @@
 import {cities} from './cities.js';
 import {createIndex,attachCitySearch,searchCities} from './city-search.js';
-import {HistoryGame,formatPeriod} from './history-model.js';
+import {HistoryGame} from './history-model.js';
 
 const $=id=>document.getElementById(id);
 let game,index=[],byId=new Map(),search,loading=false;
 
 function renderTimeline(){
   const timeline=$('timeline');timeline.replaceChildren();
-  for(const period of game.current.periods){
+  for(const period of game.snapshot().periods){
     const row=document.createElement('li'),dates=document.createElement('span'),control=document.createElement('span');
-    dates.className='period-dates';dates.textContent=formatPeriod(period);
-    control.className='period-control';control.textContent=period.label;
+    dates.className='period-dates';dates.textContent=period.dates;
+    control.className='period-control';control.textContent=period.control;
     row.append(dates,control);timeline.append(row);
   }
 }
@@ -18,15 +18,23 @@ function render(){
   const ready=!!game?.current,done=ready&&game.done;
   $('guess').disabled=!ready||done;$('submit').disabled=!ready||done||!search?.selected;
   $('give-up').disabled=!ready||done;$('play').hidden=done;$('result').hidden=!done;$('history-context').hidden=!done;
+  $('reveal-next').hidden=!game?.snapshot().canReveal;
   $('round').textContent=String(game?.round||1).padStart(2,'0');$('attempts').textContent=game?.guesses.length??0;
   const past=$('past-guesses');past.replaceChildren();past.hidden=!game?.guesses.length;
   for(const city of game?.guesses??[]){const li=document.createElement('li');li.textContent=city.name;li.title=city.country;if(city.id===game.current.id)li.className='correct';past.append(li);}
 }
 function state(){return game?.snapshot()??{ready:false};}
+function revealNext(){
+  if(!game)throw Error('Wait for histories to load.');
+  game.revealNext();renderTimeline();render();
+  $('reveal-status').textContent=`${game.revealed} periods revealed${game.snapshot().canReveal?'.':'. Full timeline revealed.'}`;
+  $('guess').focus({preventScroll:true});
+  return state();
+}
 function next(){
   if(!game)throw Error('Wait for histories to load.');
   game.next();search.clear();$('answer').textContent='';$('history-note').textContent='';$('sources').replaceChildren();
-  $('feedback').textContent='Unlimited guesses.';renderTimeline();render();
+  $('feedback').textContent='Unlimited guesses.';$('reveal-status').textContent='';renderTimeline();render();
   return state();
 }
 function finish(){
@@ -36,7 +44,7 @@ function finish(){
   $('history-note').textContent=city.note;
   const sources=$('sources');sources.replaceChildren();
   for(const source of city.sources){const link=document.createElement('a');link.href=source.url;link.textContent=source.title;link.target='_blank';link.rel='noreferrer';sources.append(link);}
-  render();$('next').focus();
+  renderTimeline();render();$('next').focus();
 }
 function guess(id){
   const city=Number.isInteger(id)?byId.get(id):null;
@@ -49,6 +57,7 @@ function guess(id){
 function giveUp(){if(!game)throw Error('Wait for histories to load.');game.giveUp();finish();return state();}
 $('guess-form').addEventListener('submit',event=>{event.preventDefault();if(search?.selected)guess(search.selected.id);});
 $('give-up').addEventListener('click',giveUp);
+$('reveal-next').addEventListener('click',revealNext);
 $('next').addEventListener('click',()=>{next();$('game-title').scrollIntoView({block:'start'});$('guess').focus({preventScroll:true});});
 $('retry').addEventListener('click',init);
 
@@ -72,7 +81,8 @@ if(typeof document.modelContext?.registerTool==='function'){
   const lifecycle=new AbortController();window.addEventListener('pagehide',()=>lifecycle.abort(),{once:true});
   const empty={type:'object',properties:{},additionalProperties:false};
   const tools=[
-    {name:'read_city_history',description:'Read the political-control timeline and current guesses. The answer and sources appear only after the round ends.',inputSchema:empty,annotations:{readOnlyHint:true},execute:state},
+    {name:'read_city_history',description:'Read the revealed political-control periods and current guesses. The full timeline, answer and sources appear after the round ends.',inputSchema:empty,annotations:{readOnlyHint:true},execute:state},
+    {name:'reveal_next_history_owner',description:'Reveal the next period of political control. Does not consume a guess or change points.',inputSchema:empty,execute:revealNext},
     {name:'search_history_cities',description:'Search city names and historical aliases for a city ID to guess.',inputSchema:{type:'object',properties:{query:{type:'string',minLength:2}},required:['query'],additionalProperties:false},annotations:{readOnlyHint:true},execute:input=>{if(typeof input?.query!=='string'||input.query.trim().length<2)throw Error('Enter at least two characters.');return searchCities(index,input.query).map(({id,name,country})=>({id,name,country}));}},
     {name:'guess_history_city',description:'Guess the city from its history using a GeoNames city ID.',inputSchema:{type:'object',properties:{cityId:{type:'integer'}},required:['cityId'],additionalProperties:false},execute:input=>guess(input?.cityId)},
     {name:'give_up_city_history',description:'End the round and reveal the city, explanatory note and sources.',inputSchema:empty,execute:giveUp},

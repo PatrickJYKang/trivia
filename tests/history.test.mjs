@@ -47,8 +47,8 @@ test('dates handle BC, AD, approximate and same-year transfers',()=>{
 
 test('answer and sources stay hidden until completion; wrong and duplicate guesses are handled',()=>{
   const game=new HistoryGame(entries,()=>.5);game.next();
-  const snapshot=game.snapshot();assert.equal(snapshot.answer,undefined);assert.equal(snapshot.periods.length,game.current.periods.length);
-  assert.deepEqual(Object.keys(snapshot).sort(),['done','guesses','periods','poolSize','round','won']);
+  const snapshot=game.snapshot();assert.equal(snapshot.answer,undefined);assert.equal(snapshot.periods.length,1);
+  assert.deepEqual(Object.keys(snapshot).sort(),['canReveal','done','guesses','periods','poolSize','round','won']);
   const wrong=entries.filter(c=>c.id!==game.current.id).slice(0,7);
   for(const city of wrong)assert.equal(game.guess(city),true);
   assert.equal(game.guess(wrong[0]),false);assert.equal(game.guesses.length,7);assert.equal(game.done,false);
@@ -68,4 +68,38 @@ test('deck avoids repetitions until exhausted and avoids a boundary repeat',()=>
   }
   game.next();assert.notEqual(game.current.id,previous);assert.equal(game.round,entries.length+1);
   const single=new HistoryGame([entries[0]]);single.next();single.giveUp();single.next();assert.equal(single.current.id,entries[0].id);
+});
+
+
+test('owners reveal one by one independently of guesses, with full history on completion and reset next round',()=>{
+  const game=new HistoryGame(entries,()=>.5);
+  assert.throws(()=>game.revealNext());
+  game.next();
+  const periods=game.current.periods;
+  assert.deepEqual(game.snapshot().periods,[{dates:formatPeriod(periods[0]),control:periods[0].label}]);
+  const wrong=entries.find(c=>c.id!==game.current.id);
+  game.guess(wrong);
+  assert.equal(game.snapshot().periods.length,1);
+  for(let visible=2;visible<=periods.length;visible++){
+    assert.equal(game.snapshot().canReveal,true);
+    const state=game.revealNext();
+    assert.equal(state.periods.length,visible);
+    assert.equal(state.periods.at(-1).control,periods[visible-1].label);
+    assert.equal(state.guesses.length,1);
+    assert.equal(state.answer,undefined);
+    assert.equal(state.done,false);
+  }
+  assert.equal(game.snapshot().canReveal,false);
+  assert.equal(game.revealNext().periods.length,periods.length);
+  game.guess(game.current);
+  assert.equal(game.won,true);
+  assert.throws(()=>game.revealNext());
+  game.next();
+  assert.equal(game.snapshot().periods.length,1);
+  assert.equal(game.guesses.length,0);
+  game.giveUp();
+  assert.equal(game.snapshot().periods.length,game.current.periods.length);
+  assert.equal(game.snapshot().canReveal,false);
+  game.next();game.guess(game.current);
+  assert.equal(game.snapshot().periods.length,game.current.periods.length);
 });

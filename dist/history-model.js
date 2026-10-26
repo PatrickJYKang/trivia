@@ -26,7 +26,12 @@ export class HistoryGame {
       this.deck=shuffle(this.entries,this.random);
       if(this.deck.length>1&&this.deck.at(-1).id===previous)[this.deck[0],this.deck[this.deck.length-1]]=[this.deck.at(-1),this.deck[0]];
     }
-    this.current=this.deck.pop();this.guesses=[];this.done=false;this.won=false;this.round++;
+    this.current=this.deck.pop();this.guesses=[];this.done=false;this.won=false;this.revealed=1;this.round++;
+    return this.snapshot();
+  }
+  revealNext() {
+    if(!this.current||this.done)throw Error('Wait for an active round.');
+    if(this.revealed<this.current.periods.length)this.revealed++;
     return this.snapshot();
   }
   guess(city) {
@@ -45,7 +50,8 @@ export class HistoryGame {
   snapshot() {
     return {round:this.round,poolSize:this.entries.length,done:this.done??false,won:this.won??false,
       guesses:(this.guesses??[]).map(c=>({...c})),
-      periods:this.current?.periods.map(p=>({dates:formatPeriod(p),control:p.label}))??[],
+      canReveal:!!this.current&&!this.done&&this.revealed<this.current.periods.length,
+      periods:this.current?.periods.slice(0,this.done?undefined:this.revealed).map(p=>({dates:formatPeriod(p),control:p.label}))??[],
       ...(this.done?{answer:{id:this.current.id,name:this.current.name,country:this.current.country,note:this.current.note,sources:this.current.sources}}:{})};
   }
 }

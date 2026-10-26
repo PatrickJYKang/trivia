@@ -9,6 +9,10 @@
 .period-control{position:relative;font-size:14px;line-height:1.5;border-left:1px solid #d8e0ee;padding:10px 0 10px 21px}
 .period-control:before{content:'';position:absolute;left:-4px;top:17px;width:7px;height:7px;border-radius:50%;background:#2853dd;border:2px solid #fff;box-shadow:0 0 0 1px #b4c2e4}
 #timeline li:last-child .period-control{font-weight:600}
+.timeline-reveal{padding:0 28px}
+#reveal-next{margin:6px 0 16px;padding:9px 13px;border:1px solid #cbd0d6;border-radius:4px;background:#fff;color:var(--ink);font-size:12px}
+#reveal-next:hover{background:#f3f5f8}
+@media(max-width:600px){.timeline-reveal{padding:0 16px}}
 .timeline-note{margin:0;padding:11px 28px;background:#fafbfc;border-top:1px solid #edf0f3;font-size:10px;line-height:1.5;color:var(--muted)}
 #past-guesses{display:flex;flex-wrap:wrap;gap:7px;list-style:none;margin:15px 0 0;padding:0}
 #past-guesses li{font-size:12px;padding:6px 9px;border:1px solid var(--line);border-radius:3px;background:#f5f6f7;color:#66707a}
