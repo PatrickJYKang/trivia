@@ -23,10 +23,10 @@ function render(){
     if(side.belligerents.length!==1||side.belligerents[0].toLocaleLowerCase('en')!==side.name.toLocaleLowerCase('en'))button.append(belligerents);
     if(chosen){const status=document.createElement('span');status.className='side-status';status.textContent=[i===s.battle.winner?'Winner':null,i===s.picked?'Your pick':null].filter(Boolean).join(' · ');if(status.textContent)button.append(status);}
     if(finished){
-      const roster=document.createElement('details');roster.className='side-commanders';
-      roster.open=!!s.commanderAnswer?.skipped;
-      const summary=document.createElement('summary');summary.textContent=`Commanders (${side.commanders.length})`;roster.append(summary);
-      for(const person of side.commanders){const row=document.createElement('span');row.textContent=person;if(s.commanderAnswer?.name===person&&s.commanderAnswer.side===i)row.className='matched';roster.append(row);}
+      const roster=document.createElement('section');roster.className='side-commanders';roster.setAttribute('aria-label',`${side.name} commanders`);
+      const heading=document.createElement('h4');heading.textContent=`Commanders (${side.commanders.length})`;heading.tabIndex=-1;
+      const list=document.createElement('ul');roster.append(heading,list);
+      for(const person of side.commanders){const row=document.createElement('li');row.textContent=person;if(s.commanderAnswer?.name===person&&s.commanderAnswer.side===i)row.className='matched';list.append(row);}
       button.append(roster);
     }
     if(!finished)button.addEventListener('click',()=>pickWinner(i));sides.append(button);
@@ -45,12 +45,15 @@ function next(){
   game.next();$('commander').value='';$('commander-feedback').textContent='';$('battle-context').open=false;$('battle-note').textContent='';$('sources').replaceChildren();render();return state();
 }
 function pickWinner(side){if(!game)throw Error('Wait for battles to load.');game.pickWinner(side);render();$('commander').focus({preventScroll:true});return state();}
-function guessCommander(name){if(!game)throw Error('Wait for battles to load.');game.guessCommander(name);render();$('next').focus();return state();}
+function revealCommanders(){
+  render();
+  document.querySelector('.side-commanders h4').focus({preventScroll:true});
+  $('sides').scrollIntoView({block:'start'});
+}
+function guessCommander(name){if(!game)throw Error('Wait for battles to load.');game.guessCommander(name);revealCommanders();return state();}
 function skipCommander(){
   if(!game)throw Error('Wait for battles to load.');
-  game.skipCommander();render();
-  document.querySelector('.side-commanders summary').focus({preventScroll:true});
-  $('sides').scrollIntoView({block:'start'});
+  game.skipCommander();revealCommanders();
   return state();
 }
 $('commander-form').addEventListener('submit',event=>{event.preventDefault();try{guessCommander($('commander').value);}catch(error){$('commander-feedback').textContent=error.message;}});
