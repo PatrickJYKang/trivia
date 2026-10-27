@@ -1,0 +1,20 @@
+#load-status{padding:32px 28px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+#retry{margin-left:12px;padding:8px 12px;background:#fff;border:1px solid #cbd0d6;border-radius:4px}
+.battle-heading{border-top:1px solid var(--line);padding:25px 28px 22px;background:#fafbfc}
+#battle-date{margin:0 0 7px;font:12px/1.5 'SFMono-Regular',Consolas,monospace;color:var(--muted)}
+#battle-name{font-size:29px;font-weight:500;line-height:1.25;margin:0;overflow-wrap:anywhere}
+.question-line{display:flex;justify-content:space-between;align-items:center;gap:15px;padding:20px 28px 13px}
+.question-line h3{font-size:14px;font-weight:500;margin:0}.question-line>span{font-size:12px;color:var(--muted)}
+#sides{display:grid;grid-template-columns:1fr 1fr;gap:14px;padding:0 28px 24px}
+.battle-side{border:1px solid #d3d9df;border-radius:4px;background:#fff;padding:19px;text-align:left;color:inherit;min-width:0;display:flex;flex-direction:column;gap:12px}
+.battle-side:not(:disabled):hover{border-color:#2853dd;background:#f4f6ff}.battle-side:disabled{opacity:1;cursor:default}
+.battle-side.winner{border-color:#7ca68b;background:#f4f9f5}.battle-side.picked:not(.winner){border-color:#bc9595;background:#fcf7f7}
+.side-name{font-size:18px;font-weight:600;line-height:1.3;overflow-wrap:anywhere}.side-belligerents{font-size:13px;line-height:1.6;color:var(--muted)}
+.side-status{font-size:11px;color:#356345}.side-commanders{display:flex;flex-direction:column;gap:5px;border-top:1px solid #dce4dd;margin-top:auto;padding-top:12px;font-size:13px;line-height:1.5;overflow-wrap:anywhere}
+.side-commanders summary{cursor:pointer;font-size:12px;color:var(--muted)}.side-commanders[open] summary{margin-bottom:8px}.side-commanders>span{display:block;margin-top:5px}.side-commanders .matched{font-weight:600;color:#2853dd}.commander-area{padding:22px 28px;border-top:1px solid var(--line)}
+#commander-play>label{font-size:16px;font-weight:500}.commander-scoring{font-size:12px;color:var(--muted);margin:8px 0 16px;line-height:1.5}
+#commander-feedback{font-size:12px;line-height:1.5;color:var(--muted);margin:0;padding-top:9px}
+#battle-result{display:flex;align-items:center;justify-content:space-between;gap:20px}#result-title{font-size:21px;margin:0 0 7px;font-weight:500}#result-detail{font-size:13px;line-height:1.6;margin:0;color:var(--muted)}
+#battle-context{border-top:1px solid var(--line);margin-top:20px;padding-top:15px;font-size:12px;color:var(--muted)}#battle-context summary{width:fit-content;cursor:pointer}#battle-note{line-height:1.7;margin:12px 0}
+#sources{display:flex;flex-wrap:wrap;gap:8px 18px;line-height:1.5;margin-top:12px}#sources a{color:#2853dd;overflow-wrap:anywhere;text-underline-offset:3px}
+@media(max-width:600px){.game-links{gap:12px}.battle-heading{padding:20px 16px}#battle-name{font-size:24px}.question-line{padding:18px 16px 12px}#sides{padding:0 16px 20px;gap:10px}.battle-side{padding:13px;gap:10px}.side-name{font-size:15px}.side-belligerents,.side-commanders{font-size:12px}.commander-area{padding:20px 16px}#battle-result{align-items:flex-start;flex-direction:column}#commander-form{gap:8px}#commander-form input{width:0}.question-line>span{font-size:11px}#load-status{padding:24px 16px}}

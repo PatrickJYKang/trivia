@@ -1,0 +1,5202 @@
+{
+  "version": 1,
+  "checked": "2026-10-26",
+  "scope": "Selected battles with clear infobox outcomes. Belligerents and named commanders/leaders follow the linked Wikipedia infoboxes; context appears after each round.",
+  "battles": [
+    {
+      "id": "marathon",
+      "name": "Battle of Marathon",
+      "date": "12 September 490 BC",
+      "year": -490,
+      "sides": [
+        {
+          "name": "Athens and Plataea",
+          "belligerents": [
+            "Athens",
+            "Plataea"
+          ],
+          "commanders": [
+            {
+              "name": "Miltiades",
+              "aliases": [
+                "Miltiades the Younger"
+              ]
+            },
+            {
+              "name": "Callimachus",
+              "aliases": [
+                "Kallimachos"
+              ]
+            },
+            {
+              "name": "Aristides",
+              "aliases": [
+                "Aristeides"
+              ]
+            },
+            {
+              "name": "Xanthippus",
+              "aliases": [
+                "Xanthippos"
+              ]
+            },
+            {
+              "name": "Themistocles",
+              "aliases": [
+                "Themistokles"
+              ]
+            },
+            {
+              "name": "Stesilaus",
+              "aliases": [
+                "Stesilaos"
+              ]
+            },
+            {
+              "name": "Arimnestus",
+              "aliases": [
+                "Arimnestos"
+              ]
+            },
+            {
+              "name": "Cynaegirus",
+              "aliases": [
+                "Cynegeirus",
+                "Kynegeiros"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid Persia",
+          "belligerents": [
+            "Achaemenid Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Datis",
+              "aliases": []
+            },
+            {
+              "name": "Artaphernes",
+              "aliases": []
+            },
+            {
+              "name": "Hippias",
+              "aliases": []
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The exact modern-calendar date is debated; 12 September is the date used in the cited infobox.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Marathon",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Marathon"
+        }
+      ]
+    },
+    {
+      "id": "thermopylae",
+      "name": "Battle of Thermopylae",
+      "date": "480 BC (exact dates uncertain)",
+      "year": -480,
+      "sides": [
+        {
+          "name": "Greek alliance",
+          "belligerents": [
+            "Sparta",
+            "Thespiae",
+            "Thebes",
+            "Other Greek city-states"
+          ],
+          "commanders": [
+            {
+              "name": "Leonidas I",
+              "aliases": [
+                "Leonidas",
+                "Leonidas of Sparta"
+              ]
+            },
+            {
+              "name": "Demophilus of Thespiae",
+              "aliases": [
+                "Demophilus",
+                "Demophilos"
+              ]
+            },
+            {
+              "name": "Leontiades of Thebes",
+              "aliases": [
+                "Leontiades"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid Persia",
+          "belligerents": [
+            "Achaemenid Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Xerxes I",
+              "aliases": [
+                "Xerxes",
+                "Xerxes the Great"
+              ]
+            },
+            {
+              "name": "Mardonius",
+              "aliases": [
+                "Mardonios"
+              ]
+            },
+            {
+              "name": "Hydarnes",
+              "aliases": [
+                "Hydarnes II"
+              ]
+            },
+            {
+              "name": "Artapanus",
+              "aliases": [
+                "Artapanos"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "The Persians won the battle. The infobox gives competing dates between July and September 480 BC.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Thermopylae",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae"
+        }
+      ]
+    },
+    {
+      "id": "salamis",
+      "name": "Battle of Salamis",
+      "date": "26 or 27 September 480 BC",
+      "year": -480,
+      "sides": [
+        {
+          "name": "Greek alliance",
+          "belligerents": [
+            "Athens",
+            "Sparta",
+            "Corinth",
+            "Aegina",
+            "Other Greek city-states"
+          ],
+          "commanders": [
+            {
+              "name": "Themistocles",
+              "aliases": [
+                "Themistokles"
+              ]
+            },
+            {
+              "name": "Eurybiades",
+              "aliases": []
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid Persia",
+          "belligerents": [
+            "Achaemenid Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Xerxes I",
+              "aliases": [
+                "Xerxes",
+                "Xerxes the Great"
+              ]
+            },
+            {
+              "name": "Tetramnestos",
+              "aliases": [
+                "Tetramnestus"
+              ]
+            },
+            {
+              "name": "Artemisia I of Caria",
+              "aliases": [
+                "Artemisia",
+                "Artemisia I"
+              ]
+            },
+            {
+              "name": "Achaemenes",
+              "aliases": []
+            },
+            {
+              "name": "Ariabignes",
+              "aliases": []
+            },
+            {
+              "name": "Damasithymos",
+              "aliases": [
+                "Damasithymus"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Salamis",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Salamis"
+        }
+      ]
+    },
+    {
+      "id": "gaugamela",
+      "name": "Battle of Gaugamela",
+      "date": "1 October 331 BC",
+      "year": -331,
+      "sides": [
+        {
+          "name": "Macedonian alliance",
+          "belligerents": [
+            "Macedonia",
+            "Hellenic League"
+          ],
+          "commanders": [
+            {
+              "name": "Alexander the Great",
+              "aliases": [
+                "Alexander III",
+                "Alexander of Macedon",
+                "Alexander"
+              ]
+            },
+            {
+              "name": "Hephaestion",
+              "aliases": [
+                "Hephaistion"
+              ]
+            },
+            {
+              "name": "Parmenion",
+              "aliases": [
+                "Parmenio"
+              ]
+            },
+            {
+              "name": "Ariston",
+              "aliases": []
+            },
+            {
+              "name": "Simmias",
+              "aliases": []
+            },
+            {
+              "name": "Coenus",
+              "aliases": [
+                "Koinos"
+              ]
+            },
+            {
+              "name": "Menides",
+              "aliases": []
+            }
+          ]
+        },
+        {
+          "name": "Achaemenid Persia",
+          "belligerents": [
+            "Achaemenid Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Darius III",
+              "aliases": [
+                "Darius",
+                "Darius Codomannus"
+              ]
+            },
+            {
+              "name": "Bessus",
+              "aliases": []
+            },
+            {
+              "name": "Mazaeus",
+              "aliases": [
+                "Mazaios"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Also called the Battle of Arbela.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Gaugamela",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela"
+        }
+      ]
+    },
+    {
+      "id": "cannae",
+      "name": "Battle of Cannae",
+      "date": "2 August 216 BC",
+      "year": -216,
+      "sides": [
+        {
+          "name": "Rome",
+          "belligerents": [
+            "Roman Republic"
+          ],
+          "commanders": [
+            {
+              "name": "Gaius Terentius Varro",
+              "aliases": [
+                "Varro",
+                "Terentius Varro"
+              ]
+            },
+            {
+              "name": "Lucius Aemilius Paullus",
+              "aliases": [
+                "Aemilius Paullus",
+                "Paullus",
+                "Paulus"
+              ]
+            },
+            {
+              "name": "Gnaeus Servilius Geminus",
+              "aliases": [
+                "Servilius Geminus",
+                "Geminus"
+              ]
+            },
+            {
+              "name": "Publius Sempronius Tuditanus",
+              "aliases": [
+                "Tuditanus",
+                "Sempronius Tuditanus"
+              ]
+            },
+            {
+              "name": "Gaius Octavius",
+              "aliases": [
+                "Octavius"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Carthage",
+          "belligerents": [
+            "Carthage"
+          ],
+          "commanders": [
+            {
+              "name": "Hannibal",
+              "aliases": [
+                "Hannibal Barca"
+              ]
+            },
+            {
+              "name": "Mago Barca",
+              "aliases": [
+                "Mago"
+              ]
+            },
+            {
+              "name": "Gisgo",
+              "aliases": [
+                "Gisco"
+              ]
+            },
+            {
+              "name": "Hanno",
+              "aliases": []
+            },
+            {
+              "name": "Hasdrubal",
+              "aliases": []
+            },
+            {
+              "name": "Maharbal",
+              "aliases": []
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "The Hasdrubal listed here is Hannibal’s cavalry officer, not his brother Hasdrubal Barca.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Cannae",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Cannae"
+        }
+      ]
+    },
+    {
+      "id": "zama",
+      "name": "Battle of Zama",
+      "date": "202 BC",
+      "year": -202,
+      "sides": [
+        {
+          "name": "Rome",
+          "belligerents": [
+            "Roman Republic"
+          ],
+          "commanders": [
+            {
+              "name": "Publius Cornelius Scipio",
+              "aliases": [
+                "Scipio",
+                "Scipio Africanus",
+                "Publius Cornelius Scipio Africanus"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Carthage",
+          "belligerents": [
+            "Carthage"
+          ],
+          "commanders": [
+            {
+              "name": "Hannibal",
+              "aliases": [
+                "Hannibal Barca"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The current battle infobox names only these two commanders; the wider narrative includes subordinate commanders.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Zama",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Zama"
+        }
+      ]
+    },
+    {
+      "id": "hastings",
+      "name": "Battle of Hastings",
+      "date": "14 October 1066",
+      "year": 1066,
+      "sides": [
+        {
+          "name": "Normandy",
+          "belligerents": [
+            "Duchy of Normandy"
+          ],
+          "commanders": [
+            {
+              "name": "William of Normandy",
+              "aliases": [
+                "William the Conqueror",
+                "William I",
+                "William the Bastard",
+                "William"
+              ]
+            },
+            {
+              "name": "Alan the Red",
+              "aliases": [
+                "Alan Rufus",
+                "Alain le Roux"
+              ]
+            },
+            {
+              "name": "William fitzOsbern",
+              "aliases": [
+                "FitzOsbern",
+                "William Fitz Osbern"
+              ]
+            },
+            {
+              "name": "Eustace II, Count of Boulogne",
+              "aliases": [
+                "Eustace II",
+                "Eustace of Boulogne",
+                "Eustace"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "England",
+          "belligerents": [
+            "Kingdom of England"
+          ],
+          "commanders": [
+            {
+              "name": "Harold Godwinson",
+              "aliases": [
+                "Harold II",
+                "Harold"
+              ]
+            },
+            {
+              "name": "Gyrth Godwinson",
+              "aliases": [
+                "Gyrth"
+              ]
+            },
+            {
+              "name": "Leofwine Godwinson",
+              "aliases": [
+                "Leofwine"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Hastings",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
+        }
+      ]
+    },
+    {
+      "id": "hattin",
+      "name": "Battle of Hattin",
+      "date": "3–4 July 1187",
+      "year": 1187,
+      "sides": [
+        {
+          "name": "Crusader states and orders",
+          "belligerents": [
+            "Kingdom of Jerusalem",
+            "County of Tripoli",
+            "Principality of Antioch",
+            "Knights Templar",
+            "Knights Hospitaller",
+            "Order of St. Lazarus",
+            "Order of Mountjoy"
+          ],
+          "commanders": [
+            {
+              "name": "Guy of Lusignan",
+              "aliases": [
+                "Guy de Lusignan",
+                "Guy"
+              ]
+            },
+            {
+              "name": "Raynald of Châtillon",
+              "aliases": [
+                "Raynald of Chatillon",
+                "Reynald of Chatillon",
+                "Reynald",
+                "Raynald"
+              ]
+            },
+            {
+              "name": "Humphrey IV of Toron",
+              "aliases": [
+                "Humphrey of Toron",
+                "Humphrey IV"
+              ]
+            },
+            {
+              "name": "Aimery of Lusignan",
+              "aliases": [
+                "Amalric of Lusignan",
+                "Aimery",
+                "Amalric II"
+              ]
+            },
+            {
+              "name": "Reginald of Sidon",
+              "aliases": [
+                "Reynald of Sidon",
+                "Reginald"
+              ]
+            },
+            {
+              "name": "Joscelin III of Edessa",
+              "aliases": [
+                "Joscelin III",
+                "Joscelin"
+              ]
+            },
+            {
+              "name": "Balian of Ibelin",
+              "aliases": [
+                "Balian",
+                "Ibelin"
+              ]
+            },
+            {
+              "name": "Raymond III of Tripoli",
+              "aliases": [
+                "Raymond III",
+                "Raymond of Tripoli"
+              ]
+            },
+            {
+              "name": "Gerard de Rideford",
+              "aliases": [
+                "Gerard of Ridefort",
+                "Gerard de Ridefort",
+                "Ridefort",
+                "Rideford"
+              ]
+            },
+            {
+              "name": "Garnier de Nablus",
+              "aliases": [
+                "Garnier of Nablus",
+                "Garnier"
+              ]
+            },
+            {
+              "name": "Raymond of Antioch",
+              "aliases": []
+            }
+          ]
+        },
+        {
+          "name": "Ayyubids",
+          "belligerents": [
+            "Ayyubid Sultanate"
+          ],
+          "commanders": [
+            {
+              "name": "Saladin",
+              "aliases": [
+                "Salah ad-Din",
+                "Salahuddin",
+                "Salah al-Din",
+                "Salah ad Din Yusuf"
+              ]
+            },
+            {
+              "name": "Muzaffar ad-Din Gökböri",
+              "aliases": [
+                "Gokbori",
+                "Gökböri",
+                "Gokburi",
+                "Muzaffar ad Din"
+              ]
+            },
+            {
+              "name": "Al-Muzaffar Umar",
+              "aliases": [
+                "Taqi ad-Din Umar",
+                "Taqi al-Din Umar",
+                "Al Muzaffar Umar"
+              ]
+            },
+            {
+              "name": "Al-Adil I",
+              "aliases": [
+                "Al Adil",
+                "Al-Adil",
+                "Saphadin"
+              ]
+            },
+            {
+              "name": "Al-Afdal ibn Salah ad-Din",
+              "aliases": [
+                "Al-Afdal",
+                "Al Afdal"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Hattin",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Hattin"
+        }
+      ]
+    },
+    {
+      "id": "bouvines",
+      "name": "Battle of Bouvines",
+      "date": "27 July 1214",
+      "year": 1214,
+      "sides": [
+        {
+          "name": "France and allies",
+          "belligerents": [
+            "Kingdom of France",
+            "Burgundy",
+            "Champagne",
+            "Dreux",
+            "Ponthieu",
+            "Saint-Pol",
+            "Beaumont",
+            "Soissons",
+            "Perche",
+            "Auxerre",
+            "Nevers",
+            "Nemours",
+            "Coucy",
+            "Melun",
+            "Normandy",
+            "Brittany",
+            "Prince-Bishopric of Liège"
+          ],
+          "commanders": [
+            {
+              "name": "Philip II of France",
+              "aliases": [
+                "Philip II",
+                "Philip Augustus",
+                "Philippe Auguste"
+              ]
+            },
+            {
+              "name": "Robert II, Count of Dreux",
+              "aliases": [
+                "Robert II of Dreux",
+                "Robert of Dreux"
+              ]
+            },
+            {
+              "name": "Eudes III of Burgundy",
+              "aliases": [
+                "Eudes III",
+                "Odo III",
+                "Odo of Burgundy",
+                "Eudes of Burgundy"
+              ]
+            },
+            {
+              "name": "Bartholomew of Roye",
+              "aliases": [
+                "Barthélemy de Roye",
+                "Barthelemy de Roye",
+                "Roye"
+              ]
+            },
+            {
+              "name": "William of Garlande",
+              "aliases": [
+                "Guillaume de Garlande",
+                "Garlande"
+              ]
+            },
+            {
+              "name": "William II des Barres",
+              "aliases": [
+                "Guillaume des Barres",
+                "William des Barres",
+                "Des Barres"
+              ]
+            },
+            {
+              "name": "Enguerrand III of Coucy",
+              "aliases": [
+                "Enguerrand III",
+                "Enguerrand de Coucy",
+                "Coucy"
+              ]
+            },
+            {
+              "name": "Gauthier II of Nemours",
+              "aliases": [
+                "Gauthier de Nemours",
+                "Walter II of Nemours",
+                "Nemours"
+              ]
+            },
+            {
+              "name": "Girard Scophe",
+              "aliases": [
+                "Scophe"
+              ]
+            },
+            {
+              "name": "Philip of Dreux",
+              "aliases": [
+                "Philippe de Dreux"
+              ]
+            },
+            {
+              "name": "William II of Ponthieu",
+              "aliases": [
+                "William of Ponthieu",
+                "Guillaume II de Ponthieu",
+                "Ponthieu"
+              ]
+            },
+            {
+              "name": "Peter II of Courtenay",
+              "aliases": [
+                "Peter of Courtenay",
+                "Pierre de Courtenay"
+              ]
+            },
+            {
+              "name": "Thomas of St. Valery",
+              "aliases": [
+                "Thomas of Saint-Valery",
+                "Thomas de Saint-Valery",
+                "Saint Valery"
+              ]
+            },
+            {
+              "name": "Matthew II of Montmorency",
+              "aliases": [
+                "Mathieu II de Montmorency",
+                "Matthew of Montmorency",
+                "Montmorency"
+              ]
+            },
+            {
+              "name": "William I of Sancerre",
+              "aliases": [
+                "William of Sancerre",
+                "Guillaume de Sancerre",
+                "Sancerre"
+              ]
+            },
+            {
+              "name": "Walter III of Châtillon",
+              "aliases": [
+                "Walter III of Chatillon",
+                "Gaucher III de Chatillon",
+                "Gaucher de Chatillon"
+              ]
+            },
+            {
+              "name": "Peter of Remi",
+              "aliases": []
+            },
+            {
+              "name": "Jean, Count of Beaumont",
+              "aliases": [
+                "Jean of Beaumont",
+                "John of Beaumont",
+                "Beaumont"
+              ]
+            },
+            {
+              "name": "Adam II of Melun",
+              "aliases": [
+                "Adam of Melun",
+                "Melun"
+              ]
+            },
+            {
+              "name": "Thomas of Perche",
+              "aliases": [
+                "Thomas du Perche",
+                "Perche"
+              ]
+            },
+            {
+              "name": "Stephen Longchamp",
+              "aliases": [
+                "Stephen de Longchamp",
+                "Étienne de Longchamp",
+                "Longchamp"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Imperial and Anglo-Flemish coalition",
+          "belligerents": [
+            "Holy Roman Empire",
+            "Hainaut",
+            "Germany",
+            "Brabant",
+            "Louvain",
+            "Lorraine",
+            "Holland",
+            "Namur",
+            "Limburg",
+            "Saxony",
+            "Palatinate",
+            "Tecklenburg",
+            "Katzenelnbogen",
+            "Dortmund",
+            "Flanders",
+            "Kingdom of England",
+            "Boulogne"
+          ],
+          "commanders": [
+            {
+              "name": "Otto IV",
+              "aliases": [
+                "Otto IV of Brunswick",
+                "Otto of Brunswick"
+              ]
+            },
+            {
+              "name": "Renaud of Boulogne",
+              "aliases": [
+                "Renaud de Dammartin",
+                "Renaud",
+                "Dammartin"
+              ]
+            },
+            {
+              "name": "Ferrand of Flanders",
+              "aliases": [
+                "Ferdinand of Flanders",
+                "Ferrand",
+                "Ferdinand of Portugal"
+              ]
+            },
+            {
+              "name": "Theobald I of Lorraine",
+              "aliases": [
+                "Theobald of Lorraine",
+                "Theobald I",
+                "Thibaut I of Lorraine"
+              ]
+            },
+            {
+              "name": "William I of Holland",
+              "aliases": [
+                "William of Holland",
+                "Willem I of Holland",
+                "Holland"
+              ]
+            },
+            {
+              "name": "Henry I of Brabant",
+              "aliases": [
+                "Henry of Brabant",
+                "Henry I",
+                "Brabant"
+              ]
+            },
+            {
+              "name": "Philip II of Courtenay-Namur",
+              "aliases": [
+                "Philip II of Namur",
+                "Philip of Namur",
+                "Namur"
+              ]
+            },
+            {
+              "name": "Henry III of Limburg",
+              "aliases": [
+                "Henry of Limburg",
+                "Limburg"
+              ]
+            },
+            {
+              "name": "Conrad of Dortmund",
+              "aliases": [
+                "Konrad of Dortmund",
+                "Dortmund"
+              ]
+            },
+            {
+              "name": "William Longespée",
+              "aliases": [
+                "William Longespee",
+                "Longespee",
+                "Earl of Salisbury"
+              ]
+            },
+            {
+              "name": "Hugh of Boves",
+              "aliases": [
+                "Hugh de Boves",
+                "Hugues de Boves",
+                "Boves"
+              ]
+            },
+            {
+              "name": "Arnulf IV of Oudenaarde",
+              "aliases": [
+                "Arnulf of Oudenaarde",
+                "Arnold IV of Oudenaarde",
+                "Oudenaarde"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Includes the infobox’s expanded commander lists; Ferrand appears twice there but is counted once. “Philip II” means the French king; the opposing Philip of Namur requires his territorial name.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Bouvines",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Bouvines"
+        }
+      ]
+    },
+    {
+      "id": "ain-jalut",
+      "name": "Battle of Ain Jalut",
+      "date": "3 September 1260",
+      "year": 1260,
+      "sides": [
+        {
+          "name": "Mamluks",
+          "belligerents": [
+            "Mamluk Sultanate"
+          ],
+          "commanders": [
+            {
+              "name": "Qutuz",
+              "aliases": [
+                "Kutuz",
+                "Saif ad-Din Qutuz"
+              ]
+            },
+            {
+              "name": "Baybars",
+              "aliases": [
+                "Baibars",
+                "Baybars I",
+                "Baibars I"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mongol coalition",
+          "belligerents": [
+            "Ilkhanate",
+            "Cilician Armenia",
+            "Kingdom of Georgia"
+          ],
+          "commanders": [
+            {
+              "name": "Kitbuqa Noyan",
+              "aliases": [
+                "Kitbuqa",
+                "Kitbuga",
+                "Kitbugha",
+                "Ketbuqa",
+                "Ketbugha"
+              ]
+            },
+            {
+              "name": "Al-Ashraf Musa, Emir of Homs",
+              "aliases": [
+                "Al-Ashraf Musa",
+                "Al Ashraf Musa",
+                "Musa of Homs"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Al-Ashraf Musa is listed on the Mongol side in the battle infobox, but withdrew his forces under a secret agreement with Qutuz.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Ain Jalut",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut"
+        },
+        {
+          "title": "Wikipedia — Al-Ashraf Musa, Emir of Homs",
+          "url": "https://en.wikipedia.org/wiki/Al-Ashraf_Musa,_Emir_of_Homs"
+        }
+      ]
+    },
+    {
+      "id": "bannockburn",
+      "name": "Battle of Bannockburn",
+      "date": "23–24 June 1314",
+      "year": 1314,
+      "sides": [
+        {
+          "name": "Scotland",
+          "belligerents": [
+            "Kingdom of Scotland"
+          ],
+          "commanders": [
+            {
+              "name": "Robert I of Scotland",
+              "aliases": [
+                "Robert the Bruce",
+                "Robert Bruce",
+                "Robert I"
+              ]
+            },
+            {
+              "name": "Edward Bruce",
+              "aliases": []
+            },
+            {
+              "name": "Robert Keith",
+              "aliases": [
+                "Sir Robert Keith",
+                "Keith"
+              ]
+            },
+            {
+              "name": "James Douglas, Lord of Douglas",
+              "aliases": [
+                "James Douglas",
+                "Lord of Douglas",
+                "Black Douglas",
+                "Douglas"
+              ]
+            },
+            {
+              "name": "Thomas Randolph, Earl of Moray",
+              "aliases": [
+                "Thomas Randolph",
+                "Randolph",
+                "Earl of Moray",
+                "Moray"
+              ]
+            },
+            {
+              "name": "Gilbert Hay",
+              "aliases": [
+                "Sir Gilbert Hay",
+                "Hay"
+              ]
+            },
+            {
+              "name": "Walter Stewart",
+              "aliases": [
+                "Walter the Steward",
+                "Walter Stuart",
+                "Stewart"
+              ]
+            },
+            {
+              "name": "Angus Og MacDonald",
+              "aliases": [
+                "Angus Og",
+                "Aonghus Og",
+                "Angus Macdonald",
+                "Macdonald"
+              ]
+            },
+            {
+              "name": "Alexander Seton",
+              "aliases": [
+                "Sir Alexander Seton",
+                "Seton"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "England",
+          "belligerents": [
+            "Kingdom of England"
+          ],
+          "commanders": [
+            {
+              "name": "Edward II of England",
+              "aliases": [
+                "Edward II"
+              ]
+            },
+            {
+              "name": "Humphrey de Bohun, Earl of Hereford",
+              "aliases": [
+                "Humphrey de Bohun",
+                "Earl of Hereford",
+                "Hereford",
+                "De Bohun"
+              ]
+            },
+            {
+              "name": "Aymer de Valence, Earl of Pembroke",
+              "aliases": [
+                "Aymer de Valence",
+                "Aymer",
+                "Valence",
+                "Earl of Pembroke",
+                "Pembroke"
+              ]
+            },
+            {
+              "name": "Gilbert de Clare, Earl of Gloucester",
+              "aliases": [
+                "Gilbert de Clare",
+                "De Clare",
+                "Earl of Gloucester",
+                "Gloucester"
+              ]
+            },
+            {
+              "name": "Robert Clifford",
+              "aliases": [
+                "Robert de Clifford",
+                "Baron Clifford",
+                "Clifford"
+              ]
+            },
+            {
+              "name": "Henry Beaumont",
+              "aliases": [
+                "Henry de Beaumont",
+                "Beaumont"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Alexander Seton defected from the English army between the two days of fighting; the infobox lists him on the Scottish side.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Bannockburn",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn"
+        }
+      ]
+    },
+    {
+      "id": "crecy",
+      "name": "Battle of Crécy",
+      "date": "26 August 1346",
+      "year": 1346,
+      "sides": [
+        {
+          "name": "England",
+          "belligerents": [
+            "Kingdom of England"
+          ],
+          "commanders": [
+            {
+              "name": "Edward III of England",
+              "aliases": [
+                "Edward III"
+              ]
+            },
+            {
+              "name": "Edward the Black Prince",
+              "aliases": [
+                "Black Prince",
+                "Edward of Woodstock"
+              ]
+            },
+            {
+              "name": "William de Bohun, Earl of Northampton",
+              "aliases": [
+                "William de Bohun",
+                "De Bohun",
+                "Earl of Northampton",
+                "Northampton"
+              ]
+            },
+            {
+              "name": "Thomas Beauchamp, Earl of Warwick",
+              "aliases": [
+                "Thomas Beauchamp",
+                "Beauchamp",
+                "Earl of Warwick",
+                "Warwick"
+              ]
+            },
+            {
+              "name": "Richard Fitzalan, Earl of Arundel",
+              "aliases": [
+                "Richard Fitzalan",
+                "Richard FitzAlan",
+                "Fitzalan",
+                "Earl of Arundel",
+                "Arundel"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "France and allies",
+          "belligerents": [
+            "Kingdom of France",
+            "Kingdom of Bohemia",
+            "Duchy of Lorraine"
+          ],
+          "commanders": [
+            {
+              "name": "Philip VI of France",
+              "aliases": [
+                "Philip VI",
+                "Philippe VI"
+              ]
+            },
+            {
+              "name": "Charles II, Count of Alençon",
+              "aliases": [
+                "Charles II of Alencon",
+                "Charles of Alencon",
+                "Alencon"
+              ]
+            },
+            {
+              "name": "Rudolph, Duke of Lorraine",
+              "aliases": [
+                "Rudolph of Lorraine",
+                "Rudolf of Lorraine",
+                "Raoul of Lorraine",
+                "Rudolph"
+              ]
+            },
+            {
+              "name": "Louis II, Count of Blois",
+              "aliases": [
+                "Louis II of Blois",
+                "Louis of Blois",
+                "Blois"
+              ]
+            },
+            {
+              "name": "John of Bohemia",
+              "aliases": [
+                "John the Blind",
+                "John of Luxembourg",
+                "John I of Bohemia"
+              ]
+            },
+            {
+              "name": "Charles of Bohemia",
+              "aliases": [
+                "Charles IV",
+                "Charles IV of Bohemia"
+              ]
+            },
+            {
+              "name": "Antonio Doria",
+              "aliases": [
+                "Doria"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Crécy",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy"
+        }
+      ]
+    },
+    {
+      "id": "poitiers-1356",
+      "name": "Battle of Poitiers",
+      "date": "19 September 1356",
+      "year": 1356,
+      "sides": [
+        {
+          "name": "England",
+          "belligerents": [
+            "Kingdom of England"
+          ],
+          "commanders": [
+            {
+              "name": "Edward the Black Prince",
+              "aliases": [
+                "Black Prince",
+                "Edward of Woodstock"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "France",
+          "belligerents": [
+            "Kingdom of France"
+          ],
+          "commanders": [
+            {
+              "name": "John II of France",
+              "aliases": [
+                "John II",
+                "John the Good",
+                "Jean II",
+                "Jean le Bon"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "This is the 1356 battle, not the 732 battle also known as Tours. The current infobox names one commander per side.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Poitiers",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Poitiers"
+        }
+      ]
+    },
+    {
+      "id": "agincourt",
+      "name": "Battle of Agincourt",
+      "date": "25 October 1415",
+      "year": 1415,
+      "sides": [
+        {
+          "name": "England",
+          "belligerents": [
+            "Kingdom of England"
+          ],
+          "commanders": [
+            {
+              "name": "Henry V of England",
+              "aliases": [
+                "Henry V",
+                "Henry of Monmouth"
+              ]
+            },
+            {
+              "name": "Humphrey, Duke of Gloucester",
+              "aliases": [
+                "Humphrey of Gloucester",
+                "Duke of Gloucester",
+                "Gloucester"
+              ]
+            },
+            {
+              "name": "Edward, Duke of York",
+              "aliases": [
+                "Edward of Norwich",
+                "Edward of York",
+                "Duke of York",
+                "York"
+              ]
+            },
+            {
+              "name": "Michael de la Pole, 3rd Earl of Suffolk",
+              "aliases": [
+                "Michael de la Pole",
+                "De la Pole",
+                "Earl of Suffolk",
+                "Suffolk"
+              ]
+            },
+            {
+              "name": "Thomas Camoys",
+              "aliases": [
+                "Camoys"
+              ]
+            },
+            {
+              "name": "Thomas Erpingham",
+              "aliases": [
+                "Erpingham"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "France",
+          "belligerents": [
+            "Kingdom of France"
+          ],
+          "commanders": [
+            {
+              "name": "Charles d’Albret",
+              "aliases": [
+                "Charles d'Albret",
+                "Charles I d'Albret",
+                "D'Albret",
+                "Albret"
+              ]
+            },
+            {
+              "name": "Jean II Le Maingre",
+              "aliases": [
+                "Jean Le Maingre",
+                "Boucicaut",
+                "Le Maingre"
+              ]
+            },
+            {
+              "name": "John I, Duke of Alençon",
+              "aliases": [
+                "John I of Alencon",
+                "Jean I of Alencon",
+                "Jean d'Alencon",
+                "Duke of Alencon",
+                "Alencon"
+              ]
+            },
+            {
+              "name": "Edward III, Duke of Bar",
+              "aliases": [
+                "Edward III of Bar",
+                "Edward of Bar",
+                "Edouard III of Bar",
+                "Duke of Bar"
+              ]
+            },
+            {
+              "name": "Jacques de Longroy",
+              "aliases": [
+                "Longroy"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Agincourt",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt"
+        }
+      ]
+    },
+    {
+      "id": "grunwald-1410",
+      "name": "Battle of Grunwald",
+      "date": "15 July 1410",
+      "year": 1410,
+      "sides": [
+        {
+          "name": "Poland–Lithuania and allies",
+          "belligerents": [
+            "Kingdom of Poland",
+            "Grand Duchy of Lithuania",
+            "Masovia-Warsaw",
+            "Masovia-Płock",
+            "Pomerania-Stolp",
+            "Belz",
+            "Moldavia",
+            "Smolensk",
+            "Golden Horde Tatars",
+            "Bohemians",
+            "Moravians",
+            "Silesians",
+            "Wallachians"
+          ],
+          "commanders": [
+            {
+              "name": "Władysław II Jagiełło",
+              "aliases": [
+                "Wladyslaw II Jagiello",
+                "Wladyslaw Jagiello",
+                "Jagiello",
+                "Jogaila",
+                "Ladislaus II Jagiello"
+              ]
+            },
+            {
+              "name": "Vytautas the Great",
+              "aliases": [
+                "Vytautas",
+                "Witold"
+              ]
+            },
+            {
+              "name": "Jalal al-Din",
+              "aliases": [
+                "Jalal ad-Din",
+                "Jalaluddin",
+                "Jalal al Din Khan"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Teutonic Order and allies",
+          "belligerents": [
+            "Teutonic State",
+            "Guest crusaders",
+            "Pomerania-Stettin",
+            "Duchy of Oels",
+            "Warmia",
+            "Pomesania",
+            "Sambia",
+            "Western European mercenaries"
+          ],
+          "commanders": [
+            {
+              "name": "Ulrich von Jungingen",
+              "aliases": [
+                "Ulrich Jungingen",
+                "Jungingen"
+              ]
+            },
+            {
+              "name": "Friedrich von Wallenrode",
+              "aliases": [
+                "Friedrich Wallenrode",
+                "Wallenrode"
+              ]
+            },
+            {
+              "name": "Kuno von Lichtenstein",
+              "aliases": [
+                "Kuno Lichtenstein",
+                "Lichtenstein"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Also known as the First Battle of Tannenberg and the Battle of Žalgiris; this is the 1410 battle, not Tannenberg in 1914.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Grunwald",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Grunwald"
+        }
+      ]
+    },
+    {
+      "id": "constantinople-1453",
+      "name": "Fall of Constantinople",
+      "date": "6 April–29 May 1453",
+      "year": 1453,
+      "sides": [
+        {
+          "name": "Ottoman forces",
+          "belligerents": [
+            "Ottoman Empire",
+            "Serbian Despotate"
+          ],
+          "commanders": [
+            {
+              "name": "Mehmed II",
+              "aliases": [
+                "Mehmet II",
+                "Mehmed the Conqueror",
+                "Mehmet the Conqueror",
+                "Fatih Sultan Mehmed"
+              ]
+            },
+            {
+              "name": "Halil Pasha",
+              "aliases": [
+                "Çandarlı Halil Pasha",
+                "Candarlı Halil Pasha"
+              ]
+            },
+            {
+              "name": "Zagan Pasha",
+              "aliases": [
+                "Zaganos Pasha",
+                "Zağanos Pasha"
+              ]
+            },
+            {
+              "name": "Suleiman Baltoghlu",
+              "aliases": [
+                "Baltoghlu",
+                "Süleyman Baltacıoğlu"
+              ]
+            },
+            {
+              "name": "Karaca Pasha",
+              "aliases": []
+            },
+            {
+              "name": "Hamza Bey",
+              "aliases": []
+            },
+            {
+              "name": "Mahmud Pasha",
+              "aliases": [
+                "Mahmud Pasha Angelović",
+                "Mahmud Pasha Angelovic"
+              ]
+            },
+            {
+              "name": "Ulubatlı Hasan",
+              "aliases": [
+                "Ulubatli Hasan"
+              ]
+            },
+            {
+              "name": "Hadım Şehabeddin",
+              "aliases": [
+                "Hadim Sehabeddin",
+                "Şehabeddin Pasha",
+                "Hadım Sehabeddin"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Byzantine defenders",
+          "belligerents": [
+            "Byzantine Empire",
+            "Genoa",
+            "Venice",
+            "Papal States",
+            "Crown of Aragon",
+            "Sicily",
+            "France",
+            "Varangian Guard",
+            "Orhan Çelebi loyalists"
+          ],
+          "commanders": [
+            {
+              "name": "Constantine XI",
+              "aliases": [
+                "Constantine XI Palaiologos",
+                "Constantine XI Palaeologus",
+                "Constantine Palaiologos"
+              ]
+            },
+            {
+              "name": "Loukas Notaras",
+              "aliases": [
+                "Lucas Notaras",
+                "Notaras"
+              ]
+            },
+            {
+              "name": "Theophilos Palaiologos",
+              "aliases": [
+                "Theophilus Palaeologus"
+              ]
+            },
+            {
+              "name": "Demetrios Kantakouzenos",
+              "aliases": [
+                "Demetrius Cantacuzenus"
+              ]
+            },
+            {
+              "name": "Andronikos Kantakouzenos",
+              "aliases": [
+                "Andronicus Cantacuzenus"
+              ]
+            },
+            {
+              "name": "Giovanni Giustiniani",
+              "aliases": [
+                "Giovanni Giustiniani Longo",
+                "Giustiniani"
+              ]
+            },
+            {
+              "name": "Gabriele Trevisano",
+              "aliases": [
+                "Gabriele Trevisan",
+                "Trevisano",
+                "Trevisan"
+              ]
+            },
+            {
+              "name": "Alviso Diedo",
+              "aliases": [
+                "Alvise Diedo",
+                "Diedo"
+              ]
+            },
+            {
+              "name": "Gabriele Orsini del Balzo",
+              "aliases": [
+                "Orsini del Balzo"
+              ]
+            },
+            {
+              "name": "Cardinal Isidore",
+              "aliases": [
+                "Isidore of Kiev",
+                "Isidore"
+              ]
+            },
+            {
+              "name": "Johannes Grant",
+              "aliases": [
+                "John Grant",
+                "Grant"
+              ]
+            },
+            {
+              "name": "Orhan Çelebi",
+              "aliases": [
+                "Orhan Celebi",
+                "Orhan"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The siege ended with the Ottoman capture of the city. The defending coalition includes foreign contingents and volunteers, rather than full national armies; the roster follows the infobox, including the traditionally reported Ulubatlı Hasan.",
+      "sources": [
+        {
+          "title": "Wikipedia — Fall of Constantinople",
+          "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+        }
+      ]
+    },
+    {
+      "id": "cajamarca-1532",
+      "name": "Battle of Cajamarca",
+      "date": "16 November 1532",
+      "year": 1532,
+      "sides": [
+        {
+          "name": "Spanish forces",
+          "belligerents": [
+            "Spanish Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Francisco Pizarro",
+              "aliases": []
+            },
+            {
+              "name": "Hernando Pizarro",
+              "aliases": []
+            },
+            {
+              "name": "Hernando de Soto",
+              "aliases": [
+                "de Soto",
+                "Soto"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Inca forces",
+          "belligerents": [
+            "Inca Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Atahualpa",
+              "aliases": [
+                "Atahuallpa",
+                "Atabalipa"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Also described as the Cajamarca massacre: Spanish troops ambushed the Inca ruler and his largely unarmed entourage. Atahualpa was captured; the conquest of the empire was not completed that day.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Cajamarca",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Cajamarca"
+        }
+      ]
+    },
+    {
+      "id": "panipat-1526",
+      "name": "First Battle of Panipat",
+      "date": "21 April 1526",
+      "year": 1526,
+      "sides": [
+        {
+          "name": "Mughal forces",
+          "belligerents": [
+            "Mughal domains"
+          ],
+          "commanders": [
+            {
+              "name": "Babur",
+              "aliases": [
+                "Babar",
+                "Zahir-ud-din Muhammad Babur",
+                "Zahiruddin Muhammad Babur"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Delhi Sultanate",
+          "belligerents": [
+            "Delhi Sultanate"
+          ],
+          "commanders": [
+            {
+              "name": "Ibrahim Khan Lodi",
+              "aliases": [
+                "Ibrahim Lodi",
+                "Ibrahim Lodhi",
+                "Lodi",
+                "Lodhi"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Babur defeated Ibrahim Lodi, who died in the battle. The victory established the basis for Mughal rule in northern India.",
+      "sources": [
+        {
+          "title": "Wikipedia — First Battle of Panipat",
+          "url": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat"
+        }
+      ]
+    },
+    {
+      "id": "mohacs-1526",
+      "name": "Battle of Mohács",
+      "date": "29 August 1526",
+      "year": 1526,
+      "sides": [
+        {
+          "name": "Ottoman forces",
+          "belligerents": [
+            "Ottoman Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Suleiman I",
+              "aliases": [
+                "Suleiman the Magnificent",
+                "Suleiman",
+                "Süleyman I"
+              ]
+            },
+            {
+              "name": "Pargalı Ibrahim Pasha",
+              "aliases": [
+                "Ibrahim Pasha",
+                "Pargali Ibrahim Pasha"
+              ]
+            },
+            {
+              "name": "Malkoçoğlu Balı Bey",
+              "aliases": [
+                "Bali Bey",
+                "Malkocoglu Bali Bey",
+                "Malkocoglu Balı Bey"
+              ]
+            },
+            {
+              "name": "Gazi Husrev-beg",
+              "aliases": [
+                "Gazi Husrev Beg",
+                "Husrev-beg"
+              ]
+            },
+            {
+              "name": "Behram Pasha",
+              "aliases": []
+            }
+          ]
+        },
+        {
+          "name": "Hungary and allies",
+          "belligerents": [
+            "Kingdom of Hungary",
+            "Serbian Despotate",
+            "Bohemian Crown",
+            "Holy Roman Empire",
+            "Papal States",
+            "Hungarian Slovenes",
+            "Poland"
+          ],
+          "commanders": [
+            {
+              "name": "Louis II",
+              "aliases": [
+                "Louis II of Hungary",
+                "Lajos II"
+              ]
+            },
+            {
+              "name": "Pál Tomori",
+              "aliases": [
+                "Tomori",
+                "Pal Tomori"
+              ]
+            },
+            {
+              "name": "György Zápolya",
+              "aliases": [
+                "George Zapolya",
+                "Zapolya",
+                "Gyorgy Zapolya"
+              ]
+            },
+            {
+              "name": "Ferenc Batthyány",
+              "aliases": [
+                "Batthyany",
+                "Ferenc Batthyany"
+              ]
+            },
+            {
+              "name": "Péter Perényi",
+              "aliases": [
+                "Perenyi",
+                "Peter Perenyi"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "King Louis II died during the defeat. Hungary’s later division between rival powers was a consequence of the crisis, rather than an immediate partition completed on the battlefield.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Mohács",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
+        }
+      ]
+    },
+    {
+      "id": "lepanto-1571",
+      "name": "Battle of Lepanto",
+      "date": "7 October 1571",
+      "year": 1571,
+      "sides": [
+        {
+          "name": "Holy League",
+          "belligerents": [
+            "Spanish Empire",
+            "Venice",
+            "Genoa",
+            "Savoy",
+            "Tuscany",
+            "Order of Saint Stephen",
+            "Order of Malta",
+            "Papal States"
+          ],
+          "commanders": [
+            {
+              "name": "John of Austria",
+              "aliases": [
+                "Don John of Austria",
+                "Don Juan of Austria",
+                "Juan de Austria"
+              ]
+            },
+            {
+              "name": "Álvaro de Bazán",
+              "aliases": [
+                "Alvaro de Bazan",
+                "Bazan"
+              ]
+            },
+            {
+              "name": "Luis de Requesens",
+              "aliases": [
+                "Requesens"
+              ]
+            },
+            {
+              "name": "Sebastiano Venier",
+              "aliases": [
+                "Venier"
+              ]
+            },
+            {
+              "name": "Agostino Barbarigo",
+              "aliases": [
+                "Barbarigo"
+              ]
+            },
+            {
+              "name": "Gianandrea Doria",
+              "aliases": [
+                "Giovanni Andrea Doria",
+                "Doria"
+              ]
+            },
+            {
+              "name": "Marcantonio Colonna",
+              "aliases": [
+                "Colonna"
+              ]
+            },
+            {
+              "name": "Pietro Giustiniani",
+              "aliases": [
+                "Giustiniani"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ottoman fleet",
+          "belligerents": [
+            "Ottoman Empire",
+            "Regency of Algiers"
+          ],
+          "commanders": [
+            {
+              "name": "Müezzinzade Ali Pasha",
+              "aliases": [
+                "Ali Pasha",
+                "Muezzinzade Ali Pasha"
+              ]
+            },
+            {
+              "name": "Mahomet Sirocco",
+              "aliases": [
+                "Sirocco",
+                "Mehmed Siroco"
+              ]
+            },
+            {
+              "name": "Occhiali",
+              "aliases": [
+                "Uluç Ali",
+                "Uluc Ali",
+                "Uluj Ali",
+                "Kilic Ali Pasha"
+              ]
+            },
+            {
+              "name": "Caracossa",
+              "aliases": []
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "This was a naval victory for the Holy League. It did not reverse the Ottoman conquest of Cyprus.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Lepanto",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Lepanto"
+        }
+      ]
+    },
+    {
+      "id": "nagashino-1575",
+      "name": "Battle of Nagashino",
+      "date": "28 June 1575",
+      "year": 1575,
+      "sides": [
+        {
+          "name": "Oda–Tokugawa alliance",
+          "belligerents": [
+            "Oda clan",
+            "Tokugawa clan"
+          ],
+          "commanders": [
+            {
+              "name": "Oda Nobunaga",
+              "aliases": [
+                "Nobunaga"
+              ]
+            },
+            {
+              "name": "Tokugawa Ieyasu",
+              "aliases": [
+                "Ieyasu",
+                "Tokugawa"
+              ]
+            },
+            {
+              "name": "Imagawa Ujizane",
+              "aliases": [
+                "Imagawa"
+              ]
+            },
+            {
+              "name": "Honda Tadakatsu",
+              "aliases": [
+                "Tadakatsu"
+              ]
+            },
+            {
+              "name": "Shibata Katsuie",
+              "aliases": [
+                "Shibata"
+              ]
+            },
+            {
+              "name": "Oda Nobutada",
+              "aliases": []
+            },
+            {
+              "name": "Akechi Mitsuhide",
+              "aliases": [
+                "Akechi"
+              ]
+            },
+            {
+              "name": "Sassa Narimasa",
+              "aliases": [
+                "Sassa"
+              ]
+            },
+            {
+              "name": "Ikeda Tsuneoki",
+              "aliases": [
+                "Ikeda"
+              ]
+            },
+            {
+              "name": "Okudaira Nobumasa",
+              "aliases": [
+                "Okudaira"
+              ]
+            },
+            {
+              "name": "Hashiba Hideyoshi",
+              "aliases": [
+                "Toyotomi Hideyoshi",
+                "Hideyoshi"
+              ]
+            },
+            {
+              "name": "Matsudaira Ietada",
+              "aliases": [
+                "Ietada"
+              ]
+            },
+            {
+              "name": "Niwa Nagahide",
+              "aliases": [
+                "Niwa"
+              ]
+            },
+            {
+              "name": "Ōkubo Tadayo",
+              "aliases": [
+                "Tadayo",
+                "Okubo Tadayo"
+              ]
+            },
+            {
+              "name": "Maeda Toshiie",
+              "aliases": [
+                "Maeda"
+              ]
+            },
+            {
+              "name": "Sakuma Nobumori",
+              "aliases": [
+                "Sakuma"
+              ]
+            },
+            {
+              "name": "Kanamori Nagachika",
+              "aliases": [
+                "Kanamori"
+              ]
+            },
+            {
+              "name": "Matsudaira Nobuyasu",
+              "aliases": [
+                "Nobuyasu"
+              ]
+            },
+            {
+              "name": "Ishikawa Kazumasa",
+              "aliases": [
+                "Ishikawa"
+              ]
+            },
+            {
+              "name": "Takigawa Kazumasu",
+              "aliases": [
+                "Takigawa"
+              ]
+            },
+            {
+              "name": "Ōkubo Tadachika",
+              "aliases": [
+                "Tadachika",
+                "Okubo Tadachika"
+              ]
+            },
+            {
+              "name": "Sakai Tadatsugu",
+              "aliases": [
+                "Sakai"
+              ]
+            },
+            {
+              "name": "Sakakibara Yasumasa",
+              "aliases": [
+                "Sakakibara"
+              ]
+            },
+            {
+              "name": "Watanabe Moritsuna",
+              "aliases": [
+                "Watanabe"
+              ]
+            },
+            {
+              "name": "Matsudaira Koretada",
+              "aliases": [
+                "Koretada"
+              ]
+            },
+            {
+              "name": "Honda Shigetsugu",
+              "aliases": [
+                "Shigetsugu"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeda forces",
+          "belligerents": [
+            "Takeda clan"
+          ],
+          "commanders": [
+            {
+              "name": "Takeda Katsuyori",
+              "aliases": [
+                "Katsuyori"
+              ]
+            },
+            {
+              "name": "Takeda Nobukado",
+              "aliases": [
+                "Nobukado"
+              ]
+            },
+            {
+              "name": "Takeda Nobuzane",
+              "aliases": [
+                "Nobuzane"
+              ]
+            },
+            {
+              "name": "Takeda Nobutatsu",
+              "aliases": [
+                "Nobutatsu"
+              ]
+            },
+            {
+              "name": "Takeda Nobutoyo",
+              "aliases": [
+                "Nobutoyo"
+              ]
+            },
+            {
+              "name": "Anayama Nobutada",
+              "aliases": [
+                "Anayama"
+              ]
+            },
+            {
+              "name": "Oyamada Nobushige",
+              "aliases": [
+                "Oyamada"
+              ]
+            },
+            {
+              "name": "Yamagata Masakage",
+              "aliases": [
+                "Yamagata"
+              ]
+            },
+            {
+              "name": "Naitō Masatoyo",
+              "aliases": [
+                "Naito",
+                "Naito Masatoyo"
+              ]
+            },
+            {
+              "name": "Baba Nobufusa",
+              "aliases": [
+                "Baba Nobuharu",
+                "Baba"
+              ]
+            },
+            {
+              "name": "Sanada Masayuki",
+              "aliases": [
+                "Masayuki"
+              ]
+            },
+            {
+              "name": "Sanada Nobutsuna",
+              "aliases": [
+                "Nobutsuna"
+              ]
+            },
+            {
+              "name": "Sanada Masateru",
+              "aliases": [
+                "Masateru"
+              ]
+            },
+            {
+              "name": "Tsuchiya Masatsugu",
+              "aliases": [
+                "Tsuchiya"
+              ]
+            },
+            {
+              "name": "Obata Masamori",
+              "aliases": [
+                "Obata"
+              ]
+            },
+            {
+              "name": "Hara Masatane",
+              "aliases": [
+                "Hara"
+              ]
+            },
+            {
+              "name": "Saegusa Moritomo",
+              "aliases": [
+                "Saegusa"
+              ]
+            },
+            {
+              "name": "Kōsaka Masanobu",
+              "aliases": [
+                "Kosaka",
+                "Kōsaka",
+                "Kasuga Toratsuna",
+                "Kosaka Masanobu"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The infobox roster covers the siege and associated field battle. Some listed leaders had wider campaign roles. Claims about systematic three-rank volley fire are debated.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Nagashino",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Nagashino"
+        }
+      ]
+    },
+    {
+      "id": "breitenfeld-1631",
+      "name": "Battle of Breitenfeld",
+      "date": "17 September 1631",
+      "year": 1631,
+      "sides": [
+        {
+          "name": "Sweden and Saxony",
+          "belligerents": [
+            "Sweden",
+            "Saxony"
+          ],
+          "commanders": [
+            {
+              "name": "Gustavus Adolphus",
+              "aliases": [
+                "Gustav II Adolf",
+                "Gustav Adolf",
+                "Gustavus"
+              ]
+            },
+            {
+              "name": "Gustav Horn",
+              "aliases": [
+                "Horn"
+              ]
+            },
+            {
+              "name": "Johan Banér",
+              "aliases": [
+                "Johan Baner",
+                "Baner"
+              ]
+            },
+            {
+              "name": "Lennart Torstensson",
+              "aliases": [
+                "Torstensson"
+              ]
+            },
+            {
+              "name": "Johann George I",
+              "aliases": [
+                "John George I",
+                "Johann Georg I",
+                "John George I of Saxony"
+              ]
+            },
+            {
+              "name": "Hans Georg von Arnim",
+              "aliases": [
+                "Arnim",
+                "Hans Georg von Arnim-Boitzenburg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Imperial–League forces",
+          "belligerents": [
+            "Holy Roman Empire",
+            "Catholic League"
+          ],
+          "commanders": [
+            {
+              "name": "Count of Tilly",
+              "aliases": [
+                "Tilly",
+                "Johann Tserclaes",
+                "Johann Tserclaes Count of Tilly"
+              ]
+            },
+            {
+              "name": "Gottfried zu Pappenheim",
+              "aliases": [
+                "Pappenheim"
+              ]
+            },
+            {
+              "name": "Egon von Fürstenberg",
+              "aliases": [
+                "Furstenberg",
+                "Egon von Furstenberg"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The Swedish army won despite the early rout of its Saxon allies. This is the 1631 battle, not the second battle at Breitenfeld in 1642.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Breitenfeld",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Breitenfeld_(1631)"
+        }
+      ]
+    },
+    {
+      "id": "naseby-1645",
+      "name": "Battle of Naseby",
+      "date": "14 June 1645",
+      "year": 1645,
+      "sides": [
+        {
+          "name": "Parliamentarians",
+          "belligerents": [
+            "English Parliament",
+            "New Model Army"
+          ],
+          "commanders": [
+            {
+              "name": "Thomas Fairfax",
+              "aliases": [
+                "Sir Thomas Fairfax",
+                "Fairfax"
+              ]
+            },
+            {
+              "name": "Oliver Cromwell",
+              "aliases": [
+                "Cromwell"
+              ]
+            },
+            {
+              "name": "Henry Ireton",
+              "aliases": [
+                "Ireton"
+              ]
+            },
+            {
+              "name": "Philip Skippon",
+              "aliases": [
+                "Skippon"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Royalists",
+          "belligerents": [
+            "English Royalists"
+          ],
+          "commanders": [
+            {
+              "name": "Charles I",
+              "aliases": [
+                "Charles I of England",
+                "King Charles I"
+              ]
+            },
+            {
+              "name": "Prince Rupert",
+              "aliases": [
+                "Rupert of the Rhine",
+                "Rupert"
+              ]
+            },
+            {
+              "name": "Jacob Astley",
+              "aliases": [
+                "Lord Astley",
+                "Astley"
+              ]
+            },
+            {
+              "name": "Marmaduke Langdale",
+              "aliases": [
+                "Langdale"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The Parliamentarian New Model Army destroyed the main Royalist field army; the First English Civil War continued into 1646.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Naseby",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Naseby"
+        }
+      ]
+    },
+    {
+      "id": "vienna-1683",
+      "name": "Siege and Battle of Vienna",
+      "date": "14 July–12 September 1683",
+      "year": 1683,
+      "sides": [
+        {
+          "name": "Ottoman coalition",
+          "belligerents": [
+            "Ottoman Empire",
+            "Crimean Khanate",
+            "Upper Hungary",
+            "Moldavia",
+            "Transylvania",
+            "Wallachia"
+          ],
+          "commanders": [
+            {
+              "name": "Kara Mustafa Pasha",
+              "aliases": [
+                "Kara Mustafa",
+                "Merzifonlu Kara Mustafa Pasha"
+              ]
+            },
+            {
+              "name": "Murad Giray",
+              "aliases": [
+                "Murad I Giray"
+              ]
+            },
+            {
+              "name": "George Ducas",
+              "aliases": [
+                "Gheorghe Duca",
+                "Ducas"
+              ]
+            },
+            {
+              "name": "Șerban Cantacuzino",
+              "aliases": [
+                "Serban Cantacuzino",
+                "Cantacuzino"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Christian coalition",
+          "belligerents": [
+            "Holy Roman Empire",
+            "Habsburg monarchy",
+            "Austria",
+            "Polish–Lithuanian Commonwealth",
+            "Poland"
+          ],
+          "commanders": [
+            {
+              "name": "John III Sobieski",
+              "aliases": [
+                "Jan III Sobieski",
+                "Jan Sobieski",
+                "John Sobieski",
+                "Sobieski"
+              ]
+            },
+            {
+              "name": "Stanisław Jan Jabłonowski",
+              "aliases": [
+                "Jablonowski"
+              ]
+            },
+            {
+              "name": "Mikołaj Hieronim Sieniawski",
+              "aliases": [
+                "Sieniawski"
+              ]
+            },
+            {
+              "name": "Charles of Lorraine",
+              "aliases": [
+                "Charles V of Lorraine",
+                "Charles V Duke of Lorraine",
+                "Lorraine"
+              ]
+            },
+            {
+              "name": "Julius Francis of Saxe-Lauenburg",
+              "aliases": [
+                "Julius Francis",
+                "Julius Franz"
+              ]
+            },
+            {
+              "name": "John George III of Saxony",
+              "aliases": [
+                "John George III",
+                "Johann Georg III"
+              ]
+            },
+            {
+              "name": "Georg Friedrich of Waldeck",
+              "aliases": [
+                "George Frederick of Waldeck",
+                "Waldeck"
+              ]
+            },
+            {
+              "name": "Ernst Rüdiger von Starhemberg",
+              "aliases": [
+                "Count Starhemberg",
+                "Starhemberg",
+                "Ernst Rudiger von Starhemberg"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "The siege lasted from July; the relief battle on September 12 ended it. Starhemberg commanded the city garrison, while the other coalition leaders commanded the relief army.",
+      "sources": [
+        {
+          "title": "Wikipedia — Siege and Battle of Vienna",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna"
+        }
+      ]
+    },
+    {
+      "id": "blenheim-1704",
+      "name": "Battle of Blenheim",
+      "date": "13 August 1704",
+      "year": 1704,
+      "sides": [
+        {
+          "name": "Grand Alliance",
+          "belligerents": [
+            "England",
+            "Holy Roman Empire",
+            "Dutch Republic",
+            "Scotland"
+          ],
+          "commanders": [
+            {
+              "name": "John Churchill",
+              "aliases": [
+                "Duke of Marlborough",
+                "Marlborough",
+                "John Churchill 1st Duke of Marlborough",
+                "Churchill"
+              ]
+            },
+            {
+              "name": "Eugene of Savoy",
+              "aliases": [
+                "Prince Eugene",
+                "Eugene",
+                "Eugen of Savoy"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "France and Bavaria",
+          "belligerents": [
+            "France",
+            "Bavaria"
+          ],
+          "commanders": [
+            {
+              "name": "Camille d’Hostun, Duke of Tallard",
+              "aliases": [
+                "Camille d'Hostun",
+                "Duke of Tallard",
+                "Tallard"
+              ]
+            },
+            {
+              "name": "Ferdinand de Marsin",
+              "aliases": [
+                "Marsin"
+              ]
+            },
+            {
+              "name": "Maximilian II Emanuel",
+              "aliases": [
+                "Maximilian Emanuel",
+                "Max Emanuel"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The Grand Alliance won and captured Tallard. The date is Gregorian; contemporary English accounts may use August 2, Old Style.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Blenheim",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Blenheim"
+        }
+      ]
+    },
+    {
+      "id": "poltava-1709",
+      "name": "Battle of Poltava",
+      "date": "8 July 1709",
+      "year": 1709,
+      "sides": [
+        {
+          "name": "Swedish coalition",
+          "belligerents": [
+            "Swedish Empire",
+            "Mazepa’s Cossack forces"
+          ],
+          "commanders": [
+            {
+              "name": "Charles XII",
+              "aliases": [
+                "Charles XII of Sweden",
+                "Karl XII"
+              ]
+            },
+            {
+              "name": "Carl Gustav Rehnskiöld",
+              "aliases": [
+                "Carl Gustaf Rehnskiold",
+                "Rehnskiold",
+                "Carl Gustav Rehnskiold"
+              ]
+            },
+            {
+              "name": "Carl Gustaf Creutz",
+              "aliases": [
+                "Creutz"
+              ]
+            },
+            {
+              "name": "Adam Ludwig Lewenhaupt",
+              "aliases": [
+                "Lewenhaupt"
+              ]
+            },
+            {
+              "name": "Hugo Johan Hamilton",
+              "aliases": [
+                "Hamilton"
+              ]
+            },
+            {
+              "name": "Wolmar Anton von Schlippenbach",
+              "aliases": [
+                "Schlippenbach"
+              ]
+            },
+            {
+              "name": "Carl Gustaf Roos",
+              "aliases": [
+                "Roos"
+              ]
+            },
+            {
+              "name": "Ivan Mazepa",
+              "aliases": [
+                "Mazepa"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Russian coalition",
+          "belligerents": [
+            "Tsardom of Russia",
+            "Pro-Russian Cossack forces",
+            "Kalmyk Khanate"
+          ],
+          "commanders": [
+            {
+              "name": "Peter I",
+              "aliases": [
+                "Peter the Great",
+                "Pyotr I"
+              ]
+            },
+            {
+              "name": "Boris Sheremetev",
+              "aliases": [
+                "Sheremetev",
+                "Sheremetyev"
+              ]
+            },
+            {
+              "name": "Alexander Menshikov",
+              "aliases": [
+                "Aleksandr Menshikov",
+                "Menshikov"
+              ]
+            },
+            {
+              "name": "Jacob Bruce",
+              "aliases": [
+                "James Bruce",
+                "Yakov Bruce",
+                "Bruce"
+              ]
+            },
+            {
+              "name": "Ivan Skoropadsky",
+              "aliases": [
+                "Ivan Skoropadskyi",
+                "Skoropadsky"
+              ]
+            },
+            {
+              "name": "Semyon Paliy",
+              "aliases": [
+                "Semen Paliy",
+                "Semen Palii",
+                "Paliy"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "Cossack forces were divided between the two coalitions. Charles XII was wounded before the battle, and Rehnskiöld directed the Swedish army. July 8 is Gregorian; June 27 is the Julian date.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Poltava",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Poltava"
+        }
+      ]
+    },
+    {
+      "id": "culloden-1746",
+      "name": "Battle of Culloden",
+      "date": "16 April 1746",
+      "year": 1746,
+      "sides": [
+        {
+          "name": "British government",
+          "belligerents": [
+            "British government"
+          ],
+          "commanders": [
+            {
+              "name": "Duke of Cumberland",
+              "aliases": [
+                "William Augustus",
+                "Prince William Augustus",
+                "Cumberland"
+              ]
+            },
+            {
+              "name": "Earl of Albemarle",
+              "aliases": [
+                "Willem van Keppel",
+                "William van Keppel",
+                "Albemarle"
+              ]
+            },
+            {
+              "name": "John Huske",
+              "aliases": [
+                "Huske"
+              ]
+            },
+            {
+              "name": "John Mordaunt",
+              "aliases": [
+                "Mordaunt"
+              ]
+            },
+            {
+              "name": "Henry Hawley",
+              "aliases": [
+                "Hawley"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jacobites",
+          "belligerents": [
+            "Jacobites"
+          ],
+          "commanders": [
+            {
+              "name": "Charles Edward Stuart",
+              "aliases": [
+                "Bonnie Prince Charlie",
+                "Young Pretender",
+                "Charles Stuart"
+              ]
+            },
+            {
+              "name": "George Murray",
+              "aliases": [
+                "Lord George Murray",
+                "Murray"
+              ]
+            },
+            {
+              "name": "Donald Cameron",
+              "aliases": [
+                "Donald Cameron of Lochiel",
+                "Lochiel",
+                "Cameron"
+              ]
+            },
+            {
+              "name": "John O’Sullivan",
+              "aliases": [
+                "John O'Sullivan",
+                "O'Sullivan",
+                "OSullivan"
+              ]
+            },
+            {
+              "name": "John Drummond",
+              "aliases": [
+                "Lord John Drummond"
+              ]
+            },
+            {
+              "name": "James Drummond",
+              "aliases": [
+                "Duke of Perth",
+                "Perth"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The government victory ended the Jacobite rising of 1745. This was a dynastic civil conflict, not a simple England-versus-Scotland battle.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Culloden",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Culloden"
+        }
+      ]
+    },
+    {
+      "id": "plassey-1757",
+      "name": "Battle of Plassey",
+      "date": "23 June 1757",
+      "year": 1757,
+      "sides": [
+        {
+          "name": "Company and defectors",
+          "belligerents": [
+            "Great Britain",
+            "British East India Company",
+            "Bengali defectors"
+          ],
+          "commanders": [
+            {
+              "name": "Robert Clive",
+              "aliases": [
+                "Clive",
+                "Clive of India"
+              ]
+            },
+            {
+              "name": "Major Kilpatrick",
+              "aliases": [
+                "Kilpatrick"
+              ]
+            },
+            {
+              "name": "Major Grant",
+              "aliases": [
+                "Grant"
+              ]
+            },
+            {
+              "name": "Eyre Coote",
+              "aliases": [
+                "Coote"
+              ]
+            },
+            {
+              "name": "Mir Jafar",
+              "aliases": [
+                "Mir Jaffar",
+                "Jafar"
+              ]
+            },
+            {
+              "name": "Mir Miran",
+              "aliases": [
+                "Miran"
+              ]
+            },
+            {
+              "name": "Yar Lutuf Khan",
+              "aliases": [
+                "Yar Lutf Khan"
+              ]
+            },
+            {
+              "name": "Rai Durlabh",
+              "aliases": [
+                "Rai Durlav",
+                "Durlabh"
+              ]
+            },
+            {
+              "name": "Raja Rajballabh",
+              "aliases": [
+                "Rajballabh"
+              ]
+            },
+            {
+              "name": "Raja Krishnachandra Roy",
+              "aliases": [
+                "Krishnachandra Roy",
+                "Krishnachandra"
+              ]
+            },
+            {
+              "name": "Jagat Seth Mehtab Chand",
+              "aliases": [
+                "Mehtab Chand",
+                "Jagat Seth"
+              ]
+            },
+            {
+              "name": "Omichund",
+              "aliases": [
+                "Amir Chand",
+                "Amin Chand"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bengal and French allies",
+          "belligerents": [
+            "Bengal State",
+            "France",
+            "French East India Company"
+          ],
+          "commanders": [
+            {
+              "name": "Siraj ud-Daulah",
+              "aliases": [
+                "Siraj-ud-Daulah",
+                "Siraj ud Daula",
+                "Siraj"
+              ]
+            },
+            {
+              "name": "Diwan Mohanlal",
+              "aliases": [
+                "Mohanlal",
+                "Mohan Lal"
+              ]
+            },
+            {
+              "name": "Mir Madan",
+              "aliases": [
+                "Madan"
+              ]
+            },
+            {
+              "name": "St. Frais",
+              "aliases": [
+                "Saint Frais",
+                "Saint-Frais",
+                "St Frais"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The infobox places Mir Jafar and the conspirators on the victorious side. Its roster includes political and financial supporters as well as field commanders; several Bengali contingents withheld support from the nawab.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of Plassey",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Plassey"
+        }
+      ]
+    },
+    {
+      "id": "plains-of-abraham-1759",
+      "name": "Battle of the Plains of Abraham",
+      "date": "13 September 1759",
+      "year": 1759,
+      "sides": [
+        {
+          "name": "British forces",
+          "belligerents": [
+            "Great Britain",
+            "British America"
+          ],
+          "commanders": [
+            {
+              "name": "James Wolfe",
+              "aliases": [
+                "Wolfe"
+              ]
+            },
+            {
+              "name": "Robert Monckton",
+              "aliases": [
+                "Monckton"
+              ]
+            },
+            {
+              "name": "George Townshend",
+              "aliases": [
+                "Townshend"
+              ]
+            },
+            {
+              "name": "William Howe",
+              "aliases": [
+                "Howe"
+              ]
+            },
+            {
+              "name": "James Murray",
+              "aliases": [
+                "Murray"
+              ]
+            },
+            {
+              "name": "Charles Saunders",
+              "aliases": [
+                "Saunders"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "French coalition",
+          "belligerents": [
+            "France",
+            "French Canada",
+            "Mi’kmaq",
+            "Maliseet",
+            "Abenaki",
+            "Potawatomi",
+            "Odawa",
+            "Wendat"
+          ],
+          "commanders": [
+            {
+              "name": "Louis-Joseph de Montcalm",
+              "aliases": [
+                "Montcalm",
+                "Marquis de Montcalm"
+              ]
+            },
+            {
+              "name": "François Gaston de Lévis",
+              "aliases": [
+                "Levis",
+                "Chevalier de Levis",
+                "Francois Gaston de Levis"
+              ]
+            },
+            {
+              "name": "Louis Du Pont Duchambon de Vergor",
+              "aliases": [
+                "Vergor"
+              ]
+            },
+            {
+              "name": "Charles Michel de Langlade",
+              "aliases": [
+                "Langlade"
+              ]
+            },
+            {
+              "name": "Jean-Baptiste Nicolas Roch de Ramezay",
+              "aliases": [
+                "Ramezay"
+              ]
+            },
+            {
+              "name": "Louis Antoine de Bougainville",
+              "aliases": [
+                "Bougainville"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Also called the Battle of Quebec. Wolfe and Montcalm were mortally wounded. The infobox includes leaders involved in the wider siege and defence, not only officers present in the brief main engagement.",
+      "sources": [
+        {
+          "title": "Wikipedia — Battle of the Plains of Abraham",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"
+        }
+      ]
+    },
+    {
+      "id": "yorktown-1781",
+      "name": "Siege of Yorktown",
+      "date": "28 September–19 October 1781",
+      "year": 1781,
+      "sides": [
+        {
+          "name": "Franco-American forces",
+          "belligerents": [
+            "United States",
+            "France"
+          ],
+          "commanders": [
+            {
+              "name": "George Washington",
+              "aliases": [
+                "Washington"
+              ]
+            },
+            {
+              "name": "Benjamin Lincoln",
+              "aliases": [
+                "Lincoln"
+              ]
+            },
+            {
+              "name": "Henry Knox",
+              "aliases": [
+                "Knox"
+              ]
+            },
+            {
+              "name": "Alexander Hamilton",
+              "aliases": [
+                "Hamilton"
+              ]
+            },
+            {
+              "name": "Friedrich von Steuben",
+              "aliases": [
+                "Baron von Steuben",
+                "von Steuben",
+                "Steuben"
+              ]
+            },
+            {
+              "name": "Thomas Nelson",
+              "aliases": [
+                "Thomas Nelson Jr",
+                "Nelson"
+              ]
+            },
+            {
+              "name": "Moses Hazen",
+              "aliases": [
+                "Hazen"
+              ]
+            },
+            {
+              "name": "Henry Dearborn",
+              "aliases": [
+                "Dearborn"
+              ]
+            },
+            {
+              "name": "Marquis de Lafayette",
+              "aliases": [
+                "Lafayette",
+                "Gilbert du Motier"
+              ]
+            },
+            {
+              "name": "Comte de Rochambeau",
+              "aliases": [
+                "Rochambeau",
+                "Jean-Baptiste Donatien de Vimeur"
+              ]
+            },
+            {
+              "name": "François Marie d’Aboville",
+              "aliases": [
+                "Francois Marie d'Aboville",
+                "Comte d'Aboville",
+                "d'Aboville",
+                "Aboville",
+                "Francois Marie d’Aboville"
+              ]
+            },
+            {
+              "name": "Marquis de Choisy",
+              "aliases": [
+                "Choisy"
+              ]
+            },
+            {
+              "name": "Comte de Grasse",
+              "aliases": [
+                "de Grasse",
+                "Francois Joseph Paul de Grasse",
+                "Grasse"
+              ]
+            },
+            {
+              "name": "Christian of the Palatinate-Zweibrücken",
+              "aliases": [
+                "Comte de Deux-Ponts",
+                "Comté de Deux-Ponts",
+                "Deux-Ponts",
+                "Christian von Zweibrucken",
+                "Christian of the Palatinate-Zweibrucken"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "British and German forces",
+          "belligerents": [
+            "Great Britain",
+            "Loyalists",
+            "Hesse-Kassel",
+            "Ansbach–Bayreuth"
+          ],
+          "commanders": [
+            {
+              "name": "Charles Cornwallis",
+              "aliases": [
+                "Lord Cornwallis",
+                "Cornwallis"
+              ]
+            },
+            {
+              "name": "Charles O’Hara",
+              "aliases": [
+                "Charles O'Hara",
+                "O'Hara",
+                "OHara"
+              ]
+            },
+            {
+              "name": "Banastre Tarleton",
+              "aliases": [
+                "Tarleton"
+              ]
+            },
+            {
+              "name": "Robert Abercromby",
+              "aliases": [
+                "Abercromby"
+              ]
+            },
+            {
+              "name": "Thomas Dundas",
+              "aliases": [
+                "Dundas"
+              ]
+            },
+            {
+              "name": "Thomas Symonds",
+              "aliases": [
+                "Symonds"
+              ]
+            },
+            {
+              "name": "Matthias von Fuchs",
+              "aliases": [
+                "von Fuchs",
+                "Fuchs"
+              ]
+            },
+            {
+              "name": "August von Salzburg",
+              "aliases": [
+                "von Salzburg",
+                "Salzburg"
+              ]
+            },
+            {
+              "name": "Johann von Seybothen",
+              "aliases": [
+                "von Seybothen",
+                "Seybothen"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The roster covers the siege, Gloucester operations and supporting fleet. The Franco-American victory led to Cornwallis’s surrender but did not formally end the war until the 1783 peace.",
+      "sources": [
+        {
+          "title": "Wikipedia — Siege of Yorktown",
+          "url": "https://en.wikipedia.org/wiki/Siege_of_Yorktown"
+        }
+      ]
+    },
+    {
+      "id": "austerlitz",
+      "name": "Battle of Austerlitz",
+      "date": "2 December 1805",
+      "year": 1805,
+      "sides": [
+        {
+          "name": "France and Italy",
+          "belligerents": [
+            "French Empire",
+            "Kingdom of Italy"
+          ],
+          "commanders": [
+            {
+              "name": "Napoleon I",
+              "aliases": [
+                "Napoleon",
+                "Napoleon Bonaparte"
+              ]
+            },
+            {
+              "name": "Jean-Baptiste Bessières",
+              "aliases": [
+                "Bessieres"
+              ]
+            },
+            {
+              "name": "Jean-Baptiste Bernadotte",
+              "aliases": [
+                "Bernadotte"
+              ]
+            },
+            {
+              "name": "Louis-Nicolas Davout",
+              "aliases": [
+                "Davout",
+                "Davoust"
+              ]
+            },
+            {
+              "name": "Jean-de-Dieu Soult",
+              "aliases": [
+                "Soult"
+              ]
+            },
+            {
+              "name": "Jean Lannes",
+              "aliases": [
+                "Lannes"
+              ]
+            },
+            {
+              "name": "Géraud Duroc",
+              "aliases": [
+                "Duroc"
+              ]
+            },
+            {
+              "name": "Joachim Murat",
+              "aliases": [
+                "Murat"
+              ]
+            },
+            {
+              "name": "Louis-Vincent-Joseph Le Blond de Saint-Hilaire",
+              "aliases": [
+                "Saint-Hilaire",
+                "Saint Hilaire"
+              ]
+            },
+            {
+              "name": "Nicolas Oudinot",
+              "aliases": [
+                "Oudinot"
+              ]
+            },
+            {
+              "name": "Claude Juste Alexandre Legrand",
+              "aliases": [
+                "Legrand"
+              ]
+            },
+            {
+              "name": "Dominique Vandamme",
+              "aliases": [
+                "Vandamme"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Russia and Austria",
+          "belligerents": [
+            "Russian Empire",
+            "Austrian Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Alexander I",
+              "aliases": [
+                "Alexander I of Russia",
+                "Tsar Alexander"
+              ]
+            },
+            {
+              "name": "Mikhail Kutuzov",
+              "aliases": [
+                "Kutuzov"
+              ]
+            },
+            {
+              "name": "Pyotr Bagration",
+              "aliases": [
+                "Bagration"
+              ]
+            },
+            {
+              "name": "Konstantin Pavlovich",
+              "aliases": [
+                "Constantine Pavlovich",
+                "Grand Duke Constantine"
+              ]
+            },
+            {
+              "name": "Friedrich Wilhelm von Buxhoeveden",
+              "aliases": [
+                "Buxhoeveden",
+                "Buxhowden",
+                "Buxhöwden"
+              ]
+            },
+            {
+              "name": "Mikhail Miloradovich",
+              "aliases": [
+                "Miloradovich"
+              ]
+            },
+            {
+              "name": "Dmitry Dokhturov",
+              "aliases": [
+                "Dokhturov"
+              ]
+            },
+            {
+              "name": "Louis de Langeron",
+              "aliases": [
+                "Langeron"
+              ]
+            },
+            {
+              "name": "Ignaty Przybyszewski",
+              "aliases": [
+                "Przybyszewski"
+              ]
+            },
+            {
+              "name": "Francis I",
+              "aliases": [
+                "Francis I of Austria",
+                "Francis II",
+                "Franz I"
+              ]
+            },
+            {
+              "name": "Franz von Weyrother",
+              "aliases": [
+                "Weyrother"
+              ]
+            },
+            {
+              "name": "Michael von Kienmayer",
+              "aliases": [
+                "Kienmayer"
+              ]
+            },
+            {
+              "name": "Johann Kollowrat",
+              "aliases": [
+                "Kollowrat",
+                "Kolowrat"
+              ]
+            },
+            {
+              "name": "Johann I Joseph",
+              "aliases": [
+                "Johann I of Liechtenstein",
+                "Johann von Liechtenstein"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The French-led army defeated the Russian–Austrian coalition.",
+      "sources": [
+        {
+          "title": "Battle of Austerlitz — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Austerlitz"
+        }
+      ]
+    },
+    {
+      "id": "trafalgar",
+      "name": "Battle of Trafalgar",
+      "date": "21 October 1805",
+      "year": 1805,
+      "sides": [
+        {
+          "name": "United Kingdom",
+          "belligerents": [
+            "United Kingdom"
+          ],
+          "commanders": [
+            {
+              "name": "Horatio Nelson",
+              "aliases": [
+                "Nelson",
+                "Lord Nelson"
+              ]
+            },
+            {
+              "name": "Cuthbert Collingwood",
+              "aliases": [
+                "Collingwood"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "France and Spain",
+          "belligerents": [
+            "France",
+            "Spain"
+          ],
+          "commanders": [
+            {
+              "name": "Pierre-Charles Villeneuve",
+              "aliases": [
+                "Villeneuve",
+                "Pierre Charles Villeneuve"
+              ]
+            },
+            {
+              "name": "Federico Gravina",
+              "aliases": [
+                "Gravina"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Nelson was killed during the British victory.",
+      "sources": [
+        {
+          "title": "Battle of Trafalgar — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Trafalgar"
+        }
+      ]
+    },
+    {
+      "id": "waterloo",
+      "name": "Battle of Waterloo",
+      "date": "18 June 1815",
+      "year": 1815,
+      "sides": [
+        {
+          "name": "France",
+          "belligerents": [
+            "France"
+          ],
+          "commanders": [
+            {
+              "name": "Napoleon Bonaparte",
+              "aliases": [
+                "Napoleon",
+                "Napoleon I"
+              ]
+            },
+            {
+              "name": "Michel Ney",
+              "aliases": [
+                "Ney"
+              ]
+            },
+            {
+              "name": "Jean-de-Dieu Soult",
+              "aliases": [
+                "Soult"
+              ]
+            },
+            {
+              "name": "Jean-Baptiste Drouet",
+              "aliases": [
+                "Drouet",
+                "D'Erlon",
+                "Erlon"
+              ]
+            },
+            {
+              "name": "Honoré Charles Reille",
+              "aliases": [
+                "Reille"
+              ]
+            },
+            {
+              "name": "Georges Mouton",
+              "aliases": [
+                "Mouton",
+                "Lobau"
+              ]
+            },
+            {
+              "name": "François de Kellermann",
+              "aliases": [
+                "Kellermann",
+                "Francois Etienne de Kellermann"
+              ]
+            },
+            {
+              "name": "Édouard Milhaud",
+              "aliases": [
+                "Milhaud"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Seventh Coalition",
+          "belligerents": [
+            "United Kingdom",
+            "Prussia",
+            "Netherlands",
+            "Hanover",
+            "Nassau",
+            "Brunswick"
+          ],
+          "commanders": [
+            {
+              "name": "Duke of Wellington",
+              "aliases": [
+                "Wellington",
+                "Arthur Wellesley",
+                "Wellesley"
+              ]
+            },
+            {
+              "name": "Earl of Uxbridge",
+              "aliases": [
+                "Uxbridge",
+                "Henry Paget",
+                "Paget"
+              ]
+            },
+            {
+              "name": "Rowland Hill",
+              "aliases": [
+                "Hill"
+              ]
+            },
+            {
+              "name": "Thomas Picton",
+              "aliases": [
+                "Picton"
+              ]
+            },
+            {
+              "name": "William, Prince of Orange",
+              "aliases": [
+                "Prince of Orange",
+                "William II"
+              ]
+            },
+            {
+              "name": "Gebhard von Blücher",
+              "aliases": [
+                "Blucher",
+                "Gebhard Leberecht von Blucher"
+              ]
+            },
+            {
+              "name": "August von Gneisenau",
+              "aliases": [
+                "Gneisenau"
+              ]
+            },
+            {
+              "name": "Graf von Zieten",
+              "aliases": [
+                "Zieten",
+                "Ziethen"
+              ]
+            },
+            {
+              "name": "Ludwig von Pirch",
+              "aliases": [
+                "Pirch",
+                "Pirch I"
+              ]
+            },
+            {
+              "name": "Friedrich von Bülow",
+              "aliases": [
+                "Bulow",
+                "Friedrich Wilhelm von Bulow"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "Wellington's multinational army and Blücher's Prussians defeated Napoleon.",
+      "sources": [
+        {
+          "title": "Battle of Waterloo — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+        }
+      ]
+    },
+    {
+      "id": "new-orleans-1815",
+      "name": "Battle of New Orleans",
+      "date": "8 January 1815",
+      "year": 1815,
+      "sides": [
+        {
+          "name": "United States",
+          "belligerents": [
+            "United States"
+          ],
+          "commanders": [
+            {
+              "name": "Andrew Jackson",
+              "aliases": [
+                "Jackson"
+              ]
+            },
+            {
+              "name": "Daniel Patterson",
+              "aliases": [
+                "Patterson"
+              ]
+            },
+            {
+              "name": "Pushmataha",
+              "aliases": [
+                "Pushmatahaw"
+              ]
+            },
+            {
+              "name": "Jean Lafitte",
+              "aliases": [
+                "Lafitte",
+                "Jean Laffite",
+                "Laffite"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "United Kingdom",
+          "belligerents": [
+            "United Kingdom"
+          ],
+          "commanders": [
+            {
+              "name": "Edward Pakenham",
+              "aliases": [
+                "Pakenham"
+              ]
+            },
+            {
+              "name": "Samuel Gibbs",
+              "aliases": [
+                "Gibbs"
+              ]
+            },
+            {
+              "name": "John Keane",
+              "aliases": [
+                "Keane"
+              ]
+            },
+            {
+              "name": "John Lambert",
+              "aliases": [
+                "Lambert"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Fought after the Treaty of Ghent was signed, but before ratification and news of peace reached the armies.",
+      "sources": [
+        {
+          "title": "Battle of New Orleans — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_New_Orleans"
+        }
+      ]
+    },
+    {
+      "id": "san-jacinto-1836",
+      "name": "Battle of San Jacinto",
+      "date": "21 April 1836",
+      "year": 1836,
+      "sides": [
+        {
+          "name": "Mexico",
+          "belligerents": [
+            "Centralist Republic of Mexico"
+          ],
+          "commanders": [
+            {
+              "name": "Antonio López de Santa Anna",
+              "aliases": [
+                "Santa Anna",
+                "Antonio Lopez de Santa Anna",
+                "Santa Ana"
+              ]
+            },
+            {
+              "name": "Manuel Fernández Castrillón",
+              "aliases": [
+                "Castrillon",
+                "Fernandez Castrillon"
+              ]
+            },
+            {
+              "name": "Juan Almonte",
+              "aliases": [
+                "Almonte"
+              ]
+            },
+            {
+              "name": "Martín Perfecto de Cos",
+              "aliases": [
+                "Cos",
+                "Perfecto de Cos"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Texas",
+          "belligerents": [
+            "Republic of Texas"
+          ],
+          "commanders": [
+            {
+              "name": "Sam Houston",
+              "aliases": [
+                "Houston",
+                "Samuel Houston"
+              ]
+            },
+            {
+              "name": "Thomas J. Rusk",
+              "aliases": [
+                "Rusk",
+                "Thomas Rusk"
+              ]
+            },
+            {
+              "name": "James C. Neill",
+              "aliases": [
+                "Neill",
+                "James Neill"
+              ]
+            },
+            {
+              "name": "Mirabeau B. Lamar",
+              "aliases": [
+                "Lamar",
+                "Mirabeau Lamar"
+              ]
+            },
+            {
+              "name": "Sidney Sherman",
+              "aliases": [
+                "Sherman"
+              ]
+            },
+            {
+              "name": "Juan Seguín",
+              "aliases": [
+                "Seguin"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "Santa Anna was captured the following day; the victory secured Texian control.",
+      "sources": [
+        {
+          "title": "Battle of San Jacinto — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_San_Jacinto"
+        }
+      ]
+    },
+    {
+      "id": "gettysburg",
+      "name": "Battle of Gettysburg",
+      "date": "1–3 July 1863",
+      "year": 1863,
+      "sides": [
+        {
+          "name": "Union",
+          "belligerents": [
+            "United States"
+          ],
+          "commanders": [
+            {
+              "name": "George G. Meade",
+              "aliases": [
+                "Meade",
+                "George Meade"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Confederacy",
+          "belligerents": [
+            "Confederate States"
+          ],
+          "commanders": [
+            {
+              "name": "Robert E. Lee",
+              "aliases": [
+                "Lee",
+                "Robert Lee"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The Union victory halted Lee's invasion of the North.",
+      "sources": [
+        {
+          "title": "Battle of Gettysburg — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg"
+        }
+      ]
+    },
+    {
+      "id": "sedan-1870",
+      "name": "Battle of Sedan",
+      "date": "1–2 September 1870",
+      "year": 1870,
+      "sides": [
+        {
+          "name": "German coalition",
+          "belligerents": [
+            "North German Confederation",
+            "Prussia",
+            "Saxony",
+            "Bavaria"
+          ],
+          "commanders": [
+            {
+              "name": "Wilhelm I",
+              "aliases": [
+                "William I",
+                "Wilhelm I of Prussia"
+              ]
+            },
+            {
+              "name": "Otto von Bismarck",
+              "aliases": [
+                "Bismarck"
+              ]
+            },
+            {
+              "name": "Helmuth von Moltke",
+              "aliases": [
+                "Moltke",
+                "Moltke the Elder",
+                "Helmuth von Moltke the Elder"
+              ]
+            },
+            {
+              "name": "Friedrich Wilhelm",
+              "aliases": [
+                "Crown Prince Friedrich Wilhelm",
+                "Frederick III",
+                "Friedrich III"
+              ]
+            },
+            {
+              "name": "Albert, Prince of Saxony",
+              "aliases": [
+                "Albert of Saxony",
+                "Prince Albert of Saxony",
+                "Albert"
+              ]
+            },
+            {
+              "name": "Ludwig von der Tann",
+              "aliases": [
+                "Von der Tann",
+                "Tann"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "France",
+          "belligerents": [
+            "French Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Napoleon III",
+              "aliases": [
+                "Louis Napoleon",
+                "Louis-Napoleon Bonaparte"
+              ]
+            },
+            {
+              "name": "Patrice MacMahon",
+              "aliases": [
+                "MacMahon",
+                "Patrice de MacMahon"
+              ]
+            },
+            {
+              "name": "Auguste-Alexandre Ducrot",
+              "aliases": [
+                "Ducrot"
+              ]
+            },
+            {
+              "name": "Félix Wimpffen",
+              "aliases": [
+                "Wimpffen",
+                "Emmanuel Felix de Wimpffen"
+              ]
+            },
+            {
+              "name": "Jean Auguste Margueritte",
+              "aliases": [
+                "Margueritte"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Napoleon III and the Army of Châlons were captured; the war continued under a new French government.",
+      "sources": [
+        {
+          "title": "Battle of Sedan — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Sedan"
+        }
+      ]
+    },
+    {
+      "id": "adwa",
+      "name": "Battle of Adwa",
+      "date": "1 March 1896",
+      "year": 1896,
+      "sides": [
+        {
+          "name": "Ethiopia",
+          "belligerents": [
+            "Ethiopian Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Menelik II",
+              "aliases": [
+                "Menelik",
+                "Menilek II"
+              ]
+            },
+            {
+              "name": "Taytu Betul",
+              "aliases": [
+                "Taytu",
+                "Taitu Betul",
+                "Taitu"
+              ]
+            },
+            {
+              "name": "Ras Makonnen",
+              "aliases": [
+                "Makonnen",
+                "Makonnen Wolde Mikael"
+              ]
+            },
+            {
+              "name": "Ras Mikael",
+              "aliases": [
+                "Mikael",
+                "Mikael of Wollo"
+              ]
+            },
+            {
+              "name": "Ras Alula",
+              "aliases": [
+                "Alula",
+                "Alula Engida"
+              ]
+            },
+            {
+              "name": "Ras Mengesha",
+              "aliases": [
+                "Mengesha",
+                "Mengesha Yohannes"
+              ]
+            },
+            {
+              "name": "Tekle Haymanot",
+              "aliases": [
+                "Tekle Haymanot of Gojjam",
+                "Takla Haymanot"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Italy",
+          "belligerents": [
+            "Kingdom of Italy"
+          ],
+          "commanders": [
+            {
+              "name": "Oreste Baratieri",
+              "aliases": [
+                "Baratieri"
+              ]
+            },
+            {
+              "name": "Vittorio Dabormida",
+              "aliases": [
+                "Dabormida"
+              ]
+            },
+            {
+              "name": "Giuseppe Arimondi",
+              "aliases": [
+                "Arimondi"
+              ]
+            },
+            {
+              "name": "Giuseppe Ellena",
+              "aliases": [
+                "Ellena"
+              ]
+            },
+            {
+              "name": "Matteo Albertone",
+              "aliases": [
+                "Albertone"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Italy subsequently recognized Ethiopian sovereignty.",
+      "sources": [
+        {
+          "title": "Battle of Adwa — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa"
+        }
+      ]
+    },
+    {
+      "id": "omdurman",
+      "name": "Battle of Omdurman",
+      "date": "2 September 1898",
+      "year": 1898,
+      "sides": [
+        {
+          "name": "Britain and Egypt",
+          "belligerents": [
+            "United Kingdom",
+            "Khedivate of Egypt"
+          ],
+          "commanders": [
+            {
+              "name": "Herbert Kitchener",
+              "aliases": [
+                "Kitchener",
+                "Horatio Herbert Kitchener",
+                "Lord Kitchener"
+              ]
+            },
+            {
+              "name": "Hector MacDonald",
+              "aliases": [
+                "MacDonald",
+                "Hector Macdonald"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mahdist State",
+          "belligerents": [
+            "Mahdist State"
+          ],
+          "commanders": [
+            {
+              "name": "Abdallahi ibn Muhammad",
+              "aliases": [
+                "Abdallahi",
+                "Abdullah al-Taashi",
+                "Khalifa Abdullah",
+                "Khalifa Abdallahi"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The Anglo-Egyptian victory was followed by the defeat of the remaining Mahdist forces in 1899.",
+      "sources": [
+        {
+          "title": "Battle of Omdurman — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Omdurman"
+        }
+      ]
+    },
+    {
+      "id": "tsushima",
+      "name": "Battle of Tsushima",
+      "date": "27–28 May 1905",
+      "year": 1905,
+      "sides": [
+        {
+          "name": "Japan",
+          "belligerents": [
+            "Empire of Japan"
+          ],
+          "commanders": [
+            {
+              "name": "Tōgō Heihachirō",
+              "aliases": [
+                "Togo",
+                "Heihachiro Togo"
+              ]
+            },
+            {
+              "name": "Kamimura Hikonojō",
+              "aliases": [
+                "Kamimura",
+                "Hikonojo Kamimura"
+              ]
+            },
+            {
+              "name": "Kataoka Shichirō",
+              "aliases": [
+                "Kataoka",
+                "Shichiro Kataoka"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Russia",
+          "belligerents": [
+            "Russian Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Zinovy Rozhestvensky",
+              "aliases": [
+                "Rozhestvensky",
+                "Rozhdestvensky",
+                "Zinovi Rozhestvensky"
+              ]
+            },
+            {
+              "name": "Nikolai Nebogatov",
+              "aliases": [
+                "Nebogatov"
+              ]
+            },
+            {
+              "name": "Oskar Enqvist",
+              "aliases": [
+                "Enqvist",
+                "Enkvist",
+                "Oskar Enkvist"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Japan destroyed or captured most of the Russian fleet.",
+      "sources": [
+        {
+          "title": "Battle of Tsushima — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Tsushima"
+        }
+      ]
+    },
+    {
+      "id": "tannenberg-1914",
+      "name": "Battle of Tannenberg",
+      "date": "26–30 August 1914",
+      "year": 1914,
+      "sides": [
+        {
+          "name": "Germany",
+          "belligerents": [
+            "German Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Paul von Hindenburg",
+              "aliases": [
+                "Hindenburg"
+              ]
+            },
+            {
+              "name": "Erich Ludendorff",
+              "aliases": [
+                "Ludendorff"
+              ]
+            },
+            {
+              "name": "Max Hoffmann",
+              "aliases": [
+                "Hoffmann",
+                "Max Hoffman"
+              ]
+            },
+            {
+              "name": "Hermann von François",
+              "aliases": [
+                "Francois",
+                "Hermann von Francois"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Russia",
+          "belligerents": [
+            "Russian Empire"
+          ],
+          "commanders": [
+            {
+              "name": "Alexander Samsonov",
+              "aliases": [
+                "Samsonov",
+                "Aleksandr Samsonov"
+              ]
+            },
+            {
+              "name": "Yakov Zhilinsky",
+              "aliases": [
+                "Zhilinsky",
+                "Zhilinskiy",
+                "Yakov Zhilinskiy"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The encirclement destroyed most of Russia's Second Army.",
+      "sources": [
+        {
+          "title": "Battle of Tannenberg — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Tannenberg"
+        }
+      ]
+    },
+    {
+      "id": "midway",
+      "name": "Battle of Midway",
+      "date": "4–7 June 1942",
+      "year": 1942,
+      "sides": [
+        {
+          "name": "United States",
+          "belligerents": [
+            "United States"
+          ],
+          "commanders": [
+            {
+              "name": "Chester Nimitz",
+              "aliases": [
+                "Nimitz",
+                "Chester W Nimitz"
+              ]
+            },
+            {
+              "name": "Frank Jack Fletcher",
+              "aliases": [
+                "Fletcher"
+              ]
+            },
+            {
+              "name": "Raymond Spruance",
+              "aliases": [
+                "Spruance"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Japan",
+          "belligerents": [
+            "Empire of Japan"
+          ],
+          "commanders": [
+            {
+              "name": "Isoroku Yamamoto",
+              "aliases": [
+                "Yamamoto",
+                "Yamamoto Isoroku"
+              ]
+            },
+            {
+              "name": "Nobutake Kondō",
+              "aliases": [
+                "Kondo",
+                "Kondo Nobutake"
+              ]
+            },
+            {
+              "name": "Chūichi Nagumo",
+              "aliases": [
+                "Nagumo",
+                "Nagumo Chuichi"
+              ]
+            },
+            {
+              "name": "Tamon Yamaguchi",
+              "aliases": [
+                "Yamaguchi",
+                "Yamaguchi Tamon"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "Four Japanese fleet carriers were lost.",
+      "sources": [
+        {
+          "title": "Battle of Midway — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Midway"
+        }
+      ]
+    },
+    {
+      "id": "stalingrad",
+      "name": "Battle of Stalingrad",
+      "date": "17 July 1942 – 2 February 1943",
+      "year": 1942,
+      "sides": [
+        {
+          "name": "Axis",
+          "belligerents": [
+            "Germany",
+            "Italy",
+            "Romania",
+            "Hungary",
+            "Independent State of Croatia"
+          ],
+          "commanders": [
+            {
+              "name": "Adolf Hitler",
+              "aliases": [
+                "Hitler"
+              ]
+            },
+            {
+              "name": "Franz Halder",
+              "aliases": [
+                "Halder"
+              ]
+            },
+            {
+              "name": "Kurt Zeitzler",
+              "aliases": [
+                "Zeitzler"
+              ]
+            },
+            {
+              "name": "Maximilian von Weichs",
+              "aliases": [
+                "Weichs"
+              ]
+            },
+            {
+              "name": "Friedrich Paulus",
+              "aliases": [
+                "Paulus"
+              ]
+            },
+            {
+              "name": "Hermann Hoth",
+              "aliases": [
+                "Hoth"
+              ]
+            },
+            {
+              "name": "Italo Gariboldi",
+              "aliases": [
+                "Gariboldi"
+              ]
+            },
+            {
+              "name": "Petre Dumitrescu",
+              "aliases": [
+                "Dumitrescu"
+              ]
+            },
+            {
+              "name": "Constantin Constantinescu-Claps",
+              "aliases": [
+                "Constantinescu-Claps",
+                "Constantinescu Claps",
+                "C. Constantinescu-Claps"
+              ]
+            },
+            {
+              "name": "Gusztáv Jány",
+              "aliases": [
+                "Jany"
+              ]
+            },
+            {
+              "name": "Erich von Manstein",
+              "aliases": [
+                "Manstein"
+              ]
+            },
+            {
+              "name": "Eberhard von Mackensen",
+              "aliases": [
+                "Mackensen",
+                "Eberhard v. Mackensen"
+              ]
+            },
+            {
+              "name": "Hermann Göring",
+              "aliases": [
+                "Goring",
+                "Goering"
+              ]
+            },
+            {
+              "name": "Wolfram von Richthofen",
+              "aliases": [
+                "Richthofen"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Soviet Union",
+          "belligerents": [
+            "Soviet Union"
+          ],
+          "commanders": [
+            {
+              "name": "Joseph Stalin",
+              "aliases": [
+                "Stalin",
+                "Josef Stalin",
+                "Iosif Stalin"
+              ]
+            },
+            {
+              "name": "Georgy Zhukov",
+              "aliases": [
+                "Zhukov",
+                "Georgi Zhukov"
+              ]
+            },
+            {
+              "name": "Aleksandr Vasilevsky",
+              "aliases": [
+                "Vasilevsky",
+                "Alexander Vasilevsky"
+              ]
+            },
+            {
+              "name": "Vasily Gordov",
+              "aliases": [
+                "Gordov"
+              ]
+            },
+            {
+              "name": "Andrey Yeryomenko",
+              "aliases": [
+                "Yeryomenko",
+                "Yeremenko",
+                "Eremenko",
+                "Andrei Yeremenko"
+              ]
+            },
+            {
+              "name": "Vasily Chuikov",
+              "aliases": [
+                "Chuikov"
+              ]
+            },
+            {
+              "name": "Mikhail Shumilov",
+              "aliases": [
+                "Shumilov"
+              ]
+            },
+            {
+              "name": "Nikolay Trufanov",
+              "aliases": [
+                "Trufanov"
+              ]
+            },
+            {
+              "name": "Fyodor Tolbukhin",
+              "aliases": [
+                "Tolbukhin",
+                "Fedor Tolbukhin"
+              ]
+            },
+            {
+              "name": "Vasily Gerasimenko",
+              "aliases": [
+                "Gerasimenko"
+              ]
+            },
+            {
+              "name": "Konstantin Rokossovsky",
+              "aliases": [
+                "Rokossovsky",
+                "Rokossovskiy"
+              ]
+            },
+            {
+              "name": "Ivan Galanin",
+              "aliases": [
+                "Galanin"
+              ]
+            },
+            {
+              "name": "Pavel Batov",
+              "aliases": [
+                "Batov"
+              ]
+            },
+            {
+              "name": "Aleksey Zhadov",
+              "aliases": [
+                "Zhadov",
+                "Alexei Zhadov"
+              ]
+            },
+            {
+              "name": "Nikolai Vatutin",
+              "aliases": [
+                "Vatutin"
+              ]
+            },
+            {
+              "name": "Kirill Moskalenko",
+              "aliases": [
+                "Moskalenko"
+              ]
+            },
+            {
+              "name": "Dmitry Lelyushenko",
+              "aliases": [
+                "Lelyushenko"
+              ]
+            },
+            {
+              "name": "Pavel Rybalko",
+              "aliases": [
+                "Rybalko"
+              ]
+            },
+            {
+              "name": "Prokofy Romanenko",
+              "aliases": [
+                "Romanenko"
+              ]
+            },
+            {
+              "name": "Ivan Chistyakov",
+              "aliases": [
+                "Chistyakov"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "The infobox includes political leaders, high command and commanders across the wider Stalingrad campaign.",
+      "sources": [
+        {
+          "title": "Battle of Stalingrad — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
+        }
+      ]
+    },
+    {
+      "id": "dien-bien-phu",
+      "name": "Battle of Dien Bien Phu",
+      "date": "13 March – 7 May 1954",
+      "year": 1954,
+      "sides": [
+        {
+          "name": "French Union",
+          "belligerents": [
+            "France",
+            "State of Vietnam",
+            "United States"
+          ],
+          "commanders": [
+            {
+              "name": "Henri Eugène Navarre",
+              "aliases": [
+                "Navarre",
+                "Henri Navarre"
+              ]
+            },
+            {
+              "name": "Christian de Castries",
+              "aliases": [
+                "Castries",
+                "De Castries"
+              ]
+            },
+            {
+              "name": "André Trancart",
+              "aliases": [
+                "Trancart"
+              ]
+            },
+            {
+              "name": "Jules Gaucher",
+              "aliases": [
+                "Gaucher"
+              ]
+            },
+            {
+              "name": "Pierre Langlais",
+              "aliases": [
+                "Langlais"
+              ]
+            },
+            {
+              "name": "André Lalande",
+              "aliases": [
+                "Lalande"
+              ]
+            },
+            {
+              "name": "Charles Piroth",
+              "aliases": [
+                "Piroth"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Viet Minh",
+          "belligerents": [
+            "Democratic Republic of Vietnam",
+            "Viet Minh",
+            "China"
+          ],
+          "commanders": [
+            {
+              "name": "Ho Chi Minh",
+              "aliases": [
+                "Ho",
+                "Hồ Chí Minh"
+              ]
+            },
+            {
+              "name": "Võ Nguyên Giáp",
+              "aliases": [
+                "Giap",
+                "Vo Nguyen Giap"
+              ]
+            },
+            {
+              "name": "Hoàng Văn Thái",
+              "aliases": [
+                "Hoang Van Thai",
+                "Van Thai"
+              ]
+            },
+            {
+              "name": "Lê Liêm",
+              "aliases": [
+                "Le Liem",
+                "Liem"
+              ]
+            },
+            {
+              "name": "Đặng Kim Giang",
+              "aliases": [
+                "Dang Kim Giang",
+                "Kim Giang"
+              ]
+            },
+            {
+              "name": "Lê Trọng Tấn",
+              "aliases": [
+                "Le Trong Tan",
+                "Trong Tan"
+              ]
+            },
+            {
+              "name": "Vương Thừa Vũ",
+              "aliases": [
+                "Vuong Thua Vu",
+                "Thua Vu"
+              ]
+            },
+            {
+              "name": "Hoàng Minh Thảo",
+              "aliases": [
+                "Hoang Minh Thao",
+                "Minh Thao"
+              ]
+            },
+            {
+              "name": "Lê Quảng Ba",
+              "aliases": [
+                "Le Quang Ba",
+                "Quang Ba"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 1,
+      "note": "The infobox also lists American transport support and Chinese support; the opposing ground forces were French Union and Viet Minh.",
+      "sources": [
+        {
+          "title": "Battle of Dien Bien Phu — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu"
+        }
+      ]
+    },
+    {
+      "id": "guadalcanal-naval",
+      "name": "Naval Battle of Guadalcanal",
+      "date": "12–15 November 1942",
+      "year": 1942,
+      "sides": [
+        {
+          "name": "United States",
+          "belligerents": [
+            "United States"
+          ],
+          "commanders": [
+            {
+              "name": "William Halsey, Jr.",
+              "aliases": [
+                "Halsey",
+                "William Halsey",
+                "Bull Halsey"
+              ]
+            },
+            {
+              "name": "Daniel Callaghan",
+              "aliases": [
+                "Callaghan",
+                "Daniel J Callaghan"
+              ]
+            },
+            {
+              "name": "Norman Scott",
+              "aliases": [
+                "Scott"
+              ]
+            },
+            {
+              "name": "Willis A. Lee",
+              "aliases": [
+                "Lee",
+                "Willis Lee"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Japan",
+          "belligerents": [
+            "Empire of Japan"
+          ],
+          "commanders": [
+            {
+              "name": "Isoroku Yamamoto",
+              "aliases": [
+                "Yamamoto",
+                "Yamamoto Isoroku"
+              ]
+            },
+            {
+              "name": "Hiroaki Abe",
+              "aliases": [
+                "Abe",
+                "Abe Hiroaki"
+              ]
+            },
+            {
+              "name": "Nobutake Kondō",
+              "aliases": [
+                "Kondo",
+                "Kondo Nobutake"
+              ]
+            },
+            {
+              "name": "Raizō Tanaka",
+              "aliases": [
+                "Tanaka",
+                "Tanaka Raizo"
+              ]
+            },
+            {
+              "name": "Kakuji Kakuta",
+              "aliases": [
+                "Kakuta",
+                "Kakuta Kakuji"
+              ]
+            },
+            {
+              "name": "Gunichi Mikawa",
+              "aliases": [
+                "Mikawa",
+                "Mikawa Gunichi"
+              ]
+            }
+          ]
+        }
+      ],
+      "winner": 0,
+      "note": "The overall four-day engagement was an American victory despite heavy losses and varying outcomes in individual night actions.",
+      "sources": [
+        {
+          "title": "Naval Battle of Guadalcanal — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Naval_Battle_of_Guadalcanal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trivia — Battle Leaders</title>
+  <meta name="description" content="Pick the winning side, then name a commander. A history trivia game.">
+  <link rel="icon" href="https://raw.githubusercontent.com/PatrickJYKang/sports-event-rarity/main/assets/favicon.png">
+  <link rel="stylesheet" href="style.css"><link rel="stylesheet" href="battles.css">
+  <script type="module" src="battles.js"></script>
+</head>
+<body>
+  <header class="site-header"><a class="wordmark" href="./">trivia<span> / </span></a><span class="header-note">Patrick’s game collection</span></header>
+  <main>
+    <nav class="game-nav" aria-label="Games"><div class="game-links">
+      <a href="./"><span class="game-number">01</span><span>City Guess</span></a>
+      <a href="heritage.html"><span class="game-number">02</span><span>Heritage Guess</span></a>
+      <a href="bingo.html"><span class="game-number">03</span><span>City Bingo</span></a>
+      <a href="compass.html"><span class="game-number">04</span><span>City Compass</span></a>
+      <a href="history.html"><span class="game-number">05</span><span>City History</span></a>
+      <a href="battles.html" aria-current="page"><span class="game-number">06</span><span>Battle Leaders</span></a>
+    </div></nav>
+    <section class="game" aria-labelledby="game-title">
+      <div class="game-heading"><div><p class="eyebrow" id="pool-label">HISTORY</p><h1 id="game-title">Battle Leaders</h1></div><div class="stats"><div><span>Round</span><strong id="round">01</strong></div><div><span>Score</span><strong id="score">0</strong></div></div></div>
+      <div id="load-status" role="status"><span id="load-message">Loading battles…</span><button id="retry" hidden>Retry</button></div>
+      <div id="battle-play" hidden>
+        <div class="battle-heading"><p id="battle-date"></p><h2 id="battle-name"></h2></div>
+        <div class="question-line"><h3 id="side-question">Who won?</h3><span id="winner-status" role="status">+1 point</span></div>
+        <div id="sides" aria-label="Belligerents"></div>
+        <div class="commander-area" id="commander-area" hidden>
+          <div id="commander-play" hidden>
+            <label for="commander">Name one commander</label>
+            <p class="commander-scoring">Winning side +3 · Losing side +1 · One attempt</p>
+            <form id="commander-form"><input id="commander" name="commander" placeholder="Commander’s name…" autocomplete="off" spellcheck="false" maxlength="150" aria-describedby="commander-feedback" required><button class="primary" id="submit">Guess <span aria-hidden="true">↵</span></button></form>
+            <div class="below-form"><p id="commander-feedback" role="status"></p><button id="skip" class="text-button">Skip</button></div>
+          </div>
+          <div id="battle-result" hidden><div><h3 id="result-title"></h3><p id="result-detail"></p></div><button id="next" class="primary">Next battle →</button></div>
+          <details id="battle-context" hidden><summary>Notes &amp; sources</summary><p id="battle-note"></p><div id="sources"></div></details>
+        </div>
+      </div>
+    </section>
+    <footer><span>Battle infoboxes: Wikipedia</span></footer>
+  </main>
+</body>
+</html>
