@@ -1,0 +1,2205 @@
+{
+  "version": 1,
+  "checked": "2026-10-27",
+  "scope": "Birth and death years and places for deceased historical figures. Pins represent settlements or approximate localities rather than claimed exact buildings.",
+  "figures": [
+    {
+      "id": "leonardo-da-vinci",
+      "name": "Leonardo da Vinci",
+      "aliases": [
+        "Leonardo",
+        "Da Vinci",
+        "Leonardo di ser Piero da Vinci"
+      ],
+      "birth": {
+        "year": 1452,
+        "place": "Vinci area, Tuscany, Italy",
+        "coordinates": [
+          10.92472,
+          43.78417
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1519,
+        "place": "Amboise, France",
+        "coordinates": [
+          0.98,
+          47.4042
+        ]
+      },
+      "note": "The exact birthplace is uncertain; Anchiano near Vinci is traditional. The birth pin represents the Vinci area. He died at Clos Lucé in Amboise.",
+      "sources": [
+        {
+          "title": "Leonardo da Vinci",
+          "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+        },
+        {
+          "title": "Vinci — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Vinci,_Tuscany"
+        },
+        {
+          "title": "Amboise — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Amboise"
+        }
+      ]
+    },
+    {
+      "id": "michelangelo",
+      "name": "Michelangelo",
+      "aliases": [
+        "Michelangelo Buonarroti",
+        "Buonarroti",
+        "Michelangelo di Lodovico Buonarroti Simoni"
+      ],
+      "birth": {
+        "year": 1475,
+        "place": "Caprese, Tuscany, Italy",
+        "coordinates": [
+          11.983,
+          43.633
+        ]
+      },
+      "death": {
+        "year": 1564,
+        "place": "Rome, Italy",
+        "coordinates": [
+          12.51133,
+          41.89193
+        ]
+      },
+      "note": "Caprese is now named Caprese Michelangelo. He died in Rome, although his burial is in Florence.",
+      "sources": [
+        {
+          "title": "Michelangelo",
+          "url": "https://en.wikipedia.org/wiki/Michelangelo"
+        },
+        {
+          "title": "Caprese — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Caprese_Michelangelo"
+        }
+      ]
+    },
+    {
+      "id": "galileo-galilei",
+      "name": "Galileo Galilei",
+      "aliases": [
+        "Galileo",
+        "Galilei"
+      ],
+      "birth": {
+        "year": 1564,
+        "place": "Pisa, Italy",
+        "coordinates": [
+          10.4036,
+          43.70853
+        ]
+      },
+      "death": {
+        "year": 1642,
+        "place": "Arcetri, Florence, Italy",
+        "coordinates": [
+          11.2518,
+          43.75485
+        ]
+      },
+      "note": "Arcetri is now a neighbourhood of Florence; the marker represents the locality, not the exact villa.",
+      "sources": [
+        {
+          "title": "Galileo Galilei",
+          "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+        },
+        {
+          "title": "Arcetri — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Arcetri"
+        }
+      ]
+    },
+    {
+      "id": "isaac-newton",
+      "name": "Isaac Newton",
+      "aliases": [
+        "Newton",
+        "Sir Isaac Newton"
+      ],
+      "birth": {
+        "year": 1643,
+        "place": "Woolsthorpe-by-Colsterworth, England",
+        "coordinates": [
+          -0.62877,
+          52.809863
+        ]
+      },
+      "death": {
+        "year": 1727,
+        "place": "Kensington, London, England",
+        "coordinates": [
+          -0.19,
+          51.5
+        ]
+      },
+      "note": "Uses Gregorian years: his birth was 25 December 1642 in the contemporary English calendar, or 4 January 1643 Gregorian. He died in Kensington; Westminster Abbey is his burial place.",
+      "sources": [
+        {
+          "title": "Isaac Newton",
+          "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
+        },
+        {
+          "title": "Woolsthorpe — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Woolsthorpe-by-Colsterworth"
+        },
+        {
+          "title": "Kensington — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Kensington"
+        }
+      ]
+    },
+    {
+      "id": "charles-darwin",
+      "name": "Charles Darwin",
+      "aliases": [
+        "Darwin",
+        "Charles Robert Darwin"
+      ],
+      "birth": {
+        "year": 1809,
+        "place": "Shrewsbury, England",
+        "coordinates": [
+          -2.75208,
+          52.71009
+        ]
+      },
+      "death": {
+        "year": 1882,
+        "place": "Downe, England",
+        "coordinates": [
+          0.0535,
+          51.3359
+        ]
+      },
+      "note": "He died at Down House in Downe, historically Kent and now Greater London. Westminster Abbey is his burial place.",
+      "sources": [
+        {
+          "title": "Charles Darwin",
+          "url": "https://en.wikipedia.org/wiki/Charles_Darwin"
+        },
+        {
+          "title": "Downe — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Downe"
+        }
+      ]
+    },
+    {
+      "id": "ada-lovelace",
+      "name": "Ada Lovelace",
+      "aliases": [
+        "Lovelace",
+        "Ada Byron",
+        "Augusta Ada Byron",
+        "Augusta Ada King",
+        "Countess of Lovelace"
+      ],
+      "birth": {
+        "year": 1815,
+        "place": "London, England",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      },
+      "death": {
+        "year": 1852,
+        "place": "London, England",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      },
+      "note": "She died in Marylebone. Both markers represent London at city scale.",
+      "sources": [
+        {
+          "title": "Ada Lovelace",
+          "url": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+        }
+      ]
+    },
+    {
+      "id": "marie-curie",
+      "name": "Marie Curie",
+      "aliases": [
+        "Curie",
+        "Maria Skłodowska",
+        "Maria Sklodowska",
+        "Marie Skłodowska-Curie",
+        "Marie Sklodowska Curie",
+        "Madame Curie"
+      ],
+      "birth": {
+        "year": 1867,
+        "place": "Warsaw, Poland",
+        "coordinates": [
+          21.01178,
+          52.22977
+        ]
+      },
+      "death": {
+        "year": 1934,
+        "place": "Passy, Haute-Savoie, France",
+        "coordinates": [
+          6.6872,
+          45.9244
+        ]
+      },
+      "note": "She died at the Sancellemoz sanatorium in Passy, Haute-Savoie, not the Paris district of Passy or the Panthéon where she was later reinterred.",
+      "sources": [
+        {
+          "title": "Marie Curie",
+          "url": "https://en.wikipedia.org/wiki/Marie_Curie"
+        },
+        {
+          "title": "Passy, Haute-Savoie — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Passy,_Haute-Savoie"
+        }
+      ]
+    },
+    {
+      "id": "albert-einstein",
+      "name": "Albert Einstein",
+      "aliases": [
+        "Einstein"
+      ],
+      "birth": {
+        "year": 1879,
+        "place": "Ulm, Germany",
+        "coordinates": [
+          9.99155,
+          48.39841
+        ]
+      },
+      "death": {
+        "year": 1955,
+        "place": "Princeton, New Jersey, USA",
+        "coordinates": [
+          -74.65905,
+          40.34872
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Albert Einstein",
+          "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+        }
+      ]
+    },
+    {
+      "id": "ludwig-van-beethoven",
+      "name": "Ludwig van Beethoven",
+      "aliases": [
+        "Beethoven",
+        "Ludwig Beethoven"
+      ],
+      "birth": {
+        "year": 1770,
+        "place": "Bonn, Germany",
+        "coordinates": [
+          7.09549,
+          50.73438
+        ]
+      },
+      "death": {
+        "year": 1827,
+        "place": "Vienna, Austria",
+        "coordinates": [
+          16.37208,
+          48.20849
+        ]
+      },
+      "note": "His exact birth day is unrecorded, but baptism on 17 December 1770 establishes the birth year.",
+      "sources": [
+        {
+          "title": "Ludwig van Beethoven",
+          "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
+        }
+      ]
+    },
+    {
+      "id": "wolfgang-amadeus-mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "aliases": [
+        "Mozart",
+        "Wolfgang Mozart",
+        "Amadeus Mozart",
+        "Wolfgang Amadè Mozart"
+      ],
+      "birth": {
+        "year": 1756,
+        "place": "Salzburg, Austria",
+        "coordinates": [
+          13.04399,
+          47.79941
+        ]
+      },
+      "death": {
+        "year": 1791,
+        "place": "Vienna, Austria",
+        "coordinates": [
+          16.37208,
+          48.20849
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Wolfgang Amadeus Mozart",
+          "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+        }
+      ]
+    },
+    {
+      "id": "vincent-van-gogh",
+      "name": "Vincent van Gogh",
+      "aliases": [
+        "Van Gogh",
+        "Vincent Willem van Gogh",
+        "Gogh"
+      ],
+      "birth": {
+        "year": 1853,
+        "place": "Zundert, Netherlands",
+        "coordinates": [
+          4.667,
+          51.467
+        ]
+      },
+      "death": {
+        "year": 1890,
+        "place": "Auvers-sur-Oise, France",
+        "coordinates": [
+          2.175,
+          49.0725
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Vincent van Gogh",
+          "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+        },
+        {
+          "title": "Zundert — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Zundert"
+        },
+        {
+          "title": "Auvers-sur-Oise — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Auvers-sur-Oise"
+        }
+      ]
+    },
+    {
+      "id": "pablo-picasso",
+      "name": "Pablo Picasso",
+      "aliases": [
+        "Picasso",
+        "Pablo Ruiz Picasso"
+      ],
+      "birth": {
+        "year": 1881,
+        "place": "Málaga, Spain",
+        "coordinates": [
+          -4.42034,
+          36.72016
+        ]
+      },
+      "death": {
+        "year": 1973,
+        "place": "Mougins, France",
+        "coordinates": [
+          6.99523,
+          43.60068
+        ]
+      },
+      "note": "He died in Mougins. Vauvenargues, where he was buried, is a different location.",
+      "sources": [
+        {
+          "title": "Pablo Picasso",
+          "url": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+        }
+      ]
+    },
+    {
+      "id": "jane-austen",
+      "name": "Jane Austen",
+      "aliases": [
+        "Austen"
+      ],
+      "birth": {
+        "year": 1775,
+        "place": "Steventon, Hampshire, England",
+        "coordinates": [
+          -1.2189,
+          51.2303
+        ]
+      },
+      "death": {
+        "year": 1817,
+        "place": "Winchester, England",
+        "coordinates": [
+          -1.3187,
+          51.06513
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Jane Austen",
+          "url": "https://en.wikipedia.org/wiki/Jane_Austen"
+        },
+        {
+          "title": "Steventon, Hampshire — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Steventon,_Hampshire"
+        }
+      ]
+    },
+    {
+      "id": "mary-shelley",
+      "name": "Mary Shelley",
+      "aliases": [
+        "Shelley",
+        "Mary Wollstonecraft Shelley",
+        "Mary Godwin",
+        "Mary Wollstonecraft Godwin"
+      ],
+      "birth": {
+        "year": 1797,
+        "place": "London, England",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      },
+      "death": {
+        "year": 1851,
+        "place": "London, England",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      },
+      "note": "Born in Somers Town and died at Chester Square. Both markers represent London at city scale.",
+      "sources": [
+        {
+          "title": "Mary Shelley",
+          "url": "https://en.wikipedia.org/wiki/Mary_Shelley"
+        }
+      ]
+    },
+    {
+      "id": "george-washington",
+      "name": "George Washington",
+      "aliases": [
+        "Washington"
+      ],
+      "birth": {
+        "year": 1732,
+        "place": "Popes Creek, Virginia, USA",
+        "coordinates": [
+          -76.91639,
+          38.18556
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1799,
+        "place": "Mount Vernon, Virginia, USA",
+        "coordinates": [
+          -77.0861,
+          38.708
+        ]
+      },
+      "note": "The birth marker represents the Popes Creek estate area, now preserved as a national monument. Birth year uses the modern calendar; the contemporary English date fell in 1731 Old Style.",
+      "sources": [
+        {
+          "title": "Mount Vernon — George Washington facts",
+          "url": "https://www.mountvernon.org/george-washington"
+        },
+        {
+          "title": "Popes Creek birthplace site — coordinates",
+          "url": "https://en.wikipedia.org/wiki/George_Washington_Birthplace_National_Monument"
+        },
+        {
+          "title": "Mount Vernon — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Mount_Vernon"
+        }
+      ]
+    },
+    {
+      "id": "abraham-lincoln",
+      "name": "Abraham Lincoln",
+      "aliases": [
+        "Lincoln",
+        "Abe Lincoln",
+        "Honest Abe"
+      ],
+      "birth": {
+        "year": 1809,
+        "place": "Sinking Spring Farm, near Hodgenville, Kentucky, USA",
+        "coordinates": [
+          -85.7375,
+          37.5311
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1865,
+        "place": "Washington, D.C., USA",
+        "coordinates": [
+          -77.03637,
+          38.89511
+        ]
+      },
+      "note": "The birth pin represents the preserved farm site, not a claim about the original cabin’s exact footprint. Then in Hardin County, the site is now in LaRue County. He died in Washington, D.C., not at his burial site in Springfield.",
+      "sources": [
+        {
+          "title": "National Park Service — President Abraham Lincoln",
+          "url": "https://www.nps.gov/abli/planyourvisit/lincolnbio.htm"
+        },
+        {
+          "title": "Abraham Lincoln",
+          "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+        },
+        {
+          "title": "Sinking Spring Farm site — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln_Birthplace_National_Historical_Park"
+        }
+      ]
+    },
+    {
+      "id": "harriet-tubman",
+      "name": "Harriet Tubman",
+      "aliases": [
+        "Tubman",
+        "Araminta Ross",
+        "Minty Ross",
+        "Harriet Ross Tubman",
+        "Harriet Tubman Davis"
+      ],
+      "birth": {
+        "year": 1822,
+        "place": "Dorchester County, near Madison, Maryland, USA",
+        "coordinates": [
+          -76.22194,
+          38.50694
+        ],
+        "approximate": true,
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1913,
+        "place": "Auburn, New York, USA",
+        "coordinates": [
+          -76.56605,
+          42.93173
+        ]
+      },
+      "note": "Birth is usually dated circa 1822; older accounts give other years, including 1820. The precise birthplace is uncertain. The pin marks the Madison area, not an exact cabin site.",
+      "sources": [
+        {
+          "title": "National Park Service — Tubman frequently asked questions",
+          "url": "https://www.nps.gov/hart/faqs.htm"
+        },
+        {
+          "title": "National Park Service — determining Tubman’s birth year",
+          "url": "https://home.nps.gov/articles/000/determining-harriet-tubman-s-birth-year.htm"
+        },
+        {
+          "title": "Maryland Department of Natural Resources — Tubman timeline",
+          "url": "https://dnr.maryland.gov/publiclands/pages/eastern/tubman/timeline.aspx"
+        },
+        {
+          "title": "Madison, Maryland — area coordinates",
+          "url": "https://en.wikipedia.org/wiki/Madison,_Maryland"
+        }
+      ]
+    },
+    {
+      "id": "frederick-douglass",
+      "name": "Frederick Douglass",
+      "aliases": [
+        "Douglass",
+        "Frederick Douglas",
+        "Frederick Augustus Washington Bailey",
+        "Frederick Bailey"
+      ],
+      "birth": {
+        "year": 1818,
+        "place": "Tuckahoe area, near Cordova, Maryland, USA",
+        "coordinates": [
+          -75.99111,
+          38.87778
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1895,
+        "place": "Washington, D.C., USA",
+        "coordinates": [
+          -77.03637,
+          38.89511
+        ]
+      },
+      "note": "1818 follows the surviving enslaver’s records; Douglass himself did not know his exact birth date. The birth pin represents the Cordova–Tuckahoe area, not the precise cabin site. He died at Cedar Hill in Washington, D.C.; Rochester is his burial place.",
+      "sources": [
+        {
+          "title": "Frederick Douglass",
+          "url": "https://en.wikipedia.org/wiki/Frederick_Douglass"
+        },
+        {
+          "title": "Cordova, Maryland — area coordinates",
+          "url": "https://en.wikipedia.org/wiki/Cordova,_Maryland"
+        }
+      ]
+    },
+    {
+      "id": "frida-kahlo",
+      "name": "Frida Kahlo",
+      "aliases": [
+        "Kahlo",
+        "Frieda Kahlo",
+        "Magdalena Carmen Frida Kahlo y Calderón"
+      ],
+      "birth": {
+        "year": 1907,
+        "place": "Coyoacán, Mexico City, Mexico",
+        "coordinates": [
+          -99.16174,
+          19.3467
+        ]
+      },
+      "death": {
+        "year": 1954,
+        "place": "Coyoacán, Mexico City, Mexico",
+        "coordinates": [
+          -99.16174,
+          19.3467
+        ]
+      },
+      "note": "Both pins represent Coyoacán, then a settlement outside central Mexico City and now a city borough. The exact birth house is disputed; the locality and year are established.",
+      "sources": [
+        {
+          "title": "Frida Kahlo",
+          "url": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+        }
+      ]
+    },
+    {
+      "id": "simon-bolivar",
+      "name": "Simón Bolívar",
+      "aliases": [
+        "Simon Bolivar",
+        "Bolívar",
+        "Bolivar",
+        "El Libertador",
+        "Simon Jose Antonio de la Santisima Trinidad Bolivar y Palacios"
+      ],
+      "birth": {
+        "year": 1783,
+        "place": "Caracas, Venezuela",
+        "coordinates": [
+          -66.87919,
+          10.48801
+        ]
+      },
+      "death": {
+        "year": 1830,
+        "place": "Santa Marta, Colombia",
+        "coordinates": [
+          -74.19427,
+          11.23855
+        ]
+      },
+      "note": "He died at the Quinta de San Pedro Alejandrino near Santa Marta. The pin represents Santa Marta, not his later burial place in Caracas.",
+      "sources": [
+        {
+          "title": "Simón Bolívar",
+          "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar"
+        }
+      ]
+    },
+    {
+      "id": "mahatma-gandhi",
+      "name": "Mahatma Gandhi",
+      "aliases": [
+        "Mohandas Karamchand Gandhi",
+        "Mohandas Gandhi",
+        "Gandhi",
+        "Bapu",
+        "महात्मा गांधी",
+        "मोहनदास करमचंद गांधी"
+      ],
+      "birth": {
+        "year": 1869,
+        "place": "Porbandar, India",
+        "coordinates": [
+          69.60929,
+          21.64219
+        ]
+      },
+      "death": {
+        "year": 1948,
+        "place": "New Delhi, India",
+        "coordinates": [
+          77.2148,
+          28.62137
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Mahatma Gandhi — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+        }
+      ]
+    },
+    {
+      "id": "jawaharlal-nehru",
+      "name": "Jawaharlal Nehru",
+      "aliases": [
+        "Nehru",
+        "Pandit Nehru",
+        "Jawaharlal",
+        "जवाहरलाल नेहरू"
+      ],
+      "birth": {
+        "year": 1889,
+        "place": "Allahabad (now Prayagraj), India",
+        "coordinates": [
+          81.84322,
+          25.44478
+        ]
+      },
+      "death": {
+        "year": 1964,
+        "place": "New Delhi, India",
+        "coordinates": [
+          77.2148,
+          28.62137
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Jawaharlal Nehru — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru"
+        }
+      ]
+    },
+    {
+      "id": "b-r-ambedkar",
+      "name": "B. R. Ambedkar",
+      "aliases": [
+        "Bhimrao Ramji Ambedkar",
+        "Bhimrao Ambedkar",
+        "Ambedkar",
+        "Babasaheb Ambedkar",
+        "Babasaheb",
+        "BR Ambedkar",
+        "भीमराव रामजी आंबेडकर"
+      ],
+      "birth": {
+        "year": 1891,
+        "place": "Mhow, India",
+        "coordinates": [
+          75.76543,
+          22.5589
+        ]
+      },
+      "death": {
+        "year": 1956,
+        "place": "New Delhi, India",
+        "coordinates": [
+          77.2148,
+          28.62137
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "B. R. Ambedkar — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/B._R._Ambedkar"
+        }
+      ]
+    },
+    {
+      "id": "rabindranath-tagore",
+      "name": "Rabindranath Tagore",
+      "aliases": [
+        "Tagore",
+        "Rabindranath Thakur",
+        "Robindronath Thakur",
+        "রবীন্দ্রনাথ ঠাকুর"
+      ],
+      "birth": {
+        "year": 1861,
+        "place": "Calcutta (now Kolkata), India",
+        "coordinates": [
+          88.36304,
+          22.56263
+        ]
+      },
+      "death": {
+        "year": 1941,
+        "place": "Calcutta (now Kolkata), India",
+        "coordinates": [
+          88.36304,
+          22.56263
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Rabindranath Tagore — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+        }
+      ]
+    },
+    {
+      "id": "satyajit-ray",
+      "name": "Satyajit Ray",
+      "aliases": [
+        "Ray",
+        "Satyajit Rai",
+        "সত্যজিৎ রায়"
+      ],
+      "birth": {
+        "year": 1921,
+        "place": "Calcutta (now Kolkata), India",
+        "coordinates": [
+          88.36304,
+          22.56263
+        ]
+      },
+      "death": {
+        "year": 1992,
+        "place": "Calcutta (now Kolkata), India",
+        "coordinates": [
+          88.36304,
+          22.56263
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Satyajit Ray — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Satyajit_Ray"
+        }
+      ]
+    },
+    {
+      "id": "srinivasa-ramanujan",
+      "name": "Srinivasa Ramanujan",
+      "aliases": [
+        "Ramanujan",
+        "Srinivasa Ramanujan Iyengar",
+        "Srinivasa Aiyangar Ramanujan",
+        "S Ramanujan",
+        "ஸ்ரீனிவாச ராமானுஜன்"
+      ],
+      "birth": {
+        "year": 1887,
+        "place": "Erode, India",
+        "coordinates": [
+          77.72741,
+          11.3428
+        ]
+      },
+      "death": {
+        "year": 1920,
+        "place": "Madras (now Chennai), India",
+        "coordinates": [
+          80.27847,
+          13.08784
+        ]
+      },
+      "note": "He died in Chetput, Madras. Some short biographies instead give Kumbakonam, where he grew up.",
+      "sources": [
+        {
+          "title": "Srinivasa Ramanujan — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"
+        },
+        {
+          "title": "Srinivasa Ramanujan Aiyangar — KIIT University",
+          "url": "https://news.kiit.ac.in/research-development/srinivasa-ramanujan-aiyangar-the-mathematical-genius/"
+        }
+      ]
+    },
+    {
+      "id": "akira-kurosawa",
+      "name": "Akira Kurosawa",
+      "aliases": [
+        "Kurosawa",
+        "Kurosawa Akira",
+        "黒澤明",
+        "黒沢明"
+      ],
+      "birth": {
+        "year": 1910,
+        "place": "Tokyo, Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      },
+      "death": {
+        "year": 1998,
+        "place": "Tokyo, Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      },
+      "note": "Born in what is now Shinagawa; died in Setagaya. Both markers represent Tokyo.",
+      "sources": [
+        {
+          "title": "Akira Kurosawa — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Akira_Kurosawa"
+        }
+      ]
+    },
+    {
+      "id": "yasujiro-ozu",
+      "name": "Yasujirō Ozu",
+      "aliases": [
+        "Yasujiro Ozu",
+        "Ozu Yasujiro",
+        "Ozu",
+        "小津安二郎"
+      ],
+      "birth": {
+        "year": 1903,
+        "place": "Tokyo, Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      },
+      "death": {
+        "year": 1963,
+        "place": "Tokyo, Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      },
+      "note": "Born in Fukagawa; died in Bunkyō. Both markers represent Tokyo, not his burial place in Kamakura.",
+      "sources": [
+        {
+          "title": "Yasujirō Ozu — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yasujir%C5%8D_Ozu"
+        }
+      ]
+    },
+    {
+      "id": "yukio-mishima",
+      "name": "Yukio Mishima",
+      "aliases": [
+        "Mishima",
+        "Mishima Yukio",
+        "Kimitake Hiraoka",
+        "Hiraoka Kimitake",
+        "三島由紀夫",
+        "平岡公威"
+      ],
+      "birth": {
+        "year": 1925,
+        "place": "Tokyo, Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      },
+      "death": {
+        "year": 1970,
+        "place": "Tokyo, Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      },
+      "note": "Born in Yotsuya; died at Ichigaya. Both markers represent Tokyo.",
+      "sources": [
+        {
+          "title": "Yukio Mishima — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yukio_Mishima"
+        }
+      ]
+    },
+    {
+      "id": "hokusai",
+      "name": "Hokusai",
+      "aliases": [
+        "Katsushika Hokusai",
+        "葛飾北斎",
+        "北斎"
+      ],
+      "birth": {
+        "year": 1760,
+        "place": "Edo (now Tokyo), Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ],
+        "approximate": true
+      },
+      "death": {
+        "year": 1849,
+        "place": "Edo (now Tokyo), Japan",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      },
+      "note": "The birth date is uncertain; 1760 is the conventional birth year.",
+      "sources": [
+        {
+          "title": "Hokusai — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hokusai"
+        }
+      ]
+    },
+    {
+      "id": "sun-yat-sen",
+      "name": "Sun Yat-sen",
+      "aliases": [
+        "Sun Yatsen",
+        "Sun Yat Sen",
+        "Sun Zhongshan",
+        "Sun Wen",
+        "孫中山",
+        "孙中山",
+        "孫逸仙",
+        "孙逸仙"
+      ],
+      "birth": {
+        "year": 1866,
+        "place": "Cuiheng, Guangdong, China",
+        "coordinates": [
+          113.5367361,
+          22.4446667
+        ]
+      },
+      "death": {
+        "year": 1925,
+        "place": "Beijing, China",
+        "coordinates": [
+          116.39723,
+          39.9075
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Sun Yat-sen — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sun_Yat-sen"
+        },
+        {
+          "title": "Cuiheng — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cuiheng"
+        }
+      ]
+    },
+    {
+      "id": "chiang-kai-shek",
+      "name": "Chiang Kai-shek",
+      "aliases": [
+        "Chiang Kai Shek",
+        "Chiang Kaishek",
+        "Jiang Jieshi",
+        "Jiang Zhongzheng",
+        "Chiang Chungcheng",
+        "蔣介石",
+        "蒋介石",
+        "蔣中正",
+        "蒋中正"
+      ],
+      "birth": {
+        "year": 1887,
+        "place": "Xikou, Zhejiang, China",
+        "coordinates": [
+          121.27611,
+          29.68972
+        ]
+      },
+      "death": {
+        "year": 1975,
+        "place": "Taipei, Taiwan",
+        "coordinates": [
+          121.52639,
+          25.05306
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Chiang Kai-shek — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek"
+        },
+        {
+          "title": "Xikou, Fenghua — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Xikou,_Fenghua"
+        }
+      ]
+    },
+    {
+      "id": "mao-zedong",
+      "name": "Mao Zedong",
+      "aliases": [
+        "Mao",
+        "Mao Tse-tung",
+        "Mao Tsetung",
+        "Chairman Mao",
+        "毛泽东",
+        "毛澤東"
+      ],
+      "birth": {
+        "year": 1893,
+        "place": "Shaoshan, Hunan, China",
+        "coordinates": [
+          112.494761,
+          27.909808
+        ]
+      },
+      "death": {
+        "year": 1976,
+        "place": "Beijing, China",
+        "coordinates": [
+          116.39723,
+          39.9075
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Mao Zedong — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mao_Zedong"
+        },
+        {
+          "title": "Former Residence of Mao Zedong — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Former_Residence_of_Mao_Zedong"
+        }
+      ]
+    },
+    {
+      "id": "deng-xiaoping",
+      "name": "Deng Xiaoping",
+      "aliases": [
+        "Deng",
+        "Deng Hsiaoping",
+        "Teng Hsiao-p'ing",
+        "鄧小平",
+        "邓小平"
+      ],
+      "birth": {
+        "year": 1904,
+        "place": "Paifang, Guang’an, Sichuan, China",
+        "coordinates": [
+          106.643809,
+          30.524461
+        ]
+      },
+      "death": {
+        "year": 1997,
+        "place": "Beijing, China",
+        "coordinates": [
+          116.39723,
+          39.9075
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Deng Xiaoping — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Deng_Xiaoping"
+        },
+        {
+          "title": "Former Residence of Deng Xiaoping — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Former_Residence_of_Deng_Xiaoping"
+        }
+      ]
+    },
+    {
+      "id": "lu-xun",
+      "name": "Lu Xun",
+      "aliases": [
+        "Luxun",
+        "Lu Hsun",
+        "Zhou Shuren",
+        "Chou Shu-jen",
+        "Zhou Zhangshou",
+        "鲁迅",
+        "魯迅",
+        "周树人",
+        "周樹人"
+      ],
+      "birth": {
+        "year": 1881,
+        "place": "Shaoxing, China",
+        "coordinates": [
+          120.57864,
+          30.00237
+        ]
+      },
+      "death": {
+        "year": 1936,
+        "place": "Shanghai, China",
+        "coordinates": [
+          121.45806,
+          31.22222
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Lu Xun — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lu_Xun"
+        }
+      ]
+    },
+    {
+      "id": "ho-chi-minh",
+      "name": "Ho Chi Minh",
+      "aliases": [
+        "Hồ Chí Minh",
+        "Uncle Ho",
+        "Nguyen Sinh Cung",
+        "Nguyễn Sinh Cung",
+        "Nguyen Tat Thanh",
+        "Nguyễn Tất Thành",
+        "Nguyen Ai Quoc",
+        "Nguyễn Ái Quốc"
+      ],
+      "birth": {
+        "year": 1890,
+        "place": "Hoàng Trù, Nghệ An, Vietnam",
+        "coordinates": [
+          105.56667,
+          18.68333
+        ]
+      },
+      "death": {
+        "year": 1969,
+        "place": "Hanoi, Vietnam",
+        "coordinates": [
+          105.84117,
+          21.0245
+        ]
+      },
+      "note": "Uses the generally accepted birth year of 1890; he also used other birth years in different records. The birthplace marker represents Hoàng Trù village.",
+      "sources": [
+        {
+          "title": "Ho Chi Minh — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+        },
+        {
+          "title": "Hoàng Trù historic site — Vietnam tourism database",
+          "url": "https://csdl.vietnamtourism.gov.vn/dest/?item=1002"
+        },
+        {
+          "title": "Hoàng Trù — GeoNames coordinates via Mapcarta",
+          "url": "https://mapcarta.com/15507026"
+        }
+      ]
+    },
+    {
+      "id": "sukarno",
+      "name": "Sukarno",
+      "aliases": [
+        "Soekarno",
+        "Bung Karno",
+        "Kusno Sosrodihardjo",
+        "Koesno Sosrodihardjo"
+      ],
+      "birth": {
+        "year": 1901,
+        "place": "Surabaya, Indonesia",
+        "coordinates": [
+          112.75083,
+          -7.24917
+        ]
+      },
+      "death": {
+        "year": 1970,
+        "place": "Jakarta, Indonesia",
+        "coordinates": [
+          106.84513,
+          -6.21462
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Sukarno — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sukarno"
+        }
+      ]
+    },
+    {
+      "id": "jose-rizal",
+      "name": "José Rizal",
+      "aliases": [
+        "Jose Rizal",
+        "Rizal",
+        "Jose Protasio Rizal Mercado y Alonso Realonda",
+        "Jose Mercado"
+      ],
+      "birth": {
+        "year": 1861,
+        "place": "Calamba, Laguna, Philippines",
+        "coordinates": [
+          121.16528,
+          14.21167
+        ]
+      },
+      "death": {
+        "year": 1896,
+        "place": "Manila, Philippines",
+        "coordinates": [
+          120.9822,
+          14.6042
+        ]
+      },
+      "note": "He was executed at Bagumbayan, now Rizal Park in Manila.",
+      "sources": [
+        {
+          "title": "José Rizal — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal"
+        }
+      ]
+    },
+    {
+      "id": "benigno-aquino-jr",
+      "name": "Benigno Aquino Jr.",
+      "aliases": [
+        "Ninoy Aquino",
+        "Ninoy",
+        "Benigno Aquino Junior",
+        "Benigno Simeon Aquino Jr",
+        "Benigno Simeón Aquino Jr."
+      ],
+      "birth": {
+        "year": 1932,
+        "place": "Concepcion, Tarlac, Philippines",
+        "coordinates": [
+          120.65723,
+          15.32546
+        ]
+      },
+      "death": {
+        "year": 1983,
+        "place": "Manila International Airport, Parañaque, Philippines",
+        "coordinates": [
+          121.01972,
+          14.50833
+        ]
+      },
+      "note": "He was assassinated at Manila International Airport; the marker represents the airport complex.",
+      "sources": [
+        {
+          "title": "Ninoy Aquino — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ninoy_Aquino"
+        },
+        {
+          "title": "Ninoy Aquino International Airport — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport"
+        }
+      ]
+    },
+    {
+      "id": "kim-dae-jung",
+      "name": "Kim Dae-jung",
+      "aliases": [
+        "Kim Dae Jung",
+        "Kim Taejung",
+        "Gim Daejung",
+        "Dae-jung Kim",
+        "김대중",
+        "金大中"
+      ],
+      "birth": {
+        "year": 1924,
+        "place": "Hauido, South Jeolla, South Korea",
+        "coordinates": [
+          126.0375,
+          34.59944
+        ]
+      },
+      "death": {
+        "year": 2009,
+        "place": "Seoul, South Korea",
+        "coordinates": [
+          126.9784,
+          37.566
+        ]
+      },
+      "note": "Uses the actual Gregorian birth year of 1924, confirmed by his presidential library; some records give 1925. The birth marker represents Hauido island.",
+      "sources": [
+        {
+          "title": "Kim Dae-jung — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kim_Dae-jung"
+        },
+        {
+          "title": "Life chronology — Kim Dae-jung Presidential Library & Museum",
+          "url": "https://www.kdjlibrary.org/en/president/yearbook"
+        },
+        {
+          "title": "Hauido — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hauido"
+        }
+      ]
+    },
+    {
+      "id": "nelson-mandela",
+      "name": "Nelson Mandela",
+      "aliases": [
+        "Mandela",
+        "Madiba",
+        "Nelson Rolihlahla Mandela"
+      ],
+      "birth": {
+        "year": 1918,
+        "place": "Mvezo, South Africa",
+        "coordinates": [
+          28.516,
+          -31.95
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2013,
+        "place": "Johannesburg, South Africa",
+        "coordinates": [
+          28.04363,
+          -26.20227
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Nelson Mandela — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+        },
+        {
+          "title": "Mvezo — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mvezo"
+        }
+      ]
+    },
+    {
+      "id": "desmond-tutu",
+      "name": "Desmond Tutu",
+      "aliases": [
+        "Tutu",
+        "Desmond Mpilo Tutu",
+        "Archbishop Tutu"
+      ],
+      "birth": {
+        "year": 1931,
+        "place": "Klerksdorp, South Africa",
+        "coordinates": [
+          26.66672,
+          -26.85213
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2021,
+        "place": "Cape Town, South Africa",
+        "coordinates": [
+          18.42322,
+          -33.92584
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Desmond Tutu — Nobel Prize facts",
+          "url": "https://www.nobelprize.org/prizes/peace/1984/tutu/facts/"
+        }
+      ]
+    },
+    {
+      "id": "wangari-maathai",
+      "name": "Wangari Maathai",
+      "aliases": [
+        "Wangarĩ Maathai",
+        "Maathai",
+        "Wangari Muta Maathai"
+      ],
+      "birth": {
+        "year": 1940,
+        "place": "Ihithe, Kenya",
+        "coordinates": [
+          36.866667,
+          -0.483333
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2011,
+        "place": "Nairobi, Kenya",
+        "coordinates": [
+          36.81667,
+          -1.28333
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Wangarĩ Maathai — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wangar%C4%A9_Maathai"
+        },
+        {
+          "title": "Ihithe — NGA geographical name data",
+          "url": "https://geographic.org/geographic_names/name.php?c=kenya&fid=3293&uni=-3101591"
+        }
+      ]
+    },
+    {
+      "id": "miriam-makeba",
+      "name": "Miriam Makeba",
+      "aliases": [
+        "Makeba",
+        "Mama Africa",
+        "Zenzile Miriam Makeba"
+      ],
+      "birth": {
+        "year": 1932,
+        "place": "Johannesburg, South Africa",
+        "coordinates": [
+          28.04363,
+          -26.20227
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2008,
+        "place": "Castel Volturno, Italy",
+        "coordinates": [
+          13.94354,
+          41.03288
+        ],
+        "locationApproximate": true
+      },
+      "note": "Born in Prospect township, Johannesburg; pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Miriam Makeba — South African History Online",
+          "url": "https://sahistory.org.za/people/miriam-makeba"
+        },
+        {
+          "title": "Miriam Makeba — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Miriam_Makeba"
+        }
+      ]
+    },
+    {
+      "id": "patrice-lumumba",
+      "name": "Patrice Lumumba",
+      "aliases": [
+        "Lumumba",
+        "Patrice Emery Lumumba",
+        "Patrice Émery Lumumba"
+      ],
+      "birth": {
+        "year": 1925,
+        "place": "Onalua, DR Congo",
+        "coordinates": [
+          24.55088,
+          -4.07637
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1961,
+        "place": "Shilatembo, near Lubumbashi, DR Congo",
+        "coordinates": [
+          27.29072,
+          -11.3103
+        ],
+        "locationApproximate": true
+      },
+      "note": "Pins mark the villages of birth and execution; Shilatembo is outside Lubumbashi.",
+      "sources": [
+        {
+          "title": "Patrice Lumumba — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Patrice_Lumumba"
+        },
+        {
+          "title": "Onalua — OpenStreetMap locality data",
+          "url": "https://mapcarta.com/N13185961977"
+        },
+        {
+          "title": "Village Shilatembo — Haut-Katanga Government",
+          "url": "https://haut-katanga.gouv.cd/services/village-shilatembo/"
+        },
+        {
+          "title": "Shilatembo — OpenStreetMap locality data",
+          "url": "https://mapcarta.com/32797590"
+        }
+      ]
+    },
+    {
+      "id": "kwame-nkrumah",
+      "name": "Kwame Nkrumah",
+      "aliases": [
+        "Nkrumah",
+        "Francis Nwia Kofi Nkrumah"
+      ],
+      "birth": {
+        "year": 1909,
+        "place": "Nkroful, Ghana",
+        "coordinates": [
+          -2.32222,
+          4.96389
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1972,
+        "place": "Bucharest, Romania",
+        "coordinates": [
+          26.10626,
+          44.43225
+        ],
+        "locationApproximate": true
+      },
+      "note": "Uses the accepted 1909 birth year from Nkrumah's own account. Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Kwame Nkrumah — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah"
+        },
+        {
+          "title": "Nkroful — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nkroful"
+        }
+      ]
+    },
+    {
+      "id": "chinua-achebe",
+      "name": "Chinua Achebe",
+      "aliases": [
+        "Achebe",
+        "Albert Chinualumogu Achebe"
+      ],
+      "birth": {
+        "year": 1930,
+        "place": "Nnobi, near Ogidi, Nigeria",
+        "coordinates": [
+          6.95,
+          6.05
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2013,
+        "place": "Boston, Massachusetts, United States",
+        "coordinates": [
+          -71.05977,
+          42.35843
+        ],
+        "locationApproximate": true
+      },
+      "note": "Often listed as born in Ogidi, but Achebe specified nearby Nnobi in an interview. The pin follows that account.",
+      "sources": [
+        {
+          "title": "Chinua Achebe — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chinua_Achebe"
+        },
+        {
+          "title": "In search of Chinua Achebe (2) — republished 1983 interview",
+          "url": "https://thesun.ng/in-search-of-chinua-achebe-2/"
+        },
+        {
+          "title": "Nnobi — NGA geographical name data",
+          "url": "https://geographic.org/geographic_names/name.php?c=nigeria&fid=4301&uni=-2810039"
+        }
+      ]
+    },
+    {
+      "id": "naguib-mahfouz",
+      "name": "Naguib Mahfouz",
+      "aliases": [
+        "Mahfouz",
+        "Najib Mahfuz",
+        "Naguib Mahfuz"
+      ],
+      "birth": {
+        "year": 1911,
+        "place": "Cairo, Egypt",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2006,
+        "place": "Agouza, Giza, Egypt",
+        "coordinates": [
+          31.21556,
+          30.05222
+        ],
+        "locationApproximate": true
+      },
+      "note": "Agouza is in Giza, within Greater Cairo. Map pins mark the city/district centres.",
+      "sources": [
+        {
+          "title": "Naguib Mahfouz — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Naguib_Mahfouz"
+        },
+        {
+          "title": "Agouza — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Agouza"
+        }
+      ]
+    },
+    {
+      "id": "ibn-khaldun",
+      "name": "Ibn Khaldun",
+      "aliases": [
+        "Khaldun",
+        "Ibn Khaldoun",
+        "Abd al-Rahman ibn Khaldun"
+      ],
+      "birth": {
+        "year": 1332,
+        "place": "Tunis, Tunisia",
+        "coordinates": [
+          10.16579,
+          36.81897
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1406,
+        "place": "Cairo, Egypt",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Ibn Khaldun — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ibn_Khaldun"
+        }
+      ]
+    },
+    {
+      "id": "omar-khayyam",
+      "name": "Omar Khayyam",
+      "aliases": [
+        "Khayyam",
+        "Umar Khayyam",
+        "Omar Khayami"
+      ],
+      "birth": {
+        "year": 1048,
+        "place": "Nishapur, Iran",
+        "coordinates": [
+          58.79575,
+          36.21329
+        ],
+        "locationApproximate": true,
+        "approximate": true
+      },
+      "death": {
+        "year": 1131,
+        "place": "Nishapur, Iran",
+        "coordinates": [
+          58.79575,
+          36.21329
+        ],
+        "locationApproximate": true,
+        "approximate": true
+      },
+      "note": "Dates follow MacTutor's 1048–1131 chronology. Both are uncertain; Encyclopaedia Iranica discusses an alternative death date around 1123.",
+      "sources": [
+        {
+          "title": "Omar Khayyam — MacTutor, University of St Andrews",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Khayyam/"
+        },
+        {
+          "title": "Khayyam, Omar: Life — Encyclopaedia Iranica",
+          "url": "https://www.iranicaonline.org/articles/khayyam-omar/khayyam-omar-i-life/"
+        }
+      ]
+    },
+    {
+      "id": "kahlil-gibran",
+      "name": "Kahlil Gibran",
+      "aliases": [
+        "Khalil Gibran",
+        "Gibran",
+        "Jubran Khalil Jubran"
+      ],
+      "birth": {
+        "year": 1883,
+        "place": "Bsharri, Lebanon",
+        "coordinates": [
+          36.01056,
+          34.25083
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1931,
+        "place": "New York City, United States",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Kahlil Gibran — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kahlil_Gibran"
+        }
+      ]
+    },
+    {
+      "id": "avicenna",
+      "name": "Avicenna",
+      "aliases": [
+        "Ibn Sina",
+        "Ibn Sīnā",
+        "Abu Ali ibn Sina"
+      ],
+      "birth": {
+        "year": 980,
+        "place": "Afshona, near Bukhara, Uzbekistan",
+        "coordinates": [
+          64.379167,
+          39.994444
+        ],
+        "locationApproximate": true,
+        "approximate": true
+      },
+      "death": {
+        "year": 1037,
+        "place": "Hamadan, Iran",
+        "coordinates": [
+          48.51456,
+          34.79922
+        ],
+        "locationApproximate": true
+      },
+      "note": "Birth year is approximate; Afshona is also spelled Afshana. Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Avicenna — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Avicenna"
+        },
+        {
+          "title": "Afshona — Wikidata coordinates",
+          "url": "https://www.wikidata.org/wiki/Q4072887"
+        },
+        {
+          "title": "Avicenna Museum at Afshona — Bukhara State Museum",
+          "url": "https://bukharamuseums.uz/uz/katalog/item/muzej-abu-ali-ibn-sino"
+        }
+      ]
+    },
+    {
+      "id": "mustafa-kemal-ataturk",
+      "name": "Mustafa Kemal Atatürk",
+      "aliases": [
+        "Ataturk",
+        "Mustafa Kemal",
+        "Kemal Ataturk"
+      ],
+      "birth": {
+        "year": 1881,
+        "place": "Salonica (Thessaloniki), Greece",
+        "coordinates": [
+          22.93493,
+          40.64072
+        ],
+        "locationApproximate": true,
+        "approximate": true
+      },
+      "death": {
+        "year": 1938,
+        "place": "Istanbul, Turkey",
+        "coordinates": [
+          28.94966,
+          41.01384
+        ],
+        "locationApproximate": true
+      },
+      "note": "Birth year is approximate. Salonica was then in the Ottoman Empire; it is now Thessaloniki, Greece.",
+      "sources": [
+        {
+          "title": "Mustafa Kemal Atatürk — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
+        }
+      ]
+    },
+    {
+      "id": "muhammad-ali",
+      "name": "Muhammad Ali",
+      "aliases": [
+        "Ali",
+        "Cassius Clay",
+        "Cassius Marcellus Clay Jr"
+      ],
+      "birth": {
+        "year": 1942,
+        "place": "Louisville, Kentucky, United States",
+        "coordinates": [
+          -85.75941,
+          38.25424
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2016,
+        "place": "Scottsdale, Arizona, United States",
+        "coordinates": [
+          -111.89903,
+          33.50921
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Muhammad Ali — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_Ali"
+        }
+      ]
+    },
+    {
+      "id": "martin-luther-king-jr",
+      "name": "Martin Luther King Jr.",
+      "aliases": [
+        "MLK",
+        "Martin Luther King",
+        "King",
+        "Michael King Jr"
+      ],
+      "birth": {
+        "year": 1929,
+        "place": "Atlanta, Georgia, United States",
+        "coordinates": [
+          -84.38798,
+          33.749
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1968,
+        "place": "Memphis, Tennessee, United States",
+        "coordinates": [
+          -90.04898,
+          35.14953
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Martin Luther King Jr. — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+        }
+      ]
+    },
+    {
+      "id": "malcolm-x",
+      "name": "Malcolm X",
+      "aliases": [
+        "Malcolm Little",
+        "Malik el-Shabazz",
+        "El-Hajj Malik El-Shabazz"
+      ],
+      "birth": {
+        "year": 1925,
+        "place": "Omaha, Nebraska, United States",
+        "coordinates": [
+          -95.94043,
+          41.25626
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1965,
+        "place": "New York City, United States",
+        "coordinates": [
+          -74.00597,
+          40.71427
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Malcolm X — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Malcolm_X"
+        }
+      ]
+    },
+    {
+      "id": "web-du-bois",
+      "name": "W. E. B. Du Bois",
+      "aliases": [
+        "WEB Du Bois",
+        "Du Bois",
+        "Dubois",
+        "William Edward Burghardt Du Bois"
+      ],
+      "birth": {
+        "year": 1868,
+        "place": "Great Barrington, Massachusetts, United States",
+        "coordinates": [
+          -73.3625,
+          42.19583
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1963,
+        "place": "Accra, Ghana",
+        "coordinates": [
+          -0.1969,
+          5.55602
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "W. E. B. Du Bois — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+        },
+        {
+          "title": "Great Barrington, Massachusetts — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Great_Barrington,_Massachusetts"
+        }
+      ]
+    },
+    {
+      "id": "josephine-baker",
+      "name": "Josephine Baker",
+      "aliases": [
+        "Joséphine Baker",
+        "Baker",
+        "Freda Josephine McDonald"
+      ],
+      "birth": {
+        "year": 1906,
+        "place": "St. Louis, Missouri, United States",
+        "coordinates": [
+          -90.19789,
+          38.62727
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1975,
+        "place": "Paris, France",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Josephine Baker — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Josephine_Baker"
+        }
+      ]
+    },
+    {
+      "id": "gabriela-mistral",
+      "name": "Gabriela Mistral",
+      "aliases": [
+        "Mistral",
+        "Lucila Godoy",
+        "Lucila Godoy Alcayaga"
+      ],
+      "birth": {
+        "year": 1889,
+        "place": "Vicuña, Chile",
+        "coordinates": [
+          -70.71274,
+          -30.03541
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1957,
+        "place": "Hempstead, New York, United States",
+        "coordinates": [
+          -73.61874,
+          40.70621
+        ],
+        "locationApproximate": true
+      },
+      "note": "Died at Hempstead General Hospital on Long Island, not in Chile. Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Gabriela Mistral — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gabriela_Mistral"
+        },
+        {
+          "title": "Gabriela Mistral — National Library of Chile",
+          "url": "https://www.memoriachilena.gob.cl/602/w3-article-3429.html"
+        }
+      ]
+    },
+    {
+      "id": "mercedes-sosa",
+      "name": "Mercedes Sosa",
+      "aliases": [
+        "Sosa",
+        "Haydee Mercedes Sosa",
+        "Haydée Mercedes Sosa"
+      ],
+      "birth": {
+        "year": 1935,
+        "place": "San Miguel de Tucumán, Argentina",
+        "coordinates": [
+          -65.21051,
+          -26.81601
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2009,
+        "place": "Buenos Aires, Argentina",
+        "coordinates": [
+          -58.37723,
+          -34.61315
+        ],
+        "locationApproximate": true
+      },
+      "note": "Map pins mark settlement centres.",
+      "sources": [
+        {
+          "title": "Mercedes Sosa — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mercedes_Sosa"
+        }
+      ]
+    }
+  ]
+}
