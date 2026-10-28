@@ -64,7 +64,7 @@ new ResizeObserver(()=>{if(map)fitMap();}).observe($('life-map'));
 async function init(){
   if(loading||game)return;loading=true;$('retry').hidden=true;$('load-message').textContent='Loading figures…';
   try{
-    const [data,geography]=await Promise.all(['./figures-data.json','./world-countries.geojson'].map(async url=>{const r=await fetch(url);if(!r.ok)throw Error('Data unavailable');return r.json();}));
+    const [data,geography]=await Promise.all(['./figures-data.json?v=4b3c4ffcd3','./world-countries.geojson'].map(async url=>{const r=await fetch(url);if(!r.ok)throw Error('Data unavailable');return r.json();}));
     if(!Array.isArray(data.figures)||!data.figures.length)throw Error('No figures');
     world=geography;game=new FigureGame(data.figures);$('figure-game').hidden=false;next();$('pool-label').textContent=`${data.figures.length} FIGURES`;$('load-status').hidden=true;
   }catch{

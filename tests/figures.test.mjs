@@ -5,7 +5,7 @@ import {FigureGame,formatYear,lifeBounds,normalizeName} from '../dist/figures-mo
 const figures=JSON.parse(fs.readFileSync(new URL('../dist/figures-data.json',import.meta.url))).figures;
 
 test('figure pool has distinct sourced life clues, real coordinates and unambiguous accepted names',()=>{
-  assert.equal(figures.length,60);assert.equal(new Set(figures.map(f=>f.id)).size,60);
+  assert.equal(figures.length,200);assert.equal(new Set(figures.map(f=>f.id)).size,200);
   const names=new Map(),signatures=new Set();
   for(const figure of figures){
     assert.ok(figure.name&&Array.isArray(figure.aliases));assert.ok(figure.sources.length);
@@ -28,7 +28,9 @@ test('figure pool has distinct sourced life clues, real coordinates and unambigu
   }
   assert.ok(figures.filter(f=>f.birth.coordinates[0]>50).length>=20,'Asian coverage');
   assert.ok(figures.some(f=>f.birth.coordinates[1]<0),'Southern hemisphere coverage');
-  assert.ok(figures.some(f=>f.birth.year<1500),'Earlier periods');
+  assert.ok(figures.filter(f=>f.birth.year<1500).length>=30,'At least 30 ancient or medieval figures');
+  assert.ok(figures.filter(f=>f.birth.year<0).length>=5,'Ancient figures with BC dates');
+  assert.ok(figures.some(f=>f.birth.coordinates[0]>110&&f.birth.coordinates[1]<-10),'Oceania coverage');
 });
 
 test('three distinct wrong guesses reveal the figure and sources; duplicate aliases do not consume attempts',()=>{
