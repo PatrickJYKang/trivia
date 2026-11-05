@@ -1,0 +1,146 @@
+Cricket Grounds — outline artwork
+
+Original artwork by XrysD on Wikimedia Commons.
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Adaptation: the Labels group (including lettering converted to paths) was
+removed. Geometry and colours of the ground, stands and pitch are retained.
+Metadata was replaced with generic attribution to avoid revealing answers.
+These adapted SVGs are distributed under CC BY-SA 4.0.
+Layouts depict the original diagrams, not necessarily present-day grounds.
+
+ground-01.svg: Bristol County Ground
+  Original: https://commons.wikimedia.org/wiki/File:BristolCountyCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-02.svg: County Ground, Chelmsford
+  Original: https://commons.wikimedia.org/wiki/File:ChelmsfordCountyCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-03.svg: County Ground, Derby
+  Original: https://commons.wikimedia.org/wiki/File:DerbyCountyCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-04.svg: Eden Gardens
+  Original: https://commons.wikimedia.org/wiki/File:EdenGardensCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD); BNJ Nilam (https://commons.wikimedia.org/wiki/User:BNJ_Nilam)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-05.svg: Eden Park
+  Original: https://commons.wikimedia.org/wiki/File:EdenParkCricketPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-06.svg: Edgbaston
+  Original: https://commons.wikimedia.org/wiki/File:EdgbastonCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD); Minorax (https://commons.wikimedia.org/wiki/User:Minorax)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-07.svg: Arun Jaitley Stadium
+  Original: https://commons.wikimedia.org/wiki/File:FerozShahKotlaCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-08.svg: Gahanga Cricket Stadium
+  Original: https://commons.wikimedia.org/wiki/File:GahangaStadium.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-09.svg: Grace Road
+  Original: https://commons.wikimedia.org/wiki/File:GraceRoadCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-10.svg: Headingley
+  Original: https://commons.wikimedia.org/wiki/File:HeadingleyCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-11.svg: County Ground, Hove
+  Original: https://commons.wikimedia.org/wiki/File:HoveCountyCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-12.svg: Lord’s
+  Original: https://commons.wikimedia.org/wiki/File:LordsCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-13.svg: Melbourne Cricket Ground
+  Original: https://commons.wikimedia.org/wiki/File:MelbourneCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-14.svg: New Road
+  Original: https://commons.wikimedia.org/wiki/File:NewRoadCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD); Minorax (https://commons.wikimedia.org/wiki/User:Minorax)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-15.svg: County Ground, Northampton
+  Original: https://commons.wikimedia.org/wiki/File:NorthamptonCountyCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-16.svg: Old Trafford
+  Original: https://commons.wikimedia.org/wiki/File:OldTraffordCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD); Minorax (https://commons.wikimedia.org/wiki/User:Minorax)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-17.svg: Perth Stadium
+  Original: https://commons.wikimedia.org/wiki/File:PerthStadiumCricketPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-18.svg: Riverside Ground
+  Original: https://commons.wikimedia.org/wiki/File:RiversideCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-19.svg: Rose Bowl
+  Original: https://commons.wikimedia.org/wiki/File:RoseBowlCricketGround.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-20.svg: Sophia Gardens
+  Original: https://commons.wikimedia.org/wiki/File:SophiaGardensCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-21.svg: St Lawrence Ground
+  Original: https://commons.wikimedia.org/wiki/File:StLawrenceCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD); Blue Square Thing (Anifail Aneglur Iawn) (https://commons.wikimedia.org/wiki/User:Anifail_Aneglur_Iawn)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-22.svg: Sydney Cricket Ground
+  Original: https://commons.wikimedia.org/wiki/File:SydneyCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-23.svg: County Ground, Taunton
+  Original: https://commons.wikimedia.org/wiki/File:Taunton_County_Cricket_Ground_-_Pitch_Dimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-24.svg: The Oval
+  Original: https://commons.wikimedia.org/wiki/File:TheOvalCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-25.svg: Trent Bridge
+  Original: https://commons.wikimedia.org/wiki/File:TrentBridgeCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-26.svg: Wankhede Stadium
+  Original: https://commons.wikimedia.org/wiki/File:WankhedeStadiumCricketGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+ground-27.svg: WACA Ground
+  Original: https://commons.wikimedia.org/wiki/File:WesternAustraliaCricketAssociationGroundPitchDimensions.svg
+  Contributors: XrysD (https://commons.wikimedia.org/wiki/User:XrysD)
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)

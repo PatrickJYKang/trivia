@@ -1,6 +1,6 @@
 # Trivia
 
-A static, responsive collection of geography trivia widgets.
+A static, responsive trivia game collection.
 
 Serve `dist` with any static HTTP server. No build step or API key is required.
 
@@ -113,3 +113,11 @@ The map supports pan/zoom and Fit places. Blue marks birth; orange marks death. 
 MapLibre uses the bundled public-domain Natural Earth country outlines in `dist/world-countries.geojson`, with optional standard OpenStreetMap raster detail requested only for the visible viewport. The outline basemap and labelled pins remain when detailed tiles fail; Retry map detail retries that layer. Tile requests use normal browser identification, referrer and HTTP caching; no tile prefetch or offline tile archive is included. Attribution is visible below the map. Natural Earth provenance is in `dist/world-countries-LICENSE.txt`.
 
 `dist/figures-model.js` handles names, year formatting, map bounds, guess limits and deck transitions. `node --test tests/*.test.mjs` checks all identities and aliases, coordinates, distinct life clues, approximate years, three-miss reveal, correct answers on every attempt, duplicates, early reveal, deck boundaries, co-located events and antimeridian framing. Optional WebMCP actions expose read/guess/reveal/next through the same game state. Script and stylesheet URLs are versioned so preview reloads pick up rendering changes.
+
+## Cricket Grounds
+
+Open `cricket.html`, the eighth game. Type the cricket ground's name from a label-free ground diagram. The deck contains **27 distinct grounds** from XrysD's Wikimedia Commons uploads: 18 in England/Wales, four in Australia, three in India, one in New Zealand and one in Rwanda. Names, familiar abbreviations (MCG, SCG, WACA), former names and selected sponsor names are accepted. Matching ignores case, accents, punctuation, dotted initials and an optional leading “The”; it does not accept arbitrary substrings. Guesses are unlimited, duplicate names/aliases do not increase the count, and Give up reveals the answer. Correct guesses and Give up show the location, original diagram link and contributor credits. Next ground clears the round. There is no score or timer, and the shuffled deck visits every ground before repeating, including protection against a repeat across the deck boundary. No new runtime API is needed.
+
+All 27 SVGs are bundled in `dist/cricket-outlines/`. The outlines retain the original geometry and colours of the stands, ground and pitch, while the entire Labels layer (including lettering converted to vector paths) is removed. Generic attribution replaces embedded descriptions, and neutral filenames/alt text avoid naming the answer. These are diagrams as drawn in the original uploads; they need not reflect current redevelopment. `dist/cricket-data.json` stores accepted names, original file URLs, contributor credits and license provenance, checked on 5 November 2026. `dist/cricket-credits.txt` records attribution and changes for every image. Original and adapted artwork is **CC BY-SA 4.0**, by XrysD and the credited Commons contributors; this artwork license does not relicense unrelated site code.
+
+To regenerate from downloaded originals, run `python3 scripts/build-cricket-grounds.py /path/to/cricket-research/grounds.json` with a manifest containing each ground's sourcePath, names, aliases, place, source/asset URLs, author, contributors and license metadata. The importer verifies label-layer removal and rejects active/external SVG content. `node --test tests/*.test.mjs` checks all accepted names, sourced assets, label removal, unlimited and duplicate guesses, give-up/correct transitions and deck exhaustion.

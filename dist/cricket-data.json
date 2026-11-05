@@ -1,0 +1,750 @@
+{
+  "version": 1,
+  "checked": "2026-11-05",
+  "scope": "27 distinct cricket ground diagrams in XrysD’s Wikimedia Commons uploads. Labels removed for play.",
+  "grounds": [
+    {
+      "id": "ground-01",
+      "name": "Bristol County Ground",
+      "location": "Bristol, England",
+      "aliases": [
+        "Bristol County Cricket Ground",
+        "County Ground Bristol",
+        "Bristol",
+        "Nevil Road"
+      ],
+      "image": "./cricket-outlines/ground-01.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:BristolCountyCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "BristolCountyCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b8/BristolCountyCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-02",
+      "name": "County Ground, Chelmsford",
+      "location": "Chelmsford, England",
+      "aliases": [
+        "Chelmsford County Ground",
+        "Chelmsford County Cricket Ground",
+        "County Cricket Ground Chelmsford",
+        "Chelmsford"
+      ],
+      "image": "./cricket-outlines/ground-02.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:ChelmsfordCountyCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "ChelmsfordCountyCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1a/ChelmsfordCountyCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-03",
+      "name": "County Ground, Derby",
+      "location": "Derby, England",
+      "aliases": [
+        "Derby County Ground",
+        "Derby County Cricket Ground",
+        "County Cricket Ground Derby",
+        "Derby",
+        "Racecourse Ground Derby"
+      ],
+      "image": "./cricket-outlines/ground-03.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:DerbyCountyCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "DerbyCountyCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DerbyCountyCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-04",
+      "name": "Eden Gardens",
+      "location": "Kolkata, India",
+      "aliases": [
+        "Eden Gardens Cricket Ground",
+        "Eden Garden"
+      ],
+      "image": "./cricket-outlines/ground-04.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:EdenGardensCricketGroundPitchDimensions.svg",
+      "credit": "XrysD, BNJ Nilam",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        },
+        {
+          "name": "BNJ Nilam",
+          "url": "https://commons.wikimedia.org/wiki/User:BNJ_Nilam",
+          "contribution": "Reverted to original diagram revision"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "EdenGardensCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1c/EdenGardensCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-05",
+      "name": "Eden Park",
+      "location": "Auckland, New Zealand",
+      "aliases": [
+        "Eden Park Cricket Ground"
+      ],
+      "image": "./cricket-outlines/ground-05.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:EdenParkCricketPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "EdenParkCricketPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/08/EdenParkCricketPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-06",
+      "name": "Edgbaston",
+      "location": "Birmingham, England",
+      "aliases": [
+        "Edgbaston Cricket Ground",
+        "Edgbaston Stadium"
+      ],
+      "image": "./cricket-outlines/ground-06.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:EdgbastonCricketGroundPitchDimensions.svg",
+      "credit": "XrysD, Minorax",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        },
+        {
+          "name": "Minorax",
+          "url": "https://commons.wikimedia.org/wiki/User:Minorax",
+          "contribution": "SVG source cleanup"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "EdgbastonCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/EdgbastonCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-07",
+      "name": "Arun Jaitley Stadium",
+      "location": "Delhi, India",
+      "aliases": [
+        "Feroz Shah Kotla",
+        "Feroz Shah Kotla Ground",
+        "Feroz Shah Kotla Stadium",
+        "Feroz Shah Kotla Cricket Ground",
+        "Ferozeshah Kotla",
+        "Ferozeshah Kotla Ground",
+        "Feroze Shah Kotla",
+        "Kotla",
+        "Arun Jaitley",
+        "Arun Jaitley Cricket Stadium"
+      ],
+      "image": "./cricket-outlines/ground-07.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:FerozShahKotlaCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "FerozShahKotlaCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/80/FerozShahKotlaCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-08",
+      "name": "Gahanga Cricket Stadium",
+      "location": "Kigali, Rwanda",
+      "aliases": [
+        "Gahanga Stadium",
+        "Gahanga",
+        "Rwanda Cricket Stadium",
+        "Gahanga International Cricket Stadium"
+      ],
+      "image": "./cricket-outlines/ground-08.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:GahangaStadium.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "GahangaStadium.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e0/GahangaStadium.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-09",
+      "name": "Grace Road",
+      "location": "Leicester, England",
+      "aliases": [
+        "Grace Road Cricket Ground",
+        "Leicester County Ground",
+        "County Ground Leicester"
+      ],
+      "image": "./cricket-outlines/ground-09.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:GraceRoadCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "GraceRoadCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b5/GraceRoadCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-10",
+      "name": "Headingley",
+      "location": "Leeds, England",
+      "aliases": [
+        "Headingley Cricket Ground",
+        "Headingley Stadium"
+      ],
+      "image": "./cricket-outlines/ground-10.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:HeadingleyCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "HeadingleyCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HeadingleyCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-11",
+      "name": "County Ground, Hove",
+      "location": "Hove, England",
+      "aliases": [
+        "Hove County Ground",
+        "Hove County Cricket Ground",
+        "County Cricket Ground Hove",
+        "Hove"
+      ],
+      "image": "./cricket-outlines/ground-11.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:HoveCountyCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "HoveCountyCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/32/HoveCountyCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-12",
+      "name": "Lord’s",
+      "location": "London, England",
+      "aliases": [
+        "Lord's Cricket Ground",
+        "Lords",
+        "Lords Cricket Ground",
+        "Lord"
+      ],
+      "image": "./cricket-outlines/ground-12.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:LordsCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "LordsCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/52/LordsCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-13",
+      "name": "Melbourne Cricket Ground",
+      "location": "Melbourne, Australia",
+      "aliases": [
+        "MCG",
+        "Melbourne Ground"
+      ],
+      "image": "./cricket-outlines/ground-13.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:MelbourneCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "MelbourneCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/2c/MelbourneCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-14",
+      "name": "New Road",
+      "location": "Worcester, England",
+      "aliases": [
+        "New Road Cricket Ground",
+        "New Road Worcester",
+        "Worcester County Ground",
+        "County Ground Worcester"
+      ],
+      "image": "./cricket-outlines/ground-14.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:NewRoadCricketGroundPitchDimensions.svg",
+      "credit": "XrysD, Minorax",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        },
+        {
+          "name": "Minorax",
+          "url": "https://commons.wikimedia.org/wiki/User:Minorax",
+          "contribution": "SVG source cleanup"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "NewRoadCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6a/NewRoadCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-15",
+      "name": "County Ground, Northampton",
+      "location": "Northampton, England",
+      "aliases": [
+        "Northampton County Ground",
+        "Northampton County Cricket Ground",
+        "County Cricket Ground Northampton",
+        "Northampton"
+      ],
+      "image": "./cricket-outlines/ground-15.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:NorthamptonCountyCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "NorthamptonCountyCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4a/NorthamptonCountyCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-16",
+      "name": "Old Trafford",
+      "location": "Manchester, England",
+      "aliases": [
+        "Old Trafford Cricket Ground",
+        "Emirates Old Trafford"
+      ],
+      "image": "./cricket-outlines/ground-16.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:OldTraffordCricketGroundPitchDimensions.svg",
+      "credit": "XrysD, Minorax",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        },
+        {
+          "name": "Minorax",
+          "url": "https://commons.wikimedia.org/wiki/User:Minorax",
+          "contribution": "SVG source cleanup"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "OldTraffordCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/OldTraffordCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-17",
+      "name": "Perth Stadium",
+      "location": "Perth, Australia",
+      "aliases": [
+        "Optus Stadium",
+        "Optus"
+      ],
+      "image": "./cricket-outlines/ground-17.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:PerthStadiumCricketPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "PerthStadiumCricketPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a6/PerthStadiumCricketPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-18",
+      "name": "Riverside Ground",
+      "location": "Chester-le-Street, England",
+      "aliases": [
+        "Riverside",
+        "Riverside Cricket Ground",
+        "Chester le Street",
+        "Chester-le-Street Ground",
+        "Chester le Street Riverside"
+      ],
+      "image": "./cricket-outlines/ground-18.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:RiversideCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "RiversideCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b2/RiversideCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-19",
+      "name": "Rose Bowl",
+      "location": "Southampton, England",
+      "aliases": [
+        "The Rose Bowl",
+        "Rose Bowl Cricket Ground",
+        "Ageas Bowl",
+        "The Ageas Bowl",
+        "Utilita Bowl",
+        "The Utilita Bowl",
+        "Hampshire Bowl"
+      ],
+      "image": "./cricket-outlines/ground-19.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:RoseBowlCricketGround.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "RoseBowlCricketGround.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/66/RoseBowlCricketGround.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-20",
+      "name": "Sophia Gardens",
+      "location": "Cardiff, Wales",
+      "aliases": [
+        "Sophia Gardens Cricket Ground",
+        "SWALEC Stadium",
+        "Cardiff Wales Stadium"
+      ],
+      "image": "./cricket-outlines/ground-20.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:SophiaGardensCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "SophiaGardensCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/12/SophiaGardensCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-21",
+      "name": "St Lawrence Ground",
+      "location": "Canterbury, England",
+      "aliases": [
+        "St Lawrence",
+        "St Lawrence Cricket Ground",
+        "Saint Lawrence Ground",
+        "St Lawrence Canterbury",
+        "Canterbury St Lawrence"
+      ],
+      "image": "./cricket-outlines/ground-21.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:StLawrenceCricketGroundPitchDimensions.svg",
+      "credit": "XrysD, Blue Square Thing (Anifail Aneglur Iawn)",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        },
+        {
+          "name": "Blue Square Thing (Anifail Aneglur Iawn)",
+          "url": "https://commons.wikimedia.org/wiki/User:Anifail_Aneglur_Iawn",
+          "contribution": "Buildings, scoreboard and tree corrections"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "StLawrenceCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d0/StLawrenceCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-22",
+      "name": "Sydney Cricket Ground",
+      "location": "Sydney, Australia",
+      "aliases": [
+        "SCG",
+        "Sydney Ground"
+      ],
+      "image": "./cricket-outlines/ground-22.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:SydneyCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "SydneyCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d6/SydneyCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-23",
+      "name": "County Ground, Taunton",
+      "location": "Taunton, England",
+      "aliases": [
+        "Taunton County Ground",
+        "Taunton County Cricket Ground",
+        "County Cricket Ground Taunton",
+        "Taunton",
+        "Cooper Associates County Ground"
+      ],
+      "image": "./cricket-outlines/ground-23.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Taunton_County_Cricket_Ground_-_Pitch_Dimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "Taunton County Cricket Ground - Pitch Dimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/16/Taunton_County_Cricket_Ground_-_Pitch_Dimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-24",
+      "name": "The Oval",
+      "location": "London, England",
+      "aliases": [
+        "Oval",
+        "Kennington Oval",
+        "Kia Oval",
+        "The Kia Oval",
+        "The Oval Cricket Ground"
+      ],
+      "image": "./cricket-outlines/ground-24.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:TheOvalCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "TheOvalCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/28/TheOvalCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-25",
+      "name": "Trent Bridge",
+      "location": "Nottingham, England",
+      "aliases": [
+        "Trent Bridge Cricket Ground"
+      ],
+      "image": "./cricket-outlines/ground-25.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:TrentBridgeCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "TrentBridgeCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/79/TrentBridgeCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-26",
+      "name": "Wankhede Stadium",
+      "location": "Mumbai, India",
+      "aliases": [
+        "Wankhede",
+        "Wankhede Cricket Ground"
+      ],
+      "image": "./cricket-outlines/ground-26.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:WankhedeStadiumCricketGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "WankhedeStadiumCricketGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/WankhedeStadiumCricketGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    },
+    {
+      "id": "ground-27",
+      "name": "WACA Ground",
+      "location": "Perth, Australia",
+      "aliases": [
+        "WACA",
+        "Western Australia Cricket Association Ground",
+        "Western Australian Cricket Association Ground"
+      ],
+      "image": "./cricket-outlines/ground-27.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:WesternAustraliaCricketAssociationGroundPitchDimensions.svg",
+      "credit": "XrysD",
+      "contributors": [
+        {
+          "name": "XrysD",
+          "url": "https://commons.wikimedia.org/wiki/User:XrysD"
+        }
+      ],
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "originalFile": "WesternAustraliaCricketAssociationGroundPitchDimensions.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/24/WesternAustraliaCricketAssociationGroundPitchDimensions.svg",
+      "adaptation": "Labels removed; geometry and colours retained."
+    }
+  ]
+}
