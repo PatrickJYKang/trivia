@@ -77,6 +77,31 @@ test('all figures appear before repeating and the deck boundary avoids a repeat'
   const single=new FigureGame([figures[0]]);single.next();single.reveal();single.next();assert.equal(single.current.id,figures[0].id);
 });
 
+test('small misspellings work for full names and aliases in both pools',()=>{
+  const cases=[['albert-einstein','Albert Einstien'],['winston-churchill','Winston Churchil'],['william-shakespeare','Shakespear'],['mahatma-gandhi','Ghandi'],['elizabeth-ii','Elizabth II'],['mao-zedong','Moa'],['leonardo-da-vinci','Leonrdo da Vinchi'],['michael-jackson','MichaelJackson']];
+  for(const pool of [figures,selectFigures(data)])for(const [id,input] of cases){
+    const target=pool.find(f=>f.id===id),game=new FigureGame([...pool.filter(f=>f.id!==id),target],()=>.99999);
+    game.next();assert.equal(game.current.id,id);game.guess(input);assert.equal(game.won,true,input);
+  }
+});
+
+test('spelling tolerance preserves other identities, duplicate guesses, short names and ruler numbers',()=>{
+  const target=figures.find(f=>f.id==='albert-einstein'),game=new FigureGame([...figures.filter(f=>f.id!==target.id),target],()=>.99999);game.next();
+  game.guess('Winston Churchil');assert.equal(game.won,false);assert.equal(game.guesses[0].id,'winston-churchill');
+  assert.equal(game.guess('Winston Churchill'),false);assert.equal(game.guess('Winstonn Churchill'),false);assert.equal(game.guesses.length,1);
+  game.guess('Albert Einstien');assert.equal(game.won,true);
+  const rulers=new FigureGame(figures.filter(f=>['elizabeth-i','elizabeth-ii'].includes(f.id)),()=>.99999);rulers.next();
+  assert.equal(rulers.current.id,'elizabeth-i');rulers.guess('Elizabeth II');assert.equal(rulers.won,false);
+  rulers.guess('Elizabth II');assert.equal(rulers.guesses.length,1);assert.equal(rulers.won,false);
+  rulers.guess('Elizabeth');assert.equal(rulers.won,false);
+  const a={...target,id:'alan',name:'Alan',aliases:[]},b={...target,id:'alen',name:'Alen',aliases:[]};
+  const ambiguous=new FigureGame([a,b]);ambiguous.next();assert.throws(()=>ambiguous.guess('Alin'),/fuller/);assert.equal(ambiguous.guesses.length,0);
+  ambiguous.guess('Alan');assert.equal(ambiguous.guesses[0].id,'alan');
+  const short=new FigureGame([{...target,name:'Li',aliases:[]}]);short.next();short.guess('Lu');assert.equal(short.won,false);
+  const cixi=figures.find(f=>f.id==='empress-dowager-cixi'),empress=new FigureGame([cixi]);empress.next();empress.guess('Cixxi');assert.equal(empress.won,true);
+  const distant=new FigureGame([target]);distant.next();distant.guess('Totally unrelated');assert.equal(distant.won,false);
+});
+
 
 test('familiar names are the default deck and the broader pool retains every figure',()=>{
   const familiar=selectFigures(data);

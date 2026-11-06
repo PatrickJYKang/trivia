@@ -1,4 +1,4 @@
-import {FigureGame,formatYear,lifeBounds} from './figures-model.js?v=20261027-1';
+import {FigureGame,formatYear,lifeBounds} from './figures-model.js?v=934293884e';
 import {figureMode,selectFigures} from './figures-pool.js?v=20261106-1';
 const $=id=>document.getElementById(id);
 const mode=figureMode(location.search);

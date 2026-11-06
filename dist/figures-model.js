@@ -1,6 +1,39 @@
 export function normalizeName(value){
   return value.normalize('NFD').replace(/\p{M}/gu,'').toLocaleLowerCase('en').replace(/['’]/g,'').replace(/[^\p{L}\p{N}]+/gu,' ').trim().replace(/\s+/g,' ');
 }
+// Count typing edits, including adjacent letters entered in the wrong order.
+function spellingDistance(a,b){
+  a=[...a];b=[...b];
+  const rows=Array.from({length:a.length+1},()=>Array(b.length+1).fill(0));
+  for(let i=0;i<=a.length;i++)rows[i][0]=i;
+  for(let j=0;j<=b.length;j++)rows[0][j]=j;
+  for(let i=1;i<=a.length;i++)for(let j=1;j<=b.length;j++){
+    rows[i][j]=Math.min(rows[i-1][j]+1,rows[i][j-1]+1,rows[i-1][j-1]+(a[i-1]===b[j-1]?0:1));
+    if(i>1&&j>1&&a[i-1]===b[j-2]&&a[i-2]===b[j-1])rows[i][j]=Math.min(rows[i][j],rows[i-2][j-2]+1);
+  }
+  return rows[a.length][b.length];
+}
+const nameNumbers=name=>name.split(' ').filter(word=>/^(?:[ivx]+|\d+)$/.test(word)).join(' ');
+function resolveName(key,names){
+  const exact=names.get(key);
+  if(exact?.size>1)throw Error('Enter a fuller name.');
+  if(exact?.size===1)return [...exact][0];
+  const compact=key.replace(/ /g,''),numbers=nameNumbers(key);
+  let best=Infinity,matches=new Set();
+  for(const [name,ids] of names){
+    const candidate=name.replace(/ /g,''),length=Math.min([...compact].length,[...candidate].length);
+    const limit=length<3?0:length<6?1:length<15?2:3;
+    if(Math.abs([...compact].length-[...candidate].length)>limit)continue;
+    // Never turn a missing or different regnal number into a different ruler.
+    if(compact!==candidate&&numbers!==nameNumbers(name))continue;
+    const distance=spellingDistance(compact,candidate);
+    if(distance>limit||distance>best)continue;
+    if(distance<best){best=distance;matches=new Set();}
+    for(const id of ids)matches.add(id);
+  }
+  if(matches.size>1)throw Error('Enter a fuller or more precise name.');
+  return matches.size===1?[...matches][0]:null;
+}
 export function formatYear(event){return `${event.approximate?'c. ':''}${event.year<0?`${-event.year} BC`:event.year}`;}
 export function lifeBounds(birth,death){
   const a=[...birth.coordinates],b=[...death.coordinates];
@@ -26,9 +59,7 @@ export class FigureGame{
   guess(value){
     if(!this.current||this.done)throw Error('Wait for an active round.');
     if(typeof value!=='string'||value.length>150||!normalizeName(value))throw Error('Enter a person’s name.');
-    const key=normalizeName(value),matches=this.names.get(key);
-    if(matches?.size>1)throw Error('Enter a fuller name.');
-    const id=matches?.size===1?[...matches][0]:null;
+    const key=normalizeName(value),id=resolveName(key,this.names);
     if(this.guesses.some(g=>id?g.id===id:g.key===key))return false;
     const correct=id===this.current.id;
     this.guesses.push({guess:value.trim(),key,id,correct});
