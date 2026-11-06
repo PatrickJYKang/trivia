@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checked": "2026-10-27",
+  "checked": "2026-11-06",
   "scope": "Birth and death years and places for deceased historical figures. Pins represent settlements or approximate localities rather than claimed exact buildings.",
   "figures": [
     {
@@ -7052,6 +7052,1658 @@
           "url": "https://en.wikipedia.org/wiki/Cairo,_Georgia"
         }
       ]
+    },
+    {
+      "id": "winston-churchill",
+      "name": "Winston Churchill",
+      "aliases": [
+        "Churchill",
+        "Winston Leonard Spencer Churchill",
+        "Sir Winston Churchill"
+      ],
+      "birth": {
+        "year": 1874,
+        "place": "Blenheim, England",
+        "coordinates": [
+          -1.36095,
+          51.84136
+        ]
+      },
+      "death": {
+        "year": 1965,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Winston Churchill",
+          "url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+          "title": "Blenheim Palace — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Blenheim_Palace"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        }
+      ]
+    },
+    {
+      "id": "franklin-d-roosevelt",
+      "name": "Franklin D. Roosevelt",
+      "aliases": [
+        "FDR",
+        "Franklin Roosevelt",
+        "Franklin Delano Roosevelt"
+      ],
+      "birth": {
+        "year": 1882,
+        "place": "Hyde Park, New York, United States",
+        "coordinates": [
+          -73.9333,
+          41.7847
+        ]
+      },
+      "death": {
+        "year": 1945,
+        "place": "Warm Springs, Georgia, United States",
+        "coordinates": [
+          -84.68,
+          32.88861
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Franklin D. Roosevelt",
+          "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        },
+        {
+          "title": "Hyde Park, New York — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Hyde_Park,_New_York"
+        },
+        {
+          "title": "Warm Springs, Georgia — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Warm_Springs,_Georgia"
+        }
+      ]
+    },
+    {
+      "id": "john-f-kennedy",
+      "name": "John F. Kennedy",
+      "aliases": [
+        "JFK",
+        "John Kennedy",
+        "John Fitzgerald Kennedy"
+      ],
+      "birth": {
+        "year": 1917,
+        "place": "Brookline, Massachusetts, United States",
+        "coordinates": [
+          -71.12167,
+          42.33167
+        ]
+      },
+      "death": {
+        "year": 1963,
+        "place": "Dallas, Texas, United States",
+        "coordinates": [
+          -96.80889,
+          32.77917
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "John F. Kennedy",
+          "url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+        },
+        {
+          "title": "Brookline, Massachusetts — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Brookline,_Massachusetts"
+        },
+        {
+          "title": "Dallas — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Dallas"
+        }
+      ]
+    },
+    {
+      "id": "theodore-roosevelt",
+      "name": "Theodore Roosevelt",
+      "aliases": [
+        "Teddy Roosevelt",
+        "Theodore Roosevelt Jr.",
+        "Theodore Roosevelt Junior"
+      ],
+      "birth": {
+        "year": 1858,
+        "place": "New York City, United States",
+        "coordinates": [
+          -74.0061,
+          40.7128
+        ]
+      },
+      "death": {
+        "year": 1919,
+        "place": "Oyster Bay, New York, United States",
+        "coordinates": [
+          -73.53078,
+          40.87244
+        ]
+      },
+      "note": "He died at Sagamore Hill near Oyster Bay.",
+      "sources": [
+        {
+          "title": "Theodore Roosevelt",
+          "url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+        },
+        {
+          "title": "New York City — coordinates",
+          "url": "https://en.wikipedia.org/wiki/New_York_City"
+        },
+        {
+          "title": "Oyster Bay (hamlet), New York — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Oyster_Bay_(hamlet),_New_York"
+        }
+      ]
+    },
+    {
+      "id": "thomas-jefferson",
+      "name": "Thomas Jefferson",
+      "aliases": [
+        "Jefferson"
+      ],
+      "birth": {
+        "year": 1743,
+        "place": "Shadwell, Virginia, United States",
+        "coordinates": [
+          -78.41778,
+          38.01238
+        ]
+      },
+      "death": {
+        "year": 1826,
+        "place": "Monticello, Virginia, United States",
+        "coordinates": [
+          -78.45233,
+          38.01031
+        ]
+      },
+      "note": "Born at Shadwell and died at Monticello, both near present-day Charlottesville, Virginia.",
+      "sources": [
+        {
+          "title": "Thomas Jefferson",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+        },
+        {
+          "title": "Shadwell, Virginia — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Shadwell,_Virginia"
+        },
+        {
+          "title": "Monticello — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Monticello"
+        }
+      ]
+    },
+    {
+      "id": "benjamin-franklin",
+      "name": "Benjamin Franklin",
+      "aliases": [
+        "Ben Franklin"
+      ],
+      "birth": {
+        "year": 1706,
+        "place": "Boston, Massachusetts, United States",
+        "coordinates": [
+          -71.05778,
+          42.36028
+        ]
+      },
+      "death": {
+        "year": 1790,
+        "place": "Philadelphia, Pennsylvania, United States",
+        "coordinates": [
+          -75.1636,
+          39.9528
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Benjamin Franklin",
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+        },
+        {
+          "title": "Boston — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Boston"
+        },
+        {
+          "title": "Philadelphia — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Philadelphia"
+        }
+      ]
+    },
+    {
+      "id": "joseph-stalin",
+      "name": "Joseph Stalin",
+      "aliases": [
+        "Stalin",
+        "Josef Stalin",
+        "Iosif Stalin",
+        "Ioseb Jughashvili"
+      ],
+      "birth": {
+        "year": 1878,
+        "place": "Gori, Georgia",
+        "coordinates": [
+          44.1,
+          41.967
+        ]
+      },
+      "death": {
+        "year": 1953,
+        "place": "Moscow, Russia",
+        "coordinates": [
+          37.61778,
+          55.75583
+        ]
+      },
+      "note": "He died at his Kuntsevo dacha on the outskirts of Moscow.",
+      "sources": [
+        {
+          "title": "Joseph Stalin",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Stalin"
+        },
+        {
+          "title": "Gori, Georgia — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Gori,_Georgia"
+        },
+        {
+          "title": "Moscow — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Moscow"
+        }
+      ]
+    },
+    {
+      "id": "vladimir-lenin",
+      "name": "Vladimir Lenin",
+      "aliases": [
+        "Lenin",
+        "Vladimir Ilyich Lenin",
+        "Vladimir Ulyanov",
+        "Vladimir Ilyich Ulyanov"
+      ],
+      "birth": {
+        "year": 1870,
+        "place": "Simbirsk (now Ulyanovsk), Russia",
+        "coordinates": [
+          48.367,
+          54.317
+        ]
+      },
+      "death": {
+        "year": 1924,
+        "place": "Gorki, Moscow region, Russia",
+        "coordinates": [
+          37.76503,
+          55.5045
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Vladimir Lenin",
+          "url": "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+        },
+        {
+          "title": "Ulyanovsk — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Ulyanovsk"
+        },
+        {
+          "title": "Gorki Leninskiye — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Gorki_Leninskiye"
+        }
+      ]
+    },
+    {
+      "id": "adolf-hitler",
+      "name": "Adolf Hitler",
+      "aliases": [
+        "Hitler"
+      ],
+      "birth": {
+        "year": 1889,
+        "place": "Braunau am Inn, Austria",
+        "coordinates": [
+          13.03528,
+          48.25833
+        ]
+      },
+      "death": {
+        "year": 1945,
+        "place": "Berlin, Germany",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Adolf Hitler",
+          "url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+          "title": "Braunau am Inn — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Braunau_am_Inn"
+        },
+        {
+          "title": "Berlin — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Berlin"
+        }
+      ]
+    },
+    {
+      "id": "mikhail-gorbachev",
+      "name": "Mikhail Gorbachev",
+      "aliases": [
+        "Gorbachev",
+        "Mikhail Sergeyevich Gorbachev",
+        "Mikhail Gorbachov"
+      ],
+      "birth": {
+        "year": 1931,
+        "place": "Privolnoye, Stavropol region, Russia",
+        "coordinates": [
+          41.30556,
+          45.91944
+        ]
+      },
+      "death": {
+        "year": 2022,
+        "place": "Moscow, Russia",
+        "coordinates": [
+          37.61778,
+          55.75583
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Mikhail Gorbachev",
+          "url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+        },
+        {
+          "title": "Privolnoye, Krasnogvardeysky District, Stavropol Krai — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Privolnoye,_Stavropol_Krai"
+        },
+        {
+          "title": "Moscow — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Moscow"
+        }
+      ]
+    },
+    {
+      "id": "margaret-thatcher",
+      "name": "Margaret Thatcher",
+      "aliases": [
+        "Thatcher",
+        "Margaret Hilda Thatcher",
+        "Margaret Hilda Roberts"
+      ],
+      "birth": {
+        "year": 1925,
+        "place": "Grantham, England",
+        "coordinates": [
+          -0.638,
+          52.918
+        ]
+      },
+      "death": {
+        "year": 2013,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Margaret Thatcher",
+          "url": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
+        },
+        {
+          "title": "Grantham — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Grantham"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-ii",
+      "name": "Elizabeth II",
+      "aliases": [
+        "Queen Elizabeth II",
+        "Elizabeth the Second",
+        "Queen Elizabeth the Second"
+      ],
+      "birth": {
+        "year": 1926,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ]
+      },
+      "death": {
+        "year": 2022,
+        "place": "Balmoral, Scotland",
+        "coordinates": [
+          -3.23,
+          57.04083
+        ]
+      },
+      "note": "She died at Balmoral Castle in Aberdeenshire, Scotland.",
+      "sources": [
+        {
+          "title": "Elizabeth II",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_II"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        },
+        {
+          "title": "Balmoral Castle — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Balmoral_Castle"
+        }
+      ]
+    },
+    {
+      "id": "queen-victoria",
+      "name": "Queen Victoria",
+      "aliases": [
+        "Victoria",
+        "Victoria of the United Kingdom",
+        "Alexandrina Victoria"
+      ],
+      "birth": {
+        "year": 1819,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ]
+      },
+      "death": {
+        "year": 1901,
+        "place": "East Cowes, Isle of Wight, England",
+        "coordinates": [
+          -1.2865,
+          50.757
+        ]
+      },
+      "note": "She died at Osborne House near East Cowes on the Isle of Wight.",
+      "sources": [
+        {
+          "title": "Queen Victoria",
+          "url": "https://en.wikipedia.org/wiki/Queen_Victoria"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        },
+        {
+          "title": "East Cowes — coordinates",
+          "url": "https://en.wikipedia.org/wiki/East_Cowes"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-i",
+      "name": "Elizabeth I",
+      "aliases": [
+        "Queen Elizabeth I",
+        "Elizabeth the First",
+        "Elizabeth Tudor",
+        "Queen Elizabeth the First"
+      ],
+      "birth": {
+        "year": 1533,
+        "place": "Greenwich, England",
+        "coordinates": [
+          0.0,
+          51.48
+        ]
+      },
+      "death": {
+        "year": 1603,
+        "place": "Richmond, England",
+        "coordinates": [
+          -0.301,
+          51.456
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Elizabeth I",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_I"
+        },
+        {
+          "title": "Greenwich — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Greenwich"
+        },
+        {
+          "title": "Richmond, London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Richmond,_London"
+        }
+      ]
+    },
+    {
+      "id": "henry-viii",
+      "name": "Henry VIII",
+      "aliases": [
+        "Henry the Eighth",
+        "Henry 8",
+        "King Henry VIII",
+        "Henry Tudor"
+      ],
+      "birth": {
+        "year": 1491,
+        "place": "Greenwich, England",
+        "coordinates": [
+          0.0,
+          51.48
+        ]
+      },
+      "death": {
+        "year": 1547,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Henry VIII",
+          "url": "https://en.wikipedia.org/wiki/Henry_VIII"
+        },
+        {
+          "title": "Greenwich — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Greenwich"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        }
+      ]
+    },
+    {
+      "id": "louis-xiv",
+      "name": "Louis XIV",
+      "aliases": [
+        "Louis the Fourteenth",
+        "Louis 14",
+        "Louis XIV of France",
+        "Sun King"
+      ],
+      "birth": {
+        "year": 1638,
+        "place": "Saint-Germain-en-Laye, France",
+        "coordinates": [
+          2.0938,
+          48.8989
+        ]
+      },
+      "death": {
+        "year": 1715,
+        "place": "Versailles, France",
+        "coordinates": [
+          2.135,
+          48.805
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Louis XIV",
+          "url": "https://en.wikipedia.org/wiki/Louis_XIV"
+        },
+        {
+          "title": "Saint-Germain-en-Laye — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Saint-Germain-en-Laye"
+        },
+        {
+          "title": "Versailles, Yvelines — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Versailles,_Yvelines"
+        }
+      ]
+    },
+    {
+      "id": "otto-von-bismarck",
+      "name": "Otto von Bismarck",
+      "aliases": [
+        "Bismarck",
+        "Otto Bismarck"
+      ],
+      "birth": {
+        "year": 1815,
+        "place": "Schönhausen, Germany",
+        "coordinates": [
+          12.03972,
+          52.57861
+        ]
+      },
+      "death": {
+        "year": 1898,
+        "place": "Friedrichsruh, Germany",
+        "coordinates": [
+          10.34034,
+          53.52946
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Otto von Bismarck",
+          "url": "https://en.wikipedia.org/wiki/Otto_von_Bismarck"
+        },
+        {
+          "title": "Schönhausen — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Sch%C3%B6nhausen"
+        },
+        {
+          "title": "Friedrichsruh — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Friedrichsruh"
+        }
+      ]
+    },
+    {
+      "id": "charles-de-gaulle",
+      "name": "Charles de Gaulle",
+      "aliases": [
+        "De Gaulle",
+        "Charles DeGaulle"
+      ],
+      "birth": {
+        "year": 1890,
+        "place": "Lille, France",
+        "coordinates": [
+          3.0583,
+          50.6278
+        ]
+      },
+      "death": {
+        "year": 1970,
+        "place": "Colombey-les-Deux-Églises, France",
+        "coordinates": [
+          4.8867,
+          48.2242
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Charles de Gaulle",
+          "url": "https://en.wikipedia.org/wiki/Charles_de_Gaulle"
+        },
+        {
+          "title": "Lille — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Lille"
+        },
+        {
+          "title": "Colombey-les-Deux-Églises — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Colombey_les_Deux_%C3%89glises"
+        }
+      ]
+    },
+    {
+      "id": "ronald-reagan",
+      "name": "Ronald Reagan",
+      "aliases": [
+        "Reagan",
+        "Ronald Wilson Reagan"
+      ],
+      "birth": {
+        "year": 1911,
+        "place": "Tampico, Illinois, United States",
+        "coordinates": [
+          -89.78556,
+          41.62778
+        ]
+      },
+      "death": {
+        "year": 2004,
+        "place": "Los Angeles, California, United States",
+        "coordinates": [
+          -118.25,
+          34.05
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Ronald Reagan",
+          "url": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+        },
+        {
+          "title": "Tampico, Illinois — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Tampico,_Illinois"
+        },
+        {
+          "title": "Los Angeles — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles"
+        }
+      ]
+    },
+    {
+      "id": "richard-nixon",
+      "name": "Richard Nixon",
+      "aliases": [
+        "Nixon",
+        "Richard Milhous Nixon"
+      ],
+      "birth": {
+        "year": 1913,
+        "place": "Yorba Linda, California, United States",
+        "coordinates": [
+          -117.813,
+          33.889
+        ]
+      },
+      "death": {
+        "year": 1994,
+        "place": "New York City, United States",
+        "coordinates": [
+          -74.0061,
+          40.7128
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Richard Nixon",
+          "url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+        },
+        {
+          "title": "Yorba Linda, California — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Yorba_Linda,_California"
+        },
+        {
+          "title": "New York City — coordinates",
+          "url": "https://en.wikipedia.org/wiki/New_York_City"
+        }
+      ]
+    },
+    {
+      "id": "alexander-the-great",
+      "name": "Alexander the Great",
+      "aliases": [
+        "Alexander III of Macedon",
+        "Alexander of Macedon",
+        "Alexander III"
+      ],
+      "birth": {
+        "year": -356,
+        "place": "Pella, Greece",
+        "coordinates": [
+          22.52105,
+          40.75467
+        ]
+      },
+      "death": {
+        "year": -323,
+        "place": "Babylon, Iraq",
+        "coordinates": [
+          44.42111,
+          32.5425
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Alexander the Great",
+          "url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+          "title": "Pella — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Pella"
+        },
+        {
+          "title": "Babylon — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Babylon"
+        }
+      ]
+    },
+    {
+      "id": "akbar",
+      "name": "Akbar",
+      "aliases": [
+        "Akbar the Great",
+        "Akbar I",
+        "Jalal-ud-din Muhammad Akbar",
+        "Jalaluddin Muhammad Akbar"
+      ],
+      "birth": {
+        "year": 1542,
+        "place": "Umarkot, Pakistan",
+        "coordinates": [
+          69.7425,
+          25.36306
+        ]
+      },
+      "death": {
+        "year": 1605,
+        "place": "Agra, India",
+        "coordinates": [
+          78.02,
+          27.18
+        ]
+      },
+      "note": "Born at Umarkot, now in Pakistan; died at Agra. The death locality follows Encyclopaedia Iranica.",
+      "sources": [
+        {
+          "title": "Akbar I — Encyclopaedia Iranica",
+          "url": "https://www.iranicaonline.org/articles/akbar-i-mughal-india/"
+        },
+        {
+          "title": "Akbar",
+          "url": "https://en.wikipedia.org/wiki/Akbar"
+        },
+        {
+          "title": "Umerkot — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Umerkot"
+        },
+        {
+          "title": "Agra — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Agra"
+        }
+      ]
+    },
+    {
+      "id": "suleiman-the-magnificent",
+      "name": "Suleiman the Magnificent",
+      "aliases": [
+        "Suleiman",
+        "Suleiman I",
+        "Suleyman the Magnificent",
+        "Suleyman I",
+        "Süleyman I",
+        "Suleiman the Lawgiver"
+      ],
+      "birth": {
+        "year": 1494,
+        "place": "Trabzon, Turkey",
+        "coordinates": [
+          39.7225,
+          41.005
+        ],
+        "approximate": true
+      },
+      "death": {
+        "year": 1566,
+        "place": "Szigetvár area, Hungary",
+        "coordinates": [
+          17.79944,
+          46.0475
+        ],
+        "locationApproximate": true
+      },
+      "note": "His birth year is usually given as circa 1494. He died in his military camp during the siege of Szigetvár; the death pin marks that area.",
+      "sources": [
+        {
+          "title": "Suleiman the Magnificent",
+          "url": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
+        },
+        {
+          "title": "Trabzon — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Trabzon"
+        },
+        {
+          "title": "Szigetvár — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Szigetv%C3%A1r"
+        }
+      ]
+    },
+    {
+      "id": "saddam-hussein",
+      "name": "Saddam Hussein",
+      "aliases": [
+        "Saddam",
+        "Saddam Husayn",
+        "Saddam Hussein al-Tikriti"
+      ],
+      "birth": {
+        "year": 1937,
+        "place": "Al-Awja, Iraq",
+        "coordinates": [
+          43.73306,
+          34.53306
+        ]
+      },
+      "death": {
+        "year": 2006,
+        "place": "Baghdad, Iraq",
+        "coordinates": [
+          44.36611,
+          33.31528
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Saddam Hussein",
+          "url": "https://en.wikipedia.org/wiki/Saddam_Hussein"
+        },
+        {
+          "title": "Al-Awja — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Al-Awja"
+        },
+        {
+          "title": "Baghdad — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Baghdad"
+        }
+      ]
+    },
+    {
+      "id": "muammar-gaddafi",
+      "name": "Muammar Gaddafi",
+      "aliases": [
+        "Gaddafi",
+        "Muammar al-Gaddafi",
+        "Muammar Qaddafi",
+        "Muammar Gadhafi",
+        "Muammar Kadhafi",
+        "Qaddafi",
+        "Gadhafi"
+      ],
+      "birth": {
+        "year": 1942,
+        "place": "Qasr Abu Hadi area, Libya",
+        "coordinates": [
+          16.65889,
+          31.05944
+        ],
+        "approximate": true,
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 2011,
+        "place": "Sirte, Libya",
+        "coordinates": [
+          16.58861,
+          31.205
+        ]
+      },
+      "note": "His birth year is uncertain, usually given as circa 1942. The birth pin represents the Qasr Abu Hadi area near Sirte.",
+      "sources": [
+        {
+          "title": "Muammar Gaddafi",
+          "url": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+        },
+        {
+          "title": "Qasr Abu Hadi — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Qasr_Abu_Hadi"
+        },
+        {
+          "title": "Sirte — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Sirte"
+        }
+      ]
+    },
+    {
+      "id": "pele",
+      "name": "Pelé",
+      "aliases": [
+        "Edson Arantes do Nascimento",
+        "Edson Arantes",
+        "Pele"
+      ],
+      "birth": {
+        "year": 1940,
+        "place": "Três Corações, Brazil",
+        "coordinates": [
+          -45.25528,
+          -21.69472
+        ]
+      },
+      "death": {
+        "year": 2022,
+        "place": "São Paulo, Brazil",
+        "coordinates": [
+          -46.633,
+          -23.55
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Pelé obituary — Municipality of Bauru",
+          "url": "https://www2.bauru.sp.gov.br/materia.aspx?n=42110"
+        },
+        {
+          "title": "Pelé",
+          "url": "https://en.wikipedia.org/wiki/Pel%C3%A9"
+        },
+        {
+          "title": "Três Corações — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Tr%C3%AAs_Cora%C3%A7%C3%B5es"
+        },
+        {
+          "title": "São Paulo — coordinates",
+          "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo"
+        }
+      ]
+    },
+    {
+      "id": "david-bowie",
+      "name": "David Bowie",
+      "aliases": [
+        "Bowie",
+        "David Robert Jones"
+      ],
+      "birth": {
+        "year": 1947,
+        "place": "Brixton, London, England",
+        "coordinates": [
+          -0.1175,
+          51.4575
+        ]
+      },
+      "death": {
+        "year": 2016,
+        "place": "New York City, United States",
+        "coordinates": [
+          -74.0061,
+          40.7128
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "David Bowie — Television Academy",
+          "url": "https://www.televisionacademy.com/bios/david-bowie"
+        },
+        {
+          "title": "David Bowie",
+          "url": "https://en.wikipedia.org/wiki/David_Bowie"
+        },
+        {
+          "title": "Brixton — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Brixton"
+        },
+        {
+          "title": "New York City — coordinates",
+          "url": "https://en.wikipedia.org/wiki/New_York_City"
+        }
+      ]
+    },
+    {
+      "id": "marco-polo",
+      "name": "Marco Polo",
+      "aliases": [
+        "Polo"
+      ],
+      "birth": {
+        "year": 1254,
+        "place": "Venice, Italy",
+        "coordinates": [
+          12.33583,
+          45.4375
+        ],
+        "approximate": true
+      },
+      "death": {
+        "year": 1324,
+        "place": "Venice, Italy",
+        "coordinates": [
+          12.33583,
+          45.4375
+        ]
+      },
+      "note": "His birth year is usually given as circa 1254.",
+      "sources": [
+        {
+          "title": "Marco Polo",
+          "url": "https://en.wikipedia.org/wiki/Marco_Polo"
+        },
+        {
+          "title": "Venice — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Venice"
+        }
+      ]
+    },
+    {
+      "id": "charles-dickens",
+      "name": "Charles Dickens",
+      "aliases": [
+        "Dickens",
+        "Charles John Huffam Dickens"
+      ],
+      "birth": {
+        "year": 1812,
+        "place": "Portsmouth, England",
+        "coordinates": [
+          -1.08722,
+          50.80583
+        ]
+      },
+      "death": {
+        "year": 1870,
+        "place": "Higham, Kent, England",
+        "coordinates": [
+          0.463,
+          51.415
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Charles Dickens",
+          "url": "https://en.wikipedia.org/wiki/Charles_Dickens"
+        },
+        {
+          "title": "Portsmouth — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Portsmouth"
+        },
+        {
+          "title": "Higham, Kent — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Higham,_Kent"
+        }
+      ]
+    },
+    {
+      "id": "oscar-wilde",
+      "name": "Oscar Wilde",
+      "aliases": [
+        "Wilde",
+        "Oscar Fingal O’Fflahertie Wills Wilde"
+      ],
+      "birth": {
+        "year": 1854,
+        "place": "Dublin, Ireland",
+        "coordinates": [
+          -6.26028,
+          53.35
+        ]
+      },
+      "death": {
+        "year": 1900,
+        "place": "Paris, France",
+        "coordinates": [
+          2.3522,
+          48.8567
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Oscar Wilde",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+        },
+        {
+          "title": "Dublin — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Dublin"
+        },
+        {
+          "title": "Paris — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Paris"
+        }
+      ]
+    },
+    {
+      "id": "ernest-hemingway",
+      "name": "Ernest Hemingway",
+      "aliases": [
+        "Hemingway",
+        "Ernest Miller Hemingway"
+      ],
+      "birth": {
+        "year": 1899,
+        "place": "Oak Park, Illinois, United States",
+        "coordinates": [
+          -87.78944,
+          41.88833
+        ]
+      },
+      "death": {
+        "year": 1961,
+        "place": "Ketchum, Idaho, United States",
+        "coordinates": [
+          -114.365,
+          43.68
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Ernest Hemingway",
+          "url": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+        },
+        {
+          "title": "Oak Park, Illinois — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Oak_Park,_Illinois"
+        },
+        {
+          "title": "Ketchum, Idaho — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Ketchum,_Idaho"
+        }
+      ]
+    },
+    {
+      "id": "george-orwell",
+      "name": "George Orwell",
+      "aliases": [
+        "Orwell",
+        "Eric Arthur Blair",
+        "Eric Blair"
+      ],
+      "birth": {
+        "year": 1903,
+        "place": "Motihari, India",
+        "coordinates": [
+          84.91667,
+          26.65
+        ]
+      },
+      "death": {
+        "year": 1950,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "George Orwell",
+          "url": "https://en.wikipedia.org/wiki/George_Orwell"
+        },
+        {
+          "title": "Motihari — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Motihari"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        }
+      ]
+    },
+    {
+      "id": "agatha-christie",
+      "name": "Agatha Christie",
+      "aliases": [
+        "Christie",
+        "Agatha Mary Clarissa Christie",
+        "Agatha Miller",
+        "Mary Westmacott"
+      ],
+      "birth": {
+        "year": 1890,
+        "place": "Torquay, England",
+        "coordinates": [
+          -3.53,
+          50.47
+        ]
+      },
+      "death": {
+        "year": 1976,
+        "place": "Winterbrook, Oxfordshire, England",
+        "coordinates": [
+          -1.13,
+          51.58
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Agatha Christie",
+          "url": "https://en.wikipedia.org/wiki/Agatha_Christie"
+        },
+        {
+          "title": "Torquay — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Torquay"
+        },
+        {
+          "title": "Winterbrook — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Winterbrook"
+        }
+      ]
+    },
+    {
+      "id": "walt-disney",
+      "name": "Walt Disney",
+      "aliases": [
+        "Disney",
+        "Walter Elias Disney"
+      ],
+      "birth": {
+        "year": 1901,
+        "place": "Chicago, Illinois, United States",
+        "coordinates": [
+          -87.62778,
+          41.88194
+        ]
+      },
+      "death": {
+        "year": 1966,
+        "place": "Burbank, California, United States",
+        "coordinates": [
+          -118.32833,
+          34.18028
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Walt Disney",
+          "url": "https://en.wikipedia.org/wiki/Walt_Disney"
+        },
+        {
+          "title": "Chicago — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Chicago"
+        },
+        {
+          "title": "Burbank, California — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Burbank,_California"
+        }
+      ]
+    },
+    {
+      "id": "elvis-presley",
+      "name": "Elvis Presley",
+      "aliases": [
+        "Elvis",
+        "Presley",
+        "Elvis Aaron Presley"
+      ],
+      "birth": {
+        "year": 1935,
+        "place": "Tupelo, Mississippi, United States",
+        "coordinates": [
+          -88.72583,
+          34.25972
+        ]
+      },
+      "death": {
+        "year": 1977,
+        "place": "Memphis, Tennessee, United States",
+        "coordinates": [
+          -90.05194,
+          35.14611
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Elvis Presley",
+          "url": "https://en.wikipedia.org/wiki/Elvis_Presley"
+        },
+        {
+          "title": "Tupelo, Mississippi — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Tupelo,_Mississippi"
+        },
+        {
+          "title": "Memphis, Tennessee — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Memphis,_Tennessee"
+        }
+      ]
+    },
+    {
+      "id": "michael-jackson",
+      "name": "Michael Jackson",
+      "aliases": [
+        "Michael Joseph Jackson",
+        "MJ"
+      ],
+      "birth": {
+        "year": 1958,
+        "place": "Gary, Indiana, United States",
+        "coordinates": [
+          -87.34694,
+          41.59056
+        ]
+      },
+      "death": {
+        "year": 2009,
+        "place": "Los Angeles, California, United States",
+        "coordinates": [
+          -118.25,
+          34.05
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Michael Jackson",
+          "url": "https://en.wikipedia.org/wiki/Michael_Jackson"
+        },
+        {
+          "title": "Gary, Indiana — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Gary,_Indiana"
+        },
+        {
+          "title": "Los Angeles — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles"
+        }
+      ]
+    },
+    {
+      "id": "freddie-mercury",
+      "name": "Freddie Mercury",
+      "aliases": [
+        "Freddy Mercury",
+        "Mercury",
+        "Farrokh Bulsara"
+      ],
+      "birth": {
+        "year": 1946,
+        "place": "Stone Town, Zanzibar, Tanzania",
+        "coordinates": [
+          39.1913,
+          -6.1624
+        ]
+      },
+      "death": {
+        "year": 1991,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Freddie Mercury",
+          "url": "https://en.wikipedia.org/wiki/Freddie_Mercury"
+        },
+        {
+          "title": "Stone Town — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Stone_Town"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        }
+      ]
+    },
+    {
+      "id": "charlie-chaplin",
+      "name": "Charlie Chaplin",
+      "aliases": [
+        "Chaplin",
+        "Charles Chaplin",
+        "Charles Spencer Chaplin",
+        "Charles Spencer Chaplin Jr."
+      ],
+      "birth": {
+        "year": 1889,
+        "place": "London, England",
+        "coordinates": [
+          -0.1275,
+          51.50722
+        ],
+        "locationApproximate": true
+      },
+      "death": {
+        "year": 1977,
+        "place": "Corsier-sur-Vevey, Switzerland",
+        "coordinates": [
+          6.85,
+          46.467
+        ]
+      },
+      "note": "His precise birthplace was not recorded; the birth pin represents London.",
+      "sources": [
+        {
+          "title": "Charlie Chaplin",
+          "url": "https://en.wikipedia.org/wiki/Charlie_Chaplin"
+        },
+        {
+          "title": "London — coordinates",
+          "url": "https://en.wikipedia.org/wiki/London"
+        },
+        {
+          "title": "Corsier-sur-Vevey — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Corsier-sur-Vevey"
+        }
+      ]
+    },
+    {
+      "id": "bruce-lee",
+      "name": "Bruce Lee",
+      "aliases": [
+        "Lee Jun-fan",
+        "Lee Jun Fan",
+        "Lee Junfan",
+        "Li Xiaolong",
+        "Li Xiao Long"
+      ],
+      "birth": {
+        "year": 1940,
+        "place": "San Francisco, California, United States",
+        "coordinates": [
+          -122.41639,
+          37.7775
+        ]
+      },
+      "death": {
+        "year": 1973,
+        "place": "Kowloon, Hong Kong",
+        "coordinates": [
+          114.183,
+          22.317
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Bruce Lee",
+          "url": "https://en.wikipedia.org/wiki/Bruce_Lee"
+        },
+        {
+          "title": "San Francisco — coordinates",
+          "url": "https://en.wikipedia.org/wiki/San_Francisco"
+        },
+        {
+          "title": "Kowloon — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Kowloon"
+        }
+      ]
+    },
+    {
+      "id": "marilyn-monroe",
+      "name": "Marilyn Monroe",
+      "aliases": [
+        "Monroe",
+        "Norma Jeane Mortenson",
+        "Norma Jean Mortenson",
+        "Norma Jeane Baker"
+      ],
+      "birth": {
+        "year": 1926,
+        "place": "Los Angeles, California, United States",
+        "coordinates": [
+          -118.25,
+          34.05
+        ]
+      },
+      "death": {
+        "year": 1962,
+        "place": "Los Angeles, California, United States",
+        "coordinates": [
+          -118.25,
+          34.05
+        ]
+      },
+      "note": "",
+      "sources": [
+        {
+          "title": "Marilyn Monroe",
+          "url": "https://en.wikipedia.org/wiki/Marilyn_Monroe"
+        },
+        {
+          "title": "Los Angeles — coordinates",
+          "url": "https://en.wikipedia.org/wiki/Los_Angeles"
+        }
+      ]
     }
+  ],
+  "familiarAdditions": [
+    "winston-churchill",
+    "franklin-d-roosevelt",
+    "john-f-kennedy",
+    "theodore-roosevelt",
+    "thomas-jefferson",
+    "benjamin-franklin",
+    "joseph-stalin",
+    "vladimir-lenin",
+    "adolf-hitler",
+    "mikhail-gorbachev",
+    "margaret-thatcher",
+    "elizabeth-ii",
+    "queen-victoria",
+    "elizabeth-i",
+    "henry-viii",
+    "louis-xiv",
+    "otto-von-bismarck",
+    "charles-de-gaulle",
+    "ronald-reagan",
+    "richard-nixon",
+    "alexander-the-great",
+    "akbar",
+    "suleiman-the-magnificent",
+    "saddam-hussein",
+    "muammar-gaddafi",
+    "pele",
+    "david-bowie",
+    "marco-polo",
+    "charles-dickens",
+    "oscar-wilde",
+    "ernest-hemingway",
+    "george-orwell",
+    "agatha-christie",
+    "walt-disney",
+    "elvis-presley",
+    "michael-jackson",
+    "freddie-mercury",
+    "charlie-chaplin",
+    "bruce-lee",
+    "marilyn-monroe"
   ]
 }

@@ -2,10 +2,12 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {FigureGame,formatYear,lifeBounds,normalizeName} from '../dist/figures-model.js';
-const figures=JSON.parse(fs.readFileSync(new URL('../dist/figures-data.json',import.meta.url))).figures;
+import {figureMode,selectFigures,familiarExistingIds} from '../dist/figures-pool.js';
+const data=JSON.parse(fs.readFileSync(new URL('../dist/figures-data.json',import.meta.url)));
+const figures=data.figures;
 
 test('figure pool has distinct sourced life clues, real coordinates and unambiguous accepted names',()=>{
-  assert.equal(figures.length,200);assert.equal(new Set(figures.map(f=>f.id)).size,200);
+  assert.equal(figures.length,240);assert.equal(new Set(figures.map(f=>f.id)).size,240);
   const names=new Map(),signatures=new Set();
   for(const figure of figures){
     assert.ok(figure.name&&Array.isArray(figure.aliases));assert.ok(figure.sources.length);
@@ -73,4 +75,19 @@ test('all figures appear before repeating and the deck boundary avoids a repeat'
   for(let i=0;i<figures.length;i++){game.next();assert.ok(!seen.has(game.current.id));seen.add(game.current.id);previous=game.current.id;game.reveal();}
   game.next();assert.notEqual(game.current.id,previous);
   const single=new FigureGame([figures[0]]);single.next();single.reveal();single.next();assert.equal(single.current.id,figures[0].id);
+});
+
+
+test('familiar names are the default deck and the broader pool retains every figure',()=>{
+  const familiar=selectFigures(data);
+  assert.equal(familiar.length,100);assert.equal(familiarExistingIds.length,60);assert.equal(data.familiarAdditions.length,40);
+  assert.equal(new Set([...familiarExistingIds,...data.familiarAdditions]).size,100);
+  for(const id of [...familiarExistingIds,...data.familiarAdditions])assert.ok(familiar.some(f=>f.id===id),id);
+  for(const name of ['George Washington','Mahatma Gandhi','Albert Einstein','William Shakespeare','Winston Churchill','Elizabeth II','Elvis Presley'])assert.ok(familiar.some(f=>f.name===name),name);
+  assert.equal(selectFigures(data,true),figures);
+  assert.equal(figureMode().expanded,false);assert.equal(figureMode('?mode=unknown').expanded,false);
+  assert.equal(figureMode('?mode=expanded').expanded,true);
+  assert.equal(figureMode().switchUrl,'figures.html?mode=expanded');assert.equal(figureMode('?mode=expanded').switchUrl,'figures.html');
+  const game=new FigureGame(familiar,()=>.3),seen=new Set();
+  for(let i=0;i<100;i++){game.next();assert.ok(!seen.has(game.current.id));seen.add(game.current.id);assert.ok(familiar.some(f=>f.id===game.current.id));game.guess(game.current.name);assert.equal(game.won,true);}
 });

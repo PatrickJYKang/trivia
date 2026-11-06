@@ -1,5 +1,9 @@
 import {FigureGame,formatYear,lifeBounds} from './figures-model.js?v=20261027-1';
+import {figureMode,selectFigures} from './figures-pool.js?v=20261106-1';
 const $=id=>document.getElementById(id);
+const mode=figureMode(location.search);
+document.title=`Trivia — ${mode.title}`;$('game-title').textContent=mode.title;
+$('pool-switch').textContent=mode.switchLabel;$('pool-switch').href=mode.switchUrl;
 let game,map,markers=[],loading=false,world,mapDetailFailed=false;
 const state=()=>game?.snapshot()??{ready:false};
 function render(){
@@ -64,9 +68,11 @@ new ResizeObserver(()=>{if(map)fitMap();}).observe($('life-map'));
 async function init(){
   if(loading||game)return;loading=true;$('retry').hidden=true;$('load-message').textContent='Loading figures…';
   try{
-    const [data,geography]=await Promise.all(['./figures-data.json?v=4b3c4ffcd3','./world-countries.geojson'].map(async url=>{const r=await fetch(url);if(!r.ok)throw Error('Data unavailable');return r.json();}));
+    const [data,geography]=await Promise.all(['./figures-data.json?v=a1964bb2a3','./world-countries.geojson'].map(async url=>{const r=await fetch(url);if(!r.ok)throw Error('Data unavailable');return r.json();}));
     if(!Array.isArray(data.figures)||!data.figures.length)throw Error('No figures');
-    world=geography;game=new FigureGame(data.figures);$('figure-game').hidden=false;next();$('pool-label').textContent=`${data.figures.length} FIGURES`;$('load-status').hidden=true;
+    const pool=selectFigures(data,mode.expanded);
+    if(!pool.length)throw Error('No figures');
+    world=geography;game=new FigureGame(pool);$('figure-game').hidden=false;next();$('pool-label').textContent=`${pool.length} ${mode.expanded?'FIGURES':'FAMILIAR FIGURES'}`;$('load-status').hidden=true;
   }catch{
     game=null;if(map){map.remove();map=null;}markers=[];$('figure-game').hidden=true;
     $('load-message').textContent='Unable to load the game.';$('retry').hidden=false;

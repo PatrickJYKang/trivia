@@ -10,3 +10,5 @@ footer>span:first-child{display:flex;align-items:center;gap:7px}.birth-key,.deat
 @media(max-width:600px){.game-links{gap:12px}.life-map-wrap{height:380px}.pin-label{max-width:114px;padding:7px 8px}.pin-label strong{font-size:12px}.pin-label span{font-size:11px}.pin-label.left{right:14px}.pin-label.right{left:14px}#load-status{padding:24px 16px}#guess-form input{width:0}.life-attribution{font-size:9px}footer{line-height:1.5}}
 
 #life-map canvas{filter:grayscale(.75)}
+
+@media(max-width:600px){.game-nav .game-links{flex:1 1 100%}}
