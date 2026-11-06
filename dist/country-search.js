@@ -1,4 +1,4 @@
-import {normalizeCountry} from './arms-model.js?v=2efba1a6a4';
+import {normalizeCountry} from './arms-model.js?v=0643486714';
 export function countryIndex(countries){
   return countries.map(({id,name,aliases})=>({id,name,primary:normalizeCountry(name),names:[...new Set([name,...aliases].map(normalizeCountry))]}));
 }
@@ -16,7 +16,7 @@ export function exactCountry(index,value){
   const key=normalizeCountry(value),matches=index.filter(c=>c.names.includes(key));
   return matches.length===1?matches[0]:null;
 }
-export function attachCountrySearch(index,{input,list,status,onChange}){
+export function attachCountrySearch(index,{input,list,status,onChange,noun='country',plural='countries',article='a'}){
   let results=[],active=-1,selected=null,blurTimer;
   function close(){list.hidden=true;input.setAttribute('aria-expanded','false');input.removeAttribute('aria-activedescendant');active=-1;}
   function select(country){selected=country;input.value=country.name;close();status.textContent=`${country.name} selected.`;onChange();}
@@ -28,12 +28,12 @@ export function attachCountrySearch(index,{input,list,status,onChange}){
     results=searchCountries(index,input.value);active=-1;list.replaceChildren();input.removeAttribute('aria-activedescendant');
     if(!normalizeCountry(input.value)){close();status.textContent='';return;}
     list.hidden=false;input.setAttribute('aria-expanded','true');
-    if(!results.length){const empty=document.createElement('li');empty.className='search-empty';empty.setAttribute('role','presentation');empty.textContent='No countries found.';list.append(empty);}
+    if(!results.length){const empty=document.createElement('li');empty.className='search-empty';empty.setAttribute('role','presentation');empty.textContent=`No ${plural} found.`;list.append(empty);}
     for(const country of results){
       const option=document.createElement('li');option.id=`country-option-${country.id}`;option.setAttribute('role','option');option.setAttribute('aria-selected','false');option.textContent=country.name;
       option.addEventListener('pointerdown',event=>event.preventDefault());option.addEventListener('click',()=>select(country));list.append(option);
     }
-    status.textContent=results.length?`${results.length} ${results.length===1?'suggestion':'suggestions'}. Use arrow keys to choose a country.`:'No countries found.';
+    status.textContent=results.length?`${results.length} ${results.length===1?'suggestion':'suggestions'}. Use arrow keys to choose ${article} ${noun}.`:`No ${plural} found.`;
   }
   input.addEventListener('input',()=>{selected=null;onChange();update();});
   input.addEventListener('focus',()=>{clearTimeout(blurTimer);if(!selected)update();});
@@ -47,7 +47,7 @@ export function attachCountrySearch(index,{input,list,status,onChange}){
     }
     if(event.key==='Enter'&&!list.hidden){
       event.preventDefault();const choice=active>=0?results[active]:exactCountry(index,input.value)||(results.length===1?results[0]:null);
-      if(choice)select(choice);else status.textContent='Choose a country from the suggestions.';
+      if(choice)select(choice);else status.textContent=`Choose ${article} ${noun} from the suggestions.`;
     }
     if(event.key==='Tab')close();
   });

@@ -1,0 +1,2547 @@
+{
+  "version": 1,
+  "checked": "2026-11-05",
+  "historical": true,
+  "scope": "Selected former countries, city-states, kingdoms, empires, territories and notable historical political entities. Each question uses one sourced representative coat of arms, emblem or seal.",
+  "redactionReview": {
+    "reviewed": 88,
+    "edited": 5
+  },
+  "countries": [
+    {
+      "id": "historical-arms-001",
+      "name": "Holy Roman Empire",
+      "aliases": [
+        "HRE"
+      ],
+      "period": "c.1433–1450",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Holy_Roman_Emperor_(c.1433-c.1450).svg",
+      "credit": "Tom Lemmens & Heralder",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "A modern heraldic reconstruction of the imperial arms in a fifteenth-century form.",
+      "originalFile": "Coat of Arms of the Holy Roman Emperor (c.1433-c.1450).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Coat_of_Arms_of_the_Holy_Roman_Emperor_%28c.1433-c.1450%29.svg",
+      "originalSha256": "1bbd3783674e85ed8001e82ff8ee7c45aef54aed9e9ada5d23489de83153ec0e",
+      "sha256": "1bbd3783674e85ed8001e82ff8ee7c45aef54aed9e9ada5d23489de83153ec0e",
+      "image": "./historical-arms-images/historical-arms-001.svg?v=1bbd378367",
+      "references": [
+        {
+          "title": "Holy Roman Empire",
+          "url": "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+    },
+    {
+      "id": "historical-arms-002",
+      "name": "Austrian Empire",
+      "aliases": [],
+      "period": "1815–1866",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Imperial_Coat_of_Arms_of_the_Empire_of_Austria_(1815).svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Habsburg imperial arms, distinct from the later joint arms of Austria-Hungary.",
+      "originalFile": "Imperial Coat of Arms of the Empire of Austria (1815).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/Imperial_Coat_of_Arms_of_the_Empire_of_Austria_%281815%29.svg",
+      "originalSha256": "da4e8338dbf4b3decb2178c9ec078d67d039bf6fadf0542fa043acd6d5f333ee",
+      "sha256": "da4e8338dbf4b3decb2178c9ec078d67d039bf6fadf0542fa043acd6d5f333ee",
+      "image": "./historical-arms-images/historical-arms-002.svg?v=da4e8338db",
+      "references": [
+        {
+          "title": "Austrian Empire",
+          "url": "https://en.wikipedia.org/wiki/Austrian_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Austrian_Empire"
+    },
+    {
+      "id": "historical-arms-003",
+      "name": "Austria-Hungary",
+      "aliases": [
+        "Austro-Hungarian Empire",
+        "Dual Monarchy"
+      ],
+      "period": "1915–1918",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Austria-Hungary_(1914).svg",
+      "credit": "Wikimedia Commons",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Austria-Hungary_(1914).svg"
+      },
+      "note": "The joint common arms introduced in 1915, combining the Austrian and Hungarian halves of the Dual Monarchy. The source filename’s 1914 date is misleading.",
+      "originalFile": "Austro-hungarian coat of arms 1914.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Coat_of_arms_of_Austria-Hungary_%281914%29.svg",
+      "originalSha256": "38ca09fa8a14c1cffb0a055f791bf07128dc5ffe054c07d888bfc3deb6859f87",
+      "sha256": "38ca09fa8a14c1cffb0a055f791bf07128dc5ffe054c07d888bfc3deb6859f87",
+      "image": "./historical-arms-images/historical-arms-003.svg?v=38ca09fa8a",
+      "references": [
+        {
+          "title": "Austria-Hungary",
+          "url": "https://en.wikipedia.org/wiki/Austria-Hungary"
+        },
+        {
+          "title": "Middle Common Coat of Arms,1915officialdraft",
+          "url": "https://commons.wikimedia.org/wiki/File:Wappen_Österreich-Ungarn_1915_(Mittel-SW).png"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Austria-Hungary"
+    },
+    {
+      "id": "historical-arms-004",
+      "name": "German Empire",
+      "aliases": [
+        "Imperial Germany",
+        "Kaiserreich"
+      ],
+      "period": "1889–1918",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Wappen_Deutsches_Reich_-_Reichsadler_1889.svg",
+      "credit": "Original: Emil Doepler Vector: David Liuzzo",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Wappen_Deutsches_Reich_-_Reichsadler_1889.svg"
+      },
+      "note": "Imperial Germany under the Hohenzollern dynasty.",
+      "originalFile": "Wappen Deutsches Reich - Reichsadler 1889.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Wappen_Deutsches_Reich_-_Reichsadler_1889.svg",
+      "originalSha256": "562b1e5b7fad3f9c402a001d7809bed98f9762d33c9c531ff094bf0ffea42134",
+      "sha256": "562b1e5b7fad3f9c402a001d7809bed98f9762d33c9c531ff094bf0ffea42134",
+      "image": "./historical-arms-images/historical-arms-004.svg?v=562b1e5b7f",
+      "references": [
+        {
+          "title": "German Empire",
+          "url": "https://en.wikipedia.org/wiki/German_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/German_Empire"
+    },
+    {
+      "id": "historical-arms-005",
+      "name": "Russian Empire",
+      "aliases": [
+        "Imperial Russia"
+      ],
+      "period": "1883–1917",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Lesser_coat_of_arms_of_the_Russian_Empire.svg",
+      "credit": "Wikimedia Commons",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Lesser_coat_of_arms_of_the_Russian_Empire.svg"
+      },
+      "note": "Imperial arms of the Romanov state.",
+      "originalFile": "Lesser coat of arms of the Russian Empire.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/be/Lesser_coat_of_arms_of_the_Russian_Empire.svg",
+      "originalSha256": "849b73241a752df5a42097be51cc11093803b8771f152a4cb658d76c3b9fbacf",
+      "sha256": "849b73241a752df5a42097be51cc11093803b8771f152a4cb658d76c3b9fbacf",
+      "image": "./historical-arms-images/historical-arms-005.svg?v=849b73241a",
+      "references": [
+        {
+          "title": "Russian Empire",
+          "url": "https://en.wikipedia.org/wiki/Russian_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Russian_Empire"
+    },
+    {
+      "id": "historical-arms-006",
+      "name": "Ottoman Empire",
+      "aliases": [
+        "Ottoman State",
+        "Ottomans"
+      ],
+      "period": "1882–1922",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Ottoman_Empire_(1882%E2%80%931922).svg",
+      "credit": "Juris Tiltins",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Ottoman_Empire_(1882%E2%80%931922).svg"
+      },
+      "note": "The elaborate late Ottoman state arms, adopted in 1882.",
+      "originalFile": "Coat of arms of the Ottoman Empire (1882–1922).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg",
+      "originalSha256": "c32bbdc6618f69da1262b2ee73d442edf655f9aaeda52dd925277bcbcbe9783b",
+      "sha256": "c32bbdc6618f69da1262b2ee73d442edf655f9aaeda52dd925277bcbcbe9783b",
+      "image": "./historical-arms-images/historical-arms-006.svg?v=c32bbdc661",
+      "references": [
+        {
+          "title": "Ottoman Empire",
+          "url": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+    },
+    {
+      "id": "historical-arms-007",
+      "name": "Soviet Union",
+      "aliases": [
+        "USSR",
+        "Union of Soviet Socialist Republics"
+      ],
+      "period": "1956–1991",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Soviet_Union_(1956%E2%80%931991).svg",
+      "credit": "C records",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Soviet_Union_(1956%E2%80%931991).svg"
+      },
+      "note": "The fifteen-republic version of the Soviet state emblem.",
+      "originalFile": "State Emblem of the Soviet Union.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Coat_of_arms_of_the_Soviet_Union_%281956%E2%80%931991%29.svg",
+      "originalSha256": "a08bd7cdb5e7286f5a0ac4c5962092446933f9a0fda5a615cf90c26397054acf",
+      "sha256": "a08bd7cdb5e7286f5a0ac4c5962092446933f9a0fda5a615cf90c26397054acf",
+      "image": "./historical-arms-images/historical-arms-007.svg?v=a08bd7cdb5",
+      "references": [
+        {
+          "title": "Soviet Union",
+          "url": "https://en.wikipedia.org/wiki/Soviet_Union"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Soviet_Union"
+    },
+    {
+      "id": "historical-arms-008",
+      "name": "East Germany",
+      "aliases": [
+        "GDR",
+        "German Democratic Republic",
+        "DDR"
+      ],
+      "period": "1955–1990",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:State_arms_of_the_German_Democratic_Republic.svg",
+      "credit": "Ministerpräsident der Deutschen Demokratischen Republik Otto Grotewohl; Ausführung in Grafik: Herbert Gute und Martin Hänisch (beide aus Dresden von der Kunstakademie Dresden) Nur mit Hammer und Kranz : Fritz Alfred Behrendt (* 17. Februar 1925 in Berlin; † 4. Dezember 2008 in Amsterdam) + Heinz Behling (* 9. Oktober 1920 in Berlin; † 5. Juni 2003 Berlin)",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:State_arms_of_the_German_Democratic_Republic.svg"
+      },
+      "note": "State emblem with hammer, compass and wreath of grain.",
+      "originalFile": "State arms of the German Democratic Republic.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d3/State_arms_of_the_German_Democratic_Republic.svg",
+      "originalSha256": "973560a6da8010912f38dfe8bd233f96c0ecc69260e568cdca03a8131718bd47",
+      "sha256": "973560a6da8010912f38dfe8bd233f96c0ecc69260e568cdca03a8131718bd47",
+      "image": "./historical-arms-images/historical-arms-008.svg?v=973560a6da",
+      "references": [
+        {
+          "title": "East Germany",
+          "url": "https://en.wikipedia.org/wiki/East_Germany"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/East_Germany"
+    },
+    {
+      "id": "historical-arms-009",
+      "name": "Czechoslovakia",
+      "aliases": [
+        "Czechoslovak Socialist Republic"
+      ],
+      "period": "1960–1990",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Czechoslovakia_(1961-1989).svg",
+      "credit": "PavelD / PaD (vector); Milan Hegar (state emblem design)",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "note": "The socialist-era state arms introduced in 1960 and replaced in 1990, despite the older date range in the source filename.",
+      "originalFile": "Coat of arms of Czechoslovakia (1961-1989).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/74/Coat_of_arms_of_Czechoslovakia_%281961-1989%29.svg",
+      "originalSha256": "1f6a374f4897943f31f827a5d21f32d4ad897ec9f93455f29382b8ee2d5cd1f9",
+      "sha256": "1f6a374f4897943f31f827a5d21f32d4ad897ec9f93455f29382b8ee2d5cd1f9",
+      "image": "./historical-arms-images/historical-arms-009.svg?v=1f6a374f48",
+      "references": [
+        {
+          "title": "Czechoslovakia",
+          "url": "https://en.wikipedia.org/wiki/Czechoslovakia"
+        },
+        {
+          "title": "Czech Government: History of the national emblem",
+          "url": "https://vlada.gov.cz/en/clenove-vlady/historie-minulych-vlad/historie-statniho-znaku/history-of-the-czech-national-emblem-19169/"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Czechoslovakia"
+    },
+    {
+      "id": "historical-arms-010",
+      "name": "Socialist Yugoslavia",
+      "aliases": [
+        "Yugoslavia",
+        "SFR Yugoslavia",
+        "SFRY"
+      ],
+      "period": "1963–1992",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Yugoslavia_(1963%E2%80%931992).svg",
+      "credit": "Đorđe Andrejević-Kun",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Emblem_of_Yugoslavia_(1963%E2%80%931992).svg"
+      },
+      "note": "Six-torch socialist emblem, representing the six constituent republics.",
+      "originalFile": "Emblem of Yugoslavia (1963–1992).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/33/Emblem_of_Yugoslavia_%281963%E2%80%931992%29.svg",
+      "originalSha256": "1c2a858c53aa9bbf163e08ee90e021ecf142f476106a6986ae9eedb5bb8af4a5",
+      "sha256": "1c2a858c53aa9bbf163e08ee90e021ecf142f476106a6986ae9eedb5bb8af4a5",
+      "image": "./historical-arms-images/historical-arms-010.svg?v=1c2a858c53",
+      "references": [
+        {
+          "title": "Socialist Yugoslavia",
+          "url": "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia"
+    },
+    {
+      "id": "historical-arms-011",
+      "name": "Kingdom of Prussia",
+      "aliases": [
+        "Prussia"
+      ],
+      "period": "1701–1918",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Preu%C3%9Fischer_Adler.svg",
+      "credit": "Drawing created by David Liuzzo",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Royal Prussian arms.",
+      "originalFile": "Preußischer Adler.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Preu%C3%9Fischer_Adler.svg",
+      "originalSha256": "ced424faa33bbe0155e3cbb2ae2e06455fcb9a641145fd2bac8cc4ea4e61d09d",
+      "sha256": "ced424faa33bbe0155e3cbb2ae2e06455fcb9a641145fd2bac8cc4ea4e61d09d",
+      "image": "./historical-arms-images/historical-arms-011.svg?v=ced424faa3",
+      "references": [
+        {
+          "title": "Kingdom of Prussia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+    },
+    {
+      "id": "historical-arms-012",
+      "name": "Kingdom of Bavaria",
+      "aliases": [
+        "Bavaria"
+      ],
+      "period": "1835–1918",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Kingdom_of_Bavaria_1835-1918.svg",
+      "credit": "Glasshouse , using elements by Sodacan and Heralder",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Kingdom_of_Bavaria_1835-1918.svg"
+      },
+      "note": "Royal arms of Bavaria, rather than the modern German federal-state arms.",
+      "originalFile": "Coat of Arms of the Kingdom of Bavaria 1835-1918.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_Arms_of_the_Kingdom_of_Bavaria_1835-1918.svg",
+      "originalSha256": "a9ce6603c23a0c70a2523c96595ecded42ecef95f31e6425571181acfd91b36a",
+      "sha256": "a9ce6603c23a0c70a2523c96595ecded42ecef95f31e6425571181acfd91b36a",
+      "image": "./historical-arms-images/historical-arms-012.svg?v=a9ce6603c2",
+      "references": [
+        {
+          "title": "Kingdom of Bavaria",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bavaria"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Bavaria"
+    },
+    {
+      "id": "historical-arms-013",
+      "name": "Kingdom of Saxony",
+      "aliases": [
+        "Saxony"
+      ],
+      "period": "1806–1918",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Kingdom_of_Saxony_1806-1918.svg",
+      "credit": "Glasshouse , using elements by Sodacan, Trondivers and katepanomegas",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Royal arms of the independent kingdom within the German Confederation and later the German Empire.",
+      "originalFile": "Coat of Arms of the Kingdom of Saxony 1806-1918.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/93/Coat_of_Arms_of_the_Kingdom_of_Saxony_1806-1918.svg",
+      "originalSha256": "700e80c1f1772ff0cbc7ae1524f161bce09b6c442f9a44c4028215237b4a625f",
+      "sha256": "700e80c1f1772ff0cbc7ae1524f161bce09b6c442f9a44c4028215237b4a625f",
+      "image": "./historical-arms-images/historical-arms-013.svg?v=700e80c1f1",
+      "references": [
+        {
+          "title": "Kingdom of Saxony",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Saxony"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Saxony"
+    },
+    {
+      "id": "historical-arms-014",
+      "name": "Kingdom of Hanover",
+      "aliases": [
+        "Hanover",
+        "Hannover"
+      ],
+      "period": "1814–1866",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Kingdom_of_Hanover.svg",
+      "credit": "Glasshouse",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Royal Hanoverian arms.",
+      "originalFile": "Coat of Arms of the Kingdom of Hanover.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/31/Coat_of_Arms_of_the_Kingdom_of_Hanover.svg",
+      "originalSha256": "62f8ea6aea9f33716084a3e44509033d62db398ea064e0d73a0390f2375e524c",
+      "sha256": "62f8ea6aea9f33716084a3e44509033d62db398ea064e0d73a0390f2375e524c",
+      "image": "./historical-arms-images/historical-arms-014.svg?v=62f8ea6aea",
+      "references": [
+        {
+          "title": "Kingdom of Hanover",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Hanover"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Hanover"
+    },
+    {
+      "id": "historical-arms-015",
+      "name": "Kingdom of Württemberg",
+      "aliases": [
+        "Wurttemberg",
+        "Württemberg"
+      ],
+      "period": "1817–1918",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Kingdom_of_W%C3%BCrttemberg_1817-1921.svg",
+      "credit": "Glasshouse",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Arms of the former south German kingdom.",
+      "originalFile": "Coat of Arms of the Kingdom of Württemberg, 1817.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Coat_of_Arms_of_the_Kingdom_of_W%C3%BCrttemberg_1817-1921.svg",
+      "originalSha256": "7dbaeac8ea01ccf8d26409e6f05ab8c37463fe7fdfa8628d0c8ae4794e5739ff",
+      "sha256": "7dbaeac8ea01ccf8d26409e6f05ab8c37463fe7fdfa8628d0c8ae4794e5739ff",
+      "image": "./historical-arms-images/historical-arms-015.svg?v=7dbaeac8ea",
+      "references": [
+        {
+          "title": "Kingdom of Württemberg",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_W%C3%BCrttemberg"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_W%C3%BCrttemberg"
+    },
+    {
+      "id": "historical-arms-016",
+      "name": "Grand Duchy of Baden",
+      "aliases": [
+        "Baden"
+      ],
+      "period": "1877–1918",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Grand_Duchy_of_Baden_1877-1918.svg",
+      "credit": "Glasshouse , using elements by Sodacan",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Arms of the former grand duchy.",
+      "originalFile": "Coat of Arms of the Grand Duchy of Baden 1877-1918.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Coat_of_Arms_of_the_Grand_Duchy_of_Baden_1877-1918.svg",
+      "originalSha256": "ca96091d7c8c3b0b44b278687545ac7fed2e0da200837a9fd66173a5feece44e",
+      "sha256": "ca96091d7c8c3b0b44b278687545ac7fed2e0da200837a9fd66173a5feece44e",
+      "image": "./historical-arms-images/historical-arms-016.svg?v=ca96091d7c",
+      "references": [
+        {
+          "title": "Grand Duchy of Baden",
+          "url": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Baden"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Baden"
+    },
+    {
+      "id": "historical-arms-017",
+      "name": "Grand Duchy of Hesse",
+      "aliases": [
+        "Hesse",
+        "Hesse-Darmstadt"
+      ],
+      "period": "1902–1918",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Greater_Coat_of_arms_of_Grand_Duchy_of_Hesse_(1902-1918).svg",
+      "credit": "Felipe Fidelis Tobias, after Otto Hupp",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Grand-ducal arms of Hesse and by Rhine.",
+      "originalFile": "Greater Coat of arms of Grand Duchy of Hesse (1902-1918).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Greater_Coat_of_arms_of_Grand_Duchy_of_Hesse_%281902-1918%29.svg",
+      "originalSha256": "3d85d436b08906a0e4a0876fdae2214215d8f7557e895276a5675f08b47d237b",
+      "sha256": "3d85d436b08906a0e4a0876fdae2214215d8f7557e895276a5675f08b47d237b",
+      "image": "./historical-arms-images/historical-arms-017.svg?v=3d85d436b0",
+      "references": [
+        {
+          "title": "Grand Duchy of Hesse",
+          "url": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Hesse"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Hesse"
+    },
+    {
+      "id": "historical-arms-018",
+      "name": "Duchy of Brunswick",
+      "aliases": [
+        "Brunswick",
+        "Braunschweig"
+      ],
+      "period": "1815–1918",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Duchy_of_Brunswick.svg",
+      "credit": "Glasshouse",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Ducal arms of the German state.",
+      "originalFile": "Coat of Arms of the Duchy of Brunswick.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Coat_of_Arms_of_the_Duchy_of_Brunswick.svg",
+      "originalSha256": "17e66709bf412538883a1e1ec7cfdc0893495f6125e4539ab5381bf1130f7933",
+      "sha256": "17e66709bf412538883a1e1ec7cfdc0893495f6125e4539ab5381bf1130f7933",
+      "image": "./historical-arms-images/historical-arms-018.svg?v=17e66709bf",
+      "references": [
+        {
+          "title": "Duchy of Brunswick",
+          "url": "https://en.wikipedia.org/wiki/Duchy_of_Brunswick"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Duchy_of_Brunswick"
+    },
+    {
+      "id": "historical-arms-019",
+      "name": "Duchy of Burgundy",
+      "aliases": [
+        "Burgundy"
+      ],
+      "period": "12 th–14 th centuries",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Arms_of_Eudes_de_Bourgogne.svg",
+      "credit": "Carlodangio",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Arms of the Capetian dukes of Burgundy, rather than the later Valois quartered arms.",
+      "originalFile": "Arms of Eudes de Bourgogne.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Arms_of_Eudes_de_Bourgogne.svg",
+      "originalSha256": "1c654ba5e5c10c81293f2e7a096a2ec80bb220fea9004b94881c70d2e832bd40",
+      "sha256": "1c654ba5e5c10c81293f2e7a096a2ec80bb220fea9004b94881c70d2e832bd40",
+      "image": "./historical-arms-images/historical-arms-019.svg?v=1c654ba5e5",
+      "references": [
+        {
+          "title": "Duchy of Burgundy",
+          "url": "https://en.wikipedia.org/wiki/Duchy_of_Burgundy"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Duchy_of_Burgundy"
+    },
+    {
+      "id": "historical-arms-020",
+      "name": "Duchy of Savoy",
+      "aliases": [
+        "Savoy"
+      ],
+      "period": "15 th–early 16 th centuries",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Duchy_of_Savoy_(XV-XVI_century).svg",
+      "credit": "Facquis",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The Savoyard cross, used by the ducal state.",
+      "originalFile": "Coat of arms of the Duchy of Savoy (XV-XVI century).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Coat_of_arms_of_the_Duchy_of_Savoy_%28XV-XVI_century%29.svg",
+      "originalSha256": "447feab64010840d27d0aff39d6ef0ee93e4fac464757e3b25cc503bddd6da75",
+      "sha256": "447feab64010840d27d0aff39d6ef0ee93e4fac464757e3b25cc503bddd6da75",
+      "image": "./historical-arms-images/historical-arms-020.svg?v=447feab640",
+      "references": [
+        {
+          "title": "Duchy of Savoy",
+          "url": "https://en.wikipedia.org/wiki/Duchy_of_Savoy"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Duchy_of_Savoy"
+    },
+    {
+      "id": "historical-arms-021",
+      "name": "Kingdom of Sardinia",
+      "aliases": [
+        "Sardinia-Piedmont",
+        "Piedmont-Sardinia"
+      ],
+      "period": "1833–1848",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Greater_coat_of_arms_of_the_Kingdom_of_Sardinia_(1833-1848).svg",
+      "credit": "Facquis , Flopao",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Arms of the Savoyard kingdom, before Italian unification.",
+      "originalFile": "Greater coat of arms of the Kingdom of Sardinia (1833-1848).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Greater_coat_of_arms_of_the_Kingdom_of_Sardinia_%281833-1848%29.svg",
+      "originalSha256": "20188cbafd5de83ff9514fd828cedb0970155b72ca983ca849b4d6d5adfe6c7d",
+      "sha256": "20188cbafd5de83ff9514fd828cedb0970155b72ca983ca849b4d6d5adfe6c7d",
+      "image": "./historical-arms-images/historical-arms-021.svg?v=20188cbafd",
+      "references": [
+        {
+          "title": "Kingdom of Sardinia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sardinia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Sardinia"
+    },
+    {
+      "id": "historical-arms-022",
+      "name": "Kingdom of the Two Sicilies",
+      "aliases": [
+        "Two Sicilies"
+      ],
+      "period": "1816–1861",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:CoA_Kingdom_of_the_Two_Sicilies.svg",
+      "credit": "Flopao",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Bourbon royal arms of the southern Italian kingdom.",
+      "originalFile": "CoA Kingdom of the Two Sicilies.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/58/CoA_Kingdom_of_the_Two_Sicilies.svg",
+      "originalSha256": "7209e19686e379813a6f2617287c433faa5c6384071bbf9a267c0de18678676d",
+      "sha256": "7209e19686e379813a6f2617287c433faa5c6384071bbf9a267c0de18678676d",
+      "image": "./historical-arms-images/historical-arms-022.svg?v=7209e19686",
+      "references": [
+        {
+          "title": "Kingdom of the Two Sicilies",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Two_Sicilies"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_the_Two_Sicilies"
+    },
+    {
+      "id": "historical-arms-023",
+      "name": "Kingdom of Naples",
+      "aliases": [
+        "Naples"
+      ],
+      "period": "1458–1494",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Ferdinand_I_of_Naples.svg",
+      "credit": "Heralder",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Royal arms under Ferdinand I of Naples (the Aragonese dynasty).",
+      "originalFile": "Coat of Arms of Ferdinand I of Naples.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Coat_of_Arms_of_Ferdinand_I_of_Naples.svg",
+      "originalSha256": "d5d00a33c47e446b0d2b0e9f879a3b61aee7b0040ce21faaf283406c6ab7dd20",
+      "sha256": "d5d00a33c47e446b0d2b0e9f879a3b61aee7b0040ce21faaf283406c6ab7dd20",
+      "image": "./historical-arms-images/historical-arms-023.svg?v=d5d00a33c4",
+      "references": [
+        {
+          "title": "Kingdom of Naples",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Naples"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Naples"
+    },
+    {
+      "id": "historical-arms-024",
+      "name": "Kingdom of Etruria",
+      "aliases": [
+        "Etruria"
+      ],
+      "period": "1801–1807",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Great_Royal_Coat_of_Arms_of_Etruria.svg",
+      "credit": "Heralder , some elements of Sodacan & Adelbrecht",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Short-lived Bourbon kingdom in Tuscany.",
+      "originalFile": "Great Royal Coat of Arms of Etruria.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Great_Royal_Coat_of_Arms_of_Etruria.svg",
+      "originalSha256": "04e77843e29b88a437e945e42619ff6e145794be2da6a88666690063bc3fcc77",
+      "sha256": "04e77843e29b88a437e945e42619ff6e145794be2da6a88666690063bc3fcc77",
+      "image": "./historical-arms-images/historical-arms-024.svg?v=04e77843e2",
+      "references": [
+        {
+          "title": "Kingdom of Etruria",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Etruria"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Etruria"
+    },
+    {
+      "id": "historical-arms-025",
+      "name": "Grand Duchy of Tuscany",
+      "aliases": [
+        "Tuscany"
+      ],
+      "period": "1569–1737 (Medici era)",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Grand_duchy_of_Tuscany.svg",
+      "credit": "Euryrel; source elements by Sodacan and Heralder",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Medici-period grand-ducal arms. The grand duchy was later ruled by the House of Habsburg-Lorraine.",
+      "originalFile": "Coat of Arms of the Grand duchy of Tuscany.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Coat_of_Arms_of_the_Grand_duchy_of_Tuscany.svg",
+      "originalSha256": "f67d5b7ad09b511498aa7baed65bfaeb0d171f237589381cdc5c3fc60c10f10c",
+      "sha256": "f67d5b7ad09b511498aa7baed65bfaeb0d171f237589381cdc5c3fc60c10f10c",
+      "image": "./historical-arms-images/historical-arms-025.svg?v=f67d5b7ad0",
+      "references": [
+        {
+          "title": "Grand Duchy of Tuscany",
+          "url": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany"
+    },
+    {
+      "id": "historical-arms-026",
+      "name": "Duchy of Modena and Reggio",
+      "aliases": [
+        "Modena",
+        "Modena and Reggio"
+      ],
+      "period": "1830–1859",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_House_of_Habsburg-Este_(Duchy_of_Modena_and_Reggio).svg",
+      "credit": "FDRMRZUSA; based on the credited Commons heraldic elements",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Arms of the Austria-Este rulers of Modena and Reggio in the final decades of the duchy.",
+      "originalFile": "Coat of arms of the House of Habsburg-Este (Duchy of Modena and Reggio).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Coat_of_arms_of_the_House_of_Habsburg-Este_%28Duchy_of_Modena_and_Reggio%29.svg",
+      "originalSha256": "345de241d71ec179050d80ae696ffa3af294b6ec2ea8addd0d15059e7da1f008",
+      "sha256": "345de241d71ec179050d80ae696ffa3af294b6ec2ea8addd0d15059e7da1f008",
+      "image": "./historical-arms-images/historical-arms-026.svg?v=345de241d7",
+      "references": [
+        {
+          "title": "Duchy of Modena and Reggio",
+          "url": "https://en.wikipedia.org/wiki/Duchy_of_Modena_and_Reggio"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Duchy_of_Modena_and_Reggio"
+    },
+    {
+      "id": "historical-arms-027",
+      "name": "Duchy of Parma",
+      "aliases": [
+        "Parma",
+        "Parma and Piacenza"
+      ],
+      "period": "1847–1859",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_House_of_Bourbon-Parma.svg",
+      "credit": "Adelbrecht and Heralder; elements by Sodacan",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Bourbon-Parma arms from the restored duchy before Italian unification.",
+      "originalFile": "Coat of arms of the House of Bourbon-Parma.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_arms_of_the_House_of_Bourbon-Parma.svg",
+      "originalSha256": "d2d35730123fd19fad1d0c5edd7e8313706910427c31ec25f954805093b2d144",
+      "sha256": "d2d35730123fd19fad1d0c5edd7e8313706910427c31ec25f954805093b2d144",
+      "image": "./historical-arms-images/historical-arms-027.svg?v=d2d3573012",
+      "references": [
+        {
+          "title": "Duchy of Parma",
+          "url": "https://en.wikipedia.org/wiki/Duchy_of_Parma"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Duchy_of_Parma"
+    },
+    {
+      "id": "historical-arms-028",
+      "name": "Republic of Venice",
+      "aliases": [
+        "Venice",
+        "Venetian Republic",
+        "La Serenissima"
+      ],
+      "period": "1706–1797",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Greater_Coat_of_Arms_of_the_Republic_of_Venice,_1706.svg",
+      "credit": "Fenn-O-maniC; source elements by Designism, Heralder, Sodacan, Leonid 2, James2813, GJo, MostEpic and Amrtin2671",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "A modern reconstruction of the Venetian republic’s greater arms in a 1706 form, based on seventeenth-century Venetian armorials and Siebmacher. The central winged lion is Saint Mark’s emblem.",
+      "originalFile": "Greater Coat of Arms of the Republic of Venice, 1706.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Greater_Coat_of_Arms_of_the_Republic_of_Venice%2C_1706.svg",
+      "originalSha256": "2a4796e9a9e31a443368063c38427af3815f24bea90398e4a6a0deca5b8677e1",
+      "sha256": "2a4796e9a9e31a443368063c38427af3815f24bea90398e4a6a0deca5b8677e1",
+      "image": "./historical-arms-images/historical-arms-028.svg?v=2a4796e9a9",
+      "references": [
+        {
+          "title": "Republic of Venice",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Venice"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Venice"
+    },
+    {
+      "id": "historical-arms-029",
+      "name": "Republic of Genoa",
+      "aliases": [
+        "Genoa",
+        "Genoese Republic"
+      ],
+      "period": "Late 18 th century",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Republic_of_Genoa.svg",
+      "credit": "Facquis",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The Genoese republic’s arms.",
+      "originalFile": "Coat of arms of Republic of Genoa.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/Coat_of_arms_of_Republic_of_Genoa.svg",
+      "originalSha256": "97b33802946028558bde41156cb0653b438243cf31c60119fcc8c09357416230",
+      "sha256": "97b33802946028558bde41156cb0653b438243cf31c60119fcc8c09357416230",
+      "image": "./historical-arms-images/historical-arms-029.svg?v=97b3380294",
+      "references": [
+        {
+          "title": "Republic of Genoa",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Genoa"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Genoa"
+    },
+    {
+      "id": "historical-arms-030",
+      "name": "Republic of Florence",
+      "aliases": [
+        "Florence",
+        "Florentine Republic"
+      ],
+      "period": "1251–1532",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Stemma_di_Firenze_dal_1251.svg",
+      "credit": "Horemhat",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The red Florentine lily, used by the republican city-state.",
+      "originalFile": "Stemma di Firenze dal 1251.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Stemma_di_Firenze_dal_1251.svg",
+      "originalSha256": "995b1e8473f2264a42b7f1a024d8b2c55a812fc510389489807862662a6104f2",
+      "sha256": "995b1e8473f2264a42b7f1a024d8b2c55a812fc510389489807862662a6104f2",
+      "image": "./historical-arms-images/historical-arms-030.svg?v=995b1e8473",
+      "references": [
+        {
+          "title": "Republic of Florence",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Florence"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Florence"
+    },
+    {
+      "id": "historical-arms-031",
+      "name": "Republic of Siena",
+      "aliases": [
+        "Siena",
+        "Sienese Republic"
+      ],
+      "period": "1125–1555",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Stemma_Repubblica_di_Siena.svg",
+      "credit": "FDRMRZUSA",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The black-and-white balzana of the historical republic.",
+      "originalFile": "Stemma Repubblica di Siena.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Stemma_Repubblica_di_Siena.svg",
+      "originalSha256": "aa5db64d2c0fd8b17d3646fbcf76c99e03f5fa8ab54c9e96fdde50162d69bf79",
+      "sha256": "aa5db64d2c0fd8b17d3646fbcf76c99e03f5fa8ab54c9e96fdde50162d69bf79",
+      "image": "./historical-arms-images/historical-arms-031.svg?v=aa5db64d2c",
+      "references": [
+        {
+          "title": "Republic of Siena",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Siena"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Siena"
+    },
+    {
+      "id": "historical-arms-032",
+      "name": "Republic of Pisa",
+      "aliases": [
+        "Pisa",
+        "Pisan Republic"
+      ],
+      "period": "11 th century–1406",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Shield_of_the_Republic_of_Pisa.svg",
+      "credit": "Gherardus",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "The Pisan cross of the maritime republic.",
+      "originalFile": "Shield of the Republic of Pisa.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Shield_of_the_Republic_of_Pisa.svg",
+      "originalSha256": "06ba1159d5177aa9fff0a2a2c12ac24b5100939dcd0e89188af33e294dfa7a91",
+      "sha256": "06ba1159d5177aa9fff0a2a2c12ac24b5100939dcd0e89188af33e294dfa7a91",
+      "image": "./historical-arms-images/historical-arms-032.svg?v=06ba1159d5",
+      "references": [
+        {
+          "title": "Republic of Pisa",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Pisa"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Pisa"
+    },
+    {
+      "id": "historical-arms-033",
+      "name": "Republic of Lucca",
+      "aliases": [
+        "Lucca"
+      ],
+      "period": "1160–1805",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Republic_of_Lucca.svg",
+      "credit": "MostEpic",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Arms of the independent Luccan republic.",
+      "originalFile": "Arms of the Republic of Lucca.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/be/Arms_of_the_Republic_of_Lucca.svg",
+      "originalSha256": "8d7d4107a676af2b06be4d2511e26c17cad3164fb10421a6d6adaf1dcf83002b",
+      "sha256": "8d7d4107a676af2b06be4d2511e26c17cad3164fb10421a6d6adaf1dcf83002b",
+      "image": "./historical-arms-images/historical-arms-033.svg?v=8d7d4107a6",
+      "references": [
+        {
+          "title": "Republic of Lucca",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Lucca"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Lucca"
+    },
+    {
+      "id": "historical-arms-034",
+      "name": "Republic of Ragusa",
+      "aliases": [
+        "Ragusa",
+        "Dubrovnik Republic"
+      ],
+      "period": "1358–1808",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Ragusan_Republic_Coat_of_Arms.svg",
+      "credit": "Berto456",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "note": "Arms of the Adriatic republic centred on modern Dubrovnik.",
+      "originalFile": "Ragusan Republic Coat of Arms.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ragusan_Republic_Coat_of_Arms.svg",
+      "originalSha256": "7ce4405b31562de206fe57bfec41e25f804479ff9adb48b6e2e6eb69cfc34d0e",
+      "sha256": "7ce4405b31562de206fe57bfec41e25f804479ff9adb48b6e2e6eb69cfc34d0e",
+      "image": "./historical-arms-images/historical-arms-034.svg?v=7ce4405b31",
+      "references": [
+        {
+          "title": "Republic of Ragusa",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Ragusa"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Ragusa"
+    },
+    {
+      "id": "historical-arms-035",
+      "name": "Free City of Danzig",
+      "aliases": [
+        "Danzig"
+      ],
+      "period": "1921–1939",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Wappen_Freie_Stadt_Danzig.svg",
+      "credit": "Fornax",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Wappen_Freie_Stadt_Danzig.svg"
+      },
+      "note": "The interwar free city under League of Nations protection.",
+      "originalFile": "Wappen Freie Stadt Danzig.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/59/Wappen_Freie_Stadt_Danzig.svg",
+      "originalSha256": "420c5448aafcd2d43ee58902c5e266d49c45168c4e7ff46d81e68e6156af2818",
+      "sha256": "420c5448aafcd2d43ee58902c5e266d49c45168c4e7ff46d81e68e6156af2818",
+      "image": "./historical-arms-images/historical-arms-035.svg?v=420c5448aa",
+      "references": [
+        {
+          "title": "Free City of Danzig",
+          "url": "https://en.wikipedia.org/wiki/Free_City_of_Danzig"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Free_City_of_Danzig"
+    },
+    {
+      "id": "historical-arms-036",
+      "name": "Free City of Kraków",
+      "aliases": [
+        "Free City of Krakow",
+        "Krakow",
+        "Cracow"
+      ],
+      "period": "1815–1846",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Free_City_of_Cracow.svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The city-republic established by the Congress of Vienna.",
+      "originalFile": "Coat of arms of the Free City of Cracow.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Coat_of_arms_of_the_Free_City_of_Cracow.svg",
+      "originalSha256": "115ccdd7be8a3c245b573e752c13a66fdabab01c8dd7591120669fa020a9351d",
+      "sha256": "115ccdd7be8a3c245b573e752c13a66fdabab01c8dd7591120669fa020a9351d",
+      "image": "./historical-arms-images/historical-arms-036.svg?v=115ccdd7be",
+      "references": [
+        {
+          "title": "Free City of Kraków",
+          "url": "https://en.wikipedia.org/wiki/Free_City_of_Krak%C3%B3w"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Free_City_of_Krak%C3%B3w"
+    },
+    {
+      "id": "historical-arms-037",
+      "name": "Free State of Fiume",
+      "aliases": [
+        "Fiume"
+      ],
+      "period": "1920–1924",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Free_State_of_Fiume.svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "note": "Short-lived state centred on modern Rijeka.",
+      "originalFile": "Coat of arms of the Free State of Fiume.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Coat_of_arms_of_the_Free_State_of_Fiume.svg",
+      "originalSha256": "06171caa1412c14f38275e636f34451783208c2fceded87a138aed9993975208",
+      "sha256": "06171caa1412c14f38275e636f34451783208c2fceded87a138aed9993975208",
+      "image": "./historical-arms-images/historical-arms-037.svg?v=06171caa14",
+      "references": [
+        {
+          "title": "Free State of Fiume",
+          "url": "https://en.wikipedia.org/wiki/Free_State_of_Fiume"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Free_State_of_Fiume"
+    },
+    {
+      "id": "historical-arms-038",
+      "name": "Free City of Frankfurt",
+      "aliases": [
+        "Frankfurt"
+      ],
+      "period": "1815–1866",
+      "type": "city-state",
+      "source": "https://commons.wikimedia.org/wiki/File:Wappen_Frankfurt_am_Main_nach_Klemens_Stadler.svg",
+      "credit": "Wappen in der Darstellung nach Stadler; Vektorisierung: N3MO",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Wappen_Frankfurt_am_Main_nach_Klemens_Stadler.svg"
+      },
+      "note": "A modern drawing of the traditional Frankfurt eagle represents the historical free city.",
+      "originalFile": "Wappen Frankfurt am Main nach Klemens Stadler.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Wappen_Frankfurt_am_Main_nach_Klemens_Stadler.svg",
+      "originalSha256": "8dcb2ee8533905fddaf8ea5e179802703a4fed95261d292f11ccae69ace29a75",
+      "sha256": "8dcb2ee8533905fddaf8ea5e179802703a4fed95261d292f11ccae69ace29a75",
+      "image": "./historical-arms-images/historical-arms-038.svg?v=8dcb2ee853",
+      "references": [
+        {
+          "title": "Free City of Frankfurt",
+          "url": "https://en.wikipedia.org/wiki/Free_City_of_Frankfurt"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Free_City_of_Frankfurt"
+    },
+    {
+      "id": "historical-arms-039",
+      "name": "Papal States",
+      "aliases": [
+        "Papal State",
+        "States of the Church"
+      ],
+      "period": "754–1870",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Papal_States_(Renaissance_shape).svg",
+      "credit": "Original: Vichycombo Derivative work: ZuppaDiCarlo",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The temporal state governed by the popes, rather than present-day Vatican City.",
+      "originalFile": "Coat of arms of the Papal States (Renaissance shape).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_arms_of_the_Papal_States_%28Renaissance_shape%29.svg",
+      "originalSha256": "4fa7261204655a53d3694ec8cc4fddba3f3b1c99817b977f9c24b6725a7d0957",
+      "sha256": "4fa7261204655a53d3694ec8cc4fddba3f3b1c99817b977f9c24b6725a7d0957",
+      "image": "./historical-arms-images/historical-arms-039.svg?v=4fa7261204",
+      "references": [
+        {
+          "title": "Papal States",
+          "url": "https://en.wikipedia.org/wiki/Papal_States"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Papal_States"
+    },
+    {
+      "id": "historical-arms-040",
+      "name": "Polish–Lithuanian Commonwealth",
+      "aliases": [
+        "Polish Lithuanian Commonwealth",
+        "Poland Lithuania",
+        "Commonwealth of Poland and Lithuania"
+      ],
+      "period": "1587–1668 (Vasa era)",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Vasa_kings_of_Poland.svg",
+      "credit": "Avalokitesvara / using , by Sodacan , by Orem , by Ipankonin and unpublished Orders and Postument created by Steifer",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Royal arms of the Vasa kings of the Polish–Lithuanian Commonwealth, with the Vasa sheaf in the centre.",
+      "originalFile": "Coat of arms of Vasa kings of Poland.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coat_of_arms_of_Vasa_kings_of_Poland.svg",
+      "originalSha256": "0e749e0305b187927aff5c4ab921498e16235568e6a6146e2e54049a9b49b90a",
+      "sha256": "0e749e0305b187927aff5c4ab921498e16235568e6a6146e2e54049a9b49b90a",
+      "image": "./historical-arms-images/historical-arms-040.svg?v=0e749e0305",
+      "references": [
+        {
+          "title": "Polish–Lithuanian Commonwealth",
+          "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth"
+    },
+    {
+      "id": "historical-arms-041",
+      "name": "Kingdom of Bohemia",
+      "aliases": [
+        "Bohemia"
+      ],
+      "period": "19 th century–1918",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Kingdom_of_Bohemia.svg",
+      "credit": "Redraw: Samhanin Historical original works: Hugo Gerhard Ströhl",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "The crowned double-tailed Bohemian lion.",
+      "originalFile": "Coat of arms of the Kingdom of Bohemia.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/34/Coat_of_arms_of_the_Kingdom_of_Bohemia.svg",
+      "originalSha256": "413100a4ac42b5d340d904f5c60087a098049270c2fe646784be377f8b721b69",
+      "sha256": "413100a4ac42b5d340d904f5c60087a098049270c2fe646784be377f8b721b69",
+      "image": "./historical-arms-images/historical-arms-041.svg?v=413100a4ac",
+      "references": [
+        {
+          "title": "Kingdom of Bohemia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bohemia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Bohemia"
+    },
+    {
+      "id": "historical-arms-042",
+      "name": "Kingdom of Hungary",
+      "aliases": [
+        "Hungary"
+      ],
+      "period": "1915–1918",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_coat_of_arms_of_the_Kingdom_of_Hungary_(1915-1918;_angels).svg",
+      "credit": "József Sebestyén",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Royal_coat_of_arms_of_the_Kingdom_of_Hungary_(1915-1918;_angels).svg"
+      },
+      "note": "The greater royal arms during the final years of the Kingdom of Hungary within Austria-Hungary.",
+      "originalFile": "Royal coat of arms of the Kingdom of Hungary (1915-1918; angels).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/59/Royal_coat_of_arms_of_the_Kingdom_of_Hungary_%281915-1918%3B_angels%29.svg",
+      "originalSha256": "fad0eb1858de3af6115bc47f0e04764f9263e6aacb00c66e388eaa2b0a53bf19",
+      "sha256": "fad0eb1858de3af6115bc47f0e04764f9263e6aacb00c66e388eaa2b0a53bf19",
+      "image": "./historical-arms-images/historical-arms-042.svg?v=fad0eb1858",
+      "references": [
+        {
+          "title": "Kingdom of Hungary",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Hungary"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Hungary"
+    },
+    {
+      "id": "historical-arms-043",
+      "name": "Kingdom of Scotland",
+      "aliases": [
+        "Scotland"
+      ],
+      "period": "12 th century–1707",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Coat_of_Arms_of_the_Kingdom_of_Scotland.svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "The red lion rampant within a double tressure.",
+      "originalFile": "Royal Coat of Arms of the Kingdom of Scotland.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/93/Royal_Coat_of_Arms_of_the_Kingdom_of_Scotland.svg",
+      "originalSha256": "06fd3d7f7c3b0873cd34a13065e3c9b6fa7464d305157505a30247a437f09347",
+      "sha256": "06fd3d7f7c3b0873cd34a13065e3c9b6fa7464d305157505a30247a437f09347",
+      "image": "./historical-arms-images/historical-arms-043.svg?v=06fd3d7f7c",
+      "references": [
+        {
+          "title": "Kingdom of Scotland",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Scotland"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Scotland"
+    },
+    {
+      "id": "historical-arms-044",
+      "name": "Kingdom of England",
+      "aliases": [
+        "England"
+      ],
+      "period": "1558–1603",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_England_(1558-1603).svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Royal arms of England in the reign of Elizabeth I, before the union of crowns.",
+      "originalFile": "Coat of Arms of England (1558-1603).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Coat_of_Arms_of_England_%281558-1603%29.svg",
+      "originalSha256": "60d270672b9e15ec5b894a8fcb1e8ac21ab706690454359a294d70a3c59a86f1",
+      "sha256": "60d270672b9e15ec5b894a8fcb1e8ac21ab706690454359a294d70a3c59a86f1",
+      "image": "./historical-arms-images/historical-arms-044.svg?v=60d270672b",
+      "references": [
+        {
+          "title": "Kingdom of England",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_England"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_England"
+    },
+    {
+      "id": "historical-arms-045",
+      "name": "Kingdom of France",
+      "aliases": [
+        "Royal France",
+        "Bourbon France",
+        "France"
+      ],
+      "period": "1589–1790",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Grand_Royal_Coat_of_Arms_of_France_%26_Navarre.svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Bourbon royal arms combining France and Navarre, used before the French Revolution.",
+      "originalFile": "Grand Royal Coat of Arms of France & Navarre.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Grand_Royal_Coat_of_Arms_of_France_%26_Navarre.svg",
+      "originalSha256": "b1b0c1e64da2eb1d19a04458554f20d76942e7f1275c87869198cd94effc9b7d",
+      "sha256": "b1b0c1e64da2eb1d19a04458554f20d76942e7f1275c87869198cd94effc9b7d",
+      "image": "./historical-arms-images/historical-arms-045.svg?v=b1b0c1e64d",
+      "references": [
+        {
+          "title": "Kingdom of France",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_France"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_France"
+    },
+    {
+      "id": "historical-arms-046",
+      "name": "First French Empire",
+      "aliases": [
+        "Napoleonic Empire",
+        "Napoleonic France",
+        "French Empire",
+        "France"
+      ],
+      "period": "1804–1814, 1815",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Imperial_Coat_of_Arms_of_France_(1804-1815).svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Imperial arms under Napoleon I.",
+      "originalFile": "Imperial Coat of Arms of France (1804-1815).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/04/Imperial_Coat_of_Arms_of_France_%281804-1815%29.svg",
+      "originalSha256": "d031b60a1c014ece7c834c7a373cd8ffdeb347617a6644f0adc6c82294d2ad2a",
+      "sha256": "d031b60a1c014ece7c834c7a373cd8ffdeb347617a6644f0adc6c82294d2ad2a",
+      "image": "./historical-arms-images/historical-arms-046.svg?v=d031b60a1c",
+      "references": [
+        {
+          "title": "First French Empire",
+          "url": "https://en.wikipedia.org/wiki/First_French_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/First_French_Empire"
+    },
+    {
+      "id": "historical-arms-047",
+      "name": "Dutch Republic",
+      "aliases": [
+        "United Provinces",
+        "Republic of the Seven United Netherlands"
+      ],
+      "period": "1665–1795",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_republic_of_the_united_Netherlands_(after_1665).svg",
+      "credit": "Katepanomegas",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Arms of the Dutch republican federation.",
+      "originalFile": "Coat of arms of the republic of the united Netherlands (after 1665).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Coat_of_arms_of_the_republic_of_the_united_Netherlands_%28after_1665%29.svg",
+      "originalSha256": "1d63243d81444eede646a29a61656a3c3959a933d9fcad0b8e5484d349d3fcf2",
+      "sha256": "1d63243d81444eede646a29a61656a3c3959a933d9fcad0b8e5484d349d3fcf2",
+      "image": "./historical-arms-images/historical-arms-047.svg?v=1d63243d81",
+      "references": [
+        {
+          "title": "Dutch Republic",
+          "url": "https://en.wikipedia.org/wiki/Dutch_Republic"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Dutch_Republic"
+    },
+    {
+      "id": "historical-arms-048",
+      "name": "Kingdom of Westphalia",
+      "aliases": [
+        "Westphalia"
+      ],
+      "period": "1807–1813",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Grandes_Armes_J%C3%A9r%C3%B4me_Bonaparte_(1784-1860)_2.svg",
+      "credit": "Mathieu CHAINE",
+      "license": {
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0"
+      },
+      "note": "The royal arms of Jérôme Bonaparte as King of Westphalia.",
+      "originalFile": "Grandes Armes Jérôme Bonaparte (1784-1860) 2.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/09/Grandes_Armes_J%C3%A9r%C3%B4me_Bonaparte_%281784-1860%29_2.svg",
+      "originalSha256": "4b7dc59d5d4d45d4c07f4e9370933c6379daa90d7c48722ea5eaf234d99f0470",
+      "sha256": "4b7dc59d5d4d45d4c07f4e9370933c6379daa90d7c48722ea5eaf234d99f0470",
+      "image": "./historical-arms-images/historical-arms-048.svg?v=4b7dc59d5d",
+      "references": [
+        {
+          "title": "Kingdom of Westphalia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Westphalia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Westphalia"
+    },
+    {
+      "id": "historical-arms-049",
+      "name": "Kingdom of Holland",
+      "aliases": [
+        "Holland"
+      ],
+      "period": "1808–1810",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Wapen_van_het_Koninkrijk_Holland_en_Lodewijk_Bonaparte_(1808).svg",
+      "credit": "Arch",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Wapen_van_het_Koninkrijk_Holland_en_Lodewijk_Bonaparte_(1808).svg"
+      },
+      "note": "Napoleonic kingdom ruled by Louis Bonaparte.",
+      "originalFile": "Wapen van het Koninkrijk Holland en Lodewijk Bonaparte (1808).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/63/Wapen_van_het_Koninkrijk_Holland_en_Lodewijk_Bonaparte_%281808%29.svg",
+      "originalSha256": "fe67f5c00f2c8e171d29912cf26fbb3a802e1b6948930528dad3781e49cba346",
+      "sha256": "fe67f5c00f2c8e171d29912cf26fbb3a802e1b6948930528dad3781e49cba346",
+      "image": "./historical-arms-images/historical-arms-049.svg?v=fe67f5c00f",
+      "references": [
+        {
+          "title": "Kingdom of Holland",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Holland"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Holland"
+    },
+    {
+      "id": "historical-arms-050",
+      "name": "Duchy of Warsaw",
+      "aliases": [
+        "Grand Duchy of Warsaw",
+        "Warsaw"
+      ],
+      "period": "1807–1815",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Grand_Coat_of_Arms_of_Duchy_of_Warsaw.svg",
+      "credit": "Avalokitesvara This W3C-unspecified vector image was created with Inkscape . using by Sodacan and unpublished Orders and Postument created by Steifer",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "The Napoleonic Duchy of Warsaw, combining Polish and Saxon heraldry. “Grand Duchy” is a common but unofficial English variant.",
+      "originalFile": "Grand Coat of Arms of Duchy of Warsaw.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Grand_Coat_of_Arms_of_Duchy_of_Warsaw.svg",
+      "originalSha256": "1a7b6af36786fb3fa01484f383055cb4194c0be5b8e05b17fc8bb3a0640a4fac",
+      "sha256": "1a7b6af36786fb3fa01484f383055cb4194c0be5b8e05b17fc8bb3a0640a4fac",
+      "image": "./historical-arms-images/historical-arms-050.svg?v=1a7b6af367",
+      "references": [
+        {
+          "title": "Grand Duchy of Warsaw",
+          "url": "https://en.wikipedia.org/wiki/Duchy_of_Warsaw"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Duchy_of_Warsaw"
+    },
+    {
+      "id": "historical-arms-051",
+      "name": "Congress Poland",
+      "aliases": [
+        "Congress Kingdom of Poland",
+        "Kingdom of Poland"
+      ],
+      "period": "19 th century (Congress Poland)",
+      "type": "state",
+      "source": "https://commons.wikimedia.org/wiki/File:Medium_Coat_of_Arms_of_Congress_Poland.svg",
+      "credit": ": by Oren neu dag . Other elements, modifications, arrangement Avalokitesvara , size reduction: McSush",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "The constitutional Polish kingdom in personal union with the Russian Empire.",
+      "originalFile": "Medium Coat of Arms of Congress Poland.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_Coat_of_Arms_of_Congress_Poland.svg",
+      "originalSha256": "7bf003ee1e075112b973cdfcfc31130decf5d91ce8846e93e90d9e23794b8c5b",
+      "sha256": "7bf003ee1e075112b973cdfcfc31130decf5d91ce8846e93e90d9e23794b8c5b",
+      "image": "./historical-arms-images/historical-arms-051.svg?v=7bf003ee1e",
+      "references": [
+        {
+          "title": "Congress Poland",
+          "url": "https://en.wikipedia.org/wiki/Congress_Poland"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Congress_Poland"
+    },
+    {
+      "id": "historical-arms-052",
+      "name": "Monastic State of the Teutonic Order",
+      "aliases": [
+        "Teutonic Order",
+        "Teutonic State"
+      ],
+      "period": "1230–1525",
+      "type": "entity",
+      "source": "https://commons.wikimedia.org/wiki/File:Insignia_Germany_Order_Teutonic.svg",
+      "credit": "Madboy74",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Insignia_Germany_Order_Teutonic.svg"
+      },
+      "note": "The territorial state of the Teutonic Knights; the order itself survives.",
+      "originalFile": "Insignia Germany Order Teutonic.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/45/Insignia_Germany_Order_Teutonic.svg",
+      "originalSha256": "4b4b3e7b87a62fba9a69b13515f357cdec969ab2b6e1b32078208d025f68ae94",
+      "sha256": "4b4b3e7b87a62fba9a69b13515f357cdec969ab2b6e1b32078208d025f68ae94",
+      "image": "./historical-arms-images/historical-arms-052.svg?v=4b4b3e7b87",
+      "references": [
+        {
+          "title": "Monastic State of the Teutonic Order",
+          "url": "https://en.wikipedia.org/wiki/State_of_the_Teutonic_Order"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/State_of_the_Teutonic_Order"
+    },
+    {
+      "id": "historical-arms-053",
+      "name": "Hospitaller Malta",
+      "aliases": [
+        "Knights of Malta",
+        "Knights Hospitaller",
+        "Order of Saint John",
+        "Order of St John"
+      ],
+      "period": "1530–1798",
+      "type": "entity",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Sovereign_Military_Order_of_Malta.svg",
+      "credit": "Mathieu CHAINE (SanglierT); source elements by Sodacan, Katepanomegas and Adelbrecht",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Arms of the Order of Saint John represent its rule in Malta. The order survives today as a sovereign non-territorial institution.",
+      "originalFile": "Coat of arms of the Sovereign Military Order of Malta.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/54/Coat_of_arms_of_the_Sovereign_Military_Order_of_Malta.svg",
+      "originalSha256": "d655f164e038449b9156da166e8caa6b4e40a09f4cdab35e107ad531bcc5b35e",
+      "sha256": "d655f164e038449b9156da166e8caa6b4e40a09f4cdab35e107ad531bcc5b35e",
+      "image": "./historical-arms-images/historical-arms-053.svg?v=d655f164e0",
+      "references": [
+        {
+          "title": "Hospitaller Malta",
+          "url": "https://en.wikipedia.org/wiki/Hospitaller_Malta"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Hospitaller_Malta"
+    },
+    {
+      "id": "historical-arms-054",
+      "name": "Kingdom of Yugoslavia",
+      "aliases": [
+        "Royal Yugoslavia",
+        "Yugoslavia"
+      ],
+      "period": "1929–1941",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Kingdom_of_Yugoslavia.svg",
+      "credit": "R-41",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Kingdom_of_Yugoslavia.svg"
+      },
+      "note": "Royal Yugoslav arms, distinct from the later socialist emblem.",
+      "originalFile": "Coat of arms of the Kingdom of Yugoslavia.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_arms_of_the_Kingdom_of_Yugoslavia.svg",
+      "originalSha256": "3edc5580a7645789bf85b34480bbd5c08d39d191fe254ff24c323e6cefb75991",
+      "sha256": "3edc5580a7645789bf85b34480bbd5c08d39d191fe254ff24c323e6cefb75991",
+      "image": "./historical-arms-images/historical-arms-054.svg?v=3edc5580a7",
+      "references": [
+        {
+          "title": "Kingdom of Yugoslavia",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia"
+    },
+    {
+      "id": "historical-arms-055",
+      "name": "Qing dynasty",
+      "aliases": [
+        "Qing Empire",
+        "Great Qing"
+      ],
+      "period": "Late Qing era, before 1912",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_Qing_dynasty.svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Seal_of_Qing_dynasty.svg"
+      },
+      "note": "A modern drawing of the Great Qing imperial state seal, reading “Seal of the Great Qing Empire”; not an attributed European-style coat of arms.",
+      "originalFile": "Seal of Qing dynasty.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/06/Seal_of_Qing_dynasty.svg",
+      "originalSha256": "8e81acb9b37f1b7078f779937649248205bbb4d4a70b320bbfcc30aadf332988",
+      "sha256": "8e81acb9b37f1b7078f779937649248205bbb4d4a70b320bbfcc30aadf332988",
+      "image": "./historical-arms-images/historical-arms-055.svg?v=8e81acb9b3",
+      "references": [
+        {
+          "title": "Qing dynasty",
+          "url": "https://en.wikipedia.org/wiki/Qing_dynasty"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Qing_dynasty"
+    },
+    {
+      "id": "historical-arms-056",
+      "name": "Empire of Japan",
+      "aliases": [
+        "Imperial Japan"
+      ],
+      "period": "1868–1947",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Imperial_Seal_of_Japan.svg",
+      "credit": "Philip Nilsson",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Imperial_Seal_of_Japan.svg"
+      },
+      "note": "The Imperial Seal, used throughout the empire and still used by the Japanese imperial institution today.",
+      "originalFile": "Imperial Seal of Japan.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Imperial_Seal_of_Japan.svg",
+      "originalSha256": "ea846b3133efb6bd3a929fcf8522d959247d1105db028d3b5cd7b82e8cbb9ca3",
+      "sha256": "ea846b3133efb6bd3a929fcf8522d959247d1105db028d3b5cd7b82e8cbb9ca3",
+      "image": "./historical-arms-images/historical-arms-056.svg?v=ea846b3133",
+      "references": [
+        {
+          "title": "Empire of Japan",
+          "url": "https://en.wikipedia.org/wiki/Empire_of_Japan"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Empire_of_Japan"
+    },
+    {
+      "id": "historical-arms-057",
+      "name": "Republic of China (1912–1928)",
+      "aliases": [
+        "Beiyang Republic",
+        "Beiyang China",
+        "Republic of China"
+      ],
+      "period": "1913–1928",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Twelve_Symbols_national_emblem_of_China.svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Twelve_Symbols_national_emblem_of_China.svg"
+      },
+      "note": "The Twelve Symbols national emblem of the early republic, rather than the present sun emblem.",
+      "originalFile": "Twelve Symbols national emblem of China.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/05/Twelve_Symbols_national_emblem_of_China.svg",
+      "originalSha256": "bc45ec49a818c5e82b74a362e458f2ddcb9b56e96e50d850496588bf49683014",
+      "sha256": "bc45ec49a818c5e82b74a362e458f2ddcb9b56e96e50d850496588bf49683014",
+      "image": "./historical-arms-images/historical-arms-057.svg?v=bc45ec49a8",
+      "references": [
+        {
+          "title": "Republic of China (1912–1928)",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_China_%281912%E2%80%931949%29"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_China_%281912%E2%80%931949%29"
+    },
+    {
+      "id": "historical-arms-058",
+      "name": "Manchukuo",
+      "aliases": [
+        "Manchuria"
+      ],
+      "period": "1934–1945",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:National_seal_of_Manchukuo_(%E6%BB%BF%E6%B4%B2%E5%B8%9D%E5%9C%8B%E4%B9%8B%E5%AF%B6).svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:National_seal_of_Manchukuo_(%E6%BB%BF%E6%B4%B2%E5%B8%9D%E5%9C%8B%E4%B9%8B%E5%AF%B6).svg"
+      },
+      "note": "Imperial state seal from the reign of Puyi. Manchukuo was Japanese-controlled and its claimed independence was contested.",
+      "originalFile": "National seal of Manchukuo (滿洲帝國之寶).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b6/National_seal_of_Manchukuo_%28%E6%BB%BF%E6%B4%B2%E5%B8%9D%E5%9C%8B%E4%B9%8B%E5%AF%B6%29.svg",
+      "originalSha256": "2693933422d581783db4b8cb0f2fd09662ca75fcb02f5785ba7c704ed08e29b7",
+      "sha256": "2693933422d581783db4b8cb0f2fd09662ca75fcb02f5785ba7c704ed08e29b7",
+      "image": "./historical-arms-images/historical-arms-058.svg?v=2693933422",
+      "references": [
+        {
+          "title": "Manchukuo",
+          "url": "https://en.wikipedia.org/wiki/Manchukuo"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Manchukuo"
+    },
+    {
+      "id": "historical-arms-059",
+      "name": "State of Vietnam",
+      "aliases": [
+        "Vietnam State"
+      ],
+      "period": "1954–1955",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_South_Vietnam_(1954_-_1955).svg",
+      "credit": "Oren neu dag",
+      "license": {
+        "name": "Public Domain",
+        "url": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/"
+      },
+      "note": "Final-era arms of the State of Vietnam under Bảo Đại, before the Republic of Vietnam.",
+      "originalFile": "Coat of Arms of South Vietnam (1954 - 1955).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Coat_of_Arms_of_South_Vietnam_%281954_-_1955%29.svg",
+      "originalSha256": "99332f53de1e68e05d566d526682526945bff83ae67fd38a1cfeed93e3423ec3",
+      "sha256": "99332f53de1e68e05d566d526682526945bff83ae67fd38a1cfeed93e3423ec3",
+      "image": "./historical-arms-images/historical-arms-059.svg?v=99332f53de",
+      "references": [
+        {
+          "title": "State of Vietnam",
+          "url": "https://en.wikipedia.org/wiki/State_of_Vietnam"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/State_of_Vietnam"
+    },
+    {
+      "id": "historical-arms-060",
+      "name": "South Vietnam",
+      "aliases": [
+        "Republic of Vietnam"
+      ],
+      "period": "1960 s–1975",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Republic_of_Vietnam_(1967%E2%80%931975).svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Republic_of_Vietnam_(1967%E2%80%931975).svg"
+      },
+      "note": "The later republican arms of South Vietnam, featuring two dragons; sources vary on the exact introduction year.",
+      "originalFile": "Coat of arms of the Republic of Vietnam (1963–1975).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Coat_of_arms_of_the_Republic_of_Vietnam_%281967%E2%80%931975%29.svg",
+      "originalSha256": "44587d7678dbafe64273961f33bcc5bb327e808b4092b130a54cc07a9c4bfa6a",
+      "sha256": "44587d7678dbafe64273961f33bcc5bb327e808b4092b130a54cc07a9c4bfa6a",
+      "image": "./historical-arms-images/historical-arms-060.svg?v=44587d7678",
+      "references": [
+        {
+          "title": "South Vietnam",
+          "url": "https://en.wikipedia.org/wiki/South_Vietnam"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/South_Vietnam"
+    },
+    {
+      "id": "historical-arms-061",
+      "name": "South Yemen",
+      "aliases": [
+        "People’s Democratic Republic of Yemen",
+        "Democratic Yemen"
+      ],
+      "period": "1970–1990",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_South_Yemen_(1970-1990).svg",
+      "credit": "Mohammed Qays , Mohammed al-Aidaroos Older version by User:AnonMoos based on File:Coat of arms of South Yemen (1967-1970).svg by User:Thommy9, which in turn is based on PD \"Eagle of Saladin\" SVG files on Wikimedia Commons by others.",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_South_Yemen_(1970-1990).svg"
+      },
+      "note": "The southern Yemeni state before unification.",
+      "originalFile": "Coat of arms of South Yemen (1970-1990).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/56/Coat_of_arms_of_South_Yemen_%281970-1990%29.svg",
+      "originalSha256": "a386b96a7262dbc5f2a472d97f22dbb625ad693c6ffec723ad3f3dd5111508ea",
+      "sha256": "a386b96a7262dbc5f2a472d97f22dbb625ad693c6ffec723ad3f3dd5111508ea",
+      "image": "./historical-arms-images/historical-arms-061.svg?v=a386b96a72",
+      "references": [
+        {
+          "title": "South Yemen",
+          "url": "https://en.wikipedia.org/wiki/South_Yemen"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/South_Yemen"
+    },
+    {
+      "id": "historical-arms-062",
+      "name": "Kingdom of Egypt",
+      "aliases": [
+        "Royal Egypt"
+      ],
+      "period": "1922–1953",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kingdom_of_Egypt_(blue_color).svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0"
+      },
+      "note": "Royal Egyptian arms before the republic.",
+      "originalFile": "Coat of arms of Kingdom of Egypt (blue color).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coat_of_arms_of_Kingdom_of_Egypt_%28blue_color%29.svg",
+      "originalSha256": "08d1c2316475febdc69fe6a6947942d936dba7ce372ad5d513f06534689a9bc9",
+      "sha256": "08d1c2316475febdc69fe6a6947942d936dba7ce372ad5d513f06534689a9bc9",
+      "image": "./historical-arms-images/historical-arms-062.svg?v=08d1c23164",
+      "references": [
+        {
+          "title": "Kingdom of Egypt",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Egypt"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Egypt"
+    },
+    {
+      "id": "historical-arms-063",
+      "name": "Pahlavi Iran",
+      "aliases": [
+        "Imperial State of Iran",
+        "Pahlavi State",
+        "Persian Empire"
+      ],
+      "period": "1925–1979",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Imperial_Coat_of_Arms_of_Iran.svg",
+      "credit": "Sodacan (creator of the original vectorisation) Pouyajabbarisani (uploader of this file; made adjustments)",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "note": "The imperial arms of Iran under the Pahlavi dynasty.",
+      "originalFile": "The Imperial Coat of Arms of Iran.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_Imperial_Coat_of_Arms_of_Iran.svg",
+      "originalSha256": "d5c4f4c2f764e154363fb55411a5e3fcec375ecc7bf5126115c4f7c71889606f",
+      "sha256": "d5c4f4c2f764e154363fb55411a5e3fcec375ecc7bf5126115c4f7c71889606f",
+      "image": "./historical-arms-images/historical-arms-063.svg?v=d5c4f4c2f7",
+      "references": [
+        {
+          "title": "Pahlavi Iran",
+          "url": "https://en.wikipedia.org/wiki/Pahlavi_Iran"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Pahlavi_Iran"
+    },
+    {
+      "id": "historical-arms-064",
+      "name": "Kingdom of Iraq",
+      "aliases": [
+        "Royal Iraq"
+      ],
+      "period": "1921–1958",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Kingdom_of_Iraq_(1921%E2%80%931958).svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0"
+      },
+      "note": "Hashemite royal arms before the republic.",
+      "originalFile": "Coat of arms of the Kingdom of Iraq (1921–1958).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Coat_of_arms_of_the_Kingdom_of_Iraq_%281921%E2%80%931958%29.svg",
+      "originalSha256": "23785b117d5bc545a9d4113d889b748958e3f2f5b29bbace8e257d96474ec278",
+      "sha256": "23785b117d5bc545a9d4113d889b748958e3f2f5b29bbace8e257d96474ec278",
+      "image": "./historical-arms-images/historical-arms-064.svg?v=23785b117d",
+      "references": [
+        {
+          "title": "Kingdom of Iraq",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Iraq"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Iraq"
+    },
+    {
+      "id": "historical-arms-065",
+      "name": "Kingdom of Hejaz",
+      "aliases": [
+        "Hejaz",
+        "Hijaz"
+      ],
+      "period": "1916–1925",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kingdom_of_Hejaz.svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0"
+      },
+      "note": "The Hashemite kingdom in western Arabia.",
+      "originalFile": "Coat of arms of Kingdom of Hejaz.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Coat_of_arms_of_Kingdom_of_Hejaz.svg",
+      "originalSha256": "6f038e6603fc07b6b7f6f07f30930e1ae5d539cf94d45a5648ddfd41c080d820",
+      "sha256": "6f038e6603fc07b6b7f6f07f30930e1ae5d539cf94d45a5648ddfd41c080d820",
+      "image": "./historical-arms-images/historical-arms-065.svg?v=6f038e6603",
+      "references": [
+        {
+          "title": "Kingdom of Hejaz",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Hejaz"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Hejaz"
+    },
+    {
+      "id": "historical-arms-066",
+      "name": "Kingdom of Sikkim",
+      "aliases": [
+        "Sikkim"
+      ],
+      "period": "Kingdom era, before 1975",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Kingdom_of_Sikkim_coat_of_arms.svg",
+      "credit": "Auguste Gusteau",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The royal arms of Sikkim represent the Himalayan monarchy before incorporation into India.",
+      "originalFile": "Kingdom of Sikkim coat of arms.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kingdom_of_Sikkim_coat_of_arms.svg",
+      "originalSha256": "cacc8c96749a31fcbf5e45d1b68e60c330003634cacca3f318882c462c269b54",
+      "sha256": "cacc8c96749a31fcbf5e45d1b68e60c330003634cacca3f318882c462c269b54",
+      "image": "./historical-arms-images/historical-arms-066.svg?v=cacc8c9674",
+      "references": [
+        {
+          "title": "Kingdom of Sikkim",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sikkim"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Sikkim"
+    },
+    {
+      "id": "historical-arms-067",
+      "name": "Kingdom of Nepal",
+      "aliases": [
+        "Royal Nepal"
+      ],
+      "period": "1962–2008",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Nepal_(1962%E2%80%932008).svg",
+      "credit": "Redraw: Samhanin Historical original works: Royal Nepal government",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Nepal_(1962%E2%80%932008).svg"
+      },
+      "note": "Royal arms of Nepal before the republican emblem.",
+      "originalFile": "Coat of arms of Nepal (1962–2008).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Coat_of_arms_of_Nepal_%281962%E2%80%932008%29.svg",
+      "originalSha256": "105485c5f845f26e9a958f4e0c0a4871426e4d61e8d6d5a1b3a5d9da3cf4c2a1",
+      "sha256": "105485c5f845f26e9a958f4e0c0a4871426e4d61e8d6d5a1b3a5d9da3cf4c2a1",
+      "image": "./historical-arms-images/historical-arms-067.svg?v=105485c5f8",
+      "references": [
+        {
+          "title": "Kingdom of Nepal",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Nepal"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Nepal"
+    },
+    {
+      "id": "historical-arms-069",
+      "name": "Kingdom of Afghanistan",
+      "aliases": [
+        "Royal Afghanistan"
+      ],
+      "period": "1931–1973",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Afghanistan_(1931%E2%80%931973).svg",
+      "credit": "Derivative work by Orange Tuesday at en.wikipedia based on OpenClipart file is by Andrew Dunhan(original), 2021 version by Yeemuha",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Emblem_of_Afghanistan_(1931%E2%80%931973).svg"
+      },
+      "note": "The monarchical state before the republican and later Islamic governments.",
+      "originalFile": "Afghanistan arms 1931-1973.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Emblem_of_Afghanistan_%281931%E2%80%931973%29.svg",
+      "originalSha256": "465b4cbf5737ad8b3d152ec95fb24c8fae82fb87cca925953cda3ba5c7eeeea1",
+      "sha256": "465b4cbf5737ad8b3d152ec95fb24c8fae82fb87cca925953cda3ba5c7eeeea1",
+      "image": "./historical-arms-images/historical-arms-069.svg?v=465b4cbf57",
+      "references": [
+        {
+          "title": "Kingdom of Afghanistan",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Afghanistan"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Afghanistan"
+    },
+    {
+      "id": "historical-arms-070",
+      "name": "Kingdom of Laos",
+      "aliases": [
+        "Royal Laos"
+      ],
+      "period": "Kingdom era (1947–1975)",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Seal_of_the_Kingdom_of_Laos.svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The royal seal of the Lao monarchy before the socialist republic.",
+      "originalFile": "Royal Seal of the Kingdom of Laos.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Royal_Seal_of_the_Kingdom_of_Laos.svg",
+      "originalSha256": "96b9d8b0c33fc1d3fdf487a104e6a4d83feca6c933ea7e68b141c30eceeb326f",
+      "sha256": "96b9d8b0c33fc1d3fdf487a104e6a4d83feca6c933ea7e68b141c30eceeb326f",
+      "image": "./historical-arms-images/historical-arms-070.svg?v=96b9d8b0c3",
+      "references": [
+        {
+          "title": "Kingdom of Laos",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Laos"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Laos"
+    },
+    {
+      "id": "historical-arms-072",
+      "name": "Empire of Brazil",
+      "aliases": [
+        "Imperial Brazil",
+        "Brazilian Empire"
+      ],
+      "period": "1853–1889",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Brazil_(1853%E2%80%931889).svg",
+      "credit": "Tonyjeff , based on work of Jean-Baptiste Debret .",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Brazil_(1853%E2%80%931889).svg"
+      },
+      "note": "Imperial Brazilian arms before the republic.",
+      "originalFile": "Coat of arms of Brazil (1853–1889).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_Brazil_%281853%E2%80%931889%29.svg",
+      "originalSha256": "c8e92935a0fd9bed513eb498d158397b2ed1b11a0c6f3cceec5743bfae4ab8bc",
+      "sha256": "c8e92935a0fd9bed513eb498d158397b2ed1b11a0c6f3cceec5743bfae4ab8bc",
+      "image": "./historical-arms-images/historical-arms-072.svg?v=c8e92935a0",
+      "references": [
+        {
+          "title": "Empire of Brazil",
+          "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Empire_of_Brazil"
+    },
+    {
+      "id": "historical-arms-073",
+      "name": "Gran Colombia",
+      "aliases": [
+        "Greater Colombia",
+        "Republic of Colombia (1819–1831)"
+      ],
+      "period": "1821–1830",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Gran_Colombia_(1821).svg",
+      "credit": "Milenioscuro",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "The Colombian federation that included modern Colombia, Venezuela, Ecuador and Panama.",
+      "originalFile": "Coat of arms of Gran Colombia (1821).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coat_of_arms_of_Gran_Colombia_%281821%29.svg",
+      "originalSha256": "87a299d1452b30ae6d47d4ed49881a9a8f200b4ba2933ed079c18857df64e214",
+      "sha256": "b1950a5e15b9dc8854817a30fd355887de5fedfcb657f82570e4b952dd2106ce",
+      "image": "./historical-arms-images/historical-arms-073.svg?v=b1950a5e15",
+      "references": [
+        {
+          "title": "Gran Colombia",
+          "url": "https://en.wikipedia.org/wiki/Gran_Colombia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Gran_Colombia",
+      "adaptation": "Latin-script entity-name lettering removed."
+    },
+    {
+      "id": "historical-arms-074",
+      "name": "Federal Republic of Central America",
+      "aliases": [
+        "Central American Federation",
+        "United Provinces of Central America"
+      ],
+      "period": "1823–1841",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_la_Rep%C3%BAblica_Federal_de_Centro_Am%C3%A9rica.svg",
+      "credit": "Flag_of_the_Federal_Republic_of_Central_America.svg : Huhsunqu derivative work: K21edgo ( talk )",
+      "license": {
+        "name": "CC BY-SA 2.5",
+        "url": "https://creativecommons.org/licenses/by-sa/2.5"
+      },
+      "note": "The former Central American federal republic.",
+      "originalFile": "Escudo de la República Federal de Centro América.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/32/Escudo_de_la_Rep%C3%BAblica_Federal_de_Centro_Am%C3%A9rica.svg",
+      "originalSha256": "b1e8a14e1ad0b9e4376f75b82747e47d46a56089817c02a58cbf9795eac8a14c",
+      "sha256": "e77ae9086f4f7481dfe0fe8e51fd7e1ff1b110c9e7c3c21351359a7ff4238d8e",
+      "image": "./historical-arms-images/historical-arms-074.svg?v=e77ae9086f",
+      "references": [
+        {
+          "title": "Federal Republic of Central America",
+          "url": "https://en.wikipedia.org/wiki/Federal_Republic_of_Central_America"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Federal_Republic_of_Central_America",
+      "adaptation": "Latin-script entity-name lettering removed."
+    },
+    {
+      "id": "historical-arms-075",
+      "name": "Republic of Texas",
+      "aliases": [
+        "Texas"
+      ],
+      "period": "1839–1845",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Republic_of_Texas_(colorized).svg",
+      "credit": "Original: Peter Krag Vector: Svgalbertian",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Republic_of_Texas_(colorized).svg"
+      },
+      "note": "The independent Texan republic before US annexation.",
+      "originalFile": "Seal of the Republic of Texas (colorized).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/93/Seal_of_the_Republic_of_Texas_%28colorized%29.svg",
+      "originalSha256": "712a110e9b3cd8eb40891a9bda88cafed49129032709d5065168ff43f3513e3b",
+      "sha256": "96f90550c152cc88dbd227911e889be9edec9d7c79772de7d942591396adcd45",
+      "image": "./historical-arms-images/historical-arms-075.svg?v=96f90550c1",
+      "references": [
+        {
+          "title": "Republic of Texas",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Texas"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Texas",
+      "adaptation": "Latin-script entity-name lettering removed."
+    },
+    {
+      "id": "historical-arms-076",
+      "name": "Kingdom of Hawaii",
+      "aliases": [
+        "Hawaii",
+        "Hawaiian Kingdom"
+      ],
+      "period": "1845–1893",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Coat_of_Arms_of_Hawaii.svg",
+      "credit": "Sodacan",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Royal Hawaiian arms before the monarchy’s overthrow.",
+      "originalFile": "Royal Coat of Arms of Hawaii.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Royal_Coat_of_Arms_of_Hawaii.svg",
+      "originalSha256": "b3780052c148f1d8128152958ba53afd33d47361beffb759a4af63bc3810c0bc",
+      "sha256": "b3780052c148f1d8128152958ba53afd33d47361beffb759a4af63bc3810c0bc",
+      "image": "./historical-arms-images/historical-arms-076.svg?v=b3780052c1",
+      "references": [
+        {
+          "title": "Kingdom of Hawaii",
+          "url": "https://en.wikipedia.org/wiki/Hawaiian_Kingdom"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Hawaiian_Kingdom"
+    },
+    {
+      "id": "historical-arms-077",
+      "name": "Republic of Hawaii",
+      "aliases": [
+        "Hawaiian Republic",
+        "Hawaii"
+      ],
+      "period": "1896–1898",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Republic_of_Hawaii.svg",
+      "credit": "Sodacan (With elements from File:Hawaii-StateSeal.svg , uploaded by: Clindberg )",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Republic_of_Hawaii.svg"
+      },
+      "note": "The republic’s Great Seal, approved in 1896 and retained briefly after US annexation. The republic itself ended in 1898.",
+      "originalFile": "Seal of the Republic of Hawaii.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/Seal_of_the_Republic_of_Hawaii.svg",
+      "originalSha256": "ca0d3d2b75c39c49ec562cfdb6c15d48d1c9767897a66d4bf7c0692f03f0744e",
+      "sha256": "420ab33f4332215b4099c2182e41d3935cd66674dd304b6fa9474b6d1fdfd4bf",
+      "image": "./historical-arms-images/historical-arms-077.svg?v=420ab33f43",
+      "references": [
+        {
+          "title": "Republic of Hawaii",
+          "url": "https://en.wikipedia.org/wiki/Republic_of_Hawaii"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Republic_of_Hawaii",
+      "adaptation": "Latin-script entity-name lettering removed."
+    },
+    {
+      "id": "historical-arms-079",
+      "name": "Peru–Bolivian Confederation",
+      "aliases": [
+        "Peru Bolivian Confederation",
+        "Peru Bolivia"
+      ],
+      "period": "1836–1839",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Peru-Bolivian_Confederation.svg",
+      "credit": "Huhsunqu (North and South Peruvian COA) y Fornax (Bolivian CoA)",
+      "license": {
+        "name": "CC BY 2.5",
+        "url": "https://creativecommons.org/licenses/by/2.5"
+      },
+      "note": "The short-lived Andean confederation.",
+      "originalFile": "Emblem of the Peru-Bolivian Confederation.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Emblem_of_the_Peru-Bolivian_Confederation.svg",
+      "originalSha256": "08ae08e95457d4000b458e963f3101ed0e52d76d74efd30dac9da4f483108d3f",
+      "sha256": "27bbf1f6d07ba6c9efd6bc23a48a268ab6c66a8082aae873c1427584b467d075",
+      "image": "./historical-arms-images/historical-arms-079.svg?v=27bbf1f6d0",
+      "references": [
+        {
+          "title": "Peru–Bolivian Confederation",
+          "url": "https://en.wikipedia.org/wiki/Peru%E2%80%93Bolivian_Confederation"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Peru%E2%80%93Bolivian_Confederation",
+      "adaptation": "Latin-script entity-name lettering removed."
+    },
+    {
+      "id": "historical-arms-080",
+      "name": "Second Mexican Empire",
+      "aliases": [
+        "Mexican Empire",
+        "Imperial Mexico"
+      ],
+      "period": "1864–1867",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_Second_Mexican_Empire.svg",
+      "credit": "Amartin2671 Using some elements from: Keepscases , Sodacan , Sarumo74 Napoleonic Eagle.svg Coat of arms of Mexico (1864–1867).svg",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_Second_Mexican_Empire.svg"
+      },
+      "note": "Imperial arms under Maximilian I.",
+      "originalFile": "Coat of Arms Second Mexican Empire.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Coat_of_Arms_Second_Mexican_Empire.svg",
+      "originalSha256": "dced6dbf485f9e044fea840f1bfcf3ab5139f75c3ed35369820ab5929300dd6f",
+      "sha256": "dced6dbf485f9e044fea840f1bfcf3ab5139f75c3ed35369820ab5929300dd6f",
+      "image": "./historical-arms-images/historical-arms-080.svg?v=dced6dbf48",
+      "references": [
+        {
+          "title": "Second Mexican Empire",
+          "url": "https://en.wikipedia.org/wiki/Second_Mexican_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Second_Mexican_Empire"
+    },
+    {
+      "id": "historical-arms-081",
+      "name": "United States of the Ionian Islands",
+      "aliases": [
+        "Ionian Islands",
+        "Ionian State"
+      ],
+      "period": "1815–1864",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_United_States_(of_the_Ionian_Islands).svg",
+      "credit": "John Harrison Allan",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_United_States_(of_the_Ionian_Islands).svg"
+      },
+      "note": "British-protected federation of the Ionian Islands.",
+      "originalFile": "Coat of arms of the United States (of the Ionian Islands).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Coat_of_arms_of_the_United_States_%28of_the_Ionian_Islands%29.svg",
+      "originalSha256": "dac4db57947b91e06ffa225b3d02f7565608283c11a83ad5f3ec68d3c48a53f8",
+      "sha256": "dac4db57947b91e06ffa225b3d02f7565608283c11a83ad5f3ec68d3c48a53f8",
+      "image": "./historical-arms-images/historical-arms-081.svg?v=dac4db5794",
+      "references": [
+        {
+          "title": "United States of the Ionian Islands",
+          "url": "https://en.wikipedia.org/wiki/United_States_of_the_Ionian_Islands"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/United_States_of_the_Ionian_Islands"
+    },
+    {
+      "id": "historical-arms-082",
+      "name": "Rhodesia",
+      "aliases": [
+        "Republic of Rhodesia"
+      ],
+      "period": "1965–1979",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Southern_Rhodesia_(1924%E2%80%931981).svg",
+      "credit": "LadyofHats",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Southern_Rhodesia_(1924%E2%80%931981).svg"
+      },
+      "note": "The unrecognised Rhodesian state retained the earlier arms of Southern Rhodesia.",
+      "originalFile": "Coat of arms of Southern Rhodesia (1924–1981).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Southern_Rhodesia_%281924%E2%80%931981%29.svg",
+      "originalSha256": "787e1b1af9457b5621c38a458b1a8709a158e136b95289c8160edc3b1f7da297",
+      "sha256": "787e1b1af9457b5621c38a458b1a8709a158e136b95289c8160edc3b1f7da297",
+      "image": "./historical-arms-images/historical-arms-082.svg?v=787e1b1af9",
+      "references": [
+        {
+          "title": "Rhodesia",
+          "url": "https://en.wikipedia.org/wiki/Rhodesia"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Rhodesia"
+    },
+    {
+      "id": "historical-arms-083",
+      "name": "South African Republic",
+      "aliases": [
+        "Transvaal",
+        "ZAR"
+      ],
+      "period": "1852–1902",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_South_African_Republic.svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The independent Boer republic, rather than the later South African province.",
+      "originalFile": "Coat of arms of the South African Republic.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/80/Coat_of_arms_of_the_South_African_Republic.svg",
+      "originalSha256": "ed3cfb8e851be8ecc52c6e5fb31c91e553cb853559c4e7990432c09264d62e4e",
+      "sha256": "ed3cfb8e851be8ecc52c6e5fb31c91e553cb853559c4e7990432c09264d62e4e",
+      "image": "./historical-arms-images/historical-arms-083.svg?v=ed3cfb8e85",
+      "references": [
+        {
+          "title": "South African Republic",
+          "url": "https://en.wikipedia.org/wiki/South_African_Republic"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/South_African_Republic"
+    },
+    {
+      "id": "historical-arms-084",
+      "name": "Orange Free State",
+      "aliases": [
+        "Oranje Free State"
+      ],
+      "period": "1854–1902",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Orange_Free_State.svg",
+      "credit": "Nanin7",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Orange_Free_State.svg"
+      },
+      "note": "The independent Boer republic.",
+      "originalFile": "Coat of Arms of the Orange Free State.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coat_of_arms_of_the_Orange_Free_State.svg",
+      "originalSha256": "72c71e33d6ba488eca97a8d56ba1b89f1ded053c46aef53ab29bfdb2a27d44f6",
+      "sha256": "72c71e33d6ba488eca97a8d56ba1b89f1ded053c46aef53ab29bfdb2a27d44f6",
+      "image": "./historical-arms-images/historical-arms-084.svg?v=72c71e33d6",
+      "references": [
+        {
+          "title": "Orange Free State",
+          "url": "https://en.wikipedia.org/wiki/Orange_Free_State"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Orange_Free_State"
+    },
+    {
+      "id": "historical-arms-085",
+      "name": "Sultanate of Zanzibar",
+      "aliases": [
+        "Zanzibar"
+      ],
+      "period": "1856–1964",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Sultanate_of_Zanzibar.svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "The island sultanate before revolution and union with Tanganyika.",
+      "originalFile": "Emblem of the Sultanate of Zanzibar.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblem_of_the_Sultanate_of_Zanzibar.svg",
+      "originalSha256": "da7f7925ee1f7411c24d1662543b8a17733058958bbcf6af898d9738629e6ba4",
+      "sha256": "da7f7925ee1f7411c24d1662543b8a17733058958bbcf6af898d9738629e6ba4",
+      "image": "./historical-arms-images/historical-arms-085.svg?v=da7f7925ee",
+      "references": [
+        {
+          "title": "Sultanate of Zanzibar",
+          "url": "https://en.wikipedia.org/wiki/Sultanate_of_Zanzibar"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Sultanate_of_Zanzibar"
+    },
+    {
+      "id": "historical-arms-086",
+      "name": "Ethiopian Empire",
+      "aliases": [
+        "Abyssinia",
+        "Imperial Ethiopia"
+      ],
+      "period": "1930–1974",
+      "type": "empire",
+      "source": "https://commons.wikimedia.org/wiki/File:Imperial_coat_of_arms_of_Ethiopia_(Haile_Selassie).svg",
+      "credit": "Adelbrecht; elements by Sodacan, LadyofHats, Heralder and Bluebear2",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Imperial Ethiopian arms associated with the reign of Haile Selassie.",
+      "originalFile": "Imperial coat of arms of Ethiopia (Haile Selassie).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Imperial_coat_of_arms_of_Ethiopia_%28Haile_Selassie%29.svg",
+      "originalSha256": "a550a2d4d631e56a4520de9699ed9a3d163f359fb6e052e7e967c834395ea50a",
+      "sha256": "a550a2d4d631e56a4520de9699ed9a3d163f359fb6e052e7e967c834395ea50a",
+      "image": "./historical-arms-images/historical-arms-086.svg?v=a550a2d4d6",
+      "references": [
+        {
+          "title": "Ethiopian Empire",
+          "url": "https://en.wikipedia.org/wiki/Ethiopian_Empire"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Ethiopian_Empire"
+    },
+    {
+      "id": "historical-arms-087",
+      "name": "Kingdom of Kongo",
+      "aliases": [
+        "Kongo"
+      ],
+      "period": "16 th–19 th centuries",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Portuguese_Arms_of_the_Kings_of_Kongo.svg",
+      "credit": "117-M-I-K-E , with assets by Heralder , Sodacan .",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0"
+      },
+      "note": "Arms granted to the Christian-era kings of Kongo through Portuguese heraldic practice, not an ancient African emblem.",
+      "originalFile": "Portuguese Arms of the Kings of Kongo.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Portuguese_Arms_of_the_Kings_of_Kongo.svg",
+      "originalSha256": "44e48b6bf7f835079d19ff9affc92eb095c9f4ea55e1a9cee3bca2f0a1c524b1",
+      "sha256": "44e48b6bf7f835079d19ff9affc92eb095c9f4ea55e1a9cee3bca2f0a1c524b1",
+      "image": "./historical-arms-images/historical-arms-087.svg?v=44e48b6bf7",
+      "references": [
+        {
+          "title": "Kingdom of Kongo",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo"
+    },
+    {
+      "id": "historical-arms-088",
+      "name": "Kingdom of Tahiti",
+      "aliases": [
+        "Tahiti"
+      ],
+      "period": "Pōmare era, before 1880",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Pomare_Arms.svg",
+      "credit": "Glasshouse",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0"
+      },
+      "note": "Arms of the Pōmare dynasty, representing the Tahitian kingdom; the source is based on Pōmare V’s tomb.",
+      "originalFile": "Pomare Arms.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pomare_Arms.svg",
+      "originalSha256": "74d1e1dbf3e8e4222846d75e0ab1c9ff8e6b670b408a8e82df5a44ea4079e621",
+      "sha256": "74d1e1dbf3e8e4222846d75e0ab1c9ff8e6b670b408a8e82df5a44ea4079e621",
+      "image": "./historical-arms-images/historical-arms-088.svg?v=74d1e1dbf3",
+      "references": [
+        {
+          "title": "Kingdom of Tahiti",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tahiti"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Tahiti"
+    },
+    {
+      "id": "historical-arms-089",
+      "name": "Kingdom of Fiji",
+      "aliases": [
+        "Fiji Kingdom"
+      ],
+      "period": "1871–1874",
+      "type": "kingdom",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Kingdom_of_Fiji_(1871-1874).svg",
+      "credit": "Pbroks13",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "note": "The short-lived Fijian monarchy before British annexation.",
+      "originalFile": "Coat of arms of the Kingdom of Fiji (1871-1874).svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Coat_of_arms_of_the_Kingdom_of_Fiji_%281871-1874%29.svg",
+      "originalSha256": "bb855939c85860816ac6be3904d5963f705d5b9c78517552a03962edd1a3e39d",
+      "sha256": "bb855939c85860816ac6be3904d5963f705d5b9c78517552a03962edd1a3e39d",
+      "image": "./historical-arms-images/historical-arms-089.svg?v=bb855939c8",
+      "references": [
+        {
+          "title": "Kingdom of Fiji",
+          "url": "https://en.wikipedia.org/wiki/Kingdom_of_Fiji"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Kingdom_of_Fiji"
+    },
+    {
+      "id": "historical-arms-090",
+      "name": "Kingdom of Sarawak",
+      "aliases": [
+        "Sarawak",
+        "Raj of Sarawak",
+        "White Rajahs"
+      ],
+      "period": "1841–1946",
+      "type": "country",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Raj_of_Sarawak.svg",
+      "credit": "Samhanin",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      },
+      "note": "The Brooke-ruled state on Borneo.",
+      "originalFile": "Coat of arms of the Raj of Sarawak.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Coat_of_arms_of_the_Raj_of_Sarawak.svg",
+      "originalSha256": "9054434c53903c28409cb1a8c14555063579b885d907bcb4798edc054b639af9",
+      "sha256": "9054434c53903c28409cb1a8c14555063579b885d907bcb4798edc054b639af9",
+      "image": "./historical-arms-images/historical-arms-090.svg?v=9054434c53",
+      "references": [
+        {
+          "title": "Kingdom of Sarawak",
+          "url": "https://en.wikipedia.org/wiki/Raj_of_Sarawak"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/Raj_of_Sarawak"
+    },
+    {
+      "id": "historical-arms-091",
+      "name": "East India Company",
+      "aliases": [
+        "British East India Company",
+        "EIC"
+      ],
+      "period": "c.1700–1874",
+      "type": "entity",
+      "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_East_India_Company.svg",
+      "credit": "TRAJAN 117 This W3C-unspecified vector image was created with Inkscape .",
+      "license": {
+        "name": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_East_India_Company.svg"
+      },
+      "note": "Corporate arms of the English/British East India Company, which exercised territorial and governmental powers; it was not a sovereign nation-state.",
+      "originalFile": "Coat of arms of the East India Company.svg",
+      "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_the_East_India_Company.svg",
+      "originalSha256": "3e98e9ca8ef43b3ad2189b459f9680a7bc9841dc728863e558d36320484de043",
+      "sha256": "3e98e9ca8ef43b3ad2189b459f9680a7bc9841dc728863e558d36320484de043",
+      "image": "./historical-arms-images/historical-arms-091.svg?v=3e98e9ca8e",
+      "references": [
+        {
+          "title": "East India Company",
+          "url": "https://en.wikipedia.org/wiki/East_India_Company"
+        }
+      ],
+      "reference": "https://en.wikipedia.org/wiki/East_India_Company"
+    }
+  ]
+}

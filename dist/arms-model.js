@@ -3,9 +3,9 @@ export function normalizeCountry(value){
 }
 function shuffle(values,random){const deck=[...values];for(let i=deck.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}return deck;}
 export class ArmsGame{
-  constructor(countries,random=Math.random){
+  constructor(countries,random=Math.random,{noun='country',article='a'}={}){
     if(!Array.isArray(countries)||!countries.length)throw Error('No countries available.');
-    this.countries=countries;this.random=random;this.deck=[];this.current=null;this.round=0;this.names=new Map();
+    this.noun=noun;this.article=article;this.countries=countries;this.random=random;this.deck=[];this.current=null;this.round=0;this.names=new Map();
     for(const country of countries)for(const name of [country.name,...country.aliases]){
       const key=normalizeCountry(name),ids=this.names.get(key)||new Set();ids.add(country.id);this.names.set(key,ids);
     }
@@ -18,9 +18,9 @@ export class ArmsGame{
   }
   guess(value){
     if(!this.current||this.done)throw Error('Wait for an active round.');
-    if(typeof value!=='string'||value.length>150||!normalizeCountry(value))throw Error('Enter a country name.');
+    if(typeof value!=='string'||value.length>150||!normalizeCountry(value))throw Error(`Enter ${this.article} ${this.noun} name.`);
     const key=normalizeCountry(value),matches=this.names.get(key);
-    if(matches?.size>1)throw Error('Enter a more specific country name.');
+    if(matches?.size>1)throw Error(`Enter a more specific ${this.noun} name.`);
     const id=matches?.size===1?[...matches][0]:null;
     if(this.guesses.some(g=>id?g.id===id:g.key===key))return false;
     const correct=id===this.current.id;
@@ -32,6 +32,6 @@ export class ArmsGame{
   snapshot(){
     return {round:this.round,poolSize:this.countries.length,done:this.done??false,won:this.won??false,guesses:(this.guesses??[]).map(({guess,correct})=>({guess,correct})),
       ...(this.current?{image:this.current.image}:{}),
-      ...(this.done?{answer:{name:this.current.name,note:this.current.note,adaptation:this.current.adaptation,source:this.current.source,credit:this.current.credit,license:this.current.license}}:{})};
+      ...(this.done?{answer:{name:this.current.name,period:this.current.period,note:this.current.note,adaptation:this.current.adaptation,source:this.current.source,credit:this.current.credit,license:this.current.license}}:{})};
   }
 }

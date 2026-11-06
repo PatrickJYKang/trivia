@@ -1,0 +1,621 @@
+{
+  "reviewed": 88,
+  "countries": [
+    {
+      "id": "historical-arms-002",
+      "name": "Austrian Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-004",
+      "name": "German Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-006",
+      "name": "Ottoman Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-008",
+      "name": "East Germany",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-010",
+      "name": "Socialist Yugoslavia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-012",
+      "name": "Kingdom of Bavaria",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-014",
+      "name": "Kingdom of Hanover",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-016",
+      "name": "Grand Duchy of Baden",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-018",
+      "name": "Duchy of Brunswick",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-020",
+      "name": "Duchy of Savoy",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-022",
+      "name": "Kingdom of the Two Sicilies",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-024",
+      "name": "Kingdom of Etruria",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-026",
+      "name": "Duchy of Modena and Reggio",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-028",
+      "name": "Republic of Venice",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-030",
+      "name": "Republic of Florence",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-032",
+      "name": "Republic of Pisa",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-034",
+      "name": "Republic of Ragusa",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-036",
+      "name": "Free City of Kraków",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-038",
+      "name": "Free City of Frankfurt",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-040",
+      "name": "Polish–Lithuanian Commonwealth",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-042",
+      "name": "Kingdom of Hungary",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-044",
+      "name": "Kingdom of England",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-046",
+      "name": "First French Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-048",
+      "name": "Kingdom of Westphalia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-050",
+      "name": "Duchy of Warsaw",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-052",
+      "name": "Monastic State of the Teutonic Order",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-054",
+      "name": "Kingdom of Yugoslavia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-056",
+      "name": "Empire of Japan",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-058",
+      "name": "Manchukuo",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-060",
+      "name": "South Vietnam",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-062",
+      "name": "Kingdom of Egypt",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-064",
+      "name": "Kingdom of Iraq",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-066",
+      "name": "Kingdom of Sikkim",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-070",
+      "name": "Kingdom of Laos",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-072",
+      "name": "Empire of Brazil",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-074",
+      "name": "Federal Republic of Central America",
+      "changed": true,
+      "method": "Remove outlined lettering group #text1567 and label-separator circle #path4031.",
+      "note": "Readable Latin-script formal entity name removed; original oval, colors, framing and heraldic scene preserved."
+    },
+    {
+      "id": "historical-arms-076",
+      "name": "Kingdom of Hawaii",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-080",
+      "name": "Second Mexican Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-082",
+      "name": "Rhodesia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-084",
+      "name": "Orange Free State",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-086",
+      "name": "Ethiopian Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-088",
+      "name": "Kingdom of Tahiti",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-090",
+      "name": "Kingdom of Sarawak",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script full entity name; mottos, monograms and non-Latin inscriptions retained."
+    },
+    {
+      "id": "historical-arms-001",
+      "name": "Holy Roman Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-003",
+      "name": "Austria-Hungary",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-005",
+      "name": "Russian Empire",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-007",
+      "name": "Soviet Union",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-009",
+      "name": "Czechoslovakia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-011",
+      "name": "Kingdom of Prussia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-013",
+      "name": "Kingdom of Saxony",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-015",
+      "name": "Kingdom of Württemberg",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-017",
+      "name": "Grand Duchy of Hesse",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-019",
+      "name": "Duchy of Burgundy",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-021",
+      "name": "Kingdom of Sardinia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-023",
+      "name": "Kingdom of Naples",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-025",
+      "name": "Grand Duchy of Tuscany",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-027",
+      "name": "Duchy of Parma",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-029",
+      "name": "Republic of Genoa",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-031",
+      "name": "Republic of Siena",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-033",
+      "name": "Republic of Lucca",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-035",
+      "name": "Free City of Danzig",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-037",
+      "name": "Free State of Fiume",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-039",
+      "name": "Papal States",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-041",
+      "name": "Kingdom of Bohemia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-043",
+      "name": "Kingdom of Scotland",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-045",
+      "name": "Kingdom of France",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-047",
+      "name": "Dutch Republic",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-049",
+      "name": "Kingdom of Holland",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-051",
+      "name": "Congress Poland",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-053",
+      "name": "Hospitaller Malta",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-055",
+      "name": "Qing dynasty",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-057",
+      "name": "Republic of China (1912–1928)",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-059",
+      "name": "State of Vietnam",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-061",
+      "name": "South Yemen",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-063",
+      "name": "Pahlavi Iran",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-065",
+      "name": "Kingdom of Hejaz",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-067",
+      "name": "Kingdom of Nepal",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-069",
+      "name": "Kingdom of Afghanistan",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-073",
+      "name": "Gran Colombia",
+      "changed": true,
+      "method": "SVG glyph path/group removal",
+      "note": "Removed REPÚBLICA DE COLOMBIA glyph groups from the outer oval; oval, stars and heraldic centre retained."
+    },
+    {
+      "id": "historical-arms-075",
+      "name": "Republic of Texas",
+      "changed": true,
+      "method": "SVG glyph path/group removal",
+      "note": "Removed the fifteen REPUBLIC OF TEXAS letter paths; circular frame, wreath and star retained."
+    },
+    {
+      "id": "historical-arms-077",
+      "name": "Republic of Hawaii",
+      "changed": true,
+      "method": "SVG glyph path/group removal",
+      "note": "Removed the outer English REPUBLIC OF HAWAII composite lettering path; Hawaiian motto, date, rings and heraldry retained."
+    },
+    {
+      "id": "historical-arms-079",
+      "name": "Peru–Bolivian Confederation",
+      "changed": true,
+      "method": "SVG glyph path/group removal",
+      "note": "Removed the seven BOLIVIA glyphs from the left shield’s yellow oval; oval, stars and all three shields retained."
+    },
+    {
+      "id": "historical-arms-081",
+      "name": "United States of the Ionian Islands",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-083",
+      "name": "South African Republic",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-085",
+      "name": "Sultanate of Zanzibar",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-087",
+      "name": "Kingdom of Kongo",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-089",
+      "name": "Kingdom of Fiji",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    },
+    {
+      "id": "historical-arms-091",
+      "name": "East India Company",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: only heraldic devices, monograms, generic mottos or non-Latin inscriptions; no readable Latin-script entity name."
+    }
+  ]
+}
