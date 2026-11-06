@@ -1,6 +1,7 @@
-import {ArmsGame} from './arms-model.js?v=25ff819337';
+import {ArmsGame} from './arms-model.js?v=2efba1a6a4';
+import {countryIndex,attachCountrySearch} from './country-search.js?v=473fff472e';
 const $=id=>document.getElementById(id);
-let game,loading=false;
+let game,search,loading=false;
 const state=()=>game?.snapshot()??{ready:false};
 function render(){
   const s=state(),ready=!!game?.current;
@@ -11,7 +12,7 @@ function render(){
   for(const guess of s.guesses??[]){const li=document.createElement('li');li.textContent=guess.guess;if(guess.correct)li.className='correct';past.append(li);}
   if(s.done){
     $('answer').textContent=s.answer.name;$('result-detail').textContent=s.won?'Correct':'Answer revealed';
-    $('emblem-note').textContent=s.answer.note||'';$('emblem-note').hidden=!s.answer.note;
+    const note=[s.answer.note,s.answer.adaptation].filter(Boolean).join(' ');$('emblem-note').textContent=note;$('emblem-note').hidden=!note;
     $('source-link').href=s.answer.source;$('source-credit').textContent=s.answer.credit;
     $('source-license').textContent=s.answer.license.name;$('source-license').href=s.answer.license.url;
   }
@@ -25,23 +26,23 @@ $('arms-image').addEventListener('error',()=>{$('image-status').hidden=false;$('
 $('retry-image').addEventListener('click',loadImage);
 function next(){
   if(!game)throw Error('Wait for countries to load.');
-  game.next();$('guess').value='';$('answer').textContent='';$('source-link').removeAttribute('href');$('feedback').textContent='';render();loadImage();return state();
+  game.next();search.clear();$('answer').textContent='';$('source-link').removeAttribute('href');$('feedback').textContent='';render();loadImage();return state();
 }
 function guess(name){
   if(!game)throw Error('Wait for countries to load.');
-  const accepted=game.guess(name);$('guess').value='';render();
+  const accepted=game.guess(name);search.clear();render();
   if(game.done)$('next').focus();else{$('feedback').textContent=accepted?'Not quite.':'Already guessed.';$('guess').focus();}
   return state();
 }
-function reveal(){if(!game)throw Error('Wait for countries to load.');game.reveal();render();$('next').focus();return state();}
-$('guess-form').addEventListener('submit',event=>{event.preventDefault();try{guess($('guess').value);}catch(error){$('feedback').textContent=error.message;}});
+function reveal(){if(!game)throw Error('Wait for countries to load.');game.reveal();search.clear();render();$('next').focus();return state();}
+$('guess-form').addEventListener('submit',event=>{event.preventDefault();try{const country=search?.resolve();if(!country)throw Error('Choose a country from the list.');guess(country.name);}catch(error){$('feedback').textContent=error.message;}});
 $('reveal').addEventListener('click',reveal);$('next').addEventListener('click',()=>{next();$('game-title').scrollIntoView({block:'start'});$('guess').focus({preventScroll:true});});
 $('retry').addEventListener('click',init);
 async function init(){
   if(loading||game)return;loading=true;$('retry').hidden=true;$('load-message').textContent='Loading countries…';
   try{
-    const r=await fetch('./arms-data.json?v=1df7edd873');if(!r.ok)throw Error('Data unavailable');const data=await r.json();
-    game=new ArmsGame(data.countries);$('arms-game').hidden=false;next();$('pool-label').textContent=`${data.countries.length} COUNTRIES`;$('load-status').hidden=true;
+    const r=await fetch('./arms-data.json?v=2c35b0c62f');if(!r.ok)throw Error('Data unavailable');const data=await r.json();
+    game=new ArmsGame(data.countries);search=attachCountrySearch(countryIndex(data.countries),{input:$('guess'),list:$('country-options'),status:$('country-search-status'),onChange:()=>{$('feedback').textContent='';}});$('arms-game').hidden=false;next();$('pool-label').textContent=`${data.countries.length} COUNTRIES`;$('load-status').hidden=true;
   }catch{game=null;$('arms-game').hidden=true;$('load-message').textContent='Unable to load the game.';$('retry').hidden=false;}
   finally{loading=false;}
 }

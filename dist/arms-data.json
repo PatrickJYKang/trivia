@@ -8,6 +8,10 @@
     "Libya",
     "Türkiye"
   ],
+  "redactionReview": {
+    "reviewed": 192,
+    "edited": 44
+  },
   "countries": [
     {
       "id": "arms-001",
@@ -15,7 +19,7 @@
       "aliases": [
         "Islamic Emirate of Afghanistan"
       ],
-      "image": "./arms-images/arms-001.svg",
+      "image": "./arms-images/arms-001.svg?v=326371d929",
       "source": "https://commons.wikimedia.org/wiki/File:Arms_of_the_Islamic_Emirate_of_Afghanistan.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -25,13 +29,14 @@
       "note": "Emblem used by the de facto Islamic Emirate government since 2021.",
       "originalFile": "Arms of the Islamic Emirate of Afghanistan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Arms_of_the_Islamic_Emirate_of_Afghanistan.svg",
-      "sha256": "326371d929154a94b63b85692a07334a689a76b92376675a8d6430ecb5d81ba6"
+      "sha256": "326371d929154a94b63b85692a07334a689a76b92376675a8d6430ecb5d81ba6",
+      "originalSha256": "326371d929154a94b63b85692a07334a689a76b92376675a8d6430ecb5d81ba6"
     },
     {
       "id": "arms-002",
       "name": "Albania",
       "aliases": [],
-      "image": "./arms-images/arms-002.svg",
+      "image": "./arms-images/arms-002.svg?v=43847cd817",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Albania.svg",
       "credit": "Government of Albania",
       "license": {
@@ -41,13 +46,14 @@
       "note": "",
       "originalFile": "Coat of arms of Albania.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Coat_of_arms_of_Albania.svg",
-      "sha256": "43847cd817c004bd25b5412329c1edb1a20f7a749a9e290ba922f7ef1de66866"
+      "sha256": "43847cd817c004bd25b5412329c1edb1a20f7a749a9e290ba922f7ef1de66866",
+      "originalSha256": "43847cd817c004bd25b5412329c1edb1a20f7a749a9e290ba922f7ef1de66866"
     },
     {
       "id": "arms-003",
       "name": "Algeria",
       "aliases": [],
-      "image": "./arms-images/arms-003.svg",
+      "image": "./arms-images/arms-003.svg?v=61911a4457",
       "source": "https://commons.wikimedia.org/wiki/File:National_Emblem_of_Algeria.svg",
       "credit": "Sertlybaw Takiva",
       "license": {
@@ -57,13 +63,14 @@
       "note": "",
       "originalFile": "National Emblem of Algeria.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8d/National_Emblem_of_Algeria.svg",
-      "sha256": "61911a445710112f328c6db3a05d8852a9724e5e03700ac7bba818645ce3632f"
+      "sha256": "61911a445710112f328c6db3a05d8852a9724e5e03700ac7bba818645ce3632f",
+      "originalSha256": "61911a445710112f328c6db3a05d8852a9724e5e03700ac7bba818645ce3632f"
     },
     {
       "id": "arms-004",
       "name": "Andorra",
       "aliases": [],
-      "image": "./arms-images/arms-004.svg",
+      "image": "./arms-images/arms-004.svg?v=7e48846089",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Andorra.svg",
       "credit": "PavelD ; Current version as of 8 February 2008: HansenBCN",
       "license": {
@@ -73,13 +80,14 @@
       "note": "",
       "originalFile": "Coat of arms of Andorra.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Andorra.svg",
-      "sha256": "7e48846089b223eb1fb08236d26d6da971149de879cd82c4731d44f13022e5bc"
+      "sha256": "7e48846089b223eb1fb08236d26d6da971149de879cd82c4731d44f13022e5bc",
+      "originalSha256": "7e48846089b223eb1fb08236d26d6da971149de879cd82c4731d44f13022e5bc"
     },
     {
       "id": "arms-005",
       "name": "Angola",
       "aliases": [],
-      "image": "./arms-images/arms-005.svg",
+      "image": "./arms-images/arms-005.svg?v=427cd1e5db",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Angola.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -89,13 +97,15 @@
       "note": "",
       "originalFile": "Emblem of Angola.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Emblem_of_Angola.svg",
-      "sha256": "a9cd381f66a249a9639dfd02c9106d87f39bd80bbd4538ff809d383daf0da223"
+      "sha256": "427cd1e5dbd41aaaed5e6947250d8663d271be39abf6dc1c0bbf8301b185dcb6",
+      "originalSha256": "a9cd381f66a249a9639dfd02c9106d87f39bd80bbd4538ff809d383daf0da223",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-006",
       "name": "Antigua and Barbuda",
       "aliases": [],
-      "image": "./arms-images/arms-006.svg",
+      "image": "./arms-images/arms-006.svg?v=36b61f0090",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Antigua_and_Barbuda.svg",
       "credit": "LadyofHats , based on a bitmap by Ralf Hartemink",
       "license": {
@@ -105,13 +115,14 @@
       "note": "",
       "originalFile": "Coat of arms of Antigua and Barbuda.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg",
-      "sha256": "36b61f0090b12085c8520b717437d8df76b48d2cf44e433cba410eed67700adb"
+      "sha256": "36b61f0090b12085c8520b717437d8df76b48d2cf44e433cba410eed67700adb",
+      "originalSha256": "36b61f0090b12085c8520b717437d8df76b48d2cf44e433cba410eed67700adb"
     },
     {
       "id": "arms-007",
       "name": "Argentina",
       "aliases": [],
-      "image": "./arms-images/arms-007.svg",
+      "image": "./arms-images/arms-007.svg?v=eedd075f73",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Argentina.svg",
       "credit": "Dexxter , based on the official National Symbol and on the before work by Tonyjeff . The sun was extracted from File:Sol de Mayo-Bandera de Argentina.svg , created by the user Barcex .",
       "license": {
@@ -121,13 +132,14 @@
       "note": "",
       "originalFile": "Coat of arms of Argentina.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Coat_of_arms_of_Argentina.svg",
-      "sha256": "eedd075f73b4e4b56c6b61999df06d4e3e73a1ef3c9030d96bfbaa74a377ac9a"
+      "sha256": "eedd075f73b4e4b56c6b61999df06d4e3e73a1ef3c9030d96bfbaa74a377ac9a",
+      "originalSha256": "eedd075f73b4e4b56c6b61999df06d4e3e73a1ef3c9030d96bfbaa74a377ac9a"
     },
     {
       "id": "arms-008",
       "name": "Armenia",
       "aliases": [],
-      "image": "./arms-images/arms-008.svg",
+      "image": "./arms-images/arms-008.svg?v=21d813ec9c",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Armenia.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -137,13 +149,14 @@
       "note": "",
       "originalFile": "Coat of arms of Armenia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coat_of_arms_of_Armenia.svg",
-      "sha256": "21d813ec9ce8aad7d312c0fb66b3fa5dd1a34c8727302366c8274f77f9bea36c"
+      "sha256": "21d813ec9ce8aad7d312c0fb66b3fa5dd1a34c8727302366c8274f77f9bea36c",
+      "originalSha256": "21d813ec9ce8aad7d312c0fb66b3fa5dd1a34c8727302366c8274f77f9bea36c"
     },
     {
       "id": "arms-009",
       "name": "Australia",
       "aliases": [],
-      "image": "./arms-images/arms-009.svg",
+      "image": "./arms-images/arms-009.svg?v=fbefc79ef9",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Commonwealth_of_Australia.svg",
       "credit": "Sodacan",
       "license": {
@@ -153,13 +166,15 @@
       "note": "",
       "originalFile": "Coat of Arms of Australia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Coat_of_arms_of_the_Commonwealth_of_Australia.svg",
-      "sha256": "fbdc88ef2ccafcb5982570d0dde0b480a30b3c7de425c8ec003ee128084f9dd0"
+      "sha256": "fbefc79ef9827c5f5c4c030af6caeba514203076e21d6aac57db4b95340b8d3c",
+      "originalSha256": "fbdc88ef2ccafcb5982570d0dde0b480a30b3c7de425c8ec003ee128084f9dd0",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-010",
       "name": "Austria",
       "aliases": [],
-      "image": "./arms-images/arms-010.svg",
+      "image": "./arms-images/arms-010.svg?v=05422d08ce",
       "source": "https://commons.wikimedia.org/wiki/File:Austria_Bundesadler.svg",
       "credit": "Austrian publicist Peter Diem with the webteam from the Austrian BMLV (Bundesministerium für Landesverteidigung / Federal Ministry of National Defense) as of uploader David Liuzzo ; in the last version: Great Brightstar , 2025-06-16.",
       "license": {
@@ -169,13 +184,14 @@
       "note": "",
       "originalFile": "Austria Bundesadler.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Austria_Bundesadler.svg",
-      "sha256": "05422d08ce50bb86e8e534dbed944e604e57ad4a70013849a6d000084ee05bd2"
+      "sha256": "05422d08ce50bb86e8e534dbed944e604e57ad4a70013849a6d000084ee05bd2",
+      "originalSha256": "05422d08ce50bb86e8e534dbed944e604e57ad4a70013849a6d000084ee05bd2"
     },
     {
       "id": "arms-011",
       "name": "Azerbaijan",
       "aliases": [],
-      "image": "./arms-images/arms-011.svg",
+      "image": "./arms-images/arms-011.svg?v=223c263be8",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Azerbaijan.svg",
       "credit": "Original: BetacommandBot Vector: Zscout370",
       "license": {
@@ -185,7 +201,8 @@
       "note": "",
       "originalFile": "Coat of arms of Azerbaijan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Emblem_of_Azerbaijan.svg",
-      "sha256": "223c263be8b56551a7b06c0c64c6cd6b0f1d5108baf779c3f4abd1687fee3b90"
+      "sha256": "223c263be8b56551a7b06c0c64c6cd6b0f1d5108baf779c3f4abd1687fee3b90",
+      "originalSha256": "223c263be8b56551a7b06c0c64c6cd6b0f1d5108baf779c3f4abd1687fee3b90"
     },
     {
       "id": "arms-012",
@@ -193,7 +210,7 @@
       "aliases": [
         "The Bahamas"
       ],
-      "image": "./arms-images/arms-012.svg",
+      "image": "./arms-images/arms-012.svg?v=116435acb6",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Bahamas.svg",
       "credit": "Autor of SVG image: Ivangricenko",
       "license": {
@@ -203,13 +220,14 @@
       "note": "",
       "originalFile": "Coat of arms of the Bahamas.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Coat_of_arms_of_the_Bahamas.svg",
-      "sha256": "116435acb656034ae66c54f0adcd71e0e6ec7f1f355561765ab97663f53736f2"
+      "sha256": "116435acb656034ae66c54f0adcd71e0e6ec7f1f355561765ab97663f53736f2",
+      "originalSha256": "116435acb656034ae66c54f0adcd71e0e6ec7f1f355561765ab97663f53736f2"
     },
     {
       "id": "arms-013",
       "name": "Bahrain",
       "aliases": [],
-      "image": "./arms-images/arms-013.svg",
+      "image": "./arms-images/arms-013.svg?v=d448a08902",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_The_Kingdom_of_Bahrain.svg",
       "credit": "Government of Bahrain",
       "license": {
@@ -219,13 +237,14 @@
       "note": "",
       "originalFile": "Coat of Arms of The Kingdom of Bahrain.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/08/Coat_of_Arms_of_The_Kingdom_of_Bahrain.svg",
-      "sha256": "d448a0890205cfc770622eef82200af8bd2e8aa48be0a76920b60113da3d71a3"
+      "sha256": "d448a0890205cfc770622eef82200af8bd2e8aa48be0a76920b60113da3d71a3",
+      "originalSha256": "d448a0890205cfc770622eef82200af8bd2e8aa48be0a76920b60113da3d71a3"
     },
     {
       "id": "arms-014",
       "name": "Bangladesh",
       "aliases": [],
-      "image": "./arms-images/arms-014.svg",
+      "image": "./arms-images/arms-014.svg?v=eac2c1ad53",
       "source": "https://commons.wikimedia.org/wiki/File:National_emblem_of_Bangladesh.svg",
       "credit": "Tonyjeff , based on national symbol",
       "license": {
@@ -235,13 +254,14 @@
       "note": "",
       "originalFile": "Coat of arms of Bangladesh.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/81/National_emblem_of_Bangladesh.svg",
-      "sha256": "eac2c1ad53f3dbfaf5d3a85258d4a0de6a3ad957917e01fc89f9434eab4c24d6"
+      "sha256": "eac2c1ad53f3dbfaf5d3a85258d4a0de6a3ad957917e01fc89f9434eab4c24d6",
+      "originalSha256": "eac2c1ad53f3dbfaf5d3a85258d4a0de6a3ad957917e01fc89f9434eab4c24d6"
     },
     {
       "id": "arms-015",
       "name": "Barbados",
       "aliases": [],
-      "image": "./arms-images/arms-015.svg",
+      "image": "./arms-images/arms-015.svg?v=4eb52eac60",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Barbados_(3).svg",
       "credit": "BaronJaguar",
       "license": {
@@ -251,13 +271,14 @@
       "note": "",
       "originalFile": "Coat of arms of Barbados (3).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coat_of_arms_of_Barbados_%283%29.svg",
-      "sha256": "4eb52eac608b315f4da29f04ac487099414bb754470586cb6a934c6ac74224f2"
+      "sha256": "4eb52eac608b315f4da29f04ac487099414bb754470586cb6a934c6ac74224f2",
+      "originalSha256": "4eb52eac608b315f4da29f04ac487099414bb754470586cb6a934c6ac74224f2"
     },
     {
       "id": "arms-016",
       "name": "Belarus",
       "aliases": [],
-      "image": "./arms-images/arms-016.svg",
+      "image": "./arms-images/arms-016.svg?v=b30ba024e6",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Belarus_(2020%E2%80%93present).svg",
       "credit": "Кот Баюн , Добромир Костадинов",
       "license": {
@@ -267,13 +288,14 @@
       "note": "",
       "originalFile": "Coat of arms of Belarus (2020).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_arms_of_Belarus_%282020%E2%80%93present%29.svg",
-      "sha256": "b30ba024e63821ca5f7c5009752f8fa1265996d2ed411a418cc8bd23e1f9d8bf"
+      "sha256": "b30ba024e63821ca5f7c5009752f8fa1265996d2ed411a418cc8bd23e1f9d8bf",
+      "originalSha256": "b30ba024e63821ca5f7c5009752f8fa1265996d2ed411a418cc8bd23e1f9d8bf"
     },
     {
       "id": "arms-017",
       "name": "Belgium",
       "aliases": [],
-      "image": "./arms-images/arms-017.svg",
+      "image": "./arms-images/arms-017.svg?v=786cf0d4ef",
       "source": "https://commons.wikimedia.org/wiki/File:Great_coat_of_arms_of_Belgium.svg",
       "credit": "Sodacan , with some elements by Katepanomegas",
       "license": {
@@ -283,13 +305,14 @@
       "note": "",
       "originalFile": "Great coat of arms of Belgium.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Great_coat_of_arms_of_Belgium.svg",
-      "sha256": "786cf0d4ef6f6b883f9abcc61e6609206d285e2f049d7bb16271c20eb06597bd"
+      "sha256": "786cf0d4ef6f6b883f9abcc61e6609206d285e2f049d7bb16271c20eb06597bd",
+      "originalSha256": "786cf0d4ef6f6b883f9abcc61e6609206d285e2f049d7bb16271c20eb06597bd"
     },
     {
       "id": "arms-018",
       "name": "Belize",
       "aliases": [],
-      "image": "./arms-images/arms-018.svg",
+      "image": "./arms-images/arms-018.svg?v=4e5d55072f",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Belize.svg",
       "credit": "Original by Caleb Moore Extracted by Himasaram",
       "license": {
@@ -299,13 +322,14 @@
       "note": "",
       "originalFile": "Coat of arms of Belize.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Belize.svg",
-      "sha256": "4e5d55072f7a2c767be497a160b66bb093a0775a23338bc48484b054a89ece65"
+      "sha256": "4e5d55072f7a2c767be497a160b66bb093a0775a23338bc48484b054a89ece65",
+      "originalSha256": "4e5d55072f7a2c767be497a160b66bb093a0775a23338bc48484b054a89ece65"
     },
     {
       "id": "arms-019",
       "name": "Benin",
       "aliases": [],
-      "image": "./arms-images/arms-019.svg",
+      "image": "./arms-images/arms-019.svg?v=2e84acfcb4",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Benin.svg",
       "credit": "Tinynanorobots , Fenn-O-maniC",
       "license": {
@@ -315,13 +339,14 @@
       "note": "",
       "originalFile": "Coat of arms of Benin.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coat_of_arms_of_Benin.svg",
-      "sha256": "2e84acfcb4456309ee22dc9d1639c70f1673ebdc62edce63ef4e21c0efb9c778"
+      "sha256": "2e84acfcb4456309ee22dc9d1639c70f1673ebdc62edce63ef4e21c0efb9c778",
+      "originalSha256": "2e84acfcb4456309ee22dc9d1639c70f1673ebdc62edce63ef4e21c0efb9c778"
     },
     {
       "id": "arms-020",
       "name": "Bhutan",
       "aliases": [],
-      "image": "./arms-images/arms-020.svg",
+      "image": "./arms-images/arms-020.svg?v=a571b4502f",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Bhutan.svg",
       "credit": "Original Author: Vector-Images.com Converted to SVG by: Oren neu dag",
       "license": {
@@ -331,7 +356,8 @@
       "note": "",
       "originalFile": "Emblem of Bhutan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Emblem_of_Bhutan.svg",
-      "sha256": "a571b4502f00c135e85983967ef1e0e987ff8f4150c4f90b689e76e93f464e8e"
+      "sha256": "a571b4502f00c135e85983967ef1e0e987ff8f4150c4f90b689e76e93f464e8e",
+      "originalSha256": "a571b4502f00c135e85983967ef1e0e987ff8f4150c4f90b689e76e93f464e8e"
     },
     {
       "id": "arms-021",
@@ -339,7 +365,7 @@
       "aliases": [
         "Plurinational State of Bolivia"
       ],
-      "image": "./arms-images/arms-021.svg",
+      "image": "./arms-images/arms-021.svg?v=fe5169de19",
       "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Bolivia.svg",
       "credit": "See File history , below, for details.",
       "license": {
@@ -349,7 +375,9 @@
       "note": "",
       "originalFile": "Escudo de Bolivia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",
-      "sha256": "2011ee5a95a2aeeceab7eb9b0c63504174ac636200c25554559a803f20c226c3"
+      "sha256": "fe5169de196ab870ef47b681844aaafc0ab971d129012bb41fc8374f645d54f3",
+      "originalSha256": "2011ee5a95a2aeeceab7eb9b0c63504174ac636200c25554559a803f20c226c3",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-022",
@@ -358,7 +386,7 @@
         "Bosnia",
         "Bosnia Herzegovina"
       ],
-      "image": "./arms-images/arms-022.svg",
+      "image": "./arms-images/arms-022.svg?v=5943614bf6",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Bosnia_and_Herzegovina.svg",
       "credit": "See File history below for details.",
       "license": {
@@ -368,13 +396,14 @@
       "note": "",
       "originalFile": "Coat of arms of Bosnia and Herzegovina.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg",
-      "sha256": "5943614bf6c373d72e46cc5198654a056b1b4e341f8aa87f7d5f30efed94882d"
+      "sha256": "5943614bf6c373d72e46cc5198654a056b1b4e341f8aa87f7d5f30efed94882d",
+      "originalSha256": "5943614bf6c373d72e46cc5198654a056b1b4e341f8aa87f7d5f30efed94882d"
     },
     {
       "id": "arms-023",
       "name": "Botswana",
       "aliases": [],
-      "image": "./arms-images/arms-023.svg",
+      "image": "./arms-images/arms-023.svg?v=ba86a63cfd",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Botswana.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -384,13 +413,14 @@
       "note": "",
       "originalFile": "Coat of arms of Botswana.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coat_of_arms_of_Botswana.svg",
-      "sha256": "ba86a63cfd2dc4f73fed598b8bdff64febd372a639acbaaf4cb1f95fb526e6d1"
+      "sha256": "ba86a63cfd2dc4f73fed598b8bdff64febd372a639acbaaf4cb1f95fb526e6d1",
+      "originalSha256": "ba86a63cfd2dc4f73fed598b8bdff64febd372a639acbaaf4cb1f95fb526e6d1"
     },
     {
       "id": "arms-024",
       "name": "Brazil",
       "aliases": [],
-      "image": "./arms-images/arms-024.svg",
+      "image": "./arms-images/arms-024.svg?v=e347113c82",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Brazil.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -400,7 +430,9 @@
       "note": "",
       "originalFile": "Coat of arms of Brazil.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_arms_of_Brazil.svg",
-      "sha256": "4c77ca1c7e857046cb5c66c429e10bc9dec74e4dd328cd470a76d5c20676e2cf"
+      "sha256": "e347113c82cd98b1568bacf95ef1012af795d3dc99d5855905431e24f83100fd",
+      "originalSha256": "4c77ca1c7e857046cb5c66c429e10bc9dec74e4dd328cd470a76d5c20676e2cf",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-025",
@@ -408,7 +440,7 @@
       "aliases": [
         "Brunei Darussalam"
       ],
-      "image": "./arms-images/arms-025.svg",
+      "image": "./arms-images/arms-025.svg?v=cdc1a019d7",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Brunei.svg",
       "credit": "extracted from the flag of Brunei , provided at the Open Clip Art website.",
       "license": {
@@ -418,13 +450,14 @@
       "note": "",
       "originalFile": "Emblem of Brunei.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/09/Emblem_of_Brunei.svg",
-      "sha256": "cdc1a019d71310b101a909348495d571b92b1733e956a17fb8c0fabcf4d984ed"
+      "sha256": "cdc1a019d71310b101a909348495d571b92b1733e956a17fb8c0fabcf4d984ed",
+      "originalSha256": "cdc1a019d71310b101a909348495d571b92b1733e956a17fb8c0fabcf4d984ed"
     },
     {
       "id": "arms-026",
       "name": "Bulgaria",
       "aliases": [],
-      "image": "./arms-images/arms-026.svg",
+      "image": "./arms-images/arms-026.svg?v=4566b9ad33",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Bulgaria.svg",
       "credit": "Пакко",
       "license": {
@@ -434,13 +467,14 @@
       "note": "",
       "originalFile": "Coat of arms of Bulgaria.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Bulgaria.svg",
-      "sha256": "4566b9ad33ac3d9bf32b3b8b57dde4a698d91186904358d6086a316f64340a1b"
+      "sha256": "4566b9ad33ac3d9bf32b3b8b57dde4a698d91186904358d6086a316f64340a1b",
+      "originalSha256": "4566b9ad33ac3d9bf32b3b8b57dde4a698d91186904358d6086a316f64340a1b"
     },
     {
       "id": "arms-027",
       "name": "Burkina Faso",
       "aliases": [],
-      "image": "./arms-images/arms-027.svg",
+      "image": "./arms-images/arms-027.svg?v=3e9de348ce",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Burkina_Faso_(2025-present).svg",
       "credit": "Government of Burkina Faso; vector by Hlticgh, based on work by F l a n k e r",
       "license": {
@@ -450,13 +484,15 @@
       "note": "Current coat of arms including the 2025 revisions.",
       "originalFile": "Coat of arms of Burkina Faso (2025-present).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Coat_of_arms_of_Burkina_Faso_%282025-present%29.svg",
-      "sha256": "6aeeec516b07d52199fda671a614b20950b0c10e99044d332eb2201e012be28d"
+      "sha256": "3e9de348ceff8351109b6f87a9970e79ce8847ffd8e53178cec016748b9e3147",
+      "originalSha256": "6aeeec516b07d52199fda671a614b20950b0c10e99044d332eb2201e012be28d",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-028",
       "name": "Burundi",
       "aliases": [],
-      "image": "./arms-images/arms-028.svg",
+      "image": "./arms-images/arms-028.svg?v=9e90e95877",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Burundi.svg",
       "credit": "Tonyjeff , based on national symbol.",
       "license": {
@@ -466,13 +502,14 @@
       "note": "",
       "originalFile": "Coat of arms of Burundi.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Coat_of_arms_of_Burundi.svg",
-      "sha256": "9e90e95877ec0422a4c0252d17b5e8e9f154b761c4b1962b0ddffedee1dc404c"
+      "sha256": "9e90e95877ec0422a4c0252d17b5e8e9f154b761c4b1962b0ddffedee1dc404c",
+      "originalSha256": "9e90e95877ec0422a4c0252d17b5e8e9f154b761c4b1962b0ddffedee1dc404c"
     },
     {
       "id": "arms-029",
       "name": "Cambodia",
       "aliases": [],
-      "image": "./arms-images/arms-029.svg",
+      "image": "./arms-images/arms-029.svg?v=714ae98aa3",
       "source": "https://commons.wikimedia.org/wiki/File:Royal_arms_of_Cambodia.svg",
       "credit": "Sodacan",
       "license": {
@@ -482,13 +519,14 @@
       "note": "",
       "originalFile": "Royal arms of Cambodia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Royal_arms_of_Cambodia.svg",
-      "sha256": "714ae98aa3b649ae017ceb046cab4236a1a5c646dc9acec79cce26086df25025"
+      "sha256": "714ae98aa3b649ae017ceb046cab4236a1a5c646dc9acec79cce26086df25025",
+      "originalSha256": "714ae98aa3b649ae017ceb046cab4236a1a5c646dc9acec79cce26086df25025"
     },
     {
       "id": "arms-030",
       "name": "Cameroon",
       "aliases": [],
-      "image": "./arms-images/arms-030.svg",
+      "image": "./arms-images/arms-030.svg?v=62c28220ea",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cameroon.svg",
       "credit": "Original: Unknown author Vector: Connormah",
       "license": {
@@ -498,13 +536,15 @@
       "note": "",
       "originalFile": "Coat of arms of Cameroon.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Coat_of_arms_of_Cameroon.svg",
-      "sha256": "5ba1c99211189c057c9a714947fd6bd79a4e49542576fcae4a5d4823bdad685b"
+      "sha256": "62c28220eac4e405ec95c5409b144228dc823092b62d9f6f139faa102c74ce43",
+      "originalSha256": "5ba1c99211189c057c9a714947fd6bd79a4e49542576fcae4a5d4823bdad685b",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-031",
       "name": "Canada",
       "aliases": [],
-      "image": "./arms-images/arms-031.svg",
+      "image": "./arms-images/arms-031.svg?v=18ba69fae6",
       "source": "https://commons.wikimedia.org/wiki/File:Royal_Coat_of_arms_of_Canada.svg",
       "credit": "Sodacan",
       "license": {
@@ -514,7 +554,8 @@
       "note": "",
       "originalFile": "Royal Coat of arms of Canada.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Royal_Coat_of_arms_of_Canada.svg",
-      "sha256": "18ba69fae647789c7b34e801b95d1991694e362a5283f9763e566a216ecf0d78"
+      "sha256": "18ba69fae647789c7b34e801b95d1991694e362a5283f9763e566a216ecf0d78",
+      "originalSha256": "18ba69fae647789c7b34e801b95d1991694e362a5283f9763e566a216ecf0d78"
     },
     {
       "id": "arms-032",
@@ -523,7 +564,7 @@
         "Cabo Verde",
         "Cape Verde"
       ],
-      "image": "./arms-images/arms-032.svg",
+      "image": "./arms-images/arms-032.svg?v=38f0dfb108",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cape_Verde.svg",
       "credit": "Tonyjeff , based on national symbol, with the help of Waldir .",
       "license": {
@@ -533,7 +574,9 @@
       "note": "",
       "originalFile": "Coat of arms of Cape Verde.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Coat_of_arms_of_Cape_Verde.svg",
-      "sha256": "b6f97b84d1263f34a97d9d9e09ef885b8e8329652874eac236c73ddeab8a1e35"
+      "sha256": "38f0dfb108cecdceac1e7bdc24007afb0e95b6d084b54fcc84c0101d2c92b985",
+      "originalSha256": "b6f97b84d1263f34a97d9d9e09ef885b8e8329652874eac236c73ddeab8a1e35",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-033",
@@ -541,7 +584,7 @@
       "aliases": [
         "CAR"
       ],
-      "image": "./arms-images/arms-033.svg",
+      "image": "./arms-images/arms-033.svg?v=c37a9b314f",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Central_African_Republic.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -551,13 +594,14 @@
       "note": "",
       "originalFile": "Coat of arms of the Central African Republic.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coat_of_arms_of_the_Central_African_Republic.svg",
-      "sha256": "c37a9b314f059f106c23f201315c34c46986b7888151372297560db5c5dc20e9"
+      "sha256": "c37a9b314f059f106c23f201315c34c46986b7888151372297560db5c5dc20e9",
+      "originalSha256": "c37a9b314f059f106c23f201315c34c46986b7888151372297560db5c5dc20e9"
     },
     {
       "id": "arms-034",
       "name": "Chad",
       "aliases": [],
-      "image": "./arms-images/arms-034.svg",
+      "image": "./arms-images/arms-034.svg?v=dfc04bf318",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Chad.svg",
       "credit": "Milenioscuro",
       "license": {
@@ -567,13 +611,14 @@
       "note": "",
       "originalFile": "Coat of arms of Chad.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_arms_of_Chad.svg",
-      "sha256": "dfc04bf318c6cbf083e5edac91c3fb6f3eb3038172065d9f558c159b3480f7be"
+      "sha256": "dfc04bf318c6cbf083e5edac91c3fb6f3eb3038172065d9f558c159b3480f7be",
+      "originalSha256": "dfc04bf318c6cbf083e5edac91c3fb6f3eb3038172065d9f558c159b3480f7be"
     },
     {
       "id": "arms-035",
       "name": "Chile",
       "aliases": [],
-      "image": "./arms-images/arms-035.svg",
+      "image": "./arms-images/arms-035.svg?v=a2c97d3b42",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Chile_(c).svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -583,7 +628,8 @@
       "note": "",
       "originalFile": "Coat of arms of Chile (c).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_arms_of_Chile_%28c%29.svg",
-      "sha256": "a2c97d3b423128c0f858a92f5990e6f11157914254c880c5630332d1b1db722b"
+      "sha256": "a2c97d3b423128c0f858a92f5990e6f11157914254c880c5630332d1b1db722b",
+      "originalSha256": "a2c97d3b423128c0f858a92f5990e6f11157914254c880c5630332d1b1db722b"
     },
     {
       "id": "arms-036",
@@ -592,7 +638,7 @@
         "People’s Republic of China",
         "PRC"
       ],
-      "image": "./arms-images/arms-036.svg",
+      "image": "./arms-images/arms-036.svg?v=79d31e7d3b",
       "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD.svg",
       "credit": "multiple people, e.g. Lin Huiyin and Liang Sicheng, see [2]",
       "license": {
@@ -602,13 +648,14 @@
       "note": "",
       "originalFile": "中華人民共和國國徽.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E5%9C%8B%E5%BE%BD.svg",
-      "sha256": "79d31e7d3b8ae71bb6353a410b08a19859a578e216c953347a8dcb044a211257"
+      "sha256": "79d31e7d3b8ae71bb6353a410b08a19859a578e216c953347a8dcb044a211257",
+      "originalSha256": "79d31e7d3b8ae71bb6353a410b08a19859a578e216c953347a8dcb044a211257"
     },
     {
       "id": "arms-037",
       "name": "Colombia",
       "aliases": [],
-      "image": "./arms-images/arms-037.svg",
+      "image": "./arms-images/arms-037.svg?v=06e80e5367",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Colombia.svg",
       "credit": "See File history below for details.",
       "license": {
@@ -618,13 +665,14 @@
       "note": "",
       "originalFile": "Coat of arms of Colombia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Coat_of_arms_of_Colombia.svg",
-      "sha256": "06e80e5367d284f5ed6a98b6d25da372257d497d33a99303a247fa354f92fd56"
+      "sha256": "06e80e5367d284f5ed6a98b6d25da372257d497d33a99303a247fa354f92fd56",
+      "originalSha256": "06e80e5367d284f5ed6a98b6d25da372257d497d33a99303a247fa354f92fd56"
     },
     {
       "id": "arms-038",
       "name": "Comoros",
       "aliases": [],
-      "image": "./arms-images/arms-038.svg",
+      "image": "./arms-images/arms-038.svg?v=cfc0377755",
       "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Comoros.svg",
       "credit": "Tonyjeff , based on national symbol, with the help of users AnonMoos , Kafka1 , Omar86 , زهير حرب and Thommy .",
       "license": {
@@ -634,7 +682,9 @@
       "note": "",
       "originalFile": "Seal of the Comoros.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Seal_of_the_Comoros.svg",
-      "sha256": "58c992304d9174df4b70f3807a014359d0b7840f21e8cfa4b39d43a275df0ed2"
+      "sha256": "cfc03777555051bc57c1c2a6769e1fe7ea26e49aea7137d2f52268498c218940",
+      "originalSha256": "58c992304d9174df4b70f3807a014359d0b7840f21e8cfa4b39d43a275df0ed2",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-039",
@@ -646,7 +696,7 @@
         "Democratic Republic of Congo",
         "Congo"
       ],
-      "image": "./arms-images/arms-039.svg",
+      "image": "./arms-images/arms-039.svg?v=83dacb6cae",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Democratic_Republic_of_the_Congo_(black_spear).svg",
       "credit": "SVG-image-maker",
       "license": {
@@ -656,7 +706,8 @@
       "note": "",
       "originalFile": "Coat of arms of the Democratic Republic of the Congo (black spear).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo_%28black_spear%29.svg",
-      "sha256": "83dacb6caeb82e9cbdbdd0779609dfd3db09b3b58193126f214a442da639f653"
+      "sha256": "83dacb6caeb82e9cbdbdd0779609dfd3db09b3b58193126f214a442da639f653",
+      "originalSha256": "83dacb6caeb82e9cbdbdd0779609dfd3db09b3b58193126f214a442da639f653"
     },
     {
       "id": "arms-040",
@@ -666,7 +717,7 @@
         "Republic of Congo",
         "Congo"
       ],
-      "image": "./arms-images/arms-040.svg",
+      "image": "./arms-images/arms-040.svg?v=f1c745d783",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Republic_of_the_Congo.svg",
       "credit": "Original: Louis Mühlemann Vector: Fenn-O-maniC",
       "license": {
@@ -676,13 +727,14 @@
       "note": "",
       "originalFile": "Coat of arms of the Republic of the Congo.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Coat_of_arms_of_the_Republic_of_the_Congo.svg",
-      "sha256": "f1c745d783f841c14ab87210ef7afc77e55ee5c8f8ce807dedfe77b4f5ff22a2"
+      "sha256": "f1c745d783f841c14ab87210ef7afc77e55ee5c8f8ce807dedfe77b4f5ff22a2",
+      "originalSha256": "f1c745d783f841c14ab87210ef7afc77e55ee5c8f8ce807dedfe77b4f5ff22a2"
     },
     {
       "id": "arms-041",
       "name": "Costa Rica",
       "aliases": [],
-      "image": "./arms-images/arms-041.svg",
+      "image": "./arms-images/arms-041.svg?v=88c7c49ee3",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Costa_Rica.svg",
       "credit": "original from xrmap flag collection 2.9, HansenBCN",
       "license": {
@@ -692,13 +744,15 @@
       "note": "",
       "originalFile": "Coat of arms of Costa Rica.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_Costa_Rica.svg",
-      "sha256": "7e248a4c85adea82d0096c7efce3d94ec1479272b50ecc798e6a4f6fe055dafd"
+      "sha256": "88c7c49ee3971b187191f016aabf06426a02614e63c624b458452e07280c99b4",
+      "originalSha256": "7e248a4c85adea82d0096c7efce3d94ec1479272b50ecc798e6a4f6fe055dafd",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-042",
       "name": "Croatia",
       "aliases": [],
-      "image": "./arms-images/arms-042.svg",
+      "image": "./arms-images/arms-042.svg?v=b5bafeb967",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Croatia.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -708,13 +762,14 @@
       "note": "",
       "originalFile": "Coat of arms of Croatia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Croatia.svg",
-      "sha256": "b5bafeb967f354a58e83dffb88a2206b5c759103c0c7864749f614386ed8a724"
+      "sha256": "b5bafeb967f354a58e83dffb88a2206b5c759103c0c7864749f614386ed8a724",
+      "originalSha256": "b5bafeb967f354a58e83dffb88a2206b5c759103c0c7864749f614386ed8a724"
     },
     {
       "id": "arms-043",
       "name": "Cuba",
       "aliases": [],
-      "image": "./arms-images/arms-043.svg",
+      "image": "./arms-images/arms-043.svg?v=7349e259c2",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cuba.svg",
       "credit": "Miguel Teurbe Tolón",
       "license": {
@@ -724,13 +779,14 @@
       "note": "",
       "originalFile": "Coat of arms of Cuba.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_arms_of_Cuba.svg",
-      "sha256": "7349e259c23c216af4fb75577862ebafd721700cd2f1efa64fe303e5e148997b"
+      "sha256": "7349e259c23c216af4fb75577862ebafd721700cd2f1efa64fe303e5e148997b",
+      "originalSha256": "7349e259c23c216af4fb75577862ebafd721700cd2f1efa64fe303e5e148997b"
     },
     {
       "id": "arms-044",
       "name": "Cyprus",
       "aliases": [],
-      "image": "./arms-images/arms-044.svg",
+      "image": "./arms-images/arms-044.svg?v=8c6e763ae6",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cyprus_(2006).svg",
       "credit": "Borb , modified by User:Di (they-them)",
       "license": {
@@ -740,7 +796,8 @@
       "note": "",
       "originalFile": "Coat of arms of Cyprus (2006).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg",
-      "sha256": "8c6e763ae6f88171b8a8e1064f720981cfcac142f10e43114934b13d72e1a3b6"
+      "sha256": "8c6e763ae6f88171b8a8e1064f720981cfcac142f10e43114934b13d72e1a3b6",
+      "originalSha256": "8c6e763ae6f88171b8a8e1064f720981cfcac142f10e43114934b13d72e1a3b6"
     },
     {
       "id": "arms-045",
@@ -749,7 +806,7 @@
         "Czechia",
         "Czech Republic"
       ],
-      "image": "./arms-images/arms-045.svg",
+      "image": "./arms-images/arms-045.svg?v=d5ead89c60",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Czech_Republic.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -759,13 +816,14 @@
       "note": "",
       "originalFile": "Coat of arms of the Czech Republic.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coat_of_arms_of_the_Czech_Republic.svg",
-      "sha256": "d5ead89c609e6f378a49a15a562b439073bab0860877ec8ce90b5ee4770dbd26"
+      "sha256": "d5ead89c609e6f378a49a15a562b439073bab0860877ec8ce90b5ee4770dbd26",
+      "originalSha256": "d5ead89c609e6f378a49a15a562b439073bab0860877ec8ce90b5ee4770dbd26"
     },
     {
       "id": "arms-046",
       "name": "Denmark",
       "aliases": [],
-      "image": "./arms-images/arms-046.svg",
+      "image": "./arms-images/arms-046.svg?v=ec9b1f4aab",
       "source": "https://commons.wikimedia.org/wiki/File:National_coat_of_arms_of_Denmark.svg",
       "credit": "Kingdom of Denmark; SVG by Galico~commonswiki, based on work by Sodacan",
       "license": {
@@ -775,13 +833,14 @@
       "note": "The national coat of arms, distinct from the larger royal arms.",
       "originalFile": "National coat of arms of Denmark.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1a/National_coat_of_arms_of_Denmark.svg",
-      "sha256": "ec9b1f4aabc527a62d00408bd99e147d3cd9c225bea01b152e30212e0796f3dc"
+      "sha256": "ec9b1f4aabc527a62d00408bd99e147d3cd9c225bea01b152e30212e0796f3dc",
+      "originalSha256": "ec9b1f4aabc527a62d00408bd99e147d3cd9c225bea01b152e30212e0796f3dc"
     },
     {
       "id": "arms-047",
       "name": "Djibouti",
       "aliases": [],
-      "image": "./arms-images/arms-047.svg",
+      "image": "./arms-images/arms-047.svg?v=c15fe3bf5d",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Djibouti.svg",
       "credit": "Zscout370 at English Wikipedia",
       "license": {
@@ -791,13 +850,14 @@
       "note": "",
       "originalFile": "Emblem of Djibouti.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Emblem_of_Djibouti.svg",
-      "sha256": "c15fe3bf5d918ae91470261196f822699a10e14452f558383b0e0e0639a56d56"
+      "sha256": "c15fe3bf5d918ae91470261196f822699a10e14452f558383b0e0e0639a56d56",
+      "originalSha256": "c15fe3bf5d918ae91470261196f822699a10e14452f558383b0e0e0639a56d56"
     },
     {
       "id": "arms-048",
       "name": "Dominica",
       "aliases": [],
-      "image": "./arms-images/arms-048.svg",
+      "image": "./arms-images/arms-048.svg?v=d203bced7f",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Dominica.svg",
       "credit": "FOX 52 and FXXX",
       "license": {
@@ -807,13 +867,14 @@
       "note": "",
       "originalFile": "Coat of arms of Dominica.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/40/Coat_of_arms_of_Dominica.svg",
-      "sha256": "d203bced7fe3ff7671d3aae63c8c18f571ff18ad054658e8703c3c395f94c778"
+      "sha256": "d203bced7fe3ff7671d3aae63c8c18f571ff18ad054658e8703c3c395f94c778",
+      "originalSha256": "d203bced7fe3ff7671d3aae63c8c18f571ff18ad054658e8703c3c395f94c778"
     },
     {
       "id": "arms-049",
       "name": "Dominican Republic",
       "aliases": [],
-      "image": "./arms-images/arms-049.svg",
+      "image": "./arms-images/arms-049.svg?v=35e585de04",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Dominican_Republic.svg",
       "credit": "See File history below for details.",
       "license": {
@@ -823,13 +884,15 @@
       "note": "",
       "originalFile": "Coat of arms of the Dominican Republic.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/26/Coat_of_arms_of_the_Dominican_Republic.svg",
-      "sha256": "6e9f74f218b620abeddf9808d95aac1cc7ea6fe99ded8c2dce69d08918154ec8"
+      "sha256": "35e585de040c303a9e03497951c1c4fcf3ba6f6f57b3553641a532c12b439a07",
+      "originalSha256": "6e9f74f218b620abeddf9808d95aac1cc7ea6fe99ded8c2dce69d08918154ec8",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-050",
       "name": "Ecuador",
       "aliases": [],
-      "image": "./arms-images/arms-050.svg",
+      "image": "./arms-images/arms-050.svg?v=31c93be91a",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Ecuador.svg",
       "credit": "Ysangkok and others",
       "license": {
@@ -839,13 +902,14 @@
       "note": "",
       "originalFile": "Coat of arms of Ecuador.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_arms_of_Ecuador.svg",
-      "sha256": "31c93be91a59e508eb06d5ae187d39a6197bde98b78354872aeca8e58691d151"
+      "sha256": "31c93be91a59e508eb06d5ae187d39a6197bde98b78354872aeca8e58691d151",
+      "originalSha256": "31c93be91a59e508eb06d5ae187d39a6197bde98b78354872aeca8e58691d151"
     },
     {
       "id": "arms-051",
       "name": "Egypt",
       "aliases": [],
-      "image": "./arms-images/arms-051.svg",
+      "image": "./arms-images/arms-051.svg?v=33cb30481a",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Egypt_(Official).svg",
       "credit": "Flag of Egypt (variant).svg : F l a n k e r from original Flag of Egypt.svg / derivative work: Fry1989 ( talk )",
       "license": {
@@ -855,13 +919,14 @@
       "note": "",
       "originalFile": "Coat of arms of Egypt (Official).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg",
-      "sha256": "33cb30481a5276bc89e2ed20cb4741539e2e295c7abd4a5435a809e2e415d996"
+      "sha256": "33cb30481a5276bc89e2ed20cb4741539e2e295c7abd4a5435a809e2e415d996",
+      "originalSha256": "33cb30481a5276bc89e2ed20cb4741539e2e295c7abd4a5435a809e2e415d996"
     },
     {
       "id": "arms-052",
       "name": "El Salvador",
       "aliases": [],
-      "image": "./arms-images/arms-052.svg",
+      "image": "./arms-images/arms-052.svg?v=747ef8363e",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_El_Salvador.svg",
       "credit": "See File history below for details.",
       "license": {
@@ -871,13 +936,15 @@
       "note": "",
       "originalFile": "Coat of arms of El Salvador.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Coat_of_arms_of_El_Salvador.svg",
-      "sha256": "096b79600d2296de4d7075c88570874c81f290fbf682aa5d5f3dfa7fd9b2e5f2"
+      "sha256": "747ef8363ea6809ae88438b75939ff7a8dad408fba352defaf253d2d49ebb3c4",
+      "originalSha256": "096b79600d2296de4d7075c88570874c81f290fbf682aa5d5f3dfa7fd9b2e5f2",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-053",
       "name": "Equatorial Guinea",
       "aliases": [],
-      "image": "./arms-images/arms-053.svg",
+      "image": "./arms-images/arms-053.svg?v=529c1e6384",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Equatorial_Guinea.svg",
       "credit": "Szczepan dyskusja Mail 08:10, 2 April 2007 (UTC)",
       "license": {
@@ -887,13 +954,14 @@
       "note": "",
       "originalFile": "Coat of arms of Equatorial Guinea.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg",
-      "sha256": "529c1e638443e4727bdd7e49ecbf8dfe3d8e45e2a4df629066a643054d034e7f"
+      "sha256": "529c1e638443e4727bdd7e49ecbf8dfe3d8e45e2a4df629066a643054d034e7f",
+      "originalSha256": "529c1e638443e4727bdd7e49ecbf8dfe3d8e45e2a4df629066a643054d034e7f"
     },
     {
       "id": "arms-054",
       "name": "Eritrea",
       "aliases": [],
-      "image": "./arms-images/arms-054.svg",
+      "image": "./arms-images/arms-054.svg?v=3e09aa1078",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Eritrea_(or_argent_azur).svg",
       "credit": "SanchoPanzaXXI",
       "license": {
@@ -903,13 +971,15 @@
       "note": "",
       "originalFile": "Coat of arms of Eritrea (or-argent-azur).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Emblem_of_Eritrea_%28or_argent_azur%29.svg",
-      "sha256": "c16997866f563b0e2ab24b5901a89b5339ecef372d0681e8d4c3c02a8346e6e2"
+      "sha256": "3e09aa1078f9abb8f6493784e1182204bca894c59042a74bcfeffccb88ce50aa",
+      "originalSha256": "c16997866f563b0e2ab24b5901a89b5339ecef372d0681e8d4c3c02a8346e6e2",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-055",
       "name": "Estonia",
       "aliases": [],
-      "image": "./arms-images/arms-055.svg",
+      "image": "./arms-images/arms-055.svg?v=c27374c746",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Estonia.svg",
       "credit": "Riigikantselei",
       "license": {
@@ -919,7 +989,8 @@
       "note": "",
       "originalFile": "Coat of arms of Estonia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_arms_of_Estonia.svg",
-      "sha256": "c27374c746fd889bc377aae94437c7e3a956975592119cb74414a21cedcb80d1"
+      "sha256": "c27374c746fd889bc377aae94437c7e3a956975592119cb74414a21cedcb80d1",
+      "originalSha256": "c27374c746fd889bc377aae94437c7e3a956975592119cb74414a21cedcb80d1"
     },
     {
       "id": "arms-056",
@@ -927,7 +998,7 @@
       "aliases": [
         "Swaziland"
       ],
-      "image": "./arms-images/arms-056.svg",
+      "image": "./arms-images/arms-056.svg?v=39100cc013",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Eswatini.svg",
       "credit": "RoyFocker 12",
       "license": {
@@ -937,13 +1008,14 @@
       "note": "",
       "originalFile": "Coat of arms of Eswatini.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Coat_of_arms_of_Eswatini.svg",
-      "sha256": "39100cc013cc6a11490ecbde4b4ed9fe65609c1a77a3b306e7984bd9ca7b97a0"
+      "sha256": "39100cc013cc6a11490ecbde4b4ed9fe65609c1a77a3b306e7984bd9ca7b97a0",
+      "originalSha256": "39100cc013cc6a11490ecbde4b4ed9fe65609c1a77a3b306e7984bd9ca7b97a0"
     },
     {
       "id": "arms-057",
       "name": "Ethiopia",
       "aliases": [],
-      "image": "./arms-images/arms-057.svg",
+      "image": "./arms-images/arms-057.svg?v=8aa7d61be9",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Ethiopia.svg",
       "credit": "IvY88",
       "license": {
@@ -953,13 +1025,14 @@
       "note": "",
       "originalFile": "Emblem of Ethiopia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Emblem_of_Ethiopia.svg",
-      "sha256": "8aa7d61be957dfd3a4d3dcbe0fc583d76ff0ca5068039d61bb3d651a6740063e"
+      "sha256": "8aa7d61be957dfd3a4d3dcbe0fc583d76ff0ca5068039d61bb3d651a6740063e",
+      "originalSha256": "8aa7d61be957dfd3a4d3dcbe0fc583d76ff0ca5068039d61bb3d651a6740063e"
     },
     {
       "id": "arms-058",
       "name": "Fiji",
       "aliases": [],
-      "image": "./arms-images/arms-058.svg",
+      "image": "./arms-images/arms-058.svg?v=4e38d83494",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Fiji.svg",
       "credit": "Simi Tukidia",
       "license": {
@@ -969,13 +1042,14 @@
       "note": "",
       "originalFile": "Coat of arms of Fiji.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coat_of_arms_of_Fiji.svg",
-      "sha256": "4e38d83494385692d1905f4a9c0a0517c9363d06656d6d7327704d374bfac0c7"
+      "sha256": "4e38d83494385692d1905f4a9c0a0517c9363d06656d6d7327704d374bfac0c7",
+      "originalSha256": "4e38d83494385692d1905f4a9c0a0517c9363d06656d6d7327704d374bfac0c7"
     },
     {
       "id": "arms-059",
       "name": "Finland",
       "aliases": [],
-      "image": "./arms-images/arms-059.svg",
+      "image": "./arms-images/arms-059.svg?v=a9ed126479",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Finland.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -985,13 +1059,14 @@
       "note": "",
       "originalFile": "Coat of arms of Finland.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Coat_of_arms_of_Finland.svg",
-      "sha256": "a9ed126479e824c074a9cac084ef7833df55606a5e6e429df3549748aa2bffb5"
+      "sha256": "a9ed126479e824c074a9cac084ef7833df55606a5e6e429df3549748aa2bffb5",
+      "originalSha256": "a9ed126479e824c074a9cac084ef7833df55606a5e6e429df3549748aa2bffb5"
     },
     {
       "id": "arms-060",
       "name": "France",
       "aliases": [],
-      "image": "./arms-images/arms-060.svg",
+      "image": "./arms-images/arms-060.svg?v=c00ba7e9d8",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_French_Republic.svg",
       "credit": "Hans-Ulrich Herzog",
       "license": {
@@ -1001,13 +1076,15 @@
       "note": "France has no official heraldic coat of arms; this familiar diplomatic emblem is unofficial.",
       "originalFile": "Coat of arms of the French Republic.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Coat_of_arms_of_the_French_Republic.svg",
-      "sha256": "d3af7216f4c5be3f787de57227791b5fe6e5cb4ac5977104fd0413f363c83962"
+      "sha256": "c00ba7e9d8df41631e5a4f925cc557d6d2b23e0f59baa371302ead7b47e8fa46",
+      "originalSha256": "d3af7216f4c5be3f787de57227791b5fe6e5cb4ac5977104fd0413f363c83962",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-061",
       "name": "Gabon",
       "aliases": [],
-      "image": "./arms-images/arms-061.svg",
+      "image": "./arms-images/arms-061.svg?v=3f699d0428",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Gabon.svg",
       "credit": "Original by Louis Mühlemann, vectorised by user:Fenn-O-maniC",
       "license": {
@@ -1017,7 +1094,8 @@
       "note": "",
       "originalFile": "Coat of arms of Gabon.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Coat_of_arms_of_Gabon.svg",
-      "sha256": "3f699d042834461f6cc57cfde29c4b709cdb04969ee725cacf598b491fd19318"
+      "sha256": "3f699d042834461f6cc57cfde29c4b709cdb04969ee725cacf598b491fd19318",
+      "originalSha256": "3f699d042834461f6cc57cfde29c4b709cdb04969ee725cacf598b491fd19318"
     },
     {
       "id": "arms-062",
@@ -1025,7 +1103,7 @@
       "aliases": [
         "The Gambia"
       ],
-      "image": "./arms-images/arms-062.svg",
+      "image": "./arms-images/arms-062.svg?v=a017fd45bc",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_The_Gambia.svg",
       "credit": "Original design by Nicholas Potin , vectorised by user:Fenn-O-maniC",
       "license": {
@@ -1035,13 +1113,14 @@
       "note": "",
       "originalFile": "Coat of arms of The Gambia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_The_Gambia.svg",
-      "sha256": "a017fd45bc6bcdc68abb8170d8bd1b80f6ce7c7e17642f4277367a7d5c976af6"
+      "sha256": "a017fd45bc6bcdc68abb8170d8bd1b80f6ce7c7e17642f4277367a7d5c976af6",
+      "originalSha256": "a017fd45bc6bcdc68abb8170d8bd1b80f6ce7c7e17642f4277367a7d5c976af6"
     },
     {
       "id": "arms-063",
       "name": "Georgia",
       "aliases": [],
-      "image": "./arms-images/arms-063.svg",
+      "image": "./arms-images/arms-063.svg?v=2841fdf29b",
       "source": "https://commons.wikimedia.org/wiki/File:Greater_coat_of_arms_of_Georgia.svg",
       "credit": "Mamuka Gongadze; SVG creator Vakhtang Jokhadze from F l a n k e r 's Image:Coat of arms of Georgia.svg",
       "license": {
@@ -1051,13 +1130,14 @@
       "note": "",
       "originalFile": "Greater coat of arms of Georgia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/94/Greater_coat_of_arms_of_Georgia.svg",
-      "sha256": "2841fdf29baa1b161e2057190f073b43f17af22f1c1a37c302617d2225431589"
+      "sha256": "2841fdf29baa1b161e2057190f073b43f17af22f1c1a37c302617d2225431589",
+      "originalSha256": "2841fdf29baa1b161e2057190f073b43f17af22f1c1a37c302617d2225431589"
     },
     {
       "id": "arms-064",
       "name": "Germany",
       "aliases": [],
-      "image": "./arms-images/arms-064.svg",
+      "image": "./arms-images/arms-064.svg?v=3ea7d9cb06",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Germany.svg",
       "credit": "Karl-Tobias Schwab",
       "license": {
@@ -1067,13 +1147,14 @@
       "note": "",
       "originalFile": "Coat of arms of Germany.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Germany.svg",
-      "sha256": "3ea7d9cb06dab6f9b29701daed707689c595c8bad3601fc702bb2a9f8737e257"
+      "sha256": "3ea7d9cb06dab6f9b29701daed707689c595c8bad3601fc702bb2a9f8737e257",
+      "originalSha256": "3ea7d9cb06dab6f9b29701daed707689c595c8bad3601fc702bb2a9f8737e257"
     },
     {
       "id": "arms-065",
       "name": "Ghana",
       "aliases": [],
-      "image": "./arms-images/arms-065.svg",
+      "image": "./arms-images/arms-065.svg?v=b0026491e6",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Ghana.svg",
       "credit": "Sodacan",
       "license": {
@@ -1083,13 +1164,14 @@
       "note": "",
       "originalFile": "Coat of arms of Ghana.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/59/Coat_of_arms_of_Ghana.svg",
-      "sha256": "b0026491e67fe9bf9fd3cfceeb7278ae6b98dda7d49d877233b66930db387aa8"
+      "sha256": "b0026491e67fe9bf9fd3cfceeb7278ae6b98dda7d49d877233b66930db387aa8",
+      "originalSha256": "b0026491e67fe9bf9fd3cfceeb7278ae6b98dda7d49d877233b66930db387aa8"
     },
     {
       "id": "arms-066",
       "name": "Greece",
       "aliases": [],
-      "image": "./arms-images/arms-066.svg",
+      "image": "./arms-images/arms-066.svg?v=b33a3f2a4d",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Greece.svg",
       "credit": "File:Coat of Arms of Greece (Ministries).svg : Tonyjeff , based on national symbol / derivative work: Philly boy92",
       "license": {
@@ -1099,13 +1181,14 @@
       "note": "",
       "originalFile": "Coat of arms of Greece.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Greece.svg",
-      "sha256": "b33a3f2a4d1ba39bd4e9b8be6c8581d04df74f89edae537e34114693580b9545"
+      "sha256": "b33a3f2a4d1ba39bd4e9b8be6c8581d04df74f89edae537e34114693580b9545",
+      "originalSha256": "b33a3f2a4d1ba39bd4e9b8be6c8581d04df74f89edae537e34114693580b9545"
     },
     {
       "id": "arms-067",
       "name": "Grenada",
       "aliases": [],
-      "image": "./arms-images/arms-067.svg",
+      "image": "./arms-images/arms-067.svg?v=0e88e9d9fe",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Grenada.svg",
       "credit": "Sodacan",
       "license": {
@@ -1115,13 +1198,14 @@
       "note": "",
       "originalFile": "Coat of arms of Grenada.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Grenada.svg",
-      "sha256": "0e88e9d9fe9c48b101d39c3bcd65f7846ee31ba7e87444ce77ee1d4284205ea5"
+      "sha256": "0e88e9d9fe9c48b101d39c3bcd65f7846ee31ba7e87444ce77ee1d4284205ea5",
+      "originalSha256": "0e88e9d9fe9c48b101d39c3bcd65f7846ee31ba7e87444ce77ee1d4284205ea5"
     },
     {
       "id": "arms-068",
       "name": "Guatemala",
       "aliases": [],
-      "image": "./arms-images/arms-068.svg",
+      "image": "./arms-images/arms-068.svg?v=94c026091d",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Guatemala_with_background.svg",
       "credit": "K21edgo",
       "license": {
@@ -1131,13 +1215,14 @@
       "note": "",
       "originalFile": "Coat of arms of Guatemala with background.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Coat_of_arms_of_Guatemala_with_background.svg",
-      "sha256": "94c026091dfbe26decb8c7c9b62998f2d86625075988579deaebea30b251f854"
+      "sha256": "94c026091dfbe26decb8c7c9b62998f2d86625075988579deaebea30b251f854",
+      "originalSha256": "94c026091dfbe26decb8c7c9b62998f2d86625075988579deaebea30b251f854"
     },
     {
       "id": "arms-069",
       "name": "Guinea",
       "aliases": [],
-      "image": "./arms-images/arms-069.svg",
+      "image": "./arms-images/arms-069.svg?v=4bd16cd779",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Guinea.svg",
       "credit": "Coat_of_arms_of_Guinea.svg : Turn685 derivative work: Avenhar",
       "license": {
@@ -1147,13 +1232,14 @@
       "note": "",
       "originalFile": "Coat of Arms of Guinea.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_Arms_of_Guinea.svg",
-      "sha256": "4bd16cd7799eb23d08d9222164081da5a1a5ffea1c3e4ec2de2443b3076e29ce"
+      "sha256": "4bd16cd7799eb23d08d9222164081da5a1a5ffea1c3e4ec2de2443b3076e29ce",
+      "originalSha256": "4bd16cd7799eb23d08d9222164081da5a1a5ffea1c3e4ec2de2443b3076e29ce"
     },
     {
       "id": "arms-070",
       "name": "Guinea-Bissau",
       "aliases": [],
-      "image": "./arms-images/arms-070.svg",
+      "image": "./arms-images/arms-070.svg?v=f07c795d57",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Guinea-Bissau_(variant).svg",
       "credit": "DzWiki , current version by Mathieu CHAINE",
       "license": {
@@ -1163,13 +1249,14 @@
       "note": "",
       "originalFile": "Coat of arms of Guinea-Bissau (variant).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coat_of_arms_of_Guinea-Bissau_%28variant%29.svg",
-      "sha256": "f07c795d576068ced8b715508a084f43a9b5a22fdd574e788fd1da2863e38a8f"
+      "sha256": "f07c795d576068ced8b715508a084f43a9b5a22fdd574e788fd1da2863e38a8f",
+      "originalSha256": "f07c795d576068ced8b715508a084f43a9b5a22fdd574e788fd1da2863e38a8f"
     },
     {
       "id": "arms-071",
       "name": "Guyana",
       "aliases": [],
-      "image": "./arms-images/arms-071.svg",
+      "image": "./arms-images/arms-071.svg?v=63caeecf88",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Guyana.svg",
       "credit": "Sodacan",
       "license": {
@@ -1179,13 +1266,14 @@
       "note": "",
       "originalFile": "Coat of arms of Guyana.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_Guyana.svg",
-      "sha256": "63caeecf88b1f4de01bd6b2afa53b6349abcaa689cd223e4e6affe78d650faa3"
+      "sha256": "63caeecf88b1f4de01bd6b2afa53b6349abcaa689cd223e4e6affe78d650faa3",
+      "originalSha256": "63caeecf88b1f4de01bd6b2afa53b6349abcaa689cd223e4e6affe78d650faa3"
     },
     {
       "id": "arms-072",
       "name": "Haiti",
       "aliases": [],
-      "image": "./arms-images/arms-072.svg",
+      "image": "./arms-images/arms-072.svg?v=fed7adab42",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Haiti.svg",
       "credit": "Lokal_Profil and Myriam Thyes",
       "license": {
@@ -1195,13 +1283,14 @@
       "note": "",
       "originalFile": "Coat of arms of Haiti.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/75/Coat_of_arms_of_Haiti.svg",
-      "sha256": "fed7adab425e0f152dd91faa325a3a7963fb49aa73030bee4e7ce090cf6c168a"
+      "sha256": "fed7adab425e0f152dd91faa325a3a7963fb49aa73030bee4e7ce090cf6c168a",
+      "originalSha256": "fed7adab425e0f152dd91faa325a3a7963fb49aa73030bee4e7ce090cf6c168a"
     },
     {
       "id": "arms-073",
       "name": "Honduras",
       "aliases": [],
-      "image": "./arms-images/arms-073.svg",
+      "image": "./arms-images/arms-073.svg?v=4fadf3f50b",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Honduras.svg",
       "credit": "Kes47",
       "license": {
@@ -1211,13 +1300,15 @@
       "note": "",
       "originalFile": "Coat of arms of Honduras.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coat_of_arms_of_Honduras.svg",
-      "sha256": "dc88693032f79f35cbbd7df0105019f00cfd25a217a7b8d8ffb271509f941cf4"
+      "sha256": "4fadf3f50bca2b72315077ce0ddd9686497d77f5a936ecdbeb1b382a43204db6",
+      "originalSha256": "dc88693032f79f35cbbd7df0105019f00cfd25a217a7b8d8ffb271509f941cf4",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-074",
       "name": "Hungary",
       "aliases": [],
-      "image": "./arms-images/arms-074.svg",
+      "image": "./arms-images/arms-074.svg?v=3ad221bd44",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Hungary.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -1227,13 +1318,14 @@
       "note": "",
       "originalFile": "Coat of arms of Hungary.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/34/Coat_of_arms_of_Hungary.svg",
-      "sha256": "3ad221bd4454571293ae4c89be561c217d6559dbaee428e1517e36fe44dd03f4"
+      "sha256": "3ad221bd4454571293ae4c89be561c217d6559dbaee428e1517e36fe44dd03f4",
+      "originalSha256": "3ad221bd4454571293ae4c89be561c217d6559dbaee428e1517e36fe44dd03f4"
     },
     {
       "id": "arms-075",
       "name": "Iceland",
       "aliases": [],
-      "image": "./arms-images/arms-075.svg",
+      "image": "./arms-images/arms-075.svg?v=cec2ac3fb1",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Iceland.svg",
       "credit": "Rkt2312",
       "license": {
@@ -1243,13 +1335,14 @@
       "note": "",
       "originalFile": "Coat of arms of Iceland.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_arms_of_Iceland.svg",
-      "sha256": "cec2ac3fb12d299194e7a1eea07e475b07ebc4d92f18c25fa2100e718f35ebd8"
+      "sha256": "cec2ac3fb12d299194e7a1eea07e475b07ebc4d92f18c25fa2100e718f35ebd8",
+      "originalSha256": "cec2ac3fb12d299194e7a1eea07e475b07ebc4d92f18c25fa2100e718f35ebd8"
     },
     {
       "id": "arms-076",
       "name": "India",
       "aliases": [],
-      "image": "./arms-images/arms-076.svg",
+      "image": "./arms-images/arms-076.svg?v=f6b7475f96",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_India.svg",
       "credit": "Government of India",
       "license": {
@@ -1259,13 +1352,14 @@
       "note": "",
       "originalFile": "Emblem of India.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg",
-      "sha256": "f6b7475f96250c408c515bc56d5a6f34a60676770ca6b02f5d317245f267f1af"
+      "sha256": "f6b7475f96250c408c515bc56d5a6f34a60676770ca6b02f5d317245f267f1af",
+      "originalSha256": "f6b7475f96250c408c515bc56d5a6f34a60676770ca6b02f5d317245f267f1af"
     },
     {
       "id": "arms-077",
       "name": "Indonesia",
       "aliases": [],
-      "image": "./arms-images/arms-077.svg",
+      "image": "./arms-images/arms-077.svg?v=8153704649",
       "source": "https://commons.wikimedia.org/wiki/File:National_emblem_of_Indonesia_Garuda_Pancasila.svg",
       "credit": "Gunawan Kartapranata",
       "license": {
@@ -1275,7 +1369,8 @@
       "note": "",
       "originalFile": "National emblem of Indonesia Garuda Pancasila.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/90/National_emblem_of_Indonesia_Garuda_Pancasila.svg",
-      "sha256": "8153704649b7bab5ce2103d9c60c0f547c4d66aa2e9f736837a8a3c104a02082"
+      "sha256": "8153704649b7bab5ce2103d9c60c0f547c4d66aa2e9f736837a8a3c104a02082",
+      "originalSha256": "8153704649b7bab5ce2103d9c60c0f547c4d66aa2e9f736837a8a3c104a02082"
     },
     {
       "id": "arms-078",
@@ -1283,7 +1378,7 @@
       "aliases": [
         "Islamic Republic of Iran"
       ],
-      "image": "./arms-images/arms-078.svg",
+      "image": "./arms-images/arms-078.svg?v=dabf1d4bde",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Iran.svg",
       "credit": "Madden",
       "license": {
@@ -1293,13 +1388,14 @@
       "note": "",
       "originalFile": "Emblem of Iran.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Emblem_of_Iran.svg",
-      "sha256": "dabf1d4bdecc964866c0552588be4a0c1e32af538ce32b8db8cfaf6bb43d900f"
+      "sha256": "dabf1d4bdecc964866c0552588be4a0c1e32af538ce32b8db8cfaf6bb43d900f",
+      "originalSha256": "dabf1d4bdecc964866c0552588be4a0c1e32af538ce32b8db8cfaf6bb43d900f"
     },
     {
       "id": "arms-079",
       "name": "Iraq",
       "aliases": [],
-      "image": "./arms-images/arms-079.svg",
+      "image": "./arms-images/arms-079.svg?v=b320e9e35c",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Iraq.svg",
       "credit": "Tonyjeff , Omar86 , Kafka1 and AnonMoos ; AnonMoos , Militaryace",
       "license": {
@@ -1309,7 +1405,8 @@
       "note": "",
       "originalFile": "Coat of arms of Iraq.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_arms_of_Iraq.svg",
-      "sha256": "b320e9e35c89b60cb87a5fb1025a2ec7fc65d4bdc356a6ae9ffaa3afc394f5db"
+      "sha256": "b320e9e35c89b60cb87a5fb1025a2ec7fc65d4bdc356a6ae9ffaa3afc394f5db",
+      "originalSha256": "b320e9e35c89b60cb87a5fb1025a2ec7fc65d4bdc356a6ae9ffaa3afc394f5db"
     },
     {
       "id": "arms-080",
@@ -1319,7 +1416,7 @@
         "Eire",
         "Éire"
       ],
-      "image": "./arms-images/arms-080.svg",
+      "image": "./arms-images/arms-080.svg?v=af33312380",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Ireland.svg",
       "credit": "Setanta Saki",
       "license": {
@@ -1329,13 +1426,14 @@
       "note": "",
       "originalFile": "Coat of arms of Ireland.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Coat_of_arms_of_Ireland.svg",
-      "sha256": "af333123808d289917c604beaed5d6c6d2225c25b5ab3069d7d768d86838c78f"
+      "sha256": "af333123808d289917c604beaed5d6c6d2225c25b5ab3069d7d768d86838c78f",
+      "originalSha256": "af333123808d289917c604beaed5d6c6d2225c25b5ab3069d7d768d86838c78f"
     },
     {
       "id": "arms-081",
       "name": "Israel",
       "aliases": [],
-      "image": "./arms-images/arms-081.svg",
+      "image": "./arms-images/arms-081.svg?v=f4a3316d21",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Israel.svg",
       "credit": "Original design by Max and Gabriel Shamir; Tonyjeff , based on national symbol.",
       "license": {
@@ -1345,13 +1443,14 @@
       "note": "",
       "originalFile": "Emblem of Israel.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Emblem_of_Israel.svg",
-      "sha256": "f4a3316d21d8bc4de5dd987a1213bd27172e24117e93cc4050027108e59acdf4"
+      "sha256": "f4a3316d21d8bc4de5dd987a1213bd27172e24117e93cc4050027108e59acdf4",
+      "originalSha256": "f4a3316d21d8bc4de5dd987a1213bd27172e24117e93cc4050027108e59acdf4"
     },
     {
       "id": "arms-082",
       "name": "Italy",
       "aliases": [],
-      "image": "./arms-images/arms-082.svg",
+      "image": "./arms-images/arms-082.svg?v=180d254f4b",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Italy.svg",
       "credit": "F l a n k e r from the original paint of Paolo Paschetto",
       "license": {
@@ -1361,7 +1460,9 @@
       "note": "",
       "originalFile": "Emblem of Italy.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/00/Emblem_of_Italy.svg",
-      "sha256": "da0df764042f3cd7e5f8416a16110cb2260a5a2647225c852c6a11f9d01b620e"
+      "sha256": "180d254f4b46e885c61b755721b1ec753d750f7e66c340e008ca2388af1bec22",
+      "originalSha256": "da0df764042f3cd7e5f8416a16110cb2260a5a2647225c852c6a11f9d01b620e",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-083",
@@ -1370,7 +1471,7 @@
         "Ivory Coast",
         "Cote d Ivoire"
       ],
-      "image": "./arms-images/arms-083.svg",
+      "image": "./arms-images/arms-083.svg?v=99274d3397",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Ivory_Coast.svg",
       "credit": "Romero13",
       "license": {
@@ -1380,13 +1481,15 @@
       "note": "",
       "originalFile": "Coat of Arms of the Ivory Coast.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Coat_of_Arms_of_the_Ivory_Coast.svg",
-      "sha256": "78521120eb658bddbc4b34425120b5894fcb51ac067c025dc4bf70adccf4b66c"
+      "sha256": "99274d3397651c50506251d93508ca6b3d2460c10c418363587bfdf6e7a73d3f",
+      "originalSha256": "78521120eb658bddbc4b34425120b5894fcb51ac067c025dc4bf70adccf4b66c",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-084",
       "name": "Jamaica",
       "aliases": [],
-      "image": "./arms-images/arms-084.svg",
+      "image": "./arms-images/arms-084.svg?v=0d0b8fccc5",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Jamaica.svg",
       "credit": "William Sancroft",
       "license": {
@@ -1396,7 +1499,8 @@
       "note": "",
       "originalFile": "Coat of arms of Jamaica.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Jamaica.svg",
-      "sha256": "0d0b8fccc57df249b1ce53125ac9e051fd42f34491c694e7885f4f9665a98ad4"
+      "sha256": "0d0b8fccc57df249b1ce53125ac9e051fd42f34491c694e7885f4f9665a98ad4",
+      "originalSha256": "0d0b8fccc57df249b1ce53125ac9e051fd42f34491c694e7885f4f9665a98ad4"
     },
     {
       "id": "arms-085",
@@ -1405,7 +1509,7 @@
         "Nippon",
         "Nihon"
       ],
-      "image": "./arms-images/arms-085.svg",
+      "image": "./arms-images/arms-085.svg?v=ea846b3133",
       "source": "https://commons.wikimedia.org/wiki/File:Imperial_Seal_of_Japan.svg",
       "credit": "Philip Nilsson",
       "license": {
@@ -1415,13 +1519,14 @@
       "note": "Japan has no heraldic national coat of arms; the chrysanthemum is the Imperial Seal, also used on Japanese passports.",
       "originalFile": "Imperial Seal of Japan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Imperial_Seal_of_Japan.svg",
-      "sha256": "ea846b3133efb6bd3a929fcf8522d959247d1105db028d3b5cd7b82e8cbb9ca3"
+      "sha256": "ea846b3133efb6bd3a929fcf8522d959247d1105db028d3b5cd7b82e8cbb9ca3",
+      "originalSha256": "ea846b3133efb6bd3a929fcf8522d959247d1105db028d3b5cd7b82e8cbb9ca3"
     },
     {
       "id": "arms-086",
       "name": "Jordan",
       "aliases": [],
-      "image": "./arms-images/arms-086.svg",
+      "image": "./arms-images/arms-086.svg?v=9d76e01b5d",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Jordan.svg",
       "credit": "Original Author: Vector-Images.com Converted from EPS to SVG by: Oren neu dag",
       "license": {
@@ -1431,13 +1536,14 @@
       "note": "",
       "originalFile": "Coat of arms of Jordan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Coat_of_arms_of_Jordan.svg",
-      "sha256": "9d76e01b5d83a9dc315afcbb2d9efe28d68a47fd6e381b52d6c56fd01c5e38ba"
+      "sha256": "9d76e01b5d83a9dc315afcbb2d9efe28d68a47fd6e381b52d6c56fd01c5e38ba",
+      "originalSha256": "9d76e01b5d83a9dc315afcbb2d9efe28d68a47fd6e381b52d6c56fd01c5e38ba"
     },
     {
       "id": "arms-087",
       "name": "Kazakhstan",
       "aliases": [],
-      "image": "./arms-images/arms-087.svg",
+      "image": "./arms-images/arms-087.svg?v=67c11dd611",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Kazakhstan_(3D).svg",
       "credit": "Official site of the President of the Republic of Kazakhstan",
       "license": {
@@ -1447,13 +1553,15 @@
       "note": "",
       "originalFile": "Emblem of Kazakhstan (3D).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Emblem_of_Kazakhstan_%283D%29.svg",
-      "sha256": "2f98b2696715b945341a8b887f2a21986ca6b87ade0de53c4a7af097cffcc086"
+      "sha256": "67c11dd61152c2188256996d6c8f7a4321717296a5eee2c77ce82152f223233f",
+      "originalSha256": "2f98b2696715b945341a8b887f2a21986ca6b87ade0de53c4a7af097cffcc086",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-088",
       "name": "Kenya",
       "aliases": [],
-      "image": "./arms-images/arms-088.svg",
+      "image": "./arms-images/arms-088.svg?v=0498fd219e",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kenya_(Official).svg",
       "credit": "Ashiriz",
       "license": {
@@ -1463,13 +1571,14 @@
       "note": "",
       "originalFile": "Coat of arms of Kenya (Official).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg",
-      "sha256": "0498fd219e8c6448b454209ad4dae858e9c2ff790639b605c3a20b13cf8d50fe"
+      "sha256": "0498fd219e8c6448b454209ad4dae858e9c2ff790639b605c3a20b13cf8d50fe",
+      "originalSha256": "0498fd219e8c6448b454209ad4dae858e9c2ff790639b605c3a20b13cf8d50fe"
     },
     {
       "id": "arms-089",
       "name": "Kiribati",
       "aliases": [],
-      "image": "./arms-images/arms-089.svg",
+      "image": "./arms-images/arms-089.svg?v=a220acecb3",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kiribati.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -1479,7 +1588,8 @@
       "note": "",
       "originalFile": "Coat of arms of Kiribati.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/66/Coat_of_arms_of_Kiribati.svg",
-      "sha256": "a220acecb3983256026b13016bc66c4b126513125908594e8f7feac94b1146b4"
+      "sha256": "a220acecb3983256026b13016bc66c4b126513125908594e8f7feac94b1146b4",
+      "originalSha256": "a220acecb3983256026b13016bc66c4b126513125908594e8f7feac94b1146b4"
     },
     {
       "id": "arms-090",
@@ -1489,7 +1599,7 @@
         "Democratic People’s Republic of Korea",
         "Korea"
       ],
-      "image": "./arms-images/arms-090.svg",
+      "image": "./arms-images/arms-090.svg?v=9ff31cb947",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_North_Korea.svg",
       "credit": "Redrawn to SVG by DasREDeemr",
       "license": {
@@ -1499,7 +1609,8 @@
       "note": "",
       "originalFile": "Emblem of North Korea.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Emblem_of_North_Korea.svg",
-      "sha256": "9ff31cb9476334c150eabe275d315e0a91158d4c6c403b868049c678ae969b84"
+      "sha256": "9ff31cb9476334c150eabe275d315e0a91158d4c6c403b868049c678ae969b84",
+      "originalSha256": "9ff31cb9476334c150eabe275d315e0a91158d4c6c403b868049c678ae969b84"
     },
     {
       "id": "arms-091",
@@ -1509,7 +1620,7 @@
         "ROK",
         "Korea"
       ],
-      "image": "./arms-images/arms-091.svg",
+      "image": "./arms-images/arms-091.svg?v=173d27505f",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_South_Korea.svg",
       "credit": "Government of the Republic of Korea",
       "license": {
@@ -1519,13 +1630,14 @@
       "note": "",
       "originalFile": "Emblem of South Korea.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/Emblem_of_South_Korea.svg",
-      "sha256": "173d27505ff0897cef920a94e9724ddab0a4d24079e4dc4c4a7038f03081fca6"
+      "sha256": "173d27505ff0897cef920a94e9724ddab0a4d24079e4dc4c4a7038f03081fca6",
+      "originalSha256": "173d27505ff0897cef920a94e9724ddab0a4d24079e4dc4c4a7038f03081fca6"
     },
     {
       "id": "arms-092",
       "name": "Kuwait",
       "aliases": [],
-      "image": "./arms-images/arms-092.svg",
+      "image": "./arms-images/arms-092.svg?v=6ae82d0e68",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_State_of_Kuwait.svg",
       "credit": "AK Alrabah",
       "license": {
@@ -1535,13 +1647,14 @@
       "note": "",
       "originalFile": "Emblem of the State of Kuwait.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/73/Emblem_of_the_State_of_Kuwait.svg",
-      "sha256": "6ae82d0e68abb1b92684445f9a325881a95d1e8f4336e8a7e1c7d09a77e761ae"
+      "sha256": "6ae82d0e68abb1b92684445f9a325881a95d1e8f4336e8a7e1c7d09a77e761ae",
+      "originalSha256": "6ae82d0e68abb1b92684445f9a325881a95d1e8f4336e8a7e1c7d09a77e761ae"
     },
     {
       "id": "arms-093",
       "name": "Kyrgyzstan",
       "aliases": [],
-      "image": "./arms-images/arms-093.svg",
+      "image": "./arms-images/arms-093.svg?v=2da21ee39d",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Kyrgyzstan.svg",
       "credit": "А. Абдраев (A. Abdraev), С. Дубанаев (S. Dubanaev) 1994. Standardized version:Nurbek Nasyranbekov Nargiza Kulataeva, Kanat Karapashov, Marcel Sheishenov(2016).",
       "license": {
@@ -1551,7 +1664,8 @@
       "note": "",
       "originalFile": "Emblem of Kyrgyzstan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Emblem_of_Kyrgyzstan.svg",
-      "sha256": "2da21ee39dfa0d112f551fe2477c2867617da6d5db79ba7a739cfb9ebf3bc165"
+      "sha256": "2da21ee39dfa0d112f551fe2477c2867617da6d5db79ba7a739cfb9ebf3bc165",
+      "originalSha256": "2da21ee39dfa0d112f551fe2477c2867617da6d5db79ba7a739cfb9ebf3bc165"
     },
     {
       "id": "arms-094",
@@ -1560,7 +1674,7 @@
         "Lao PDR",
         "Lao People’s Democratic Republic"
       ],
-      "image": "./arms-images/arms-094.svg",
+      "image": "./arms-images/arms-094.svg?v=24ba7d650d",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Laos_(2025-).svg",
       "credit": "Hlticgh, based on work by DTR, Henristosch, Ericmetro and FDRMRZUSA",
       "license": {
@@ -1570,13 +1684,14 @@
       "note": "Current national emblem including the 2025 changes.",
       "originalFile": "Emblem of Laos (2025-).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Emblem_of_Laos_%282025-%29.svg",
-      "sha256": "24ba7d650d31d9906d253d8be54a66eadc0b9ccb987c20ca7b2cd1c8cc54cc0d"
+      "sha256": "24ba7d650d31d9906d253d8be54a66eadc0b9ccb987c20ca7b2cd1c8cc54cc0d",
+      "originalSha256": "24ba7d650d31d9906d253d8be54a66eadc0b9ccb987c20ca7b2cd1c8cc54cc0d"
     },
     {
       "id": "arms-095",
       "name": "Latvia",
       "aliases": [],
-      "image": "./arms-images/arms-095.svg",
+      "image": "./arms-images/arms-095.svg?v=ae7dc98afe",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Latvia.svg",
       "credit": "The original uploader was Zscout370 at English Wikipedia .",
       "license": {
@@ -1586,13 +1701,14 @@
       "note": "",
       "originalFile": "Coat of arms of Latvia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_Latvia.svg",
-      "sha256": "ae7dc98afe75659d82c7fdd2cdc023643413f30bf8950a634e59ae0e228c9db2"
+      "sha256": "ae7dc98afe75659d82c7fdd2cdc023643413f30bf8950a634e59ae0e228c9db2",
+      "originalSha256": "ae7dc98afe75659d82c7fdd2cdc023643413f30bf8950a634e59ae0e228c9db2"
     },
     {
       "id": "arms-096",
       "name": "Lesotho",
       "aliases": [],
-      "image": "./arms-images/arms-096.svg",
+      "image": "./arms-images/arms-096.svg?v=f45914d45c",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Lesotho.svg",
       "credit": "Vectorised by user:Fenn-O-maniC",
       "license": {
@@ -1602,13 +1718,14 @@
       "note": "",
       "originalFile": "Coat of arms of Lesotho.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/42/Coat_of_arms_of_Lesotho.svg",
-      "sha256": "f45914d45ca82f1ebd3ef5aeaa6980dc38e754989cbfd80fdc513813b52960ab"
+      "sha256": "f45914d45ca82f1ebd3ef5aeaa6980dc38e754989cbfd80fdc513813b52960ab",
+      "originalSha256": "f45914d45ca82f1ebd3ef5aeaa6980dc38e754989cbfd80fdc513813b52960ab"
     },
     {
       "id": "arms-097",
       "name": "Liberia",
       "aliases": [],
-      "image": "./arms-images/arms-097.svg",
+      "image": "./arms-images/arms-097.svg?v=c4ebaec055",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Liberia.svg",
       "credit": "FXXX",
       "license": {
@@ -1618,13 +1735,15 @@
       "note": "",
       "originalFile": "Coat of arms of Liberia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/64/Coat_of_arms_of_Liberia.svg",
-      "sha256": "79613c7f67c94c3e6ac1de01988db528cf15318523517fd3fdb939a50a54412f"
+      "sha256": "c4ebaec055d5dd0efc0b4704660d9df93ee43796f84fd32f10cc92384ed9e17c",
+      "originalSha256": "79613c7f67c94c3e6ac1de01988db528cf15318523517fd3fdb939a50a54412f",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-098",
       "name": "Liechtenstein",
       "aliases": [],
-      "image": "./arms-images/arms-098.svg",
+      "image": "./arms-images/arms-098.svg?v=5861354438",
       "source": "https://commons.wikimedia.org/wiki/File:Staatswappen-Liechtensteins.svg",
       "credit": "SVG Added Ramos",
       "license": {
@@ -1634,13 +1753,14 @@
       "note": "",
       "originalFile": "Staatswappen-Liechtensteins.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/18/Staatswappen-Liechtensteins.svg",
-      "sha256": "58613544382bdb00f6fa3611501d7060f6baca83d4b4b2d0cb31932d50e4ec37"
+      "sha256": "58613544382bdb00f6fa3611501d7060f6baca83d4b4b2d0cb31932d50e4ec37",
+      "originalSha256": "58613544382bdb00f6fa3611501d7060f6baca83d4b4b2d0cb31932d50e4ec37"
     },
     {
       "id": "arms-099",
       "name": "Lithuania",
       "aliases": [],
-      "image": "./arms-images/arms-099.svg",
+      "image": "./arms-images/arms-099.svg?v=ff8870326a",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Lithuania.svg",
       "credit": "Government of Lithuania",
       "license": {
@@ -1650,13 +1770,14 @@
       "note": "",
       "originalFile": "Coat of arms of Lithuania.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Lithuania.svg",
-      "sha256": "ff8870326a233c51440fcd0e0981eb8967dee5c8b6a5b0e27fdd91a52d57149f"
+      "sha256": "ff8870326a233c51440fcd0e0981eb8967dee5c8b6a5b0e27fdd91a52d57149f",
+      "originalSha256": "ff8870326a233c51440fcd0e0981eb8967dee5c8b6a5b0e27fdd91a52d57149f"
     },
     {
       "id": "arms-100",
       "name": "Luxembourg",
       "aliases": [],
-      "image": "./arms-images/arms-100.svg",
+      "image": "./arms-images/arms-100.svg?v=35610d2eb2",
       "source": "https://commons.wikimedia.org/wiki/File:Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg",
       "credit": "Katepanomegas",
       "license": {
@@ -1666,13 +1787,14 @@
       "note": "",
       "originalFile": "Greater coat of arms of the grand-duchy of Luxembourg.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg",
-      "sha256": "35610d2eb2f9798e6c5290a2c7794629c0be3b67f7c6cd4330657f806cbd01f7"
+      "sha256": "35610d2eb2f9798e6c5290a2c7794629c0be3b67f7c6cd4330657f806cbd01f7",
+      "originalSha256": "35610d2eb2f9798e6c5290a2c7794629c0be3b67f7c6cd4330657f806cbd01f7"
     },
     {
       "id": "arms-101",
       "name": "Madagascar",
       "aliases": [],
-      "image": "./arms-images/arms-101.svg",
+      "image": "./arms-images/arms-101.svg?v=f279cc070f",
       "source": "https://commons.wikimedia.org/wiki/File:Seal_of_Madagascar.svg",
       "credit": "Ndriana",
       "license": {
@@ -1682,13 +1804,15 @@
       "note": "",
       "originalFile": "Coat of arms of Madagascar.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Seal_of_Madagascar.svg",
-      "sha256": "79c1a4093cffda7d748710b84bef80adec7c3c773d46f1d5d4eb1e1fd6771371"
+      "sha256": "f279cc070f6a5dd79c84d1ef539dc3570566e62688a127e7ae61bd1dba887dbf",
+      "originalSha256": "79c1a4093cffda7d748710b84bef80adec7c3c773d46f1d5d4eb1e1fd6771371",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-102",
       "name": "Malawi",
       "aliases": [],
-      "image": "./arms-images/arms-102.svg",
+      "image": "./arms-images/arms-102.svg?v=53e42af691",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malawi.svg",
       "credit": "Sodacan",
       "license": {
@@ -1698,13 +1822,14 @@
       "note": "",
       "originalFile": "Coat of arms of Malawi.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Coat_of_arms_of_Malawi.svg",
-      "sha256": "53e42af6917880d587fe714830a6534a54359434777bd7d2677e6a0193ccdae1"
+      "sha256": "53e42af6917880d587fe714830a6534a54359434777bd7d2677e6a0193ccdae1",
+      "originalSha256": "53e42af6917880d587fe714830a6534a54359434777bd7d2677e6a0193ccdae1"
     },
     {
       "id": "arms-103",
       "name": "Malaysia",
       "aliases": [],
-      "image": "./arms-images/arms-103.svg",
+      "image": "./arms-images/arms-103.svg?v=71741ec4a4",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malaysia.svg",
       "credit": "This vector image includes elements that have been taken or adapted from this file:",
       "license": {
@@ -1714,13 +1839,14 @@
       "note": "",
       "originalFile": "Coat of arms of Malaysia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/26/Coat_of_arms_of_Malaysia.svg",
-      "sha256": "71741ec4a4a66154486d94ec985622b58f0e87ea4caa18458af9f9ce9566ceb5"
+      "sha256": "71741ec4a4a66154486d94ec985622b58f0e87ea4caa18458af9f9ce9566ceb5",
+      "originalSha256": "71741ec4a4a66154486d94ec985622b58f0e87ea4caa18458af9f9ce9566ceb5"
     },
     {
       "id": "arms-104",
       "name": "Maldives",
       "aliases": [],
-      "image": "./arms-images/arms-104.svg",
+      "image": "./arms-images/arms-104.svg?v=42f65c630c",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Maldives.svg",
       "credit": "Ichwan Palongengi . Original emblem is property of the Maldivian government",
       "license": {
@@ -1730,13 +1856,14 @@
       "note": "",
       "originalFile": "Emblem of Maldives.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/29/Emblem_of_Maldives.svg",
-      "sha256": "42f65c630cbef163b195ebf20b16629c00ff54d36a0212cb0148730f4a8006c7"
+      "sha256": "42f65c630cbef163b195ebf20b16629c00ff54d36a0212cb0148730f4a8006c7",
+      "originalSha256": "42f65c630cbef163b195ebf20b16629c00ff54d36a0212cb0148730f4a8006c7"
     },
     {
       "id": "arms-105",
       "name": "Mali",
       "aliases": [],
-      "image": "./arms-images/arms-105.svg",
+      "image": "./arms-images/arms-105.svg?v=91474d07e6",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Mali.svg",
       "credit": "Unknown Unknown , vectorized by Perhelion",
       "license": {
@@ -1746,13 +1873,15 @@
       "note": "",
       "originalFile": "Coat of arms of Mali.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Coat_of_arms_of_Mali.svg",
-      "sha256": "b6c10aea5f80cad20ad55f6bdb7f3863cb3c384db4a336b13ea0e0ed83e50ac0"
+      "sha256": "91474d07e6e5144d86d83ccf46d6171767213d24fa873d4875126997b23028e5",
+      "originalSha256": "b6c10aea5f80cad20ad55f6bdb7f3863cb3c384db4a336b13ea0e0ed83e50ac0",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-106",
       "name": "Malta",
       "aliases": [],
-      "image": "./arms-images/arms-106.svg",
+      "image": "./arms-images/arms-106.svg?v=79e479768c",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malta.svg",
       "credit": "Tonyjeff , based on national symbol.",
       "license": {
@@ -1762,13 +1891,15 @@
       "note": "",
       "originalFile": "Coat of arms of Malta.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Malta.svg",
-      "sha256": "289f2e2dc81ae7fffcb3d8563ca7d53db5b2580c5d86f4db0f97dc8785a21e74"
+      "sha256": "79e479768c96a273b0973183b0168d0c848838302b7284c02433bbc20b0d9f4d",
+      "originalSha256": "289f2e2dc81ae7fffcb3d8563ca7d53db5b2580c5d86f4db0f97dc8785a21e74",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-107",
       "name": "Marshall Islands",
       "aliases": [],
-      "image": "./arms-images/arms-107.svg",
+      "image": "./arms-images/arms-107.svg?v=301cb3a14e",
       "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Marshall_Islands.svg",
       "credit": "Ericmetro",
       "license": {
@@ -1778,13 +1909,15 @@
       "note": "",
       "originalFile": "Seal of the Marshall Islands.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/86/Seal_of_the_Marshall_Islands.svg",
-      "sha256": "2e1f3facd4878b1b57cd923c9690dfd06535de29ce27494dc666031dd941af15"
+      "sha256": "301cb3a14e32b8d0b95b02d2bfd727e4b837c6023e53444dc1f1bb6dc7c40bf4",
+      "originalSha256": "2e1f3facd4878b1b57cd923c9690dfd06535de29ce27494dc666031dd941af15",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-108",
       "name": "Mauritania",
       "aliases": [],
-      "image": "./arms-images/arms-108.svg",
+      "image": "./arms-images/arms-108.svg?v=4c588d3666",
       "source": "https://commons.wikimedia.org/wiki/File:National_Seal_of_Mauritania.svg",
       "credit": "Jelloud Najem",
       "license": {
@@ -1794,13 +1927,15 @@
       "note": "",
       "originalFile": "Seal of Mauritania (2018).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/National_Seal_of_Mauritania.svg",
-      "sha256": "867749a088d0b5fcc04e95d8daec6866e65a2631569f989e2087ac4422e303db"
+      "sha256": "4c588d366620b5062da24434619f2e22f97de8c92d802319815eb1fc0673e00f",
+      "originalSha256": "867749a088d0b5fcc04e95d8daec6866e65a2631569f989e2087ac4422e303db",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-109",
       "name": "Mauritius",
       "aliases": [],
-      "image": "./arms-images/arms-109.svg",
+      "image": "./arms-images/arms-109.svg?v=e3214cb767",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Mauritius.svg",
       "credit": "User:Escondites",
       "license": {
@@ -1810,13 +1945,14 @@
       "note": "",
       "originalFile": "Coat of arms of Mauritius.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coat_of_arms_of_Mauritius.svg",
-      "sha256": "e3214cb7677c75c0366d7b31e9e6adfebde3d792effb2bb95c4f05c23389eca1"
+      "sha256": "e3214cb7677c75c0366d7b31e9e6adfebde3d792effb2bb95c4f05c23389eca1",
+      "originalSha256": "e3214cb7677c75c0366d7b31e9e6adfebde3d792effb2bb95c4f05c23389eca1"
     },
     {
       "id": "arms-110",
       "name": "Mexico",
       "aliases": [],
-      "image": "./arms-images/arms-110.svg",
+      "image": "./arms-images/arms-110.svg?v=2b8d211038",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Mexico.svg",
       "credit": "Omar Alejandro Covarrubias Neri based on the arms by Francisco Eppens Helguera (1968) and Juan Manuel Gabino Villascán.",
       "license": {
@@ -1826,7 +1962,8 @@
       "note": "",
       "originalFile": "Coat of arms of Mexico.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_arms_of_Mexico.svg",
-      "sha256": "2b8d21103887910eb26f3dc4e59f5b0351b14b6ebf885e37c400bb49297da490"
+      "sha256": "2b8d21103887910eb26f3dc4e59f5b0351b14b6ebf885e37c400bb49297da490",
+      "originalSha256": "2b8d21103887910eb26f3dc4e59f5b0351b14b6ebf885e37c400bb49297da490"
     },
     {
       "id": "arms-111",
@@ -1835,7 +1972,7 @@
         "Micronesia",
         "FSM"
       ],
-      "image": "./arms-images/arms-111.svg",
+      "image": "./arms-images/arms-111.svg?v=3db3f63761",
       "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Federated_States_of_Micronesia.svg",
       "credit": "Coat_of_arms_of_the_Federated_States_of_Micronesia.jpg : Aotearoa derivative work: Pbroks13 ( talk )",
       "license": {
@@ -1845,7 +1982,9 @@
       "note": "",
       "originalFile": "Seal of the Federated States of Micronesia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Seal_of_the_Federated_States_of_Micronesia.svg",
-      "sha256": "9fa6c1f8fbf624fc86c4e7bdc989d3635c29ea429d1202079c92a5f2bd162395"
+      "sha256": "3db3f63761c4950b7b8341a2527d3cadb547da9e4a0c957b96bd6f40bf7df26e",
+      "originalSha256": "9fa6c1f8fbf624fc86c4e7bdc989d3635c29ea429d1202079c92a5f2bd162395",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-112",
@@ -1853,7 +1992,7 @@
       "aliases": [
         "Republic of Moldova"
       ],
-      "image": "./arms-images/arms-112.svg",
+      "image": "./arms-images/arms-112.svg?v=b56383ba85",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Moldova.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -1863,13 +2002,14 @@
       "note": "",
       "originalFile": "Coat of arms of Moldova.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_arms_of_Moldova.svg",
-      "sha256": "b56383ba85a8d8a614c4c424b93d9423af4812dd29136fbcdd15223684560a26"
+      "sha256": "b56383ba85a8d8a614c4c424b93d9423af4812dd29136fbcdd15223684560a26",
+      "originalSha256": "b56383ba85a8d8a614c4c424b93d9423af4812dd29136fbcdd15223684560a26"
     },
     {
       "id": "arms-113",
       "name": "Monaco",
       "aliases": [],
-      "image": "./arms-images/arms-113.svg",
+      "image": "./arms-images/arms-113.svg?v=a4873402be",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Monaco.svg",
       "credit": "Denelson83 and Echando una mano",
       "license": {
@@ -1879,13 +2019,14 @@
       "note": "",
       "originalFile": "Coat of arms of Monaco.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coat_of_arms_of_Monaco.svg",
-      "sha256": "a4873402beeab262edddfc8dc8b1329838602eb942f4c9c3c6b432ab2382eb8a"
+      "sha256": "a4873402beeab262edddfc8dc8b1329838602eb942f4c9c3c6b432ab2382eb8a",
+      "originalSha256": "a4873402beeab262edddfc8dc8b1329838602eb942f4c9c3c6b432ab2382eb8a"
     },
     {
       "id": "arms-114",
       "name": "Mongolia",
       "aliases": [],
-      "image": "./arms-images/arms-114.svg",
+      "image": "./arms-images/arms-114.svg?v=c43001e4d0",
       "source": "https://commons.wikimedia.org/wiki/File:State_emblem_of_Mongolia.svg",
       "credit": "Tseveendorjiin Oidov (Honored Artist of Mongolia)",
       "license": {
@@ -1895,13 +2036,14 @@
       "note": "",
       "originalFile": "State emblem of Mongolia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3e/State_emblem_of_Mongolia.svg",
-      "sha256": "c43001e4d04337cc75d7358aecc9752f53c60677c1b499b985e958a8326391ef"
+      "sha256": "c43001e4d04337cc75d7358aecc9752f53c60677c1b499b985e958a8326391ef",
+      "originalSha256": "c43001e4d04337cc75d7358aecc9752f53c60677c1b499b985e958a8326391ef"
     },
     {
       "id": "arms-115",
       "name": "Montenegro",
       "aliases": [],
-      "image": "./arms-images/arms-115.svg",
+      "image": "./arms-images/arms-115.svg?v=bcebdf9525",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Montenegro.svg",
       "credit": "Radoslav Rotković",
       "license": {
@@ -1911,13 +2053,14 @@
       "note": "",
       "originalFile": "Coat of arms of Montenegro.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_Montenegro.svg",
-      "sha256": "bcebdf95250638fa736e8dff7533f394457310e9c2f7fab7a5bc76ab76f8a2c7"
+      "sha256": "bcebdf95250638fa736e8dff7533f394457310e9c2f7fab7a5bc76ab76f8a2c7",
+      "originalSha256": "bcebdf95250638fa736e8dff7533f394457310e9c2f7fab7a5bc76ab76f8a2c7"
     },
     {
       "id": "arms-116",
       "name": "Morocco",
       "aliases": [],
-      "image": "./arms-images/arms-116.svg",
+      "image": "./arms-images/arms-116.svg?v=99d4379998",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Morocco.svg",
       "credit": "Government of Morocco",
       "license": {
@@ -1927,13 +2070,14 @@
       "note": "",
       "originalFile": "Coat of arms of Morocco.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Coat_of_arms_of_Morocco.svg",
-      "sha256": "99d43799989b679a36940861a0d35b7e31ae52fec2983a01a669bbe9e79a2f60"
+      "sha256": "99d43799989b679a36940861a0d35b7e31ae52fec2983a01a669bbe9e79a2f60",
+      "originalSha256": "99d43799989b679a36940861a0d35b7e31ae52fec2983a01a669bbe9e79a2f60"
     },
     {
       "id": "arms-117",
       "name": "Mozambique",
       "aliases": [],
-      "image": "./arms-images/arms-117.svg",
+      "image": "./arms-images/arms-117.svg?v=68aa3831cb",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Mozambique.svg",
       "credit": "Jam123",
       "license": {
@@ -1943,7 +2087,9 @@
       "note": "",
       "originalFile": "Emblem of Mozambique.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/14/Emblem_of_Mozambique.svg",
-      "sha256": "4c88dcf1e3a3658b1d85929afdc9f0953ef72276929579ae04f9993112c81479"
+      "sha256": "68aa3831cb5abdf3db9da934b0047ff597fd50d5a52f2655c4913fc287d5e131",
+      "originalSha256": "4c88dcf1e3a3658b1d85929afdc9f0953ef72276929579ae04f9993112c81479",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-118",
@@ -1951,7 +2097,7 @@
       "aliases": [
         "Burma"
       ],
-      "image": "./arms-images/arms-118.svg",
+      "image": "./arms-images/arms-118.svg?v=eb791f5212",
       "source": "https://commons.wikimedia.org/wiki/File:State_Seal_of_the_Republic_of_the_Union_of_Myanmar.svg",
       "credit": "File:State seal of Myanmar.png : Unknown author Unknown author derivative work: Pho Sai",
       "license": {
@@ -1961,13 +2107,14 @@
       "note": "",
       "originalFile": "State Seal of the Republic of the Union of Myanmar.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/State_Seal_of_the_Republic_of_the_Union_of_Myanmar.svg",
-      "sha256": "eb791f5212938f7d1e610421cdc8573659f3c50c8e730a95512e344faf050d0c"
+      "sha256": "eb791f5212938f7d1e610421cdc8573659f3c50c8e730a95512e344faf050d0c",
+      "originalSha256": "eb791f5212938f7d1e610421cdc8573659f3c50c8e730a95512e344faf050d0c"
     },
     {
       "id": "arms-119",
       "name": "Namibia",
       "aliases": [],
-      "image": "./arms-images/arms-119.svg",
+      "image": "./arms-images/arms-119.svg?v=c7141dc1f7",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Namibia.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -1977,7 +2124,8 @@
       "note": "",
       "originalFile": "Coat of arms of Namibia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Coat_of_arms_of_Namibia.svg",
-      "sha256": "c7141dc1f7d3a6ceb8da73daca4aec971b8df4504229e4a27a178690006dadce"
+      "sha256": "c7141dc1f7d3a6ceb8da73daca4aec971b8df4504229e4a27a178690006dadce",
+      "originalSha256": "c7141dc1f7d3a6ceb8da73daca4aec971b8df4504229e4a27a178690006dadce"
     },
     {
       "id": "arms-120",
@@ -1985,7 +2133,7 @@
       "aliases": [
         "Naoero"
       ],
-      "image": "./arms-images/arms-120.svg",
+      "image": "./arms-images/arms-120.svg?v=f7cd5e7d7a",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Nauru_(2020).svg",
       "credit": "Original: Parliament of Nauru Vector: Designism",
       "license": {
@@ -1995,13 +2143,15 @@
       "note": "",
       "originalFile": "Coat of arms of Nauru (2020).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/40/Coat_of_arms_of_Nauru_%282020%29.svg",
-      "sha256": "da2ed8d2c75f491537bef5f43f84164f8d206902000ef7f8970aebb00a205947"
+      "sha256": "f7cd5e7d7abf79c91842b7259699409f00aa52e7099774316b9f5a390d436b33",
+      "originalSha256": "da2ed8d2c75f491537bef5f43f84164f8d206902000ef7f8970aebb00a205947",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-121",
       "name": "Nepal",
       "aliases": [],
-      "image": "./arms-images/arms-121.svg",
+      "image": "./arms-images/arms-121.svg?v=f67bcc6047",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Nepal.svg",
       "credit": "Biplab Anand",
       "license": {
@@ -2011,7 +2161,8 @@
       "note": "",
       "originalFile": "Emblem of Nepal.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Emblem_of_Nepal.svg",
-      "sha256": "f67bcc604764a8c20c8e2054bb7d9bf10547e735fad63c95b169721b305661e9"
+      "sha256": "f67bcc604764a8c20c8e2054bb7d9bf10547e735fad63c95b169721b305661e9",
+      "originalSha256": "f67bcc604764a8c20c8e2054bb7d9bf10547e735fad63c95b169721b305661e9"
     },
     {
       "id": "arms-122",
@@ -2020,7 +2171,7 @@
         "The Netherlands",
         "Holland"
       ],
-      "image": "./arms-images/arms-122.svg",
+      "image": "./arms-images/arms-122.svg?v=7538472202",
       "source": "https://commons.wikimedia.org/wiki/File:Royal_coat_of_arms_of_the_Netherlands.svg",
       "credit": "Sodacan",
       "license": {
@@ -2030,13 +2181,14 @@
       "note": "",
       "originalFile": "Royal coat of arms of the Netherlands.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Royal_coat_of_arms_of_the_Netherlands.svg",
-      "sha256": "75384722029814ec4d4af6832461ab9d31dbf4abcb816e22f3902c00b3f064fa"
+      "sha256": "75384722029814ec4d4af6832461ab9d31dbf4abcb816e22f3902c00b3f064fa",
+      "originalSha256": "75384722029814ec4d4af6832461ab9d31dbf4abcb816e22f3902c00b3f064fa"
     },
     {
       "id": "arms-123",
       "name": "New Zealand",
       "aliases": [],
-      "image": "./arms-images/arms-123.svg",
+      "image": "./arms-images/arms-123.svg?v=8a3755ecad",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_New_Zealand.svg",
       "credit": "Sodacan",
       "license": {
@@ -2046,13 +2198,15 @@
       "note": "",
       "originalFile": "Coat of arms of New Zealand.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Coat_of_arms_of_New_Zealand.svg",
-      "sha256": "a5bf856c0ad324b4ee298d509ac4f6fe86bc9ca4c7a515c8d181e65b0d0dc88d"
+      "sha256": "8a3755ecad083b3aaae780b556345096abf049082b7c60843865ee36b370cf38",
+      "originalSha256": "a5bf856c0ad324b4ee298d509ac4f6fe86bc9ca4c7a515c8d181e65b0d0dc88d",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-124",
       "name": "Nicaragua",
       "aliases": [],
-      "image": "./arms-images/arms-124.svg",
+      "image": "./arms-images/arms-124.svg?v=a4bddccc40",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Nicaragua.svg",
       "credit": "C records",
       "license": {
@@ -2062,13 +2216,15 @@
       "note": "",
       "originalFile": "Coat of arms of Nicaragua.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Coat_of_arms_of_Nicaragua.svg",
-      "sha256": "9ef0e7ba8c721d0188b9bf25ff749f1ec3fb2462c319743336b5a6f2f2a06e21"
+      "sha256": "a4bddccc405fcd6e0ce6b79a1de2d48fcfa2ab4c77ffff7e0568e6ede166dd7f",
+      "originalSha256": "9ef0e7ba8c721d0188b9bf25ff749f1ec3fb2462c319743336b5a6f2f2a06e21",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-125",
       "name": "Niger",
       "aliases": [],
-      "image": "./arms-images/arms-125.svg",
+      "image": "./arms-images/arms-125.svg?v=3dfe56e051",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Niger.svg",
       "credit": "Pbroks13 ( talk )",
       "license": {
@@ -2078,13 +2234,15 @@
       "note": "",
       "originalFile": "Coat of arms of Niger.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Niger.svg",
-      "sha256": "6e93e3323d18cc7df750bbc2223b290e9c860b0e22fd68e3218f62904b35a842"
+      "sha256": "3dfe56e051f386bea52c5e3c19695da044fa537fa56d2e1a2c7c51bb7ec195e9",
+      "originalSha256": "6e93e3323d18cc7df750bbc2223b290e9c860b0e22fd68e3218f62904b35a842",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-126",
       "name": "Nigeria",
       "aliases": [],
-      "image": "./arms-images/arms-126.svg",
+      "image": "./arms-images/arms-126.svg?v=75c45bfdc0",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Nigeria.svg",
       "credit": "Lumia1234",
       "license": {
@@ -2094,7 +2252,8 @@
       "note": "",
       "originalFile": "Coat of arms of Nigeria.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Coat_of_arms_of_Nigeria.svg",
-      "sha256": "75c45bfdc045846a9f30db47dfaaa95d7a798457eaf45bda2292f3664652c060"
+      "sha256": "75c45bfdc045846a9f30db47dfaaa95d7a798457eaf45bda2292f3664652c060",
+      "originalSha256": "75c45bfdc045846a9f30db47dfaaa95d7a798457eaf45bda2292f3664652c060"
     },
     {
       "id": "arms-127",
@@ -2102,7 +2261,7 @@
       "aliases": [
         "Macedonia"
       ],
-      "image": "./arms-images/arms-127.svg",
+      "image": "./arms-images/arms-127.svg?v=e98abac507",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_North_Macedonia.svg",
       "credit": "MacedonianBoy",
       "license": {
@@ -2112,13 +2271,14 @@
       "note": "",
       "originalFile": "Coat of arms of North Macedonia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Coat_of_arms_of_North_Macedonia.svg",
-      "sha256": "e98abac50777975ff01d07fa4c5e1d18d3597b09ea91b9c0428d81e3f436beda"
+      "sha256": "e98abac50777975ff01d07fa4c5e1d18d3597b09ea91b9c0428d81e3f436beda",
+      "originalSha256": "e98abac50777975ff01d07fa4c5e1d18d3597b09ea91b9c0428d81e3f436beda"
     },
     {
       "id": "arms-128",
       "name": "Norway",
       "aliases": [],
-      "image": "./arms-images/arms-128.svg",
+      "image": "./arms-images/arms-128.svg?v=84260ace27",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Norway.svg",
       "credit": "Emblazonment by Sverre Morken (1992), redrawn by Jonas Madsen Rogne (2023) on behalf of the Norwegian Government Design Programme.",
       "license": {
@@ -2128,13 +2288,14 @@
       "note": "",
       "originalFile": "Coat of arms of Norway.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Norway.svg",
-      "sha256": "84260ace276ea626a1887ca206b40142b159eb3cc80ce65ad82b3c5eede0c58d"
+      "sha256": "84260ace276ea626a1887ca206b40142b159eb3cc80ce65ad82b3c5eede0c58d",
+      "originalSha256": "84260ace276ea626a1887ca206b40142b159eb3cc80ce65ad82b3c5eede0c58d"
     },
     {
       "id": "arms-129",
       "name": "Oman",
       "aliases": [],
-      "image": "./arms-images/arms-129.svg",
+      "image": "./arms-images/arms-129.svg?v=ec6a28ab54",
       "source": "https://commons.wikimedia.org/wiki/File:Oman,_National_Amblem.svg",
       "credit": "Медун 1876",
       "license": {
@@ -2144,13 +2305,14 @@
       "note": "",
       "originalFile": "Oman, National Amblem.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Oman%2C_National_Amblem.svg",
-      "sha256": "ec6a28ab548c8c209c4a2c005d4c79e05ecfd5d381a37d989b1d6ee28499889e"
+      "sha256": "ec6a28ab548c8c209c4a2c005d4c79e05ecfd5d381a37d989b1d6ee28499889e",
+      "originalSha256": "ec6a28ab548c8c209c4a2c005d4c79e05ecfd5d381a37d989b1d6ee28499889e"
     },
     {
       "id": "arms-130",
       "name": "Pakistan",
       "aliases": [],
-      "image": "./arms-images/arms-130.svg",
+      "image": "./arms-images/arms-130.svg?v=c828330e06",
       "source": "https://commons.wikimedia.org/wiki/File:State_emblem_of_Pakistan.svg",
       "credit": "Meraj Muhammad",
       "license": {
@@ -2160,13 +2322,14 @@
       "note": "",
       "originalFile": "State emblem of Pakistan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/ef/State_emblem_of_Pakistan.svg",
-      "sha256": "c828330e0632263f69d0cde8fb433db788a8265c3957e1054ed9c407c75400fe"
+      "sha256": "c828330e0632263f69d0cde8fb433db788a8265c3957e1054ed9c407c75400fe",
+      "originalSha256": "c828330e0632263f69d0cde8fb433db788a8265c3957e1054ed9c407c75400fe"
     },
     {
       "id": "arms-131",
       "name": "Palau",
       "aliases": [],
-      "image": "./arms-images/arms-131.svg",
+      "image": "./arms-images/arms-131.svg?v=574c720492",
       "source": "https://commons.wikimedia.org/wiki/File:Seal_of_Palau.svg",
       "credit": "originally Washiucho",
       "license": {
@@ -2176,7 +2339,9 @@
       "note": "",
       "originalFile": "Seal of Palau.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Seal_of_Palau.svg",
-      "sha256": "9ab51e7e29c22f9fd5c3f7f1337ede89f923347b5d7c14afa481895ccb8605e8"
+      "sha256": "574c7204920d3c25632cc9972c205e923d6c6f661d91f85300323deac6fff26d",
+      "originalSha256": "9ab51e7e29c22f9fd5c3f7f1337ede89f923347b5d7c14afa481895ccb8605e8",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-132",
@@ -2184,7 +2349,7 @@
       "aliases": [
         "State of Palestine"
       ],
-      "image": "./arms-images/arms-132.svg",
+      "image": "./arms-images/arms-132.svg?v=237d03a16b",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Palestine.svg",
       "credit": "Colohisto",
       "license": {
@@ -2194,13 +2359,14 @@
       "note": "",
       "originalFile": "Coat of arms of Palestine.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Coat_of_arms_of_Palestine.svg",
-      "sha256": "237d03a16b01eff832848e54d24b3ae1e0b419f2131956f5d8ecfebd128c64e7"
+      "sha256": "237d03a16b01eff832848e54d24b3ae1e0b419f2131956f5d8ecfebd128c64e7",
+      "originalSha256": "237d03a16b01eff832848e54d24b3ae1e0b419f2131956f5d8ecfebd128c64e7"
     },
     {
       "id": "arms-133",
       "name": "Panama",
       "aliases": [],
-      "image": "./arms-images/arms-133.svg",
+      "image": "./arms-images/arms-133.svg?v=21626a1918",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Panama.svg",
       "credit": "Milenioscuro",
       "license": {
@@ -2210,7 +2376,8 @@
       "note": "",
       "originalFile": "Coat of arms of Panama.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Panama.svg",
-      "sha256": "21626a19182e3f90b507069122f0a6cc541ce99508811ea22c60856abdba2d16"
+      "sha256": "21626a19182e3f90b507069122f0a6cc541ce99508811ea22c60856abdba2d16",
+      "originalSha256": "21626a19182e3f90b507069122f0a6cc541ce99508811ea22c60856abdba2d16"
     },
     {
       "id": "arms-134",
@@ -2218,7 +2385,7 @@
       "aliases": [
         "PNG"
       ],
-      "image": "./arms-images/arms-134.svg",
+      "image": "./arms-images/arms-134.svg?v=b837622cce",
       "source": "https://commons.wikimedia.org/wiki/File:National_emblem_of_Papua_New_Guinea.svg",
       "credit": "Sodacan",
       "license": {
@@ -2228,13 +2395,14 @@
       "note": "",
       "originalFile": "National emblem of Papua New Guinea.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b4/National_emblem_of_Papua_New_Guinea.svg",
-      "sha256": "b837622cce87ebbbaa88e376a5edc08de0eddc05b6da19eeb8629b68988a9e87"
+      "sha256": "b837622cce87ebbbaa88e376a5edc08de0eddc05b6da19eeb8629b68988a9e87",
+      "originalSha256": "b837622cce87ebbbaa88e376a5edc08de0eddc05b6da19eeb8629b68988a9e87"
     },
     {
       "id": "arms-135",
       "name": "Paraguay",
       "aliases": [],
-      "image": "./arms-images/arms-135.svg",
+      "image": "./arms-images/arms-135.svg?v=70e8ee4b22",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Paraguay.svg",
       "credit": "Original: User:Ysangkok",
       "license": {
@@ -2244,13 +2412,15 @@
       "note": "",
       "originalFile": "Coat of arms of Paraguay.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_arms_of_Paraguay.svg",
-      "sha256": "01e231d0e641bc888adc6472fabde4d175e7b411b4d5f4dc2eeb44c26c5039ee"
+      "sha256": "70e8ee4b22b6f269c6c84b9b8ce093af18d890ea1bce1473728202977848070b",
+      "originalSha256": "01e231d0e641bc888adc6472fabde4d175e7b411b4d5f4dc2eeb44c26c5039ee",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-136",
       "name": "Peru",
       "aliases": [],
-      "image": "./arms-images/arms-136.svg",
+      "image": "./arms-images/arms-136.svg?v=65175f9fb5",
       "source": "https://commons.wikimedia.org/wiki/File:Escudo_nacional_del_Per%C3%BA.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -2260,13 +2430,14 @@
       "note": "",
       "originalFile": "Escudo nacional del Perú.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Escudo_nacional_del_Per%C3%BA.svg",
-      "sha256": "65175f9fb56e8cc9aadd6041863cf8d37f9b14ad1730cd2ee105dc5782fbf194"
+      "sha256": "65175f9fb56e8cc9aadd6041863cf8d37f9b14ad1730cd2ee105dc5782fbf194",
+      "originalSha256": "65175f9fb56e8cc9aadd6041863cf8d37f9b14ad1730cd2ee105dc5782fbf194"
     },
     {
       "id": "arms-137",
       "name": "Philippines",
       "aliases": [],
-      "image": "./arms-images/arms-137.svg",
+      "image": "./arms-images/arms-137.svg?v=c970915989",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Philippines.svg",
       "credit": "Galo Ocampo",
       "license": {
@@ -2276,13 +2447,15 @@
       "note": "",
       "originalFile": "Coat of arms of the Philippines.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_the_Philippines.svg",
-      "sha256": "5ec207fba608d908b177582973a685787b39592cc739750e0a39db6b08eece92"
+      "sha256": "c970915989b6a9f309f1b2e18f16c32b1fbaae348cddb764f5e332a295a9d054",
+      "originalSha256": "5ec207fba608d908b177582973a685787b39592cc739750e0a39db6b08eece92",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-138",
       "name": "Poland",
       "aliases": [],
-      "image": "./arms-images/arms-138.svg",
+      "image": "./arms-images/arms-138.svg?v=1a91445403",
       "source": "https://commons.wikimedia.org/wiki/File:Herb_Polski.svg",
       "credit": "Zygmunt Kamiński / Andrzej Heidrich",
       "license": {
@@ -2292,13 +2465,14 @@
       "note": "",
       "originalFile": "Herb Polski.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Herb_Polski.svg",
-      "sha256": "1a914454039b089475084a2eef8a3ab919a809aa944c146e6173bdd086ae5bea"
+      "sha256": "1a914454039b089475084a2eef8a3ab919a809aa944c146e6173bdd086ae5bea",
+      "originalSha256": "1a914454039b089475084a2eef8a3ab919a809aa944c146e6173bdd086ae5bea"
     },
     {
       "id": "arms-139",
       "name": "Portugal",
       "aliases": [],
-      "image": "./arms-images/arms-139.svg",
+      "image": "./arms-images/arms-139.svg?v=ef93d0af73",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Portugal.svg",
       "credit": "Tonyjeff , based on national symbol",
       "license": {
@@ -2308,13 +2482,14 @@
       "note": "",
       "originalFile": "Coat of arms of Portugal.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/15/Coat_of_arms_of_Portugal.svg",
-      "sha256": "ef93d0af732e8297ca1f0066ac3491135838570a6ddb928b6d1bb62c0ee4c3d5"
+      "sha256": "ef93d0af732e8297ca1f0066ac3491135838570a6ddb928b6d1bb62c0ee4c3d5",
+      "originalSha256": "ef93d0af732e8297ca1f0066ac3491135838570a6ddb928b6d1bb62c0ee4c3d5"
     },
     {
       "id": "arms-140",
       "name": "Qatar",
       "aliases": [],
-      "image": "./arms-images/arms-140.svg",
+      "image": "./arms-images/arms-140.svg?v=8fad4be30e",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Qatar-2022.svg",
       "credit": "9BBWMJ",
       "license": {
@@ -2324,13 +2499,14 @@
       "note": "",
       "originalFile": "Emblem of Qatar-2022.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Emblem_of_Qatar-2022.svg",
-      "sha256": "8fad4be30ea7c15d8257e5c8a686001b2e78c63ce40a90133aa143be0a60e958"
+      "sha256": "8fad4be30ea7c15d8257e5c8a686001b2e78c63ce40a90133aa143be0a60e958",
+      "originalSha256": "8fad4be30ea7c15d8257e5c8a686001b2e78c63ce40a90133aa143be0a60e958"
     },
     {
       "id": "arms-141",
       "name": "Romania",
       "aliases": [],
-      "image": "./arms-images/arms-141.svg",
+      "image": "./arms-images/arms-141.svg?v=232bed9e51",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Romania.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -2340,7 +2516,8 @@
       "note": "",
       "originalFile": "Coat of arms of Romania.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_arms_of_Romania.svg",
-      "sha256": "232bed9e5166fbc5dfc6b1c38e9550ffca2ab5dc29d5359008a2189d0533eea5"
+      "sha256": "232bed9e5166fbc5dfc6b1c38e9550ffca2ab5dc29d5359008a2189d0533eea5",
+      "originalSha256": "232bed9e5166fbc5dfc6b1c38e9550ffca2ab5dc29d5359008a2189d0533eea5"
     },
     {
       "id": "arms-142",
@@ -2348,7 +2525,7 @@
       "aliases": [
         "Russian Federation"
       ],
-      "image": "./arms-images/arms-142.svg",
+      "image": "./arms-images/arms-142.svg?v=bb6f3c799d",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Russian_Federation.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -2358,13 +2535,14 @@
       "note": "",
       "originalFile": "Coat of Arms of the Russian Federation.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coat_of_Arms_of_the_Russian_Federation.svg",
-      "sha256": "bb6f3c799dad93f1996032182082052012d9c3445669fb98a5f6a900473b2aeb"
+      "sha256": "bb6f3c799dad93f1996032182082052012d9c3445669fb98a5f6a900473b2aeb",
+      "originalSha256": "bb6f3c799dad93f1996032182082052012d9c3445669fb98a5f6a900473b2aeb"
     },
     {
       "id": "arms-143",
       "name": "Rwanda",
       "aliases": [],
-      "image": "./arms-images/arms-143.svg",
+      "image": "./arms-images/arms-143.svg?v=9c68e94172",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Rwanda.svg",
       "credit": "FischX and Zscout370",
       "license": {
@@ -2374,7 +2552,9 @@
       "note": "",
       "originalFile": "Coat of arms of Rwanda.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_arms_of_Rwanda.svg",
-      "sha256": "d617ac2729159a05eaf54ba75f8748182600643147de178b9d784f7b7ecc28d3"
+      "sha256": "9c68e941723c22a5c74528668c91392a1160c887eeba75c22bc3a886ba56bb84",
+      "originalSha256": "d617ac2729159a05eaf54ba75f8748182600643147de178b9d784f7b7ecc28d3",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-144",
@@ -2385,7 +2565,7 @@
         "St Kitts",
         "St Kitts Nevis"
       ],
-      "image": "./arms-images/arms-144.svg",
+      "image": "./arms-images/arms-144.svg?v=5b1fafd372",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Saint_Kitts_and_Nevis.svg",
       "credit": "BaronJaguar",
       "license": {
@@ -2395,7 +2575,8 @@
       "note": "",
       "originalFile": "Coat of Arms of Saint Kitts and Nevis.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Coat_of_Arms_of_Saint_Kitts_and_Nevis.svg",
-      "sha256": "5b1fafd3722b8bd159f782ee113d80e8dc1ea150d0e1b88a67c4778a387b7b84"
+      "sha256": "5b1fafd3722b8bd159f782ee113d80e8dc1ea150d0e1b88a67c4778a387b7b84",
+      "originalSha256": "5b1fafd3722b8bd159f782ee113d80e8dc1ea150d0e1b88a67c4778a387b7b84"
     },
     {
       "id": "arms-145",
@@ -2403,7 +2584,7 @@
       "aliases": [
         "St Lucia"
       ],
-      "image": "./arms-images/arms-145.svg",
+      "image": "./arms-images/arms-145.svg?v=e2e15b9b24",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Saint_Lucia.svg",
       "credit": "Diafora",
       "license": {
@@ -2413,7 +2594,8 @@
       "note": "",
       "originalFile": "Coat of arms of Saint Lucia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Coat_of_arms_of_Saint_Lucia.svg",
-      "sha256": "e2e15b9b240d909a7c1d9efff65cc1c440f4e578e09e8a38d50a6176a1ac383e"
+      "sha256": "e2e15b9b240d909a7c1d9efff65cc1c440f4e578e09e8a38d50a6176a1ac383e",
+      "originalSha256": "e2e15b9b240d909a7c1d9efff65cc1c440f4e578e09e8a38d50a6176a1ac383e"
     },
     {
       "id": "arms-146",
@@ -2423,7 +2605,7 @@
         "Saint Vincent",
         "St Vincent"
       ],
-      "image": "./arms-images/arms-146.svg",
+      "image": "./arms-images/arms-146.svg?v=b907a0e44d",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg",
       "credit": "Prez001",
       "license": {
@@ -2433,13 +2615,14 @@
       "note": "",
       "originalFile": "Coat of arms of Saint Vincent and the Grenadines.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg",
-      "sha256": "b907a0e44d0147dd830a80024d09cf26dffe21fdd1d853f057f683639fc7c0d6"
+      "sha256": "b907a0e44d0147dd830a80024d09cf26dffe21fdd1d853f057f683639fc7c0d6",
+      "originalSha256": "b907a0e44d0147dd830a80024d09cf26dffe21fdd1d853f057f683639fc7c0d6"
     },
     {
       "id": "arms-147",
       "name": "Samoa",
       "aliases": [],
-      "image": "./arms-images/arms-147.svg",
+      "image": "./arms-images/arms-147.svg?v=20d3a12d05",
       "source": "https://commons.wikimedia.org/wiki/File:Public_Seal_of_Samoa.svg",
       "credit": "Simitukidia",
       "license": {
@@ -2449,13 +2632,15 @@
       "note": "",
       "originalFile": "Public Seal of Samoa.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Public_Seal_of_Samoa.svg",
-      "sha256": "5b6f991796b367d73835a1d8c98f7ae90007b761873c4e2ab3752c3e82a0334d"
+      "sha256": "20d3a12d05bd44f993b7a230b3bbc9fa172ece0089fea7607860053bbc1d99f2",
+      "originalSha256": "5b6f991796b367d73835a1d8c98f7ae90007b761873c4e2ab3752c3e82a0334d",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-148",
       "name": "San Marino",
       "aliases": [],
-      "image": "./arms-images/arms-148.svg",
+      "image": "./arms-images/arms-148.svg?v=d8074af24b",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_San_Marino.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -2465,7 +2650,8 @@
       "note": "",
       "originalFile": "Coat of arms of San Marino.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_San_Marino.svg",
-      "sha256": "d8074af24b220fd22eecd97b25eee1ae70c7f569d625e8b61d4c9d3c3bd3e84a"
+      "sha256": "d8074af24b220fd22eecd97b25eee1ae70c7f569d625e8b61d4c9d3c3bd3e84a",
+      "originalSha256": "d8074af24b220fd22eecd97b25eee1ae70c7f569d625e8b61d4c9d3c3bd3e84a"
     },
     {
       "id": "arms-149",
@@ -2475,7 +2661,7 @@
         "Sao Tome",
         "Sao Tome Principe"
       ],
-      "image": "./arms-images/arms-149.svg",
+      "image": "./arms-images/arms-149.svg?v=d88324ed7a",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
       "credit": "Josedar",
       "license": {
@@ -2485,13 +2671,15 @@
       "note": "",
       "originalFile": "Coat of arms of São Tomé and Príncipe.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
-      "sha256": "27f873cb3e598552a5715967c2a430d6574fd1cf112b1eddc26005412fa189c4"
+      "sha256": "d88324ed7a079b4ea8986490cfc454a894d50a5c0f358b913289dc0e8b21e83c",
+      "originalSha256": "27f873cb3e598552a5715967c2a430d6574fd1cf112b1eddc26005412fa189c4",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-150",
       "name": "Saudi Arabia",
       "aliases": [],
-      "image": "./arms-images/arms-150.svg",
+      "image": "./arms-images/arms-150.svg?v=7afb1c647a",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Saudi_Arabia.svg",
       "credit": "Anus kafm",
       "license": {
@@ -2501,13 +2689,14 @@
       "note": "",
       "originalFile": "Emblem of Saudi Arabia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Emblem_of_Saudi_Arabia.svg",
-      "sha256": "7afb1c647afe66cf037a3920dda7ed1cd498877b9786374246ed1c52cb962643"
+      "sha256": "7afb1c647afe66cf037a3920dda7ed1cd498877b9786374246ed1c52cb962643",
+      "originalSha256": "7afb1c647afe66cf037a3920dda7ed1cd498877b9786374246ed1c52cb962643"
     },
     {
       "id": "arms-151",
       "name": "Senegal",
       "aliases": [],
-      "image": "./arms-images/arms-151.svg",
+      "image": "./arms-images/arms-151.svg?v=058fa390c7",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Senegal.svg",
       "credit": "Xavi Garcia (Xavigivax)",
       "license": {
@@ -2517,13 +2706,14 @@
       "note": "",
       "originalFile": "Coat of arms of Senegal.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Coat_of_arms_of_Senegal.svg",
-      "sha256": "058fa390c7587367d1ca5bb6bbe6878f9b843f9f4b67a35c956c080c5add6017"
+      "sha256": "058fa390c7587367d1ca5bb6bbe6878f9b843f9f4b67a35c956c080c5add6017",
+      "originalSha256": "058fa390c7587367d1ca5bb6bbe6878f9b843f9f4b67a35c956c080c5add6017"
     },
     {
       "id": "arms-152",
       "name": "Serbia",
       "aliases": [],
-      "image": "./arms-images/arms-152.svg",
+      "image": "./arms-images/arms-152.svg?v=6197f63ec9",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Serbia.svg",
       "credit": "upload: User:Rokerismoravee",
       "license": {
@@ -2533,13 +2723,14 @@
       "note": "",
       "originalFile": "Coat of arms of Serbia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_arms_of_Serbia.svg",
-      "sha256": "6197f63ec950cdfd4a838cc32e52c7aa0ff4fd50ca2b5258c0e753ebe6a69912"
+      "sha256": "6197f63ec950cdfd4a838cc32e52c7aa0ff4fd50ca2b5258c0e753ebe6a69912",
+      "originalSha256": "6197f63ec950cdfd4a838cc32e52c7aa0ff4fd50ca2b5258c0e753ebe6a69912"
     },
     {
       "id": "arms-153",
       "name": "Seychelles",
       "aliases": [],
-      "image": "./arms-images/arms-153.svg",
+      "image": "./arms-images/arms-153.svg?v=c333a95220",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Seychelles.svg",
       "credit": "Sodacan i The source code of this SVG is valid . This vector image was created with Inkscape by v .",
       "license": {
@@ -2549,13 +2740,14 @@
       "note": "",
       "originalFile": "Coat of arms of Seychelles.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Coat_of_arms_of_Seychelles.svg",
-      "sha256": "c333a9522003cf38c08092f864e31941a6775de71b58a988cff5c652d995e1df"
+      "sha256": "c333a9522003cf38c08092f864e31941a6775de71b58a988cff5c652d995e1df",
+      "originalSha256": "c333a9522003cf38c08092f864e31941a6775de71b58a988cff5c652d995e1df"
     },
     {
       "id": "arms-154",
       "name": "Sierra Leone",
       "aliases": [],
-      "image": "./arms-images/arms-154.svg",
+      "image": "./arms-images/arms-154.svg?v=8f43680470",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Sierra_Leone.svg",
       "credit": "Lion héraldique.svg - Bluebear2 Heraldique meuble lion passant.svg - Rinaldum , S@m , Zigeuner Coat of arms of Haiti (1964-1986).svg - Thommy9 derivative work: Yuma",
       "license": {
@@ -2565,13 +2757,14 @@
       "note": "",
       "originalFile": "Coat of arms of Sierra Leone.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Coat_of_arms_of_Sierra_Leone.svg",
-      "sha256": "8f43680470b08b305adda396befc0d080f17005acde297aa42b78be8469cf98d"
+      "sha256": "8f43680470b08b305adda396befc0d080f17005acde297aa42b78be8469cf98d",
+      "originalSha256": "8f43680470b08b305adda396befc0d080f17005acde297aa42b78be8469cf98d"
     },
     {
       "id": "arms-155",
       "name": "Singapore",
       "aliases": [],
-      "image": "./arms-images/arms-155.svg",
+      "image": "./arms-images/arms-155.svg?v=16a87e6a70",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Singapore.svg",
       "credit": "Ahk Heraldry, Fry1989 and Xavigivax",
       "license": {
@@ -2581,13 +2774,15 @@
       "note": "",
       "originalFile": "Coat of arms of Singapore.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Coat_of_arms_of_Singapore.svg",
-      "sha256": "3d3f620aa03027b2762fe853e422a245a7d238ad144ded5cb0a814608a21b494"
+      "sha256": "16a87e6a7061ac779809de3dc86687f65464b43d00ac23d7fba6ec3cd9b006b8",
+      "originalSha256": "3d3f620aa03027b2762fe853e422a245a7d238ad144ded5cb0a814608a21b494",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-156",
       "name": "Slovakia",
       "aliases": [],
-      "image": "./arms-images/arms-156.svg",
+      "image": "./arms-images/arms-156.svg?v=4844084b1d",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Slovakia.svg",
       "credit": "Tlusťa",
       "license": {
@@ -2597,13 +2792,14 @@
       "note": "",
       "originalFile": "Coat of arms of Slovakia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Coat_of_arms_of_Slovakia.svg",
-      "sha256": "4844084b1d5439511b8dd387251fc660401c3192ef811bd5de6c77e802d435c3"
+      "sha256": "4844084b1d5439511b8dd387251fc660401c3192ef811bd5de6c77e802d435c3",
+      "originalSha256": "4844084b1d5439511b8dd387251fc660401c3192ef811bd5de6c77e802d435c3"
     },
     {
       "id": "arms-157",
       "name": "Slovenia",
       "aliases": [],
-      "image": "./arms-images/arms-157.svg",
+      "image": "./arms-images/arms-157.svg?v=1ac23284d2",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Slovenia.svg",
       "credit": "Zscout370",
       "license": {
@@ -2613,13 +2809,14 @@
       "note": "",
       "originalFile": "Coat of arms of Slovenia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Coat_of_arms_of_Slovenia.svg",
-      "sha256": "1ac23284d2f8474d44eb23aadf1a19a39697adf5920ed29a554c60c11232d72f"
+      "sha256": "1ac23284d2f8474d44eb23aadf1a19a39697adf5920ed29a554c60c11232d72f",
+      "originalSha256": "1ac23284d2f8474d44eb23aadf1a19a39697adf5920ed29a554c60c11232d72f"
     },
     {
       "id": "arms-158",
       "name": "Solomon Islands",
       "aliases": [],
-      "image": "./arms-images/arms-158.svg",
+      "image": "./arms-images/arms-158.svg?v=7410d68daf",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Solomon_Islands.svg",
       "credit": "Prez001",
       "license": {
@@ -2629,13 +2826,14 @@
       "note": "",
       "originalFile": "Coat of arms of the Solomon Islands.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/83/Coat_of_arms_of_the_Solomon_Islands.svg",
-      "sha256": "7410d68daf8002ee640109d5d05c378f20106dbb0a60595f64976c2ff589a61c"
+      "sha256": "7410d68daf8002ee640109d5d05c378f20106dbb0a60595f64976c2ff589a61c",
+      "originalSha256": "7410d68daf8002ee640109d5d05c378f20106dbb0a60595f64976c2ff589a61c"
     },
     {
       "id": "arms-159",
       "name": "Somalia",
       "aliases": [],
-      "image": "./arms-images/arms-159.svg",
+      "image": "./arms-images/arms-159.svg?v=8cf7876107",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Somalia.svg",
       "credit": "Thommy",
       "license": {
@@ -2645,13 +2843,14 @@
       "note": "",
       "originalFile": "Coat of arms of Somalia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Somalia.svg",
-      "sha256": "8cf78761077017629dbbcb00cb15817f4750b42cf26279623621c475d218b45e"
+      "sha256": "8cf78761077017629dbbcb00cb15817f4750b42cf26279623621c475d218b45e",
+      "originalSha256": "8cf78761077017629dbbcb00cb15817f4750b42cf26279623621c475d218b45e"
     },
     {
       "id": "arms-160",
       "name": "South Africa",
       "aliases": [],
-      "image": "./arms-images/arms-160.svg",
+      "image": "./arms-images/arms-160.svg?v=227ed9ca43",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_South_Africa_(heraldic).svg",
       "credit": "Echando una mano",
       "license": {
@@ -2661,13 +2860,14 @@
       "note": "",
       "originalFile": "Coat of arms of South Africa (heraldic).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_arms_of_South_Africa_%28heraldic%29.svg",
-      "sha256": "227ed9ca432309659f9ea8eb46a61197a66d7d8252a159ffc7aa1d6e6e44abd4"
+      "sha256": "227ed9ca432309659f9ea8eb46a61197a66d7d8252a159ffc7aa1d6e6e44abd4",
+      "originalSha256": "227ed9ca432309659f9ea8eb46a61197a66d7d8252a159ffc7aa1d6e6e44abd4"
     },
     {
       "id": "arms-161",
       "name": "South Sudan",
       "aliases": [],
-      "image": "./arms-images/arms-161.svg",
+      "image": "./arms-images/arms-161.svg?v=d08cb99022",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_South_Sudan.svg",
       "credit": "Unknown author Unknown author",
       "license": {
@@ -2677,13 +2877,15 @@
       "note": "",
       "originalFile": "Coat of arms of South Sudan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_arms_of_South_Sudan.svg",
-      "sha256": "60c717f6f72bf7b98984c756e5fcf8d5a1690f54855c2da1d9a7d603e94fd4f8"
+      "sha256": "d08cb99022d7fdfaf5d18e0c8fd2b202e656f7f22397b48020436fc8b55b114d",
+      "originalSha256": "60c717f6f72bf7b98984c756e5fcf8d5a1690f54855c2da1d9a7d603e94fd4f8",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-162",
       "name": "Spain",
       "aliases": [],
-      "image": "./arms-images/arms-162.svg",
+      "image": "./arms-images/arms-162.svg?v=5fb1742008",
       "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Espa%C3%B1a_(mazonado).svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -2693,7 +2895,8 @@
       "note": "",
       "originalFile": "Escudo de España (mazonado).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_de_Espa%C3%B1a_%28mazonado%29.svg",
-      "sha256": "5fb1742008948a0ab5865d3835778c140188c621a7c5642231fbedb7a47c22d3"
+      "sha256": "5fb1742008948a0ab5865d3835778c140188c621a7c5642231fbedb7a47c22d3",
+      "originalSha256": "5fb1742008948a0ab5865d3835778c140188c621a7c5642231fbedb7a47c22d3"
     },
     {
       "id": "arms-163",
@@ -2701,7 +2904,7 @@
       "aliases": [
         "Ceylon"
       ],
-      "image": "./arms-images/arms-163.svg",
+      "image": "./arms-images/arms-163.svg?v=66f88330a9",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Sri_Lanka.svg",
       "credit": "Tonyjeff , based on national symbol.",
       "license": {
@@ -2711,13 +2914,14 @@
       "note": "",
       "originalFile": "Emblem of Sri Lanka.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Emblem_of_Sri_Lanka.svg",
-      "sha256": "66f88330a95093ee453837672d0ed736b4e417bec9188b56bb3adf929bc6f438"
+      "sha256": "66f88330a95093ee453837672d0ed736b4e417bec9188b56bb3adf929bc6f438",
+      "originalSha256": "66f88330a95093ee453837672d0ed736b4e417bec9188b56bb3adf929bc6f438"
     },
     {
       "id": "arms-164",
       "name": "Sudan",
       "aliases": [],
-      "image": "./arms-images/arms-164.svg",
+      "image": "./arms-images/arms-164.svg?v=095c0782b4",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Sudan.svg",
       "credit": "Thommy",
       "license": {
@@ -2727,13 +2931,14 @@
       "note": "",
       "originalFile": "Emblem of Sudan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Emblem_of_Sudan.svg",
-      "sha256": "095c0782b486900b5986eba6d4d8639fee7947782628b858cc7c538588bbd0a5"
+      "sha256": "095c0782b486900b5986eba6d4d8639fee7947782628b858cc7c538588bbd0a5",
+      "originalSha256": "095c0782b486900b5986eba6d4d8639fee7947782628b858cc7c538588bbd0a5"
     },
     {
       "id": "arms-165",
       "name": "Suriname",
       "aliases": [],
-      "image": "./arms-images/arms-165.svg",
+      "image": "./arms-images/arms-165.svg?v=7ca9667e7f",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Suriname.svg",
       "credit": "Coat_of_arms_of_Suriname.png : Brokopondo derivative work: Completefailure ( talk )",
       "license": {
@@ -2743,13 +2948,14 @@
       "note": "",
       "originalFile": "Coat of arms of Suriname.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Coat_of_arms_of_Suriname.svg",
-      "sha256": "7ca9667e7f1a841d019a39fa2fc45a0fce9e8e31eaa47cbaac2d147570f829a8"
+      "sha256": "7ca9667e7f1a841d019a39fa2fc45a0fce9e8e31eaa47cbaac2d147570f829a8",
+      "originalSha256": "7ca9667e7f1a841d019a39fa2fc45a0fce9e8e31eaa47cbaac2d147570f829a8"
     },
     {
       "id": "arms-166",
       "name": "Sweden",
       "aliases": [],
-      "image": "./arms-images/arms-166.svg",
+      "image": "./arms-images/arms-166.svg?v=1107fffde7",
       "source": "https://commons.wikimedia.org/wiki/File:Great_coat_of_arms_of_Sweden.svg",
       "credit": "Sodacan",
       "license": {
@@ -2759,13 +2965,14 @@
       "note": "",
       "originalFile": "Great coat of arms of Sweden.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Great_coat_of_arms_of_Sweden.svg",
-      "sha256": "1107fffde7bb49410338762bc69f17e0759252d7a7c4e36412f94102c9b7b310"
+      "sha256": "1107fffde7bb49410338762bc69f17e0759252d7a7c4e36412f94102c9b7b310",
+      "originalSha256": "1107fffde7bb49410338762bc69f17e0759252d7a7c4e36412f94102c9b7b310"
     },
     {
       "id": "arms-167",
       "name": "Switzerland",
       "aliases": [],
-      "image": "./arms-images/arms-167.svg",
+      "image": "./arms-images/arms-167.svg?v=598d72f123",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Switzerland.svg",
       "credit": "Redo by User:-xfi- Credits: E Pluribus Anthony Reisio Wiki-vr Zscout370",
       "license": {
@@ -2775,13 +2982,14 @@
       "note": "",
       "originalFile": "Coat of arms of Switzerland.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Switzerland.svg",
-      "sha256": "598d72f12353a9f9c100729f552edfff869207dc16b8d73b5ff8310044664c6f"
+      "sha256": "598d72f12353a9f9c100729f552edfff869207dc16b8d73b5ff8310044664c6f",
+      "originalSha256": "598d72f12353a9f9c100729f552edfff869207dc16b8d73b5ff8310044664c6f"
     },
     {
       "id": "arms-168",
       "name": "Syria",
       "aliases": [],
-      "image": "./arms-images/arms-168.svg",
+      "image": "./arms-images/arms-168.svg?v=a0ddae6d28",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Syria_(2025%E2%80%93present).svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -2791,13 +2999,14 @@
       "note": "National emblem adopted in July 2025.",
       "originalFile": "Emblem of Syria (2025–present).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Emblem_of_Syria_%282025%E2%80%93present%29.svg",
-      "sha256": "a0ddae6d2873a08738af3a4337a6f53427a69ea0fe1477cd0c4f549241fcbe53"
+      "sha256": "a0ddae6d2873a08738af3a4337a6f53427a69ea0fe1477cd0c4f549241fcbe53",
+      "originalSha256": "a0ddae6d2873a08738af3a4337a6f53427a69ea0fe1477cd0c4f549241fcbe53"
     },
     {
       "id": "arms-169",
       "name": "Tajikistan",
       "aliases": [],
-      "image": "./arms-images/arms-169.svg",
+      "image": "./arms-images/arms-169.svg?v=e7d69e7a17",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Tajikistan.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -2807,7 +3016,8 @@
       "note": "",
       "originalFile": "Emblem of Tajikistan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblem_of_Tajikistan.svg",
-      "sha256": "e7d69e7a17e27361c90ffeeb325382817e6d4a9007c5ca8caba250aa742cdde6"
+      "sha256": "e7d69e7a17e27361c90ffeeb325382817e6d4a9007c5ca8caba250aa742cdde6",
+      "originalSha256": "e7d69e7a17e27361c90ffeeb325382817e6d4a9007c5ca8caba250aa742cdde6"
     },
     {
       "id": "arms-170",
@@ -2815,7 +3025,7 @@
       "aliases": [
         "United Republic of Tanzania"
       ],
-      "image": "./arms-images/arms-170.svg",
+      "image": "./arms-images/arms-170.svg?v=d2b19691ef",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tanzania.svg",
       "credit": "FischX",
       "license": {
@@ -2825,13 +3035,14 @@
       "note": "",
       "originalFile": "Coat of arms of Tanzania.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Coat_of_arms_of_Tanzania.svg",
-      "sha256": "d2b19691ef37e8000bba507b99834cddb4c3a2a85ce3d0583903b2d6f0ac5f57"
+      "sha256": "d2b19691ef37e8000bba507b99834cddb4c3a2a85ce3d0583903b2d6f0ac5f57",
+      "originalSha256": "d2b19691ef37e8000bba507b99834cddb4c3a2a85ce3d0583903b2d6f0ac5f57"
     },
     {
       "id": "arms-171",
       "name": "Thailand",
       "aliases": [],
-      "image": "./arms-images/arms-171.svg",
+      "image": "./arms-images/arms-171.svg?v=b9b050e806",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Thailand.svg",
       "credit": "Sodacan",
       "license": {
@@ -2841,7 +3052,8 @@
       "note": "",
       "originalFile": "Garuda Emblem of Thailand.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Emblem_of_Thailand.svg",
-      "sha256": "b9b050e806a7e38172059601c41b4a57cbfbaf87c47ee3fba53e7ebd7ed735a1"
+      "sha256": "b9b050e806a7e38172059601c41b4a57cbfbaf87c47ee3fba53e7ebd7ed735a1",
+      "originalSha256": "b9b050e806a7e38172059601c41b4a57cbfbaf87c47ee3fba53e7ebd7ed735a1"
     },
     {
       "id": "arms-172",
@@ -2849,7 +3061,7 @@
       "aliases": [
         "East Timor"
       ],
-      "image": "./arms-images/arms-172.svg",
+      "image": "./arms-images/arms-172.svg?v=1e8ca250a9",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_East_Timor.svg",
       "credit": "en:User:Vino4u",
       "license": {
@@ -2859,13 +3071,15 @@
       "note": "",
       "originalFile": "Coat of arms of East Timor.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Coat_of_arms_of_East_Timor.svg",
-      "sha256": "c68791f0df3268f9c07ceaefa7c813d643cd413b58a172fafda2513d581111e9"
+      "sha256": "1e8ca250a977576b70233add46f4f20a5696ec8782bf9d2190d3f02f2a833e5d",
+      "originalSha256": "c68791f0df3268f9c07ceaefa7c813d643cd413b58a172fafda2513d581111e9",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-173",
       "name": "Togo",
       "aliases": [],
-      "image": "./arms-images/arms-173.svg",
+      "image": "./arms-images/arms-173.svg?v=c531fcbd21",
       "source": "https://commons.wikimedia.org/wiki/File:Armoiries_du_Togo.svg",
       "credit": "Edem Fiadjoe",
       "license": {
@@ -2875,13 +3089,14 @@
       "note": "",
       "originalFile": "Emblem of Togo.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Armoiries_du_Togo.svg",
-      "sha256": "c531fcbd21f17e406c0fbcf8a02796dab205bc6535fb2e24169948a1e8723089"
+      "sha256": "c531fcbd21f17e406c0fbcf8a02796dab205bc6535fb2e24169948a1e8723089",
+      "originalSha256": "c531fcbd21f17e406c0fbcf8a02796dab205bc6535fb2e24169948a1e8723089"
     },
     {
       "id": "arms-174",
       "name": "Tonga",
       "aliases": [],
-      "image": "./arms-images/arms-174.svg",
+      "image": "./arms-images/arms-174.svg?v=6e96080279",
       "source": "https://commons.wikimedia.org/wiki/File:Tongan_coat_of_arms.svg",
       "credit": "Markazani83au",
       "license": {
@@ -2891,7 +3106,9 @@
       "note": "",
       "originalFile": "Tongan coat of arms.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tongan_coat_of_arms.svg",
-      "sha256": "8c11bda6e22f6c037ca65757500783de6599af2c2889d0f54d164be8438f661a"
+      "sha256": "6e96080279aed4c2b61cc82962b6a511173eb49715012d47356daff57dc7be96",
+      "originalSha256": "8c11bda6e22f6c037ca65757500783de6599af2c2889d0f54d164be8438f661a",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-175",
@@ -2901,7 +3118,7 @@
         "Trinidad Tobago",
         "Trinidad & Tobago"
       ],
-      "image": "./arms-images/arms-175.svg",
+      "image": "./arms-images/arms-175.svg?v=dd3c666566",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Trinidad_and_Tobago_(2025).svg",
       "credit": "BaronJaguar",
       "license": {
@@ -2911,13 +3128,14 @@
       "note": "Current coat of arms with a steelpan, introduced in 2025.",
       "originalFile": "Coat of arms of Trinidad and Tobago (2025).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Coat_of_arms_of_Trinidad_and_Tobago_%282025%29.svg",
-      "sha256": "dd3c6665660b529783cde6b2d836056ca1081af80ebebd32a8a099c2f67bd0ad"
+      "sha256": "dd3c6665660b529783cde6b2d836056ca1081af80ebebd32a8a099c2f67bd0ad",
+      "originalSha256": "dd3c6665660b529783cde6b2d836056ca1081af80ebebd32a8a099c2f67bd0ad"
     },
     {
       "id": "arms-176",
       "name": "Tunisia",
       "aliases": [],
-      "image": "./arms-images/arms-176.svg",
+      "image": "./arms-images/arms-176.svg?v=f185a61a13",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tunisia.svg",
       "credit": "FXXX",
       "license": {
@@ -2927,13 +3145,14 @@
       "note": "",
       "originalFile": "Coat of arms of Tunisia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/8/80/Coat_of_arms_of_Tunisia.svg",
-      "sha256": "f185a61a133e3bf86db4485fe10f60695c5d9524556f165ef814b54be0d8978c"
+      "sha256": "f185a61a133e3bf86db4485fe10f60695c5d9524556f165ef814b54be0d8978c",
+      "originalSha256": "f185a61a133e3bf86db4485fe10f60695c5d9524556f165ef814b54be0d8978c"
     },
     {
       "id": "arms-177",
       "name": "Turkmenistan",
       "aliases": [],
-      "image": "./arms-images/arms-177.svg",
+      "image": "./arms-images/arms-177.svg?v=7e1244e85a",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Turkmenistan.svg",
       "credit": "Inductiveload",
       "license": {
@@ -2943,13 +3162,14 @@
       "note": "",
       "originalFile": "Emblem of Turkmenistan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Emblem_of_Turkmenistan.svg",
-      "sha256": "7e1244e85aaf2b917421c7bb45c2966363f0d4679ea23765b97d15a6eea02690"
+      "sha256": "7e1244e85aaf2b917421c7bb45c2966363f0d4679ea23765b97d15a6eea02690",
+      "originalSha256": "7e1244e85aaf2b917421c7bb45c2966363f0d4679ea23765b97d15a6eea02690"
     },
     {
       "id": "arms-178",
       "name": "Tuvalu",
       "aliases": [],
-      "image": "./arms-images/arms-178.svg",
+      "image": "./arms-images/arms-178.svg?v=b6a68614f4",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tuvalu.svg",
       "credit": "Denelson83",
       "license": {
@@ -2959,13 +3179,15 @@
       "note": "",
       "originalFile": "Coat of arms of Tuvalu.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Tuvalu.svg",
-      "sha256": "64bbbc3703c09b7091a54e935eab7fd135e6ad6fe4cc5f73b0943090f6378495"
+      "sha256": "b6a68614f409149e3a9b89ca4b3907d4c88d32aec4495cfc385ea6e4918c0461",
+      "originalSha256": "64bbbc3703c09b7091a54e935eab7fd135e6ad6fe4cc5f73b0943090f6378495",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-179",
       "name": "Uganda",
       "aliases": [],
-      "image": "./arms-images/arms-179.svg",
+      "image": "./arms-images/arms-179.svg?v=ba55141722",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Uganda.svg",
       "credit": "Sodacan",
       "license": {
@@ -2975,13 +3197,14 @@
       "note": "",
       "originalFile": "Coat of arms of Uganda.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Uganda.svg",
-      "sha256": "ba55141722475a9f364297672e924e01ed9a8fe43b1c24494c9029539102d4a8"
+      "sha256": "ba55141722475a9f364297672e924e01ed9a8fe43b1c24494c9029539102d4a8",
+      "originalSha256": "ba55141722475a9f364297672e924e01ed9a8fe43b1c24494c9029539102d4a8"
     },
     {
       "id": "arms-180",
       "name": "Ukraine",
       "aliases": [],
-      "image": "./arms-images/arms-180.svg",
+      "image": "./arms-images/arms-180.svg?v=ceec56552b",
       "source": "https://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg",
       "credit": "Alex Khristov Design: Vasyl Krychevsky (1873–1952)",
       "license": {
@@ -2991,7 +3214,8 @@
       "note": "",
       "originalFile": "Lesser Coat of Arms of Ukraine.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg",
-      "sha256": "ceec56552bcc9c0dd2233fecb3ca7600de53119f2f9dc35f6f20666e9206d056"
+      "sha256": "ceec56552bcc9c0dd2233fecb3ca7600de53119f2f9dc35f6f20666e9206d056",
+      "originalSha256": "ceec56552bcc9c0dd2233fecb3ca7600de53119f2f9dc35f6f20666e9206d056"
     },
     {
       "id": "arms-181",
@@ -3000,7 +3224,7 @@
         "UAE",
         "U.A.E."
       ],
-      "image": "./arms-images/arms-181.svg",
+      "image": "./arms-images/arms-181.svg?v=143c91eca0",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_United_Arab_Emirates.svg",
       "credit": "Government of the United Arab Emirates",
       "license": {
@@ -3010,7 +3234,8 @@
       "note": "",
       "originalFile": "Emblem of the United Arab Emirates.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Emblem_of_the_United_Arab_Emirates.svg",
-      "sha256": "143c91eca0d79c9c7363e908ec2b35f68a56437850a9335734db1f9624279bd9"
+      "sha256": "143c91eca0d79c9c7363e908ec2b35f68a56437850a9335734db1f9624279bd9",
+      "originalSha256": "143c91eca0d79c9c7363e908ec2b35f68a56437850a9335734db1f9624279bd9"
     },
     {
       "id": "arms-182",
@@ -3022,7 +3247,7 @@
         "Great Britain",
         "United Kingdom of Great Britain and Northern Ireland"
       ],
-      "image": "./arms-images/arms-182.svg",
+      "image": "./arms-images/arms-182.svg?v=9f174df23d",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_United_Kingdom_(2022,_variant_2).svg",
       "credit": "Sodacan, edited by Colohisto",
       "license": {
@@ -3032,7 +3257,8 @@
       "note": "The royal arms as used outside Scotland. The Scottish variant is also current.",
       "originalFile": "Royal Coat of Arms of the United Kingdom (2022).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Coat_of_arms_of_the_United_Kingdom_%282022%2C_variant_2%29.svg",
-      "sha256": "9f174df23d430fa5fd2afb7a84c05cdcd2579a870212514e8dd9d158e6c63ec3"
+      "sha256": "9f174df23d430fa5fd2afb7a84c05cdcd2579a870212514e8dd9d158e6c63ec3",
+      "originalSha256": "9f174df23d430fa5fd2afb7a84c05cdcd2579a870212514e8dd9d158e6c63ec3"
     },
     {
       "id": "arms-183",
@@ -3045,7 +3271,7 @@
         "United States of America",
         "America"
       ],
-      "image": "./arms-images/arms-183.svg",
+      "image": "./arms-images/arms-183.svg?v=75bbd159a3",
       "source": "https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_(obverse).svg",
       "credit": "U.S. Government",
       "license": {
@@ -3055,13 +3281,14 @@
       "note": "The obverse of the Great Seal of the United States.",
       "originalFile": "Great Seal of the United States (obverse).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg",
-      "sha256": "75bbd159a358d52a6b01743c973de1fa77cfd06a89a120304f7395ee555a94e6"
+      "sha256": "75bbd159a358d52a6b01743c973de1fa77cfd06a89a120304f7395ee555a94e6",
+      "originalSha256": "75bbd159a358d52a6b01743c973de1fa77cfd06a89a120304f7395ee555a94e6"
     },
     {
       "id": "arms-184",
       "name": "Uruguay",
       "aliases": [],
-      "image": "./arms-images/arms-184.svg",
+      "image": "./arms-images/arms-184.svg?v=eac800fc11",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Uruguay.svg",
       "credit": "Unknown (original 1829 emblem) User:Tatoute (SVG file)",
       "license": {
@@ -3071,13 +3298,14 @@
       "note": "",
       "originalFile": "Coat of arms of Uruguay.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_arms_of_Uruguay.svg",
-      "sha256": "eac800fc113f1d9c7d084d47eb8722de2f56b7761afa7b1acdc7464af8cdf20a"
+      "sha256": "eac800fc113f1d9c7d084d47eb8722de2f56b7761afa7b1acdc7464af8cdf20a",
+      "originalSha256": "eac800fc113f1d9c7d084d47eb8722de2f56b7761afa7b1acdc7464af8cdf20a"
     },
     {
       "id": "arms-185",
       "name": "Uzbekistan",
       "aliases": [],
-      "image": "./arms-images/arms-185.svg",
+      "image": "./arms-images/arms-185.svg?v=ee7be6cccf",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Uzbekistan.svg",
       "credit": "Wikimedia Commons",
       "license": {
@@ -3087,13 +3315,15 @@
       "note": "",
       "originalFile": "Emblem of Uzbekistan.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Emblem_of_Uzbekistan.svg",
-      "sha256": "e0998260687fd356752d28793a91495ad107de1cf3cbad4bf99c60f79f4071a9"
+      "sha256": "ee7be6cccf64fea7e634be9870a613d693aa072133c8e906e156fd16d05355a6",
+      "originalSha256": "e0998260687fd356752d28793a91495ad107de1cf3cbad4bf99c60f79f4071a9",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-186",
       "name": "Vanuatu",
       "aliases": [],
-      "image": "./arms-images/arms-186.svg",
+      "image": "./arms-images/arms-186.svg?v=9baa7b6e1f",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Vanuatu.svg",
       "credit": "Sodacan",
       "license": {
@@ -3103,7 +3333,8 @@
       "note": "",
       "originalFile": "Coat of arms of Vanuatu.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Vanuatu.svg",
-      "sha256": "9baa7b6e1f0aa910177452dbda5afa2824b5a321a1dc9a9d11bb1095b1e4d6f1"
+      "sha256": "9baa7b6e1f0aa910177452dbda5afa2824b5a321a1dc9a9d11bb1095b1e4d6f1",
+      "originalSha256": "9baa7b6e1f0aa910177452dbda5afa2824b5a321a1dc9a9d11bb1095b1e4d6f1"
     },
     {
       "id": "arms-187",
@@ -3112,7 +3343,7 @@
         "Vatican",
         "Holy See"
       ],
-      "image": "./arms-images/arms-187.svg",
+      "image": "./arms-images/arms-187.svg?v=09dedbc5e0",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Vatican_City_(2001%E2%80%932023).svg",
       "credit": "Cronholm144 created this image using a file by User:Hautala - File:Emblem of the Holy See (6).svg , who had created his file using PD art from Open Clip Art Library and uploaded on 13 July 2006. User talk:F l a n k e r uploaded this version on 12 December, 2007. The original design is attributed to the Vatican City in Rome and an unknown artist.",
       "license": {
@@ -3122,7 +3353,8 @@
       "note": "The arms of Vatican City; the country is represented internationally by the Holy See.",
       "originalFile": "Coat of arms of the Vatican City.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Coat_of_arms_of_Vatican_City_%282001%E2%80%932023%29.svg",
-      "sha256": "09dedbc5e00c7a4e2a828e0a1680acab70dde07d5e9273ba9f9da87fe90fb951"
+      "sha256": "09dedbc5e00c7a4e2a828e0a1680acab70dde07d5e9273ba9f9da87fe90fb951",
+      "originalSha256": "09dedbc5e00c7a4e2a828e0a1680acab70dde07d5e9273ba9f9da87fe90fb951"
     },
     {
       "id": "arms-188",
@@ -3130,7 +3362,7 @@
       "aliases": [
         "Bolivarian Republic of Venezuela"
       ],
-      "image": "./arms-images/arms-188.svg",
+      "image": "./arms-images/arms-188.svg?v=0c6f64690e",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Venezuela.svg",
       "credit": "Various, see File history below for details.",
       "license": {
@@ -3140,7 +3372,9 @@
       "note": "",
       "originalFile": "Coat of arms of Venezuela.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coat_of_arms_of_Venezuela.svg",
-      "sha256": "6af0d8b95d98196cf85cda3d8ba8531f5e4149fc28a8bc325fae5e581e868ed0"
+      "sha256": "0c6f64690ec4bc1850608859397d315faa81277ae22127747300908ecfcc8eec",
+      "originalSha256": "6af0d8b95d98196cf85cda3d8ba8531f5e4149fc28a8bc325fae5e581e868ed0",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-189",
@@ -3148,7 +3382,7 @@
       "aliases": [
         "Viet Nam"
       ],
-      "image": "./arms-images/arms-189.svg",
+      "image": "./arms-images/arms-189.svg?v=fe776e9bec",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Vietnam.svg",
       "credit": "Bùi Trang Chước",
       "license": {
@@ -3158,13 +3392,15 @@
       "note": "",
       "originalFile": "Emblem of Vietnam.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Emblem_of_Vietnam.svg",
-      "sha256": "40e6ec0a611438a3b879bd1bb905b81d08ddd0c73cb32251b75f9d8e629ec61d"
+      "sha256": "fe776e9becefddba10f56c79e5e9eb633267a8b346a0f3babbb7c195957fada6",
+      "originalSha256": "40e6ec0a611438a3b879bd1bb905b81d08ddd0c73cb32251b75f9d8e629ec61d",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-190",
       "name": "Yemen",
       "aliases": [],
-      "image": "./arms-images/arms-190.svg",
+      "image": "./arms-images/arms-190.svg?v=aea8f0b1e6",
       "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Yemen_(2).svg",
       "credit": "Squiresy92",
       "license": {
@@ -3174,13 +3410,14 @@
       "note": "",
       "originalFile": "Emblem of Yemen (2).svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Emblem_of_Yemen_%282%29.svg",
-      "sha256": "aea8f0b1e63ee075978944107cd2d04752f0454089000d4245e85d93e3618e64"
+      "sha256": "aea8f0b1e63ee075978944107cd2d04752f0454089000d4245e85d93e3618e64",
+      "originalSha256": "aea8f0b1e63ee075978944107cd2d04752f0454089000d4245e85d93e3618e64"
     },
     {
       "id": "arms-191",
       "name": "Zambia",
       "aliases": [],
-      "image": "./arms-images/arms-191.svg",
+      "image": "./arms-images/arms-191.svg?v=cbdbcf7680",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Zambia.svg",
       "credit": "FXXX",
       "license": {
@@ -3190,13 +3427,15 @@
       "note": "",
       "originalFile": "Coat of arms of Zambia.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/2/28/Coat_of_arms_of_Zambia.svg",
-      "sha256": "75bbb7afdf4ee0f3e4efc5ba666906d6d8e55afecdc322db87b454dafbc398a0"
+      "sha256": "cbdbcf76802c8edd6823631d4dc1c8f9ea5798fc4f8e272f0d9e1bb7de8acefe",
+      "originalSha256": "75bbb7afdf4ee0f3e4efc5ba666906d6d8e55afecdc322db87b454dafbc398a0",
+      "adaptation": "Latin-script country-name lettering removed."
     },
     {
       "id": "arms-192",
       "name": "Zimbabwe",
       "aliases": [],
-      "image": "./arms-images/arms-192.svg",
+      "image": "./arms-images/arms-192.svg?v=a2fc422193",
       "source": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Zimbabwe.svg",
       "credit": "FischX , Meul",
       "license": {
@@ -3206,7 +3445,8 @@
       "note": "",
       "originalFile": "Coat of arms of Zimbabwe.svg",
       "originalImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Coat_of_arms_of_Zimbabwe.svg",
-      "sha256": "a2fc42219369b8b18f7548a4304b050e6c88181e700c473f40f114c39a31636d"
+      "sha256": "a2fc42219369b8b18f7548a4304b050e6c88181e700c473f40f114c39a31636d",
+      "originalSha256": "a2fc42219369b8b18f7548a4304b050e6c88181e700c473f40f114c39a31636d"
     }
   ]
 }

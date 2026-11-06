@@ -32,6 +32,6 @@ export class ArmsGame{
   snapshot(){
     return {round:this.round,poolSize:this.countries.length,done:this.done??false,won:this.won??false,guesses:(this.guesses??[]).map(({guess,correct})=>({guess,correct})),
       ...(this.current?{image:this.current.image}:{}),
-      ...(this.done?{answer:{name:this.current.name,note:this.current.note,source:this.current.source,credit:this.current.credit,license:this.current.license}}:{})};
+      ...(this.done?{answer:{name:this.current.name,note:this.current.note,adaptation:this.current.adaptation,source:this.current.source,credit:this.current.credit,license:this.current.license}}:{})};
   }
 }

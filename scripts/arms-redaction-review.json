@@ -1,0 +1,1349 @@
+{
+  "reviewed": 192,
+  "countries": [
+    {
+      "id": "arms-001",
+      "name": "Afghanistan",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-002",
+      "name": "Albania",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-003",
+      "name": "Algeria",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-004",
+      "name": "Andorra",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-005",
+      "name": "Angola",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed the two-line República de Angola lettering; gold scroll retained."
+    },
+    {
+      "id": "arms-006",
+      "name": "Antigua and Barbuda",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-007",
+      "name": "Argentina",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-008",
+      "name": "Armenia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-009",
+      "name": "Australia",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed the single composite AUSTRALIA glyph path; decorative scroll retained."
+    },
+    {
+      "id": "arms-010",
+      "name": "Austria",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-011",
+      "name": "Azerbaijan",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-012",
+      "name": "Bahamas",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-013",
+      "name": "Bahrain",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-014",
+      "name": "Bangladesh",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-015",
+      "name": "Barbados",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-016",
+      "name": "Belarus",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-017",
+      "name": "Belgium",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-018",
+      "name": "Belize",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-019",
+      "name": "Benin",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-020",
+      "name": "Bhutan",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-021",
+      "name": "Bolivia",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed paired BOLIVIA glyph paths on the blue oval; oval, stars and landscape retained."
+    },
+    {
+      "id": "arms-022",
+      "name": "Bosnia and Herzegovina",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-023",
+      "name": "Botswana",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-024",
+      "name": "Brazil",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed fill/stroke paths for REPÚBLICA FEDERATIVA DO BRASIL; blue scroll and date retained."
+    },
+    {
+      "id": "arms-025",
+      "name": "Brunei",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-026",
+      "name": "Bulgaria",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-027",
+      "name": "Burkina Faso",
+      "changed": true,
+      "method": "SVG glyph subpath removal",
+      "note": "Removed only upper BURKINA FASO glyph subpaths from a combined lettering path; lower motto and scroll retained."
+    },
+    {
+      "id": "arms-028",
+      "name": "Burundi",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-029",
+      "name": "Cambodia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-030",
+      "name": "Cameroon",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed English and French country-name glyph groups; gold scroll and upper bilingual motto retained."
+    },
+    {
+      "id": "arms-031",
+      "name": "Canada",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-032",
+      "name": "Cabo Verde",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed REPÚBLICA DE CABO VERDE composite glyph path; all circles and central symbols retained."
+    },
+    {
+      "id": "arms-033",
+      "name": "Central African Republic",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-034",
+      "name": "Chad",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-035",
+      "name": "Chile",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-036",
+      "name": "China",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-037",
+      "name": "Colombia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-038",
+      "name": "Comoros",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed UNION DES COMORES composite glyph path; Arabic lettering, national emblem and motto retained."
+    },
+    {
+      "id": "arms-039",
+      "name": "Democratic Republic of the Congo",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-040",
+      "name": "Republic of the Congo",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-041",
+      "name": "Costa Rica",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed REPÚBLICA DE COSTA RICA glyph paths from the white ribbon; AMÉRICA CENTRAL ribbon retained."
+    },
+    {
+      "id": "arms-042",
+      "name": "Croatia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-043",
+      "name": "Cuba",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-044",
+      "name": "Cyprus",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-045",
+      "name": "Czechia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-046",
+      "name": "Denmark",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-047",
+      "name": "Djibouti",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-048",
+      "name": "Dominica",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-049",
+      "name": "Dominican Republic",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed REPÚBLICA DOMINICANA glyph groups; red ribbon and upper motto retained."
+    },
+    {
+      "id": "arms-050",
+      "name": "Ecuador",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-051",
+      "name": "Egypt",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-052",
+      "name": "El Salvador",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed the outer REPÚBLICA DE EL SALVADOR EN LA AMÉRICA CENTRAL composite glyph path; triangle and inner motto retained."
+    },
+    {
+      "id": "arms-053",
+      "name": "Equatorial Guinea",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-054",
+      "name": "Eritrea",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed English THE STATE OF ERITREA glyph paths; blue ribbon, other scripts and camel retained."
+    },
+    {
+      "id": "arms-055",
+      "name": "Estonia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-056",
+      "name": "Eswatini",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-057",
+      "name": "Ethiopia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-058",
+      "name": "Fiji",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-059",
+      "name": "Finland",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-060",
+      "name": "France",
+      "changed": true,
+      "method": "SVG glyph path removal",
+      "note": "Removed REPUBLIQUE FRANCAISE glyph group from the small Legion of Honour medal; the medal, RF monogram and principal motto are retained."
+    },
+    {
+      "id": "arms-061",
+      "name": "Gabon",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-062",
+      "name": "Gambia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-063",
+      "name": "Georgia",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-064",
+      "name": "Germany",
+      "changed": false,
+      "method": "none",
+      "note": "Audited: no readable Latin-script country-name lettering; mottos and non-Latin lettering retained."
+    },
+    {
+      "id": "arms-065",
+      "name": "Ghana",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-066",
+      "name": "Greece",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-067",
+      "name": "Grenada",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-068",
+      "name": "Guatemala",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-069",
+      "name": "Guinea",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-070",
+      "name": "Guinea-Bissau",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-071",
+      "name": "Guyana",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-072",
+      "name": "Haiti",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-073",
+      "name": "Honduras",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed REPUBLICA DE HONDURAS contours from the left arc; LIBRE SOBERANA E INDEPENDIENTE and independence date preserved."
+    },
+    {
+      "id": "arms-074",
+      "name": "Hungary",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-075",
+      "name": "Iceland",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-076",
+      "name": "India",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-077",
+      "name": "Indonesia",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-078",
+      "name": "Iran",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-079",
+      "name": "Iraq",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-080",
+      "name": "Ireland",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-081",
+      "name": "Israel",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-082",
+      "name": "Italy",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-083",
+      "name": "Côte d’Ivoire",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-084",
+      "name": "Jamaica",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-085",
+      "name": "Japan",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-086",
+      "name": "Jordan",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-087",
+      "name": "Kazakhstan",
+      "changed": true,
+      "method": "SVG plaque-face restoration",
+      "note": "QAZAQSTAN lettering was embedded in a traced mosaic rather than separate glyphs. Restored only the existing curved dark plaque face as matching vector shading and subtle woven texture; original gold border and all surrounding heraldry retained. No rectangular redaction used."
+    },
+    {
+      "id": "arms-088",
+      "name": "Kenya",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-089",
+      "name": "Kiribati",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-090",
+      "name": "North Korea",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-091",
+      "name": "South Korea",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-092",
+      "name": "Kuwait",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-093",
+      "name": "Kyrgyzstan",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-094",
+      "name": "Laos",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-095",
+      "name": "Latvia",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-096",
+      "name": "Lesotho",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-097",
+      "name": "Liberia",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-098",
+      "name": "Liechtenstein",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-099",
+      "name": "Lithuania",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-100",
+      "name": "Luxembourg",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-101",
+      "name": "Madagascar",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-102",
+      "name": "Malawi",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-103",
+      "name": "Malaysia",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-104",
+      "name": "Maldives",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-105",
+      "name": "Mali",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed only upper REPUBLIQUE DU MALI letter contours; lower national motto preserved."
+    },
+    {
+      "id": "arms-106",
+      "name": "Malta",
+      "changed": true,
+      "method": "Removed SVG lettering paths (no covering shapes).",
+      "note": "Removed country-name outlined glyphs while preserving the original ribbon and all heraldic art."
+    },
+    {
+      "id": "arms-107",
+      "name": "Marshall Islands",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-108",
+      "name": "Mauritania",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-109",
+      "name": "Mauritius",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-110",
+      "name": "Mexico",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-111",
+      "name": "Federated States of Micronesia",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-112",
+      "name": "Moldova",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-113",
+      "name": "Monaco",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-114",
+      "name": "Mongolia",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-115",
+      "name": "Montenegro",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-116",
+      "name": "Morocco",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-117",
+      "name": "Mozambique",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-118",
+      "name": "Myanmar",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-119",
+      "name": "Namibia",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-120",
+      "name": "Nauru",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-121",
+      "name": "Nepal",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-122",
+      "name": "Netherlands",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-123",
+      "name": "New Zealand",
+      "changed": true,
+      "method": "Removed SVG lettering paths (no covering shapes).",
+      "note": "Removed country-name outlined glyphs while preserving the original ribbon and all heraldic art."
+    },
+    {
+      "id": "arms-124",
+      "name": "Nicaragua",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed upper REPUBLICA DE NICARAGUA contours; AMERICA CENTRAL retained below."
+    },
+    {
+      "id": "arms-125",
+      "name": "Niger",
+      "changed": true,
+      "method": "Removed SVG lettering paths/groups (no covering shapes).",
+      "note": "Removed country-name outline lettering, preserving the underlying artwork."
+    },
+    {
+      "id": "arms-126",
+      "name": "Nigeria",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-127",
+      "name": "North Macedonia",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-128",
+      "name": "Norway",
+      "changed": false,
+      "method": "Visual audit; no edit needed.",
+      "note": "No readable Latin-script country-name inscription; mottos and non-Latin inscriptions retained."
+    },
+    {
+      "id": "arms-129",
+      "name": "Oman",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-130",
+      "name": "Pakistan",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-131",
+      "name": "Palau",
+      "changed": true,
+      "method": "Removed the dedicated country-name vector lettering; retained the original art, framing and other wording.",
+      "note": "Removed REPUBLIC OF PALAU; retained the separate local-language institutional wording and OFFICIAL SEAL lettering."
+    },
+    {
+      "id": "arms-132",
+      "name": "Palestine",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-133",
+      "name": "Panama",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-134",
+      "name": "Papua New Guinea",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-135",
+      "name": "Paraguay",
+      "changed": true,
+      "method": "Removed the single outlined REPUBLICA DEL PARAGUAY text path; retained circular borders, star and wreath.",
+      "note": "Country-name lettering removed from vector paths; other heraldic art and wording retained."
+    },
+    {
+      "id": "arms-136",
+      "name": "Peru",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-137",
+      "name": "Philippines",
+      "changed": true,
+      "method": "Removed the dedicated country-name vector lettering; retained the original art, framing and other wording.",
+      "note": "Country-name lettering removed from vector paths; other heraldic art and wording retained."
+    },
+    {
+      "id": "arms-138",
+      "name": "Poland",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-139",
+      "name": "Portugal",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-140",
+      "name": "Qatar",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-141",
+      "name": "Romania",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-142",
+      "name": "Russia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-143",
+      "name": "Rwanda",
+      "changed": true,
+      "method": "Removed the dedicated country-name vector lettering; retained the original art, framing and other wording.",
+      "note": "Country-name lettering removed from vector paths; other heraldic art and wording retained."
+    },
+    {
+      "id": "arms-144",
+      "name": "Saint Kitts and Nevis",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-145",
+      "name": "Saint Lucia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-146",
+      "name": "Saint Vincent and the Grenadines",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-147",
+      "name": "Samoa",
+      "changed": true,
+      "method": "Removed only the SAMOA glyph paths from its motto; preserved FA’AVAE I LE ATUA and the scroll.",
+      "note": "Removed SAMOA only; retained FA’AVAE I LE ATUA."
+    },
+    {
+      "id": "arms-148",
+      "name": "San Marino",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-149",
+      "name": "São Tomé and Príncipe",
+      "changed": true,
+      "method": "Removed the dedicated country-name vector lettering; retained the original art, framing and other wording.",
+      "note": "Country-name lettering removed from vector paths; other heraldic art and wording retained."
+    },
+    {
+      "id": "arms-150",
+      "name": "Saudi Arabia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-151",
+      "name": "Senegal",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-152",
+      "name": "Serbia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-153",
+      "name": "Seychelles",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-154",
+      "name": "Sierra Leone",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-155",
+      "name": "Singapore",
+      "changed": true,
+      "method": "Removed only SINGAPURA from the motto; retained MAJULAH and the ribbon.",
+      "note": "Removed SINGAPURA only; retained the rest of the motto."
+    },
+    {
+      "id": "arms-156",
+      "name": "Slovakia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-157",
+      "name": "Slovenia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-158",
+      "name": "Solomon Islands",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-159",
+      "name": "Somalia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-160",
+      "name": "South Africa",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-161",
+      "name": "South Sudan",
+      "changed": true,
+      "method": "Removed the dedicated country-name vector lettering; retained the original art, framing and other wording.",
+      "note": "Country-name lettering removed from vector paths; other heraldic art and wording retained."
+    },
+    {
+      "id": "arms-162",
+      "name": "Spain",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-163",
+      "name": "Sri Lanka",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-164",
+      "name": "Sudan",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-165",
+      "name": "Suriname",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-166",
+      "name": "Sweden",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-167",
+      "name": "Switzerland",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-168",
+      "name": "Syria",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-169",
+      "name": "Tajikistan",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-170",
+      "name": "Tanzania",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-171",
+      "name": "Thailand",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-172",
+      "name": "Timor-Leste",
+      "changed": true,
+      "method": "Removed the dedicated country-name vector lettering; retained the original art, framing and other wording.",
+      "note": "Removed the full outer country-name label and its standalone RDTL initials; retained the inner motto and all emblem art."
+    },
+    {
+      "id": "arms-173",
+      "name": "Togo",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-174",
+      "name": "Tonga",
+      "changed": true,
+      "method": "Removed only TONGA’s five glyph paths from the motto; preserved KO E ’OTUA MO / KO HOKU TOFI’A and the scroll.",
+      "note": "Removed TONGA only; retained all remaining motto words."
+    },
+    {
+      "id": "arms-175",
+      "name": "Trinidad and Tobago",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-176",
+      "name": "Tunisia",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-177",
+      "name": "Turkmenistan",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-178",
+      "name": "Tuvalu",
+      "changed": true,
+      "method": "Removed TUVALU glyph contours and its following separator from the motto path; retained MO TE ATUA and its ribbon.",
+      "note": "Removed TUVALU and the adjacent separator only; retained MO TE ATUA."
+    },
+    {
+      "id": "arms-179",
+      "name": "Uganda",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-180",
+      "name": "Ukraine",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-181",
+      "name": "United Arab Emirates",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-182",
+      "name": "United Kingdom",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-183",
+      "name": "United States",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-184",
+      "name": "Uruguay",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-185",
+      "name": "Uzbekistan",
+      "changed": true,
+      "method": "Removed the dedicated gold O’ZBEKISTON outline path from the flag ribbon; preserved all ribbon colours and heraldic art.",
+      "note": "Removed the Latin endonym O’ZBEKISTON."
+    },
+    {
+      "id": "arms-186",
+      "name": "Vanuatu",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-187",
+      "name": "Vatican City",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-188",
+      "name": "Venezuela",
+      "changed": true,
+      "method": "SVG glyph subpath removal",
+      "note": "Country-name lettering removed from vector paths; other heraldic art and wording retained."
+    },
+    {
+      "id": "arms-189",
+      "name": "Vietnam",
+      "changed": true,
+      "method": "Removed the seven outlined VIỆT NAM glyph paths from the lower banner; preserved the descriptive upper lettering and all ribbon and heraldic art.",
+      "note": "Removed VIỆT NAM only; the remaining formal descriptive line does not name the country."
+    },
+    {
+      "id": "arms-190",
+      "name": "Yemen",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    },
+    {
+      "id": "arms-191",
+      "name": "Zambia",
+      "changed": true,
+      "method": "Removed ZAMBIA glyph contours; retained ONE and the complete ONE NATION wording on the other ribbon.",
+      "note": "Removed ZAMBIA only; retained ONE and ONE NATION."
+    },
+    {
+      "id": "arms-192",
+      "name": "Zimbabwe",
+      "changed": false,
+      "method": "Audited; no change needed.",
+      "note": "No readable country name in Latin-script lettering. Non-Latin text, mottos that do not name the country, and heraldic imagery retained."
+    }
+  ]
+}

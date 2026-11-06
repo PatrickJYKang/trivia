@@ -7,3 +7,5 @@
 .outline-wrap{padding:26px}.outline-wrap img{max-width:550px}#emblem-note{max-width:70ch}@media(max-width:600px){.outline-wrap{height:330px;padding:22px}}
 
 #past-guesses li{max-width:100%;overflow-wrap:anywhere}
+
+.country-search{position:relative;flex:1;min-width:0}.country-search #guess{width:100%}#country-options{position:absolute;bottom:calc(100% + 6px);left:0;right:0;z-index:10;max-height:280px;overflow-y:auto;overscroll-behavior:contain;margin:0;padding:5px;list-style:none;background:#fff;border:1px solid #cbd0d6;border-radius:4px;box-shadow:0 6px 25px #0002}#country-options [role=option]{padding:11px 12px;font-size:14px;border-radius:3px;cursor:pointer}#country-options [role=option]:hover,#country-options [aria-selected=true]{background:#edf1ff}#country-options .search-empty{padding:11px 12px;font-size:13px;color:var(--muted)}

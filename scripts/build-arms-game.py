@@ -1,6 +1,6 @@
 """Bundle Commons artwork and attribution from the researched national-symbol manifest.
 Usage: python3 scripts/build-arms-game.py /path/to/arms-research/manifest.json
-SVG artwork is copied unchanged; the manifest supplies sourcePath and public credits.
+Original SVGs supply attribution; optional reviewed edits remove country-name lettering.
 """
 import hashlib
 import html
@@ -11,6 +11,15 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 manifest = json.loads(Path(sys.argv[1]).read_text())
+redactions = {}
+if len(sys.argv) > 2:
+    for report in Path(sys.argv[2]).glob('report-*.json'):
+        entries = json.loads(report.read_text())
+        if isinstance(entries, dict): entries = entries.get('countries', entries.get('entries', entries.get('results', [])))
+        for entry in entries:
+            assert entry['id'] not in redactions, entry['id']
+            redactions[entry['id']] = entry
+    assert set(redactions) == {c['id'] for c in manifest}, 'Audit every country before building edited artwork.'
 assets = ROOT / 'dist' / 'arms-images'
 assets.mkdir(exist_ok=True)
 records = []
@@ -28,7 +37,17 @@ extra_aliases = {
 }
 renames = {'Czech Republic': 'Czechia', 'Cape Verde': 'Cabo Verde'}
 for country in manifest:
-    source = Path(country['sourcePath'])
+    original = Path(country['sourcePath'])
+    edit = redactions.get(country['id'], {})
+    changed = edit.get('changed', False)
+    source = Path(sys.argv[2]) / (country['id'] + '.svg') if changed else original
+    if changed:
+        original_root, edited_root = ET.parse(original).getroot(), ET.parse(source).getroot()
+        for attr in ['viewBox', 'width', 'height']:
+            assert original_root.get(attr) == edited_root.get(attr), (country['name'], attr)
+        count = lambda tree, tag: sum(el.tag.split('}')[-1] == tag for el in tree.iter())
+        for tag in ['rect', 'image']:
+            assert count(edited_root, tag) <= count(original_root, tag), (country['name'], 'No overlays')
     root = ET.parse(source).getroot()
     assert root.tag.endswith('svg'), country['name']
     for el in root.iter():
@@ -45,6 +64,9 @@ for country in manifest:
             assert all(not k.endswith('href') or v.startswith(('#', 'data:')) for k, v in el.attrib.items()), country['name']
     filename = Path(country['image']).name
     shutil.copyfile(source, assets / filename)
+    if changed:
+        target = assets / filename
+        target.write_text('\n'.join(line.rstrip(' \t') for line in target.read_text().splitlines()) + '\n')
     record = {key: country[key] for key in ['id', 'name', 'aliases', 'image', 'source', 'credit', 'license', 'note', 'originalFile']}
     if record['credit'] == 'Author information on the original Commons file page' and record['license']['name'] == 'Public domain':
         record['credit'] = 'Wikimedia Commons'
@@ -53,13 +75,19 @@ for country in manifest:
         record['name'] = renames[country['name']]
         record['aliases'].append(country['name'])
     record['originalImage'] = country['originalUrl'].split('?')[0]
-    record['sha256'] = hashlib.sha256(source.read_bytes()).hexdigest()
+    record['sha256'] = hashlib.sha256((assets / filename).read_bytes()).hexdigest()
+    record['originalSha256'] = hashlib.sha256(original.read_bytes()).hexdigest()
+    record['image'] += '?v=' + record['sha256'][:10]
+    if changed:
+        assert record['sha256'] != record['originalSha256'], country['name']
+        record['adaptation'] = 'Latin-script country-name lettering removed.'
     records.append(record)
 data = {
     'version': 1, 'checked': '2026-11-05',
     'scope': 'Current countries: UN members and the two observer states with a selected national coat of arms, emblem or state seal.',
     'gallery': 'https://en.wikipedia.org/wiki/Gallery_of_coats_of_arms_of_sovereign_states',
     'omitted': ['Lebanon', 'Libya', 'Türkiye'],
+    'redactionReview': {'reviewed': len(redactions), 'edited': sum(bool(c.get('adaptation')) for c in records)},
     'countries': records,
 }
 (ROOT / 'dist' / 'arms-data.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
@@ -69,8 +97,9 @@ for country in records:
     name, credit, source = (escape(str(country[k])) for k in ['name', 'credit', 'source'])
     license_name, license_url = (escape(country['license'][k]) for k in ['name', 'url'])
     note = '<p>' + escape(country['note']) + '</p>' if country['note'] else ''
+    if country.get('adaptation'): note += '<p>' + escape(country['adaptation']) + '</p>'
     cards.append(f'<article id="{escape(country["id"])}"><h2>{name}</h2><p><a href="{source}">Original artwork</a> · {escape(country["id"])}</p><p>{credit}</p><p><a href="{license_url}">{license_name}</a></p>{note}</article>')
-credits = '''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Coat of Arms — Image credits</title><link rel="icon" href="https://raw.githubusercontent.com/PatrickJYKang/sports-event-rarity/main/assets/favicon.png"><link rel="stylesheet" href="style.css"><style>main{padding-top:28px;padding-bottom:40px}h1{margin:20px 0}p{font-size:13px;line-height:1.7;color:#626a72}a{overflow-wrap:anywhere}section{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}article{padding:18px;background:white;border:1px solid #dce0e3;border-radius:4px;overflow-wrap:anywhere}article h2{font-size:18px}article p{margin:8px 0 0}@media(max-width:600px){section{grid-template-columns:1fr}}</style></head><body><main><a href="arms.html">← Coat of Arms</a><h1>Image credits</h1><p>National coats of arms, emblems and state seals from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>. Artwork is reproduced unchanged, including lettering; files have neutral names for play. Each image retains its individual licence below. The source file page contains full authorship, history and licence details.</p><section>'''
+credits = '''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Coat of Arms — Image credits</title><link rel="icon" href="https://raw.githubusercontent.com/PatrickJYKang/sports-event-rarity/main/assets/favicon.png"><link rel="stylesheet" href="style.css"><style>main{padding-top:28px;padding-bottom:40px}h1{margin:20px 0}p{font-size:13px;line-height:1.7;color:#626a72}a{overflow-wrap:anywhere}section{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}article{padding:18px;background:white;border:1px solid #dce0e3;border-radius:4px;overflow-wrap:anywhere}article h2{font-size:18px}article p{margin:8px 0 0}@media(max-width:600px){section{grid-template-columns:1fr}}</style></head><body><main><a href="arms.html">← Coat of Arms</a><h1>Image credits</h1><p>National coats of arms, emblems and state seals from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>. Country-name lettering in Latin script is removed from selected quiz images by editing the SVG; other artwork is retained. Changes are listed below. Files have neutral names for play. Each image retains its individual licence below. The source file page contains full authorship, history and licence details.</p><section>'''
 credits += ''.join(cards) + '</section></main></body></html>\n'
 (ROOT / 'dist' / 'arms-credits.html').write_text(credits)
 print(f'Bundled {len(records)} current country symbols with individual image credits.')

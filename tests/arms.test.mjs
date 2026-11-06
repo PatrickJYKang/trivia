@@ -6,17 +6,22 @@ import {ArmsGame,normalizeCountry} from '../dist/arms-model.js';
 const data=JSON.parse(fs.readFileSync(new URL('../dist/arms-data.json',import.meta.url)));
 const countries=data.countries;
 
-test('national symbols cover 192 current countries with individual attribution and unchanged local artwork',()=>{
+test('national symbols cover 192 current countries with attribution, original checksums and reviewed quiz artwork',()=>{
   assert.equal(countries.length,192);assert.equal(new Set(countries.map(c=>c.id)).size,192);
   const names=new Map();
+  assert.equal(data.redactionReview?.reviewed,192);
+  assert.ok(countries.filter(c=>c.adaptation).length>=30,'Readable names are removed across the full pool');
   for(const country of countries){
     assert.ok(country.name&&Array.isArray(country.aliases));assert.ok(country.credit);assert.ok(country.license.name);
     if(country.license.name.startsWith('CC ')||country.license.name==='Attribution')assert.ok(!country.credit.includes('Author information'),country.name);
     for(const url of [country.source,country.license.url,country.originalImage])assert.equal(new URL(url).protocol,'https:');
     assert.equal(new URL(country.source).hostname,'commons.wikimedia.org');
-    assert.match(country.image,/^\.\/arms-images\/arms-\d{3}\.svg$/);
-    const artwork=fs.readFileSync(new URL('../dist/'+country.image,import.meta.url));
+    assert.match(country.image,/^\.\/arms-images\/arms-\d{3}\.svg\?v=[a-f0-9]{10}$/);
+    const artwork=fs.readFileSync(new URL('../dist/'+country.image.split('?')[0],import.meta.url));
     assert.match(artwork.toString(),/<svg\b/);assert.equal(crypto.createHash('sha256').update(artwork).digest('hex'),country.sha256);
+    assert.match(country.originalSha256,/^[a-f0-9]{64}$/);
+    assert.ok(country.image.endsWith(country.sha256.slice(0,10)));
+    if(country.adaptation){assert.notEqual(country.sha256,country.originalSha256);assert.match(country.adaptation,/country-name lettering removed/);}else assert.equal(country.sha256,country.originalSha256);
     for(const name of [country.name,...country.aliases]){
       const key=normalizeCountry(name),ids=names.get(key)||new Set();ids.add(country.id);names.set(key,ids);
     }
