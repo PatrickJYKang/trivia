@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trivia — Coat of Arms</title><meta name="description" content="Guess the current country from its coat of arms or national emblem.">
+  <link rel="icon" href="https://raw.githubusercontent.com/PatrickJYKang/sports-event-rarity/main/assets/favicon.png">
+  <link rel="stylesheet" href="style.css"><link rel="stylesheet" href="arms.css?v=8df6181046">
+  <script type="module" src="arms.js?v=43fec5bda2"></script>
+</head>
+<body>
+  <header class="site-header"><a class="wordmark" href="./">trivia<span> / </span></a><span class="header-note">Patrick’s game collection</span></header>
+  <main>
+    <nav class="game-nav" aria-label="Games"><div class="game-links">
+      <a href="./"><span class="game-number">01</span><span>City Guess</span></a>
+      <a href="heritage.html"><span class="game-number">02</span><span>Heritage Guess</span></a>
+      <a href="bingo.html"><span class="game-number">03</span><span>City Bingo</span></a>
+      <a href="compass.html"><span class="game-number">04</span><span>City Compass</span></a>
+      <a href="history.html"><span class="game-number">05</span><span>City History</span></a>
+      <a href="battles.html"><span class="game-number">06</span><span>Battle Leaders</span></a>
+      <a href="figures.html"><span class="game-number">07</span><span>Life Map</span></a>
+    <a href="cricket.html"><span class="game-number">08</span><span>Cricket Grounds</span></a><a href="arms.html" aria-current="page"><span class="game-number">09</span><span>Coat of Arms</span></a></div></nav>
+    <section class="game" aria-labelledby="game-title">
+      <div class="game-heading"><div><p class="eyebrow" id="pool-label">COUNTRIES</p><h1 id="game-title">Coat of Arms</h1></div><div class="stats"><div><span>Round</span><strong id="round">01</strong></div><div><span>Guesses</span><strong id="attempts">0</strong></div></div></div>
+      <div id="load-status" role="status"><span id="load-message">Loading countries…</span><button id="retry" hidden>Retry</button></div>
+      <div id="arms-game" hidden>
+        <div class="outline-wrap"><img id="arms-image" alt="Coat of arms or national emblem to identify" hidden><div id="image-status" role="status"><span id="image-message">Loading emblem…</span><button id="retry-image" type="button" hidden>Retry</button></div></div>
+        <div class="play-area">
+          <div id="play"><label class="sr-only" for="guess">Country</label><form id="guess-form"><input id="guess" name="country" placeholder="Name the country…" maxlength="150" autocomplete="off" spellcheck="false" required disabled><button id="submit" class="primary" disabled>Guess <span aria-hidden="true">↵</span></button></form><div class="below-form"><p id="feedback" role="status"></p><button id="reveal" class="text-button" disabled>Give up</button></div></div>
+          <div id="result" hidden><div role="status"><h2 id="answer"></h2><p id="result-detail"></p></div><button id="next" class="primary">Next country →</button></div>
+          <ul id="past-guesses" aria-label="Previous guesses" hidden></ul>
+        </div>
+        <div class="art-credit"><p><a href="arms-credits.html" target="_blank" rel="noreferrer">Image credits</a> · Wikimedia Commons</p><div id="arms-source" hidden><p><a id="source-link" target="_blank" rel="noreferrer">Original image</a> · <span id="source-credit"></span> · <a id="source-license" target="_blank" rel="noreferrer"></a></p><p id="emblem-note" hidden></p></div></div>
+      </div>
+    </section>
+    <footer><span>Unlimited guesses</span><span>National arms &amp; emblems</span></footer>
+  </main>
+</body>
+</html>
